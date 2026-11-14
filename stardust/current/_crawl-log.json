@@ -1,0 +1,481 @@
+{
+  "discovery": {
+    "fetchTechnique": "chrome",
+    "count": 21,
+    "concurrency": 3
+  },
+  "consent": {
+    "method": "auto"
+  },
+  "favicon": null,
+  "crawl": {
+    "failures": [],
+    "pageTimeoutMs": 60000
+  },
+  "captureGaps": {
+    "roots": [],
+    "detail": "uncaptured first-level targets: none (no locale root captured)"
+  },
+  "dynamicSurface": {
+    "pages": 21,
+    "pagesWithSameSiteData": 21,
+    "pagesWithSearchForm": 0,
+    "pagesHydrated": 0,
+    "truncatedPages": 0,
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "new.frescopa.coffee",
+        "path": "/fragments/nav.plain.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://new.frescopa.coffee/fragments/nav.plain.html",
+        "pages": 21,
+        "examples": [
+          "index",
+          "header",
+          "beverages"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "new.frescopa.coffee",
+        "path": "/fragments/footer.plain.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "sameSite": true,
+        "example": "https://new.frescopa.coffee/fragments/footer.plain.html",
+        "pages": 21,
+        "examples": [
+          "index",
+          "header",
+          "beverages"
+        ]
+      },
+      {
+        "method": "GET",
+        "host": "nominatim.openstreetmap.org",
+        "path": "/search",
+        "query": [
+          "countrycodes",
+          "format",
+          "limit",
+          "q"
+        ],
+        "resourceType": "fetch",
+        "contentType": "application/json",
+        "sameSite": false,
+        "example": "https://nominatim.openstreetmap.org/search",
+        "pages": 2,
+        "examples": [
+          "cafe",
+          "japan"
+        ]
+      }
+    ],
+    "thirdPartyScriptHosts": [
+      {
+        "host": "of1-gen-web-service.franklin-prod.workers.dev",
+        "pages": 1,
+        "examples": [
+          "of1"
+        ]
+      }
+    ],
+    "frameworkHints": [],
+    "globalState": [],
+    "formTargets": [
+      {
+        "action": "https://new.frescopa.coffee/cafe",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "caf",
+          "date",
+          "time",
+          "guests",
+          "name",
+          "email",
+          "phone-optional"
+        ],
+        "pages": 2,
+        "examples": [
+          "cafe",
+          "cafe"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/myatelier",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "email"
+        ],
+        "pages": 2,
+        "examples": [
+          "myatelier",
+          "myatelier"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "index"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/header",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "header"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/beverages",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "beverages"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/blog",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/machines",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "machines"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/japan",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "japan"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/of1",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "of1"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/proffee-jp",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "proffee-jp"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/proffee",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "proffee"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/fragments/nav",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "fragments-nav"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/fragments/footer",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "fragments-footer"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/beverages/coffee",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "beverages-coffee"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/blog/atelier-taste",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "blog-atelier-taste"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/machines/atelier",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "machines-atelier"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/of1/knowledge/machines",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "of1-knowledge-machines"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/of1/knowledge/atelier",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "of1-knowledge-atelier"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/of1/knowledge/japan",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "of1-knowledge-japan"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/of1/knowledge/cafe",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "of1-knowledge-cafe"
+        ]
+      },
+      {
+        "action": "https://new.frescopa.coffee/of1/knowledge/beverages",
+        "method": "get",
+        "sameOrigin": true,
+        "search": false,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "pages": 1,
+        "examples": [
+          "of1-knowledge-beverages"
+        ]
+      }
+    ]
+  },
+  "visionCheck": [
+    {
+      "slug": "index",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "header",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "beverages",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "blog",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "cafe",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "machines",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "myatelier",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "japan",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "of1",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "proffee-jp",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "proffee",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "fragments-nav",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "fragments-footer",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "beverages-coffee",
+      "verdict": "suspect",
+      "notes": "3 of 5 roast-card image areas painted blank in the capture; all 5 media URLs answer 200 — treated as capture-state (lazy/placeholder), re-checked by the live gate"
+    },
+    {
+      "slug": "blog-atelier-taste",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "machines-atelier",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "of1-knowledge-machines",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "of1-knowledge-atelier",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "of1-knowledge-japan",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "of1-knowledge-cafe",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    },
+    {
+      "slug": "of1-knowledge-beverages",
+      "verdict": "ok",
+      "notes": "thumbnail matches record"
+    }
+  ]
+}

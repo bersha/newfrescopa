@@ -1,0 +1,9 @@
+{
+ "cache-control": "max-age=7200, must-revalidate",
+ "content-security-policy": "script-src 'nonce-0gKHN3bpA67Cr8CbZ+uZ0fKU' 'strict-dynamic' 'unsafe-inline' http: https:; base-uri 'self'; object-src 'none'; frame-src 'self' https:; require-trusted-types-for 'script';",
+ "strict-transport-security": "max-age=31557600",
+ "x-cache": "MISS, HIT, MISS, HIT",
+ "x-cache-hits": "0, 7, 0, 1",
+ "x-served-by": "cache-iad-kiad7000203-IAD, cache-iad-kiad7000203-IAD, cache-bur-kbur8200135-BUR, cache-bur-kbur8200099-BUR",
+ "x-timer": "S1794597784.195121,VS0,VE2"
+}

@@ -1,0 +1,17 @@
+{
+  "detector": {
+    "ignoreRules": [],
+    "ignoreFiles": [],
+    "ignoreValues": [
+      {
+        "rule": "side-tab",
+        "value": "*",
+        "files": [
+          "styles/styles.css"
+        ],
+        "createdAt": "2026-11-13T19:41:20.890Z",
+        "reason": "agent (replica run): same-design migration; the amber pull-quote rule is lifted from the source site's styles.css L997 — reproducing it is required"
+      }
+    ]
+  }
+}

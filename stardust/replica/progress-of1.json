@@ -1,0 +1,17 @@
+{
+  "slug": "of1",
+  "type": "unique",
+  "iterations": { "1440": 1, "360": 1 },
+  "gates": {
+    "1440": { "label": "iter1", "full": true, "pixelPct": 0.0, "heightDelta": 0, "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "clipped": 0, "overflow": "ok", "capProbe": "PASS (0 of 3 rows failed, stardust/replica/gates/of1-2560/cap-iter.json)" },
+    "360": { "label": "iter1", "full": true, "pixelPct": 0.0, "heightDelta": 0, "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "clipped": 0, "overflow": "ok" }
+  },
+  "residuals": [
+    "UI is rendered by the source's assistant SDK (https://of1-gen-web-service.franklin-prod.workers.dev/sdk/of1-client.js, kept as a third-party passthrough); our block supplies config + EDS decorateAndLoad hook, of1.css re-skins it. No queries were submitted (the SDK's landing /api/suggest call on load is the only service request). Generated-result states (skeleton, generated sections, follow-up suggestions) are styled but not gated."
+  ],
+  "motion": {
+    "observed": ["submit hover background + scale 350ms", "input border transition"],
+    "implemented": ["of1 skin hover/focus states — motion-compare 7 parity, 0 missing, 0 extra"],
+    "dead": ["header scroll-morph", "input hover (no measured diff)", "chip hover (no chips rendered on live at capture)"]
+  }
+}

@@ -1,0 +1,1466 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T21:21:45.314Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://new.frescopa.coffee/myatelier",
+  "at": "2026-11-13T21:21:29.666Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 1705,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.account-signin-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 144,
+    "w": 320,
+    "h": 19,
+    "text": "Your account"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.account-signin-container > div.default-content-wrapper > h1#welcome-back",
+    "x": 20,
+    "y": 173,
+    "w": 258,
+    "h": 30,
+    "level": 1,
+    "text": "welcome back."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.account-signin-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 218,
+    "w": 320,
+    "h": 55,
+    "text": "Sign in to set up your Atelier, manage supplies, and keep an eye on the machine."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.account-signin.block > form.account-signin-form > label.account-signin-label",
+    "x": 20,
+    "y": 298,
+    "w": 320,
+    "h": 24,
+    "text": "Email"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.account-signin.block > form.account-signin-form > button.account-signin-submit",
+    "x": 20,
+    "y": 399,
+    "w": 320,
+    "h": 52,
+    "text": "continue →"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.account-signin-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 451,
+    "w": 320,
+    "h": 19,
+    "text": "This is a demo — any email will do."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 678,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 791,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 821,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 908,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 940,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 972,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1004,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1036,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1069,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 1139,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1170,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1203,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1235,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1267,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 1337,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1369,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1401,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1433,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1466,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 1561,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/myatelier"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 1561,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/myatelier"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 1561,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/myatelier"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 1617,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 27,
+    "controls": 23,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--7c29ab64--aemcoder.aem.page/myatelier",
+  "at": "2026-11-13T21:21:45.187Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 1705,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.account-signin-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 144,
+    "w": 320,
+    "h": 19,
+    "text": "Your account"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.account-signin-container > div.default-content-wrapper > h1#welcome-back",
+    "x": 20,
+    "y": 173,
+    "w": 258,
+    "h": 30,
+    "level": 1,
+    "text": "welcome back."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.account-signin-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 218,
+    "w": 320,
+    "h": 55,
+    "text": "Sign in to set up your Atelier, manage supplies, and keep an eye on the machine."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.account-signin.block > form.account-signin-form > label.account-signin-label",
+    "x": 20,
+    "y": 298,
+    "w": 320,
+    "h": 24,
+    "text": "Email"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.account-signin.block > form.account-signin-form > button.account-signin-submit",
+    "x": 20,
+    "y": 399,
+    "w": 320,
+    "h": 52,
+    "text": "continue →"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.account-signin-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 451,
+    "w": 320,
+    "h": 19,
+    "text": "This is a demo — any email will do."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 678,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 791,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 821,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 908,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 940,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 972,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1004,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1036,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1069,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 1139,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1170,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1203,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1235,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1267,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 1337,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1369,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1401,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1433,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 1466,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 1561,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/myatelier"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 1561,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/myatelier"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 1561,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/myatelier"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 1617,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 27,
+    "controls": 23,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "welcome back.",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 1,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 1,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 20,
+    "y": 145,
+    "w": 119,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 170,
+    "w": 213,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 220,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 248,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 300,
+    "w": 37,
+    "h": 20
+   },
+   {
+    "x": 138,
+    "y": 415,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 207,
+    "y": 415,
+    "w": 15,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 452,
+    "w": 302,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 680,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 704,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 729,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 793,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 834,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 907,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 940,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 972,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1004,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1036,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1069,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1138,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 1170,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1203,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1235,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1267,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1336,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 1369,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1401,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1433,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1466,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1619,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1643,
+    "w": 228,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 20,
+    "y": 145,
+    "w": 119,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 170,
+    "w": 213,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 220,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 248,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 300,
+    "w": 37,
+    "h": 20
+   },
+   {
+    "x": 138,
+    "y": 415,
+    "w": 62,
+    "h": 20
+   },
+   {
+    "x": 207,
+    "y": 415,
+    "w": 15,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 452,
+    "w": 302,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 680,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 704,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 729,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 793,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 834,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 907,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 940,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 972,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1004,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1036,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1069,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1138,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 1170,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1203,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1235,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1267,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1336,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 1369,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1401,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1433,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1466,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1619,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1643,
+    "w": 228,
+    "h": 20
+   }
+  ]
+ }
+}

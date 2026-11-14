@@ -1,0 +1,1015 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T20:00:52.413Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://new.frescopa.coffee/cafe",
+      "http://localhost:8791/cafe-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://new.frescopa.coffee/cafe",
+    "http://localhost:8791/cafe-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 273,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "div.section.hero-container > div.hero-wrapper > div.hero.block > div",
+        "tier": 4,
+        "share": 0.02,
+        "section": 0,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 620,
+        "via": "max-width",
+        "selector": "div.hero-wrapper > div.hero.block > div > div",
+        "tier": 5,
+        "share": 0.02,
+        "section": 0,
+        "w1": 620,
+        "maxWidth": "620px"
+      },
+      {
+        "kind": "module",
+        "px": 381,
+        "via": "max-width",
+        "selector": "div.hero.block > div > div > p",
+        "tier": 6,
+        "share": 0,
+        "section": 0,
+        "w1": 381,
+        "maxWidth": "380.799px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-reasons-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 1,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-reasons-container > div.cards-reasons-wrapper",
+        "tier": 2,
+        "share": 0.03,
+        "section": 1,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.columns-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.columns-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.columns-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-event-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 3,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-event-container > div.cards-event-wrapper",
+        "tier": 2,
+        "share": 0.07,
+        "section": 3,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 324,
+        "via": "fixed",
+        "selector": "div.cards-event-wrapper > div.cards-event.block > ul > li",
+        "tier": 5,
+        "share": 0.02,
+        "section": 3,
+        "w1": 324,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 324,
+        "via": "fixed",
+        "selector": "div.cards-event-wrapper > div.cards-event.block > ul > li",
+        "tier": 5,
+        "share": 0.02,
+        "section": 3,
+        "w1": 324,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 324,
+        "via": "fixed",
+        "selector": "div.cards-event-wrapper > div.cards-event.block > ul > li",
+        "tier": 5,
+        "share": 0.02,
+        "section": 3,
+        "w1": 324,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 324,
+        "via": "fixed",
+        "selector": "div.cards-event-wrapper > div.cards-event.block > ul > li",
+        "tier": 5,
+        "share": 0.02,
+        "section": 3,
+        "w1": 324,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.stats-row-wrapper",
+        "tier": 2,
+        "share": 0.03,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.columns-wrapper",
+        "tier": 2,
+        "share": 0.03,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.store-locator-wrapper",
+        "tier": 2,
+        "share": 0.64,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 508,
+        "via": "fixed",
+        "selector": "div.store-locator-wrapper > div.store-locator.block > div.store-locator-layout > div.store-locator-map",
+        "tier": 5,
+        "share": 0.02,
+        "section": 4,
+        "w1": 508,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 491,
+        "via": "fixed",
+        "selector": "div.store-locator-wrapper > div.store-locator.block > div.store-locator-layout > div.store-locator-list",
+        "tier": 5,
+        "share": 0.6,
+        "section": 4,
+        "w1": 491,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.booking-form-container > div.booking-form-wrapper",
+        "tier": 2,
+        "share": 0.09,
+        "section": 5,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 480,
+        "via": "fixed",
+        "selector": "div.section.booking-form-container > div.booking-form-wrapper > div.booking-form.block > div.booking-form-copy",
+        "tier": 4,
+        "share": 0.03,
+        "section": 5,
+        "w1": 480,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 282,
+        "via": "fixed",
+        "selector": "div > ul > li > span",
+        "tier": 8,
+        "share": 0,
+        "section": 5,
+        "w1": 282,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 297,
+        "via": "fixed",
+        "selector": "div > ul > li > span",
+        "tier": 8,
+        "share": 0,
+        "section": 5,
+        "w1": 297,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 281,
+        "via": "fixed",
+        "selector": "div > ul > li > span",
+        "tier": 8,
+        "share": 0,
+        "section": 5,
+        "w1": 281,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 480,
+        "via": "fixed",
+        "selector": "div.section.booking-form-container > div.booking-form-wrapper > div.booking-form.block > form.booking-form-form",
+        "tier": 4,
+        "share": 0.05,
+        "section": 5,
+        "w1": 480,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > label.booking-form-field",
+        "tier": 5,
+        "share": 0,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > div.booking-form-row",
+        "tier": 5,
+        "share": 0.01,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > label.booking-form-field",
+        "tier": 5,
+        "share": 0,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > label.booking-form-field",
+        "tier": 5,
+        "share": 0,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > div.booking-form-row",
+        "tier": 5,
+        "share": 0.01,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > label.booking-form-field.booking-form-field--toggle",
+        "tier": 5,
+        "share": 0.02,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > p.booking-form-note",
+        "tier": 5,
+        "share": 0,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "div.dark.section > div.hero-wrapper > div.hero.block > div",
+        "tier": 4,
+        "share": 0.02,
+        "section": 6,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 760,
+        "via": "max-width",
+        "selector": "div.hero-wrapper > div.hero.block > div > div",
+        "tier": 5,
+        "share": 0.02,
+        "section": 6,
+        "w1": 760,
+        "maxWidth": "760px"
+      },
+      {
+        "kind": "module",
+        "px": 400,
+        "via": "max-width",
+        "selector": "div.hero.block > div > div > p",
+        "tier": 6,
+        "share": 0,
+        "section": 6,
+        "w1": 400,
+        "maxWidth": "399.839px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body.appear > main > div.section.hero-container",
+        "px": 1120,
+        "capSelector": "div.section.hero-container > div.hero-wrapper > div.hero.block > div"
+      },
+      {
+        "index": 1,
+        "selector": "body.appear > main > div.section.cards-reasons-container",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.cards-reasons-container > div.default-content-wrapper"
+      },
+      {
+        "index": 2,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.default-content-wrapper"
+      },
+      {
+        "index": 3,
+        "selector": "body.appear > main > div.section.cards-event-container",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.cards-event-container > div.default-content-wrapper"
+      },
+      {
+        "index": 4,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.default-content-wrapper"
+      },
+      {
+        "index": 5,
+        "selector": "body.appear > main > div.section.booking-form-container",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.booking-form-container > div.booking-form-wrapper"
+      },
+      {
+        "index": 6,
+        "selector": "body.appear > main > div.dark.section",
+        "px": 1120,
+        "capSelector": "div.dark.section > div.hero-wrapper > div.hero.block > div"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1120,
+    "contentFrom": "module",
+    "maxCap": 1120,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 350
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 273,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "div.section.hero-container > div.hero-wrapper > div.hero.block > div",
+        "tier": 4,
+        "share": 0.02,
+        "section": 0,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 620,
+        "via": "max-width",
+        "selector": "div.hero-wrapper > div.hero.block > div > div",
+        "tier": 5,
+        "share": 0.02,
+        "section": 0,
+        "w1": 620,
+        "maxWidth": "620px"
+      },
+      {
+        "kind": "module",
+        "px": 381,
+        "via": "max-width",
+        "selector": "div.hero.block > div > div > p",
+        "tier": 6,
+        "share": 0,
+        "section": 0,
+        "w1": 381,
+        "maxWidth": "380.799px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-reasons-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 1,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-reasons-container > div.cards-reasons-wrapper",
+        "tier": 2,
+        "share": 0.03,
+        "section": 1,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.columns-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.columns-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.columns-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-event-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 3,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-event-container > div.cards-event-wrapper",
+        "tier": 2,
+        "share": 0.07,
+        "section": 3,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 324,
+        "via": "fixed",
+        "selector": "div.cards-event-wrapper > div.cards-event.block > ul > li",
+        "tier": 5,
+        "share": 0.02,
+        "section": 3,
+        "w1": 324,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 324,
+        "via": "fixed",
+        "selector": "div.cards-event-wrapper > div.cards-event.block > ul > li",
+        "tier": 5,
+        "share": 0.02,
+        "section": 3,
+        "w1": 324,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 324,
+        "via": "fixed",
+        "selector": "div.cards-event-wrapper > div.cards-event.block > ul > li",
+        "tier": 5,
+        "share": 0.02,
+        "section": 3,
+        "w1": 324,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 324,
+        "via": "fixed",
+        "selector": "div.cards-event-wrapper > div.cards-event.block > ul > li",
+        "tier": 5,
+        "share": 0.02,
+        "section": 3,
+        "w1": 324,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.01,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.stats-row-wrapper",
+        "tier": 2,
+        "share": 0.03,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.columns-wrapper",
+        "tier": 2,
+        "share": 0.03,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.store-locator-wrapper",
+        "tier": 2,
+        "share": 0.64,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 508,
+        "via": "fixed",
+        "selector": "div.store-locator-wrapper > div.store-locator.block > div.store-locator-layout > div.store-locator-map",
+        "tier": 5,
+        "share": 0.02,
+        "section": 4,
+        "w1": 508,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 491,
+        "via": "fixed",
+        "selector": "div.store-locator-wrapper > div.store-locator.block > div.store-locator-layout > div.store-locator-list",
+        "tier": 5,
+        "share": 0.6,
+        "section": 4,
+        "w1": 491,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.booking-form-container > div.booking-form-wrapper",
+        "tier": 2,
+        "share": 0.09,
+        "section": 5,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 480,
+        "via": "fixed",
+        "selector": "div.section.booking-form-container > div.booking-form-wrapper > div.booking-form.block > div.booking-form-copy",
+        "tier": 4,
+        "share": 0.03,
+        "section": 5,
+        "w1": 480,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 282,
+        "via": "fixed",
+        "selector": "div > ul > li > span",
+        "tier": 8,
+        "share": 0,
+        "section": 5,
+        "w1": 282,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 297,
+        "via": "fixed",
+        "selector": "div > ul > li > span",
+        "tier": 8,
+        "share": 0,
+        "section": 5,
+        "w1": 297,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 281,
+        "via": "fixed",
+        "selector": "div > ul > li > span",
+        "tier": 8,
+        "share": 0,
+        "section": 5,
+        "w1": 281,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 480,
+        "via": "fixed",
+        "selector": "div.section.booking-form-container > div.booking-form-wrapper > div.booking-form.block > form.booking-form-form",
+        "tier": 4,
+        "share": 0.05,
+        "section": 5,
+        "w1": 480,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > label.booking-form-field",
+        "tier": 5,
+        "share": 0,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > div.booking-form-row",
+        "tier": 5,
+        "share": 0.01,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > label.booking-form-field",
+        "tier": 5,
+        "share": 0,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > label.booking-form-field",
+        "tier": 5,
+        "share": 0,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > div.booking-form-row",
+        "tier": 5,
+        "share": 0.01,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > label.booking-form-field.booking-form-field--toggle",
+        "tier": 5,
+        "share": 0.02,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "fixed",
+        "selector": "div.booking-form-wrapper > div.booking-form.block > form.booking-form-form > p.booking-form-note",
+        "tier": 5,
+        "share": 0,
+        "section": 5,
+        "w1": 401,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "div.dark.section > div.hero-wrapper > div.hero.block > div",
+        "tier": 4,
+        "share": 0.02,
+        "section": 6,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 760,
+        "via": "max-width",
+        "selector": "div.hero-wrapper > div.hero.block > div > div",
+        "tier": 5,
+        "share": 0.02,
+        "section": 6,
+        "w1": 760,
+        "maxWidth": "760px"
+      },
+      {
+        "kind": "module",
+        "px": 400,
+        "via": "max-width",
+        "selector": "div.hero.block > div > div > p",
+        "tier": 6,
+        "share": 0,
+        "section": 6,
+        "w1": 400,
+        "maxWidth": "399.839px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body.appear > main > div.section.hero-container",
+        "px": 1120,
+        "capSelector": "div.section.hero-container > div.hero-wrapper > div.hero.block > div"
+      },
+      {
+        "index": 1,
+        "selector": "body.appear > main > div.section.cards-reasons-container",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.cards-reasons-container > div.default-content-wrapper"
+      },
+      {
+        "index": 2,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.default-content-wrapper"
+      },
+      {
+        "index": 3,
+        "selector": "body.appear > main > div.section.cards-event-container",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.cards-event-container > div.default-content-wrapper"
+      },
+      {
+        "index": 4,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.default-content-wrapper"
+      },
+      {
+        "index": 5,
+        "selector": "body.appear > main > div.section.booking-form-container",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.booking-form-container > div.booking-form-wrapper"
+      },
+      {
+        "index": 6,
+        "selector": "body.appear > main > div.dark.section",
+        "px": 1120,
+        "capSelector": "div.dark.section > div.hero-wrapper > div.hero.block > div"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1120,
+    "contentFrom": "module",
+    "maxCap": 1120,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 350
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1120px = build 1120px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/7",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/7",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/7",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/7",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 5/7",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 6/7",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 7/7",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/cafe-2560/cap-iter.json"
+}

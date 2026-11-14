@@ -1,0 +1,4940 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T21:20:30.135Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://new.frescopa.coffee/japan",
+  "at": "2026-11-13T21:20:06.978Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7410,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > picture > img",
+    "x": 20,
+    "y": 144,
+    "w": 320,
+    "h": 175,
+    "text": "",
+    "file": "media_1ae7b300835f4da72460fc57fdcfd83341"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 341,
+    "w": 320,
+    "h": 28,
+    "text": "まもなくオープン · 東京"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h1#フレスコパ東京にやってきます",
+    "x": 20,
+    "y": 405,
+    "w": 320,
+    "h": 143,
+    "level": 1,
+    "text": "フレスコパ、東京にやってきます。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 562,
+    "w": 320,
+    "h": 138,
+    "text": "日本初のカフェが、この春、表参道にオープン。テイスティングバー。フル装備のアトリエ・ショールーム。そして、クラスやゆったりとした朝を過ごすための長いテーブル。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 714,
+    "w": 320,
+    "h": 83,
+    "text": "変わらぬ豆は、生産者ファーストでフェアに取引されたもの。明治神宮前から歩いてすぐの場所に。"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 812,
+    "w": 137,
+    "h": 22,
+    "text": "来店を計画する→",
+    "href": "/japan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 853,
+    "w": 155,
+    "h": 22,
+    "text": "オープン情報を見る",
+    "href": "/japan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-reasons-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1027,
+    "w": 320,
+    "h": 19,
+    "text": "ぜひお立ち寄りを"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-reasons-container > div.default-content-wrapper > h2#味わい学びくつろぐ新しい空間",
+    "x": 20,
+    "y": 1055,
+    "w": 320,
+    "h": 66,
+    "level": 2,
+    "text": "味わい、学び、くつろぐ新しい空間。"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > h3#すべてのラインナップを味わう",
+    "x": 20,
+    "y": 1204,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "すべてのラインナップを味わう"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > p",
+    "x": 20,
+    "y": 1227,
+    "w": 320,
+    "h": 98,
+    "text": "エスプレッソ、スロープアコーヒー、リーフティー、コールドプレス — バーでオーダーごとにお淹れします。あなたの毎日の一杯を見つけて。"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > h3#マシンに触れる",
+    "x": 20,
+    "y": 1392,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "マシンに触れる"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > p",
+    "x": 20,
+    "y": 1415,
+    "w": 320,
+    "h": 74,
+    "text": "フル装備のショールームで自らショットを抽出。ご自宅のカウンターに届く前に、その違いを体感してください。"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > h3#スタッフから学ぶ",
+    "x": 20,
+    "y": 1556,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "スタッフから学ぶ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > p",
+    "x": 20,
+    "y": 1579,
+    "w": 320,
+    "h": 74,
+    "text": "毎日それを実践するプロが導く抽出クラス、ラテアートラボ、カッピング — 多くはドリンク付きで無料。"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > h3#くつろげる場所",
+    "x": 20,
+    "y": 1719,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "くつろげる場所"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > p",
+    "x": 20,
+    "y": 1742,
+    "w": 320,
+    "h": 74,
+    "text": "人と会い、仕事をし、朝をゆっくり読書して過ごす、暖かく静かな空間 — 表参道の中心に。長く使える製品を、責任ある調達で。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.columns-editorial-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1960,
+    "w": 320,
+    "h": 19,
+    "text": "オープン"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.columns-editorial-container > div.default-content-wrapper > h2#表参道オープン当日",
+    "x": 20,
+    "y": 1989,
+    "w": 320,
+    "h": 33,
+    "level": 2,
+    "text": "表参道、オープン当日。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2036,
+    "w": 320,
+    "h": 28,
+    "text": "01 · グランドオープン"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#4月11日土オープン",
+    "x": 20,
+    "y": 2084,
+    "w": 320,
+    "h": 29,
+    "level": 3,
+    "text": "4月11日（土）オープン。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2127,
+    "w": 320,
+    "h": 165,
+    "text": "東京での最初の朝、午前8時よりお迎えします。先着100名様にフレスコパ・ウェルカムキットをプレゼント。終日、テイスティングフライトを無料でご提供。予約不要 — "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 2307,
+    "w": 138,
+    "h": 22,
+    "text": "アクセスを見る→",
+    "href": "/japan"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > picture > img",
+    "x": 20,
+    "y": 2337,
+    "w": 320,
+    "h": 175,
+    "text": "",
+    "file": "media_132718180b6190179a138b13595a42c32f"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > picture > img",
+    "x": 20,
+    "y": 2520,
+    "w": 320,
+    "h": 175,
+    "text": "",
+    "file": "media_1a775c161149ea61e50ce787b6c0adb646"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2717,
+    "w": 320,
+    "h": 28,
+    "text": "02 · ショールーム"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#アトリエ全ラインナップをその場で",
+    "x": 20,
+    "y": 2765,
+    "w": 320,
+    "h": 59,
+    "level": 3,
+    "text": "アトリエ全ラインナップを、その場で。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2837,
+    "w": 320,
+    "h": 220,
+    "text": "東京のショールームには、アトリエの全レンジを取り揃えています。自らショットを抽出し、マシンがプロファイルを学習する様子を見て、スペック表では分からない疑問をぶつ"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 3073,
+    "w": 121,
+    "h": 22,
+    "text": "マシンを見る→",
+    "href": "/machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-event-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 3247,
+    "w": 320,
+    "h": 19,
+    "text": "オープン週"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-event-container > div.default-content-wrapper > h2#今週の東京のテーブルにて",
+    "x": 20,
+    "y": 3276,
+    "w": 320,
+    "h": 66,
+    "level": 2,
+    "text": "今週の東京のテーブルにて。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-event-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 3355,
+    "w": 320,
+    "h": 28,
+    "text": "特記なき限りドリンク付きで無料"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > h3#グランドオープンカッピング",
+    "x": 45,
+    "y": 3470,
+    "w": 270,
+    "h": 48,
+    "level": 3,
+    "text": "グランドオープン・カッピング"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p.cards-event-desc",
+    "x": 45,
+    "y": 3526,
+    "w": 270,
+    "h": 68,
+    "text": "オープニングのラインナップを飲み比べ、味わいを言葉にする方法を学びます。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-event-footer > span.cards-event-time",
+    "x": 45,
+    "y": 3620,
+    "w": 66,
+    "h": 17,
+    "text": "10:00–11:30"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > h3#ラテアートラボ",
+    "x": 45,
+    "y": 3739,
+    "w": 270,
+    "h": 24,
+    "level": 3,
+    "text": "ラテアートラボ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p.cards-event-desc",
+    "x": 45,
+    "y": 3771,
+    "w": 270,
+    "h": 46,
+    "text": "アトリエ・ラインで実践するミルクスチーミングと注ぎの練習。初心者歓迎。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-event-footer > span.cards-event-time",
+    "x": 45,
+    "y": 3843,
+    "w": 66,
+    "h": 17,
+    "text": "14:00–15:30"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-event-footer > span.cards-event-price",
+    "x": 260,
+    "y": 3839,
+    "w": 55,
+    "h": 26,
+    "text": "¥2,000"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > h3#ホームブリューイング101",
+    "x": 45,
+    "y": 3962,
+    "w": 270,
+    "h": 24,
+    "level": 3,
+    "text": "ホームブリューイング101"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p.cards-event-desc",
+    "x": 45,
+    "y": 3994,
+    "w": 270,
+    "h": 46,
+    "text": "挽き目、分量、時間を調整し、自宅で再現できる一杯を。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-event-footer > span.cards-event-time",
+    "x": 45,
+    "y": 4066,
+    "w": 66,
+    "h": 17,
+    "text": "18:30–20:00"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > h3#スローモーニングカッピング",
+    "x": 45,
+    "y": 4185,
+    "w": 270,
+    "h": 48,
+    "level": 3,
+    "text": "スローモーニング・カッピング"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p.cards-event-desc",
+    "x": 45,
+    "y": 4241,
+    "w": 270,
+    "h": 68,
+    "text": "ペストリーと共に楽しむ、ゆったりしたコミュニティ・テイスティング。予約不要、お気軽にどうぞ。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-event-footer > span.cards-event-time",
+    "x": 45,
+    "y": 4335,
+    "w": 59,
+    "h": 17,
+    "text": "9:00–11:00"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4524,
+    "w": 320,
+    "h": 19,
+    "text": "アクセス"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > h2#フレスコパ表参道",
+    "x": 20,
+    "y": 4543,
+    "w": 320,
+    "h": 33,
+    "level": 2,
+    "text": "フレスコパ表参道。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4590,
+    "w": 320,
+    "h": 138,
+    "text": "日本初の拠点は、表参道と明治神宮前の間、どちらの駅からも数分の場所にあります。全ラインナップを毎日ご提供し、ショールームとワークショップテーブルも一週間を通して"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-controls > div.store-locator-regions > button.is-active",
+    "x": 20,
+    "y": 4850,
+    "w": 100,
+    "h": 39,
+    "text": "all regions"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-controls > div.store-locator-regions > button",
+    "x": 128,
+    "y": 4850,
+    "w": 61,
+    "h": 39,
+    "text": "east"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-controls > div.store-locator-regions > button",
+    "x": 198,
+    "y": 4850,
+    "w": 87,
+    "h": 39,
+    "text": "midwest"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-controls > div.store-locator-regions > button",
+    "x": 20,
+    "y": 4897,
+    "w": 71,
+    "h": 39,
+    "text": "south"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-controls > div.store-locator-regions > button",
+    "x": 99,
+    "y": 4897,
+    "w": 66,
+    "h": 39,
+    "text": "west"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-layer > div.leaflet-tile-container.leaflet-zoom-animated > img.leaflet-tile.leaflet-tile-loaded",
+    "x": 19,
+    "y": 5151,
+    "w": 256,
+    "h": 256,
+    "text": "",
+    "file": "6"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-layer > div.leaflet-tile-container.leaflet-zoom-animated > img.leaflet-tile.leaflet-tile-loaded",
+    "x": 19,
+    "y": 4895,
+    "w": 256,
+    "h": 256,
+    "text": "",
+    "file": "5"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-layer > div.leaflet-tile-container.leaflet-zoom-animated > img.leaflet-tile.leaflet-tile-loaded",
+    "x": 275,
+    "y": 4895,
+    "w": 256,
+    "h": 256,
+    "text": "",
+    "file": "5"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-layer > div.leaflet-tile-container.leaflet-zoom-animated > img.leaflet-tile.leaflet-tile-loaded",
+    "x": 275,
+    "y": 5151,
+    "w": 256,
+    "h": 256,
+    "text": "",
+    "file": "6"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-top.leaflet-left > div.leaflet-control-zoom.leaflet-bar > a.leaflet-control-zoom-in",
+    "x": 33,
+    "y": 4975,
+    "w": 30,
+    "h": 31,
+    "text": "+",
+    "href": "/japan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-top.leaflet-left > div.leaflet-control-zoom.leaflet-bar > a.leaflet-control-zoom-out",
+    "x": 33,
+    "y": 5006,
+    "w": 30,
+    "h": 30,
+    "text": "−",
+    "href": "/japan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-control-container > div.leaflet-bottom.leaflet-right > div.leaflet-control-attribution.leaflet-control",
+    "x": 105,
+    "y": 5366,
+    "w": 234,
+    "h": 17,
+    "text": "© contributors"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-bottom.leaflet-right > div.leaflet-control-attribution.leaflet-control > a",
+    "x": 110,
+    "y": 5367,
+    "w": 51,
+    "h": 14,
+    "text": "leaflet",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-bottom.leaflet-right > div.leaflet-control-attribution.leaflet-control > a",
+    "x": 183,
+    "y": 5367,
+    "w": 85,
+    "h": 14,
+    "text": "openstreetmap",
+    "href": "/copyright"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-layout > div.store-locator-list > p.store-locator-count",
+    "x": 20,
+    "y": 5409,
+    "w": 320,
+    "h": 19,
+    "text": "1 café near you"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+    "x": 20,
+    "y": 5444,
+    "w": 312,
+    "h": 283,
+    "text": "フレスコパ表参道 東京都渋谷区 東京都渋谷区神宮前4-12-10 カフェ ショールーム ワークショップ 月〜日 · 8:00〜20:00 アクセス→"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-card-head > div.store-locator-card-name > h3#フレスコパ表参道-1",
+    "x": 42,
+    "y": 5465,
+    "w": 153,
+    "h": 22,
+    "level": 3,
+    "text": "フレスコパ表参道"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-card-actions > p > a",
+    "x": 42,
+    "y": 5685,
+    "w": 69,
+    "h": 18,
+    "text": "アクセス→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 5884,
+    "w": 320,
+    "h": 28,
+    "text": "ぜひご挨拶に"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#お湯を沸かしてお待ちしています東京扉は開いています",
+    "x": 20,
+    "y": 5916,
+    "w": 320,
+    "h": 99,
+    "level": 2,
+    "text": "お湯を沸かしてお待ちしています。東京、扉は開いています。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 6029,
+    "w": 320,
+    "h": 110,
+    "text": "予約も気負いも不要 — おいしい一杯と暖かな空間があるだけ。オープン当日、皆さまのお越しを心よりお待ちしています。"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 6155,
+    "w": 121,
+    "h": 22,
+    "text": "カフェを探す→",
+    "href": "/japan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 6383,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 6496,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 6526,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 6613,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6644,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6677,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6709,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6741,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6773,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 6844,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6875,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6907,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6940,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6972,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 7042,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7073,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7106,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7138,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7170,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 7266,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/japan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 7266,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/japan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 7266,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/japan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 7322,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 95,
+    "controls": 38,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--7c29ab64--aemcoder.aem.page/japan",
+  "at": "2026-11-13T21:20:29.991Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 7410,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > picture > img",
+    "x": 20,
+    "y": 144,
+    "w": 320,
+    "h": 175,
+    "text": "",
+    "file": "media_1ae7b300835f4da72460fc57fdcfd83341"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 341,
+    "w": 320,
+    "h": 28,
+    "text": "まもなくオープン · 東京"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h1#フレスコパ東京にやってきます",
+    "x": 20,
+    "y": 405,
+    "w": 320,
+    "h": 143,
+    "level": 1,
+    "text": "フレスコパ、東京にやってきます。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 562,
+    "w": 320,
+    "h": 138,
+    "text": "日本初のカフェが、この春、表参道にオープン。テイスティングバー。フル装備のアトリエ・ショールーム。そして、クラスやゆったりとした朝を過ごすための長いテーブル。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 714,
+    "w": 320,
+    "h": 83,
+    "text": "変わらぬ豆は、生産者ファーストでフェアに取引されたもの。明治神宮前から歩いてすぐの場所に。"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 812,
+    "w": 137,
+    "h": 22,
+    "text": "来店を計画する→",
+    "href": "/japan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 853,
+    "w": 155,
+    "h": 22,
+    "text": "オープン情報を見る",
+    "href": "/japan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-reasons-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1027,
+    "w": 320,
+    "h": 19,
+    "text": "ぜひお立ち寄りを"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-reasons-container > div.default-content-wrapper > h2#味わい学びくつろぐ新しい空間",
+    "x": 20,
+    "y": 1055,
+    "w": 320,
+    "h": 66,
+    "level": 2,
+    "text": "味わい、学び、くつろぐ新しい空間。"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > h3#すべてのラインナップを味わう",
+    "x": 20,
+    "y": 1204,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "すべてのラインナップを味わう"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > p",
+    "x": 20,
+    "y": 1227,
+    "w": 320,
+    "h": 98,
+    "text": "エスプレッソ、スロープアコーヒー、リーフティー、コールドプレス — バーでオーダーごとにお淹れします。あなたの毎日の一杯を見つけて。"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > h3#マシンに触れる",
+    "x": 20,
+    "y": 1392,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "マシンに触れる"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > p",
+    "x": 20,
+    "y": 1415,
+    "w": 320,
+    "h": 74,
+    "text": "フル装備のショールームで自らショットを抽出。ご自宅のカウンターに届く前に、その違いを体感してください。"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > h3#スタッフから学ぶ",
+    "x": 20,
+    "y": 1556,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "スタッフから学ぶ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > p",
+    "x": 20,
+    "y": 1579,
+    "w": 320,
+    "h": 74,
+    "text": "毎日それを実践するプロが導く抽出クラス、ラテアートラボ、カッピング — 多くはドリンク付きで無料。"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > h3#くつろげる場所",
+    "x": 20,
+    "y": 1719,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "くつろげる場所"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-reasons-card-body > p",
+    "x": 20,
+    "y": 1742,
+    "w": 320,
+    "h": 74,
+    "text": "人と会い、仕事をし、朝をゆっくり読書して過ごす、暖かく静かな空間 — 表参道の中心に。長く使える製品を、責任ある調達で。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.columns-editorial-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1960,
+    "w": 320,
+    "h": 19,
+    "text": "オープン"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.columns-editorial-container > div.default-content-wrapper > h2#表参道オープン当日",
+    "x": 20,
+    "y": 1989,
+    "w": 320,
+    "h": 33,
+    "level": 2,
+    "text": "表参道、オープン当日。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2036,
+    "w": 320,
+    "h": 28,
+    "text": "01 · グランドオープン"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#4月11日土オープン",
+    "x": 20,
+    "y": 2084,
+    "w": 320,
+    "h": 29,
+    "level": 3,
+    "text": "4月11日（土）オープン。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2127,
+    "w": 320,
+    "h": 165,
+    "text": "東京での最初の朝、午前8時よりお迎えします。先着100名様にフレスコパ・ウェルカムキットをプレゼント。終日、テイスティングフライトを無料でご提供。予約不要 — "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 2307,
+    "w": 138,
+    "h": 22,
+    "text": "アクセスを見る→",
+    "href": "/japan"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > picture > img",
+    "x": 20,
+    "y": 2337,
+    "w": 320,
+    "h": 175,
+    "text": "",
+    "file": "media_132718180b6190179a138b13595a42c32f"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > picture > img",
+    "x": 20,
+    "y": 2520,
+    "w": 320,
+    "h": 175,
+    "text": "",
+    "file": "media_1a775c161149ea61e50ce787b6c0adb646"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2717,
+    "w": 320,
+    "h": 28,
+    "text": "02 · ショールーム"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#アトリエ全ラインナップをその場で",
+    "x": 20,
+    "y": 2765,
+    "w": 320,
+    "h": 59,
+    "level": 3,
+    "text": "アトリエ全ラインナップを、その場で。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2837,
+    "w": 320,
+    "h": 220,
+    "text": "東京のショールームには、アトリエの全レンジを取り揃えています。自らショットを抽出し、マシンがプロファイルを学習する様子を見て、スペック表では分からない疑問をぶつ"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 3073,
+    "w": 121,
+    "h": 22,
+    "text": "マシンを見る→",
+    "href": "/machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-event-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 3247,
+    "w": 320,
+    "h": 19,
+    "text": "オープン週"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-event-container > div.default-content-wrapper > h2#今週の東京のテーブルにて",
+    "x": 20,
+    "y": 3276,
+    "w": 320,
+    "h": 66,
+    "level": 2,
+    "text": "今週の東京のテーブルにて。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-event-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 3355,
+    "w": 320,
+    "h": 28,
+    "text": "特記なき限りドリンク付きで無料"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > h3#グランドオープンカッピング",
+    "x": 45,
+    "y": 3470,
+    "w": 270,
+    "h": 48,
+    "level": 3,
+    "text": "グランドオープン・カッピング"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p.cards-event-desc",
+    "x": 45,
+    "y": 3526,
+    "w": 270,
+    "h": 68,
+    "text": "オープニングのラインナップを飲み比べ、味わいを言葉にする方法を学びます。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-event-footer > span.cards-event-time",
+    "x": 45,
+    "y": 3620,
+    "w": 66,
+    "h": 17,
+    "text": "10:00–11:30"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > h3#ラテアートラボ",
+    "x": 45,
+    "y": 3739,
+    "w": 270,
+    "h": 24,
+    "level": 3,
+    "text": "ラテアートラボ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p.cards-event-desc",
+    "x": 45,
+    "y": 3771,
+    "w": 270,
+    "h": 46,
+    "text": "アトリエ・ラインで実践するミルクスチーミングと注ぎの練習。初心者歓迎。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-event-footer > span.cards-event-time",
+    "x": 45,
+    "y": 3843,
+    "w": 66,
+    "h": 17,
+    "text": "14:00–15:30"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-event-footer > span.cards-event-price",
+    "x": 260,
+    "y": 3839,
+    "w": 55,
+    "h": 26,
+    "text": "¥2,000"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > h3#ホームブリューイング101",
+    "x": 45,
+    "y": 3962,
+    "w": 270,
+    "h": 24,
+    "level": 3,
+    "text": "ホームブリューイング101"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p.cards-event-desc",
+    "x": 45,
+    "y": 3994,
+    "w": 270,
+    "h": 46,
+    "text": "挽き目、分量、時間を調整し、自宅で再現できる一杯を。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-event-footer > span.cards-event-time",
+    "x": 45,
+    "y": 4066,
+    "w": 66,
+    "h": 17,
+    "text": "18:30–20:00"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > h3#スローモーニングカッピング",
+    "x": 45,
+    "y": 4185,
+    "w": 270,
+    "h": 48,
+    "level": 3,
+    "text": "スローモーニング・カッピング"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "ul > li > p.cards-event-desc",
+    "x": 45,
+    "y": 4241,
+    "w": 270,
+    "h": 68,
+    "text": "ペストリーと共に楽しむ、ゆったりしたコミュニティ・テイスティング。予約不要、お気軽にどうぞ。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-event-footer > span.cards-event-time",
+    "x": 45,
+    "y": 4335,
+    "w": 59,
+    "h": 17,
+    "text": "9:00–11:00"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4524,
+    "w": 320,
+    "h": 19,
+    "text": "アクセス"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > h2#フレスコパ表参道",
+    "x": 20,
+    "y": 4543,
+    "w": 320,
+    "h": 33,
+    "level": 2,
+    "text": "フレスコパ表参道。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4590,
+    "w": 320,
+    "h": 138,
+    "text": "日本初の拠点は、表参道と明治神宮前の間、どちらの駅からも数分の場所にあります。全ラインナップを毎日ご提供し、ショールームとワークショップテーブルも一週間を通して"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-controls > div.store-locator-regions > button.is-active",
+    "x": 20,
+    "y": 4850,
+    "w": 100,
+    "h": 39,
+    "text": "all regions"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-controls > div.store-locator-regions > button",
+    "x": 128,
+    "y": 4850,
+    "w": 61,
+    "h": 39,
+    "text": "east"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-controls > div.store-locator-regions > button",
+    "x": 198,
+    "y": 4850,
+    "w": 87,
+    "h": 39,
+    "text": "midwest"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-controls > div.store-locator-regions > button",
+    "x": 20,
+    "y": 4897,
+    "w": 71,
+    "h": 39,
+    "text": "south"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-controls > div.store-locator-regions > button",
+    "x": 99,
+    "y": 4897,
+    "w": 66,
+    "h": 39,
+    "text": "west"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-layer > div.leaflet-tile-container.leaflet-zoom-animated > img.leaflet-tile.leaflet-tile-loaded",
+    "x": 19,
+    "y": 5151,
+    "w": 256,
+    "h": 256,
+    "text": "",
+    "file": "6"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-layer > div.leaflet-tile-container.leaflet-zoom-animated > img.leaflet-tile.leaflet-tile-loaded",
+    "x": 19,
+    "y": 4895,
+    "w": 256,
+    "h": 256,
+    "text": "",
+    "file": "5"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-layer > div.leaflet-tile-container.leaflet-zoom-animated > img.leaflet-tile.leaflet-tile-loaded",
+    "x": 275,
+    "y": 4895,
+    "w": 256,
+    "h": 256,
+    "text": "",
+    "file": "5"
+   },
+   {
+    "kind": "image",
+    "state": "hidden",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-layer > div.leaflet-tile-container.leaflet-zoom-animated > img.leaflet-tile.leaflet-tile-loaded",
+    "x": 275,
+    "y": 5151,
+    "w": 256,
+    "h": 256,
+    "text": "",
+    "file": "6"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-top.leaflet-left > div.leaflet-control-zoom.leaflet-bar > a.leaflet-control-zoom-in",
+    "x": 33,
+    "y": 4975,
+    "w": 30,
+    "h": 31,
+    "text": "+",
+    "href": "/japan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-top.leaflet-left > div.leaflet-control-zoom.leaflet-bar > a.leaflet-control-zoom-out",
+    "x": 33,
+    "y": 5006,
+    "w": 30,
+    "h": 30,
+    "text": "−",
+    "href": "/japan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-control-container > div.leaflet-bottom.leaflet-right > div.leaflet-control-attribution.leaflet-control",
+    "x": 105,
+    "y": 5366,
+    "w": 234,
+    "h": 17,
+    "text": "© contributors"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-bottom.leaflet-right > div.leaflet-control-attribution.leaflet-control > a",
+    "x": 110,
+    "y": 5367,
+    "w": 51,
+    "h": 14,
+    "text": "leaflet",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.leaflet-bottom.leaflet-right > div.leaflet-control-attribution.leaflet-control > a",
+    "x": 183,
+    "y": 5367,
+    "w": 85,
+    "h": 14,
+    "text": "openstreetmap",
+    "href": "/copyright"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-layout > div.store-locator-list > p.store-locator-count",
+    "x": 20,
+    "y": 5409,
+    "w": 320,
+    "h": 19,
+    "text": "1 café near you"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+    "x": 20,
+    "y": 5444,
+    "w": 312,
+    "h": 283,
+    "text": "フレスコパ表参道 東京都渋谷区 東京都渋谷区神宮前4-12-10 カフェ ショールーム ワークショップ 月〜日 · 8:00〜20:00 アクセス→"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-card-head > div.store-locator-card-name > h3#フレスコパ表参道-1",
+    "x": 42,
+    "y": 5465,
+    "w": 153,
+    "h": 22,
+    "level": 3,
+    "text": "フレスコパ表参道"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.store-locator-card-actions > p > a",
+    "x": 42,
+    "y": 5685,
+    "w": 69,
+    "h": 18,
+    "text": "アクセス→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 5884,
+    "w": 320,
+    "h": 28,
+    "text": "ぜひご挨拶に"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#お湯を沸かしてお待ちしています東京扉は開いています",
+    "x": 20,
+    "y": 5916,
+    "w": 320,
+    "h": 99,
+    "level": 2,
+    "text": "お湯を沸かしてお待ちしています。東京、扉は開いています。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 6029,
+    "w": 320,
+    "h": 110,
+    "text": "予約も気負いも不要 — おいしい一杯と暖かな空間があるだけ。オープン当日、皆さまのお越しを心よりお待ちしています。"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 6155,
+    "w": 121,
+    "h": 22,
+    "text": "カフェを探す→",
+    "href": "/japan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 6383,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 6496,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 6526,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 6613,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6644,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6677,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6709,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6741,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6773,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 6844,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6875,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6907,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6940,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6972,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 7042,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7073,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7106,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7138,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7170,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 7266,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/japan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 7266,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/japan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 7266,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/japan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 7322,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 95,
+    "controls": 38,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "フレスコパ、東京にやってきます。",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "味わい、学び、くつろぐ新しい空間。",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "すべてのラインナップを味わう",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "マシンに触れる",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "スタッフから学ぶ",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "くつろげる場所",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "表参道、オープン当日。",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "4月11日（土）オープン。",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 2
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "アトリエ全ラインナップを、その場で。",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "今週の東京のテーブルにて。",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "グランドオープン・カッピング",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 12,
+   "heading": "ラテアートラボ",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 13,
+   "heading": "ホームブリューイング101",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 14,
+   "heading": "スローモーニング・カッピング",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 15,
+   "heading": "フレスコパ表参道。",
+   "variable": false,
+   "origin": {
+    "link": 4,
+    "button": 6,
+    "text": 3,
+    "image": 2
+   },
+   "eds": {
+    "link": 4,
+    "linkHidden": 0,
+    "button": 6,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 2,
+    "imageHidden": 2
+   },
+   "findings": []
+  },
+  {
+   "index": 16,
+   "heading": "フレスコパ表参道",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 17,
+   "heading": "お湯を沸かしてお待ちしています。東京、扉は開いています。",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 20,
+    "y": 343,
+    "w": 187,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 400,
+    "w": 278,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 448,
+    "w": 277,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 496,
+    "w": 185,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 564,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 592,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 619,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 647,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 674,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 716,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 743,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 771,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 812,
+    "w": 137,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 853,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1028,
+    "w": 117,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 1054,
+    "w": 315,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 1087,
+    "w": 171,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 1203,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 1229,
+    "w": 312,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1254,
+    "w": 305,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1279,
+    "w": 312,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1303,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1391,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 1417,
+    "w": 312,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1442,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1467,
+    "w": 172,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1555,
+    "w": 160,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 1581,
+    "w": 312,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1605,
+    "w": 306,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1630,
+    "w": 124,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1718,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 1744,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1769,
+    "w": 303,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1793,
+    "w": 295,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1961,
+    "w": 58,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 1988,
+    "w": 312,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 2038,
+    "w": 172,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2082,
+    "w": 288,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2129,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2156,
+    "w": 305,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2184,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2211,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2239,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2266,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2307,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2719,
+    "w": 137,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2763,
+    "w": 282,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2792,
+    "w": 178,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2839,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2867,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2894,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2922,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2949,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2977,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3004,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3032,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3073,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3248,
+    "w": 73,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 3275,
+    "w": 314,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 3308,
+    "w": 57,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 3357,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 45,
+    "y": 3446,
+    "w": 23,
+    "h": 14
+   },
+   {
+    "x": 45,
+    "y": 3469,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 3493,
+    "w": 42,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 3527,
+    "w": 255,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 3549,
+    "w": 254,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 3572,
+    "w": 30,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 3621,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 283,
+    "y": 3618,
+    "w": 32,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 3715,
+    "w": 23,
+    "h": 14
+   },
+   {
+    "x": 45,
+    "y": 3738,
+    "w": 146,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 3772,
+    "w": 255,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 3795,
+    "w": 267,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 3844,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 260,
+    "y": 3841,
+    "w": 55,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 3938,
+    "w": 23,
+    "h": 14
+   },
+   {
+    "x": 45,
+    "y": 3961,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 3995,
+    "w": 266,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 4018,
+    "w": 119,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 4067,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 283,
+    "y": 4063,
+    "w": 32,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 4161,
+    "w": 23,
+    "h": 14
+   },
+   {
+    "x": 45,
+    "y": 4184,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 4208,
+    "w": 21,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 4242,
+    "w": 270,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 4264,
+    "w": 269,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 4287,
+    "w": 149,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 4336,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 283,
+    "y": 4333,
+    "w": 32,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4525,
+    "w": 59,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 4542,
+    "w": 257,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 4592,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4619,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4647,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4675,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4702,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 37,
+    "y": 4860,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 145,
+    "y": 4860,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 4860,
+    "w": 53,
+    "h": 18
+   },
+   {
+    "x": 37,
+    "y": 4907,
+    "w": 37,
+    "h": 18
+   },
+   {
+    "x": 116,
+    "y": 4907,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 43,
+    "y": 4976,
+    "w": 11,
+    "h": 28
+   },
+   {
+    "x": 42,
+    "y": 5007,
+    "w": 13,
+    "h": 28
+   },
+   {
+    "x": 122,
+    "y": 5367,
+    "w": 39,
+    "h": 14
+   },
+   {
+    "x": 165,
+    "y": 5367,
+    "w": 3,
+    "h": 14
+   },
+   {
+    "x": 168,
+    "y": 5367,
+    "w": 16,
+    "h": 14
+   },
+   {
+    "x": 183,
+    "y": 5367,
+    "w": 85,
+    "h": 14
+   },
+   {
+    "x": 268,
+    "y": 5367,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 20,
+    "y": 5410,
+    "w": 108,
+    "h": 15
+   },
+   {
+    "x": 42,
+    "y": 5463,
+    "w": 153,
+    "h": 24
+   },
+   {
+    "x": 243,
+    "y": 5472,
+    "w": 68,
+    "h": 13
+   },
+   {
+    "x": 42,
+    "y": 5515,
+    "w": 179,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 5566,
+    "w": 175,
+    "h": 13
+   },
+   {
+    "x": 42,
+    "y": 5624,
+    "w": 126,
+    "h": 18
+   },
+   {
+    "x": 42,
+    "y": 5685,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 5886,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5915,
+    "w": 316,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 5948,
+    "w": 314,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 5981,
+    "w": 173,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 6031,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6059,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6086,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6114,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6155,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6385,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6409,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6433,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6498,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 6539,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6612,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6644,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6677,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6709,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6741,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6773,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6843,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6875,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6907,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6940,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6972,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7041,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7073,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7106,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7138,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7170,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7324,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7348,
+    "w": 228,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 20,
+    "y": 343,
+    "w": 187,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 400,
+    "w": 278,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 448,
+    "w": 277,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 496,
+    "w": 185,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 564,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 592,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 619,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 647,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 674,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 716,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 743,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 771,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 812,
+    "w": 137,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 853,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1028,
+    "w": 117,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 1054,
+    "w": 315,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 1087,
+    "w": 171,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 1203,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 1229,
+    "w": 312,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1254,
+    "w": 305,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1279,
+    "w": 312,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1303,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1391,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 1417,
+    "w": 312,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1442,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1467,
+    "w": 172,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1555,
+    "w": 160,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 1581,
+    "w": 312,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1605,
+    "w": 306,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1630,
+    "w": 124,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1718,
+    "w": 140,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 1744,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1769,
+    "w": 303,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1793,
+    "w": 295,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1961,
+    "w": 58,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 1988,
+    "w": 312,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 2038,
+    "w": 172,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2082,
+    "w": 288,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2129,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2156,
+    "w": 305,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2184,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2211,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2239,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2266,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2307,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2719,
+    "w": 137,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2763,
+    "w": 282,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2792,
+    "w": 178,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2839,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2867,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2894,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2922,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2949,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2977,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3004,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3032,
+    "w": 85,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3073,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3248,
+    "w": 73,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 3275,
+    "w": 314,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 3308,
+    "w": 57,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 3357,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 45,
+    "y": 3446,
+    "w": 23,
+    "h": 14
+   },
+   {
+    "x": 45,
+    "y": 3469,
+    "w": 249,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 3493,
+    "w": 42,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 3527,
+    "w": 255,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 3549,
+    "w": 254,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 3572,
+    "w": 30,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 3621,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 283,
+    "y": 3618,
+    "w": 32,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 3715,
+    "w": 23,
+    "h": 14
+   },
+   {
+    "x": 45,
+    "y": 3738,
+    "w": 146,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 3772,
+    "w": 255,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 3795,
+    "w": 267,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 3844,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 260,
+    "y": 3841,
+    "w": 55,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 3938,
+    "w": 23,
+    "h": 14
+   },
+   {
+    "x": 45,
+    "y": 3961,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 3995,
+    "w": 266,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 4018,
+    "w": 119,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 4067,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 283,
+    "y": 4063,
+    "w": 32,
+    "h": 20
+   },
+   {
+    "x": 45,
+    "y": 4161,
+    "w": 23,
+    "h": 14
+   },
+   {
+    "x": 45,
+    "y": 4184,
+    "w": 270,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 4208,
+    "w": 21,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 4242,
+    "w": 270,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 4264,
+    "w": 269,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 4287,
+    "w": 149,
+    "h": 19
+   },
+   {
+    "x": 45,
+    "y": 4336,
+    "w": 59,
+    "h": 14
+   },
+   {
+    "x": 283,
+    "y": 4333,
+    "w": 32,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4525,
+    "w": 59,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 4542,
+    "w": 257,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 4592,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4619,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4647,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4675,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4702,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 37,
+    "y": 4860,
+    "w": 66,
+    "h": 18
+   },
+   {
+    "x": 145,
+    "y": 4860,
+    "w": 27,
+    "h": 18
+   },
+   {
+    "x": 215,
+    "y": 4860,
+    "w": 53,
+    "h": 18
+   },
+   {
+    "x": 37,
+    "y": 4907,
+    "w": 37,
+    "h": 18
+   },
+   {
+    "x": 116,
+    "y": 4907,
+    "w": 32,
+    "h": 18
+   },
+   {
+    "x": 43,
+    "y": 4976,
+    "w": 11,
+    "h": 28
+   },
+   {
+    "x": 42,
+    "y": 5007,
+    "w": 13,
+    "h": 28
+   },
+   {
+    "x": 122,
+    "y": 5367,
+    "w": 39,
+    "h": 14
+   },
+   {
+    "x": 165,
+    "y": 5367,
+    "w": 3,
+    "h": 14
+   },
+   {
+    "x": 168,
+    "y": 5367,
+    "w": 16,
+    "h": 14
+   },
+   {
+    "x": 183,
+    "y": 5367,
+    "w": 85,
+    "h": 14
+   },
+   {
+    "x": 268,
+    "y": 5367,
+    "w": 66,
+    "h": 14
+   },
+   {
+    "x": 20,
+    "y": 5410,
+    "w": 108,
+    "h": 15
+   },
+   {
+    "x": 42,
+    "y": 5463,
+    "w": 153,
+    "h": 24
+   },
+   {
+    "x": 243,
+    "y": 5472,
+    "w": 68,
+    "h": 13
+   },
+   {
+    "x": 42,
+    "y": 5515,
+    "w": 179,
+    "h": 18
+   },
+   {
+    "x": 52,
+    "y": 5566,
+    "w": 175,
+    "h": 13
+   },
+   {
+    "x": 42,
+    "y": 5624,
+    "w": 126,
+    "h": 18
+   },
+   {
+    "x": 42,
+    "y": 5685,
+    "w": 69,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 5886,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5915,
+    "w": 316,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 5948,
+    "w": 314,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 5981,
+    "w": 173,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 6031,
+    "w": 319,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6059,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6086,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6114,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6155,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6385,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6409,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6433,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6498,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 6539,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6612,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6644,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6677,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6709,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6741,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6773,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6843,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6875,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6907,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6940,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6972,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7041,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7073,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7106,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7138,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7170,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7324,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7348,
+    "w": 228,
+    "h": 20
+   }
+  ]
+ }
+}

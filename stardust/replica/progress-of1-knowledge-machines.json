@@ -1,0 +1,24 @@
+{
+  "slug": "of1-knowledge-machines",
+  "type": "static",
+  "iterations": { "1440": 3, "360": 3 },
+  "gates": {
+    "1440": { "label": "iter3", "full": true, "pixelPct": 0.0, "heightDelta": 0, "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "chromeCrop": { "headerPct": 0.0, "footerPct": 0.0 }, "clipped": 0, "overflow": "ok", "capProbe": "PASS (0 of 36 rows failed, evidence stardust/replica/gates/of1-knowledge-machines-2560/cap-iter.json)" },
+    "360": { "label": "iter3", "full": true, "pixelPct": 0.0, "heightDelta": 0, "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "chromeCrop": { "headerPct": 0.0, "footerPct": 0.0 }, "clipped": 0, "overflow": "ok" }
+  },
+  "chromeCheck": {
+    "slug": "header", "width": 1440, "label": "iter1", "full": true, "pixelPct": 0.0, "heightDelta": 0,
+    "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "chromeParity": "pass", "clipped": 0, "overflow": "ok",
+    "visualDiffFlags": ["BLANK RENDER (justified: the authored /header page has an empty main; the live source flags the same, blankRender true, main 144px)"]
+  },
+  "residuals": [],
+  "notes": [
+    "iter1 build capture was 2151px (1440) / 633px (360) short: gate.sh settles (scroll-loads) the live side only, and below-the-fold lazy images collapse to 0px until loaded on both sites. Fixed with `main .default-content-wrapper img[width][height] { width: attr(width px, auto) }` so default-content images keep their authored box before load. The loaded result is the same size as live (measured equal); browsers without typed attr() keep width:auto.",
+    "Font files under stardust/current/source/code/fonts are gzip-encoded captures; /fonts/*.woff2 are the decoded woff2 files."
+  ],
+  "motion": {
+    "observed": ["search click: overlay is-open, transform 600ms expo, backdrop-filter/opacity 350ms quint, chip/esc border+colour 350ms"],
+    "implemented": ["header search dialog (blocks/header/search.js + search.css), parity 9/9, 0 missing, 0 extra"],
+    "dead": ["header scroll-morph (static on both sides)", "nav link hover (no measured diff on live)", "search trigger frame sampling (no change)"]
+  }
+}

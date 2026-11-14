@@ -1,0 +1,65 @@
+{
+  "slug": "index",
+  "type": "home",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "hero",
+    "columns",
+    "taste-profile",
+    "mood-calendar",
+    "cards-product",
+    "cards-quote"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "div",
+    "intro",
+    "learn",
+    "mood",
+    "feed",
+    "sustain",
+    "voices",
+    "div",
+    "dark"
+  ],
+  "canonShas": {
+    "header": "534598da2521",
+    "footer": "736a7ff44f02",
+    "css": "4df8e3921e99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Fréscopa Atelier - Every morning, perfected.",
+    "description": "The first Fréscopa coffee machine with a feel for your mornings. It learns your taste, matches your mood, and takes care of the rest.",
+    "canonical": "https://new.frescopa.coffee/",
+    "lang": null
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Fréscopa Atelier - Every morning, perfected.",
+    "description": "The first Fréscopa coffee machine with a feel for your mornings. It learns your taste, matches your mood, and takes care of the rest.",
+    "url": "https://new.frescopa.coffee/"
+  },
+  "migratedAt": "2026-11-13T20:13:39Z",
+  "designMdSha": "104fd13ba944",
+  "designJsonSha": "1449a990b92e",
+  "sourceCurrentSha": "88c417ca3509",
+  "sourceProposedSha": "5a7b785fa5ca",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [],
+  "outputPath": "index.html",
+  "outputPathDefault": null,
+  "sidecar": "_meta.json",
+  "driverVersion": "1"
+}

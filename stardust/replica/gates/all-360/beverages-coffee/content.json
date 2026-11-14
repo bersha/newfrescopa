@@ -1,0 +1,6234 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T21:17:51.034Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://new.frescopa.coffee/beverages/coffee",
+  "at": "2026-11-13T21:17:27.628Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8099,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > a",
+    "x": 20,
+    "y": 184,
+    "w": 38,
+    "h": 19,
+    "text": "home",
+    "href": "/beverages/"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > span",
+    "x": 81,
+    "y": 184,
+    "w": 51,
+    "h": 19,
+    "label": "current",
+    "value": "coffee",
+    "via": "aria-current"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > span",
+    "x": 81,
+    "y": 184,
+    "w": 51,
+    "h": 19,
+    "text": "Coffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > h1#coffee-the-way-you-take-it",
+    "x": 20,
+    "y": 212,
+    "w": 320,
+    "h": 59,
+    "level": 1,
+    "text": "coffee, the way you take it."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 288,
+    "w": 320,
+    "h": 165,
+    "text": "Roasted in small batches and ground to order. Not sure where to start? Reach for"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab.is-active",
+    "x": 20,
+    "y": 501,
+    "w": 94,
+    "h": 34,
+    "text": "all coffee"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 124,
+    "y": 501,
+    "w": 135,
+    "h": 34,
+    "text": "blends & roasts"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 20,
+    "y": 544,
+    "w": 112,
+    "h": 34,
+    "text": "single origin"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 142,
+    "y": 544,
+    "w": 78,
+    "h": 34,
+    "text": "instant"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 667,
+    "w": 320,
+    "h": 19,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > h2#everyday-house-roasts",
+    "x": 20,
+    "y": 695,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "everyday house roasts"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 738,
+    "w": 320,
+    "h": 97,
+    "text": "Multi-origin blends built for consistency — the cup that tastes the same, mornin"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-media > picture > img",
+    "x": 21,
+    "y": 876,
+    "w": 318,
+    "h": 318,
+    "text": "",
+    "file": "media_1b8a065c6fa700acfa77788efbc2f6400e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media > span.cards-coffee-badge",
+    "x": 35,
+    "y": 890,
+    "w": 94,
+    "h": 23,
+    "text": "Most loved"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 1216,
+    "w": 273,
+    "h": 17,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#morning-blend",
+    "x": 43,
+    "y": 1240,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "morning blend"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#morning-blend > a",
+    "x": 43,
+    "y": 1239,
+    "w": 137,
+    "h": 25,
+    "text": "morning blend",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 1274,
+    "w": 273,
+    "h": 73,
+    "text": "A smooth, full-bodied blend to ease you into the day. Naturally balanced with a "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 1363,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 1363,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 1363,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 1398,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 1404,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-media > picture > img",
+    "x": 21,
+    "y": 1479,
+    "w": 318,
+    "h": 318,
+    "text": "",
+    "file": "media_1e4e0e49dda2965360b82c4103b7f0a8c6"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 1819,
+    "w": 273,
+    "h": 17,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#dark-roast",
+    "x": 43,
+    "y": 1843,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "dark roast"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#dark-roast > a",
+    "x": 43,
+    "y": 1842,
+    "w": 104,
+    "h": 25,
+    "text": "dark roast",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 1877,
+    "w": 273,
+    "h": 49,
+    "text": "Deep and warming — perfect for the moments that call for something bold."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 1942,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 1942,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 1942,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 1977,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 1983,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-media > picture > img",
+    "x": 21,
+    "y": 2058,
+    "w": 318,
+    "h": 318,
+    "text": "",
+    "file": "media_1ff83085359f9a1695da1a48170dd7cb5e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 2398,
+    "w": 273,
+    "h": 17,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#breakfast-blend",
+    "x": 43,
+    "y": 2422,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "breakfast blend"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#breakfast-blend > a",
+    "x": 43,
+    "y": 2421,
+    "w": 150,
+    "h": 25,
+    "text": "breakfast blend",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 2456,
+    "w": 273,
+    "h": 49,
+    "text": "Bright, clean and energising. The one you reach for before anything else."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 2520,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 2520,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 2520,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 2556,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 2562,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-media > picture > img",
+    "x": 21,
+    "y": 2636,
+    "w": 318,
+    "h": 318,
+    "text": "",
+    "file": "media_1ae86ef12e2f17ca61a758af698dd818ba"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 2977,
+    "w": 273,
+    "h": 17,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#decaf-reserve",
+    "x": 43,
+    "y": 3000,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "decaf reserve"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#decaf-reserve > a",
+    "x": 43,
+    "y": 2999,
+    "w": 138,
+    "h": 25,
+    "text": "decaf reserve",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 3034,
+    "w": 273,
+    "h": 49,
+    "text": "All the warmth, none of the buzz. Swiss water process, naturally decaffeinated."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 3099,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 3099,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 3099,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 3134,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 3140,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-media > picture > img",
+    "x": 21,
+    "y": 3215,
+    "w": 318,
+    "h": 318,
+    "text": "",
+    "file": "media_1eac418729690d6861478da8204c2a8d8d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 3555,
+    "w": 273,
+    "h": 17,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#espresso-blend",
+    "x": 43,
+    "y": 3579,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "espresso blend"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#espresso-blend > a",
+    "x": 43,
+    "y": 3578,
+    "w": 145,
+    "h": 25,
+    "text": "espresso blend",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 3613,
+    "w": 273,
+    "h": 49,
+    "text": "Crafted for machines. Consistent, crema-rich, and deeply satisfying."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 3678,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 3678,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 3678,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 3713,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 3719,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 3913,
+    "w": 320,
+    "h": 19,
+    "text": "Single origin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > h2#a-taste-of-place",
+    "x": 20,
+    "y": 3942,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "a taste of place"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 3984,
+    "w": 320,
+    "h": 97,
+    "text": "Traceable, single-farm beans with a clear sense of where they grew. For the morn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media.cards-coffee-media-placeholder > span.cards-coffee-placeholder-label",
+    "x": 118,
+    "y": 4225,
+    "w": 124,
+    "h": 32,
+    "text": "Ethiopian"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 4383,
+    "w": 273,
+    "h": 17,
+    "text": "Single origin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#ethiopian",
+    "x": 43,
+    "y": 4407,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "ethiopian"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#ethiopian > a",
+    "x": 43,
+    "y": 4406,
+    "w": 88,
+    "h": 25,
+    "text": "ethiopian",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 4441,
+    "w": 273,
+    "h": 49,
+    "text": "Traceable to a single farm in Yirgacheffe. A tribute to the art of careful growi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 4505,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 4505,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 4505,
+    "w": 55,
+    "h": 16,
+    "text": "Raw bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 256,
+    "y": 4505,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 4541,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 4547,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media.cards-coffee-media-placeholder > span.cards-coffee-placeholder-label",
+    "x": 111,
+    "y": 4724,
+    "w": 137,
+    "h": 32,
+    "text": "Colombian"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 4882,
+    "w": 273,
+    "h": 17,
+    "text": "Single origin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#colombian",
+    "x": 43,
+    "y": 4906,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "colombian"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#colombian > a",
+    "x": 43,
+    "y": 4905,
+    "w": 102,
+    "h": 25,
+    "text": "colombian",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 4940,
+    "w": 273,
+    "h": 49,
+    "text": "Sun-dried on raised beds in Huila. Rich, round, and endlessly drinkable."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 5004,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 5004,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 5004,
+    "w": 55,
+    "h": 16,
+    "text": "Raw bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 256,
+    "y": 5004,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 5040,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 5046,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media.cards-coffee-media-placeholder > span.cards-coffee-placeholder-label",
+    "x": 105,
+    "y": 5224,
+    "w": 150,
+    "h": 32,
+    "text": "Guatemalan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 5381,
+    "w": 273,
+    "h": 17,
+    "text": "Single origin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#guatemalan",
+    "x": 43,
+    "y": 5405,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "guatemalan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#guatemalan > a",
+    "x": 43,
+    "y": 5404,
+    "w": 114,
+    "h": 25,
+    "text": "guatemalan",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 5439,
+    "w": 273,
+    "h": 49,
+    "text": "Highland-grown with remarkable depth. Best enjoyed as a slow morning cup."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 5504,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 5504,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 5504,
+    "w": 55,
+    "h": 16,
+    "text": "Raw bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 256,
+    "y": 5504,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 5539,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 5545,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5739,
+    "w": 320,
+    "h": 19,
+    "text": "Instant"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > h2#fast-still-fréscopa",
+    "x": 20,
+    "y": 5768,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "fast, still fréscopa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5810,
+    "w": 320,
+    "h": 73,
+    "text": "Premium freeze-dried coffee that doesn't taste instant. For travel, the office, "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media.cards-coffee-media-placeholder > span.cards-coffee-placeholder-label",
+    "x": 98,
+    "y": 6027,
+    "w": 164,
+    "h": 32,
+    "text": "Instant Blend"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 6185,
+    "w": 273,
+    "h": 17,
+    "text": "Instant"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#instant-blend",
+    "x": 43,
+    "y": 6208,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "instant blend"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#instant-blend > a",
+    "x": 43,
+    "y": 6207,
+    "w": 126,
+    "h": 25,
+    "text": "instant blend",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 6242,
+    "w": 273,
+    "h": 24,
+    "text": "Premium instant that doesn't taste like it."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 6283,
+    "w": 48,
+    "h": 16,
+    "text": "Regular"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 6318,
+    "w": 82,
+    "h": 32,
+    "text": "from $13"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 6324,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media.cards-coffee-media-placeholder > span.cards-coffee-placeholder-label",
+    "x": 55,
+    "y": 6502,
+    "w": 250,
+    "h": 32,
+    "text": "Instant Blend — Decaf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 6660,
+    "w": 273,
+    "h": 17,
+    "text": "Instant"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#instant-blend--decaf",
+    "x": 43,
+    "y": 6683,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "instant blend — decaf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#instant-blend--decaf > a",
+    "x": 43,
+    "y": 6682,
+    "w": 209,
+    "h": 25,
+    "text": "instant blend — decaf",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 6717,
+    "w": 273,
+    "h": 49,
+    "text": "All the warmth, none of the buzz. Freeze-dried, naturally decaffeinated."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 6782,
+    "w": 35,
+    "h": 16,
+    "text": "Decaf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 6817,
+    "w": 82,
+    "h": 32,
+    "text": "from $13"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 6823,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 7071,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 7184,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 7214,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 7301,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7333,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7365,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7397,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7430,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7462,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 7532,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7563,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7596,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7628,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7660,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 7731,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7762,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7794,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7826,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7859,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 7954,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 7954,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 7954,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 8010,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 129,
+    "controls": 47,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--7c29ab64--aemcoder.aem.page/beverages/coffee",
+  "at": "2026-11-13T21:17:50.888Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8099,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > a",
+    "x": 20,
+    "y": 184,
+    "w": 38,
+    "h": 19,
+    "text": "home",
+    "href": "/beverages/"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > span",
+    "x": 81,
+    "y": 184,
+    "w": 51,
+    "h": 19,
+    "label": "current",
+    "value": "coffee",
+    "via": "aria-current"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > span",
+    "x": 81,
+    "y": 184,
+    "w": 51,
+    "h": 19,
+    "text": "Coffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > h1#coffee-the-way-you-take-it",
+    "x": 20,
+    "y": 212,
+    "w": 320,
+    "h": 59,
+    "level": 1,
+    "text": "coffee, the way you take it."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 288,
+    "w": 320,
+    "h": 165,
+    "text": "Roasted in small batches and ground to order. Not sure where to start? Reach for"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab.is-active",
+    "x": 20,
+    "y": 501,
+    "w": 94,
+    "h": 34,
+    "text": "all coffee"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 124,
+    "y": 501,
+    "w": 135,
+    "h": 34,
+    "text": "blends & roasts"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 20,
+    "y": 544,
+    "w": 112,
+    "h": 34,
+    "text": "single origin"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 142,
+    "y": 544,
+    "w": 78,
+    "h": 34,
+    "text": "instant"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 667,
+    "w": 320,
+    "h": 19,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > h2#everyday-house-roasts",
+    "x": 20,
+    "y": 695,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "everyday house roasts"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 738,
+    "w": 320,
+    "h": 97,
+    "text": "Multi-origin blends built for consistency — the cup that tastes the same, mornin"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-media > picture > img",
+    "x": 21,
+    "y": 876,
+    "w": 318,
+    "h": 318,
+    "text": "",
+    "file": "media_1b8a065c6fa700acfa77788efbc2f6400e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media > span.cards-coffee-badge",
+    "x": 35,
+    "y": 890,
+    "w": 94,
+    "h": 23,
+    "text": "Most loved"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 1216,
+    "w": 273,
+    "h": 17,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#morning-blend",
+    "x": 43,
+    "y": 1240,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "morning blend"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#morning-blend > a",
+    "x": 43,
+    "y": 1239,
+    "w": 137,
+    "h": 25,
+    "text": "morning blend",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 1274,
+    "w": 273,
+    "h": 73,
+    "text": "A smooth, full-bodied blend to ease you into the day. Naturally balanced with a "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 1363,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 1363,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 1363,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 1398,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 1404,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-media > picture > img",
+    "x": 21,
+    "y": 1479,
+    "w": 318,
+    "h": 318,
+    "text": "",
+    "file": "media_1e4e0e49dda2965360b82c4103b7f0a8c6"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 1819,
+    "w": 273,
+    "h": 17,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#dark-roast",
+    "x": 43,
+    "y": 1843,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "dark roast"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#dark-roast > a",
+    "x": 43,
+    "y": 1842,
+    "w": 104,
+    "h": 25,
+    "text": "dark roast",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 1877,
+    "w": 273,
+    "h": 49,
+    "text": "Deep and warming — perfect for the moments that call for something bold."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 1942,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 1942,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 1942,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 1977,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 1983,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-media > picture > img",
+    "x": 21,
+    "y": 2058,
+    "w": 318,
+    "h": 318,
+    "text": "",
+    "file": "media_1ff83085359f9a1695da1a48170dd7cb5e"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 2398,
+    "w": 273,
+    "h": 17,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#breakfast-blend",
+    "x": 43,
+    "y": 2422,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "breakfast blend"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#breakfast-blend > a",
+    "x": 43,
+    "y": 2421,
+    "w": 150,
+    "h": 25,
+    "text": "breakfast blend",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 2456,
+    "w": 273,
+    "h": 49,
+    "text": "Bright, clean and energising. The one you reach for before anything else."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 2520,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 2520,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 2520,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 2556,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 2562,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-media > picture > img",
+    "x": 21,
+    "y": 2636,
+    "w": 318,
+    "h": 318,
+    "text": "",
+    "file": "media_1ae86ef12e2f17ca61a758af698dd818ba"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 2977,
+    "w": 273,
+    "h": 17,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#decaf-reserve",
+    "x": 43,
+    "y": 3000,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "decaf reserve"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#decaf-reserve > a",
+    "x": 43,
+    "y": 2999,
+    "w": 138,
+    "h": 25,
+    "text": "decaf reserve",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 3034,
+    "w": 273,
+    "h": 49,
+    "text": "All the warmth, none of the buzz. Swiss water process, naturally decaffeinated."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 3099,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 3099,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 3099,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 3134,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 3140,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-media > picture > img",
+    "x": 21,
+    "y": 3215,
+    "w": 318,
+    "h": 318,
+    "text": "",
+    "file": "media_1eac418729690d6861478da8204c2a8d8d"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 3555,
+    "w": 273,
+    "h": 17,
+    "text": "Blends & roasts"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#espresso-blend",
+    "x": 43,
+    "y": 3579,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "espresso blend"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#espresso-blend > a",
+    "x": 43,
+    "y": 3578,
+    "w": 145,
+    "h": 25,
+    "text": "espresso blend",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 3613,
+    "w": 273,
+    "h": 49,
+    "text": "Crafted for machines. Consistent, crema-rich, and deeply satisfying."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 3678,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 3678,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 3678,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 3713,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 3719,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 3913,
+    "w": 320,
+    "h": 19,
+    "text": "Single origin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > h2#a-taste-of-place",
+    "x": 20,
+    "y": 3942,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "a taste of place"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 3984,
+    "w": 320,
+    "h": 97,
+    "text": "Traceable, single-farm beans with a clear sense of where they grew. For the morn"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media.cards-coffee-media-placeholder > span.cards-coffee-placeholder-label",
+    "x": 118,
+    "y": 4225,
+    "w": 124,
+    "h": 32,
+    "text": "Ethiopian"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 4383,
+    "w": 273,
+    "h": 17,
+    "text": "Single origin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#ethiopian",
+    "x": 43,
+    "y": 4407,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "ethiopian"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#ethiopian > a",
+    "x": 43,
+    "y": 4406,
+    "w": 88,
+    "h": 25,
+    "text": "ethiopian",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 4441,
+    "w": 273,
+    "h": 49,
+    "text": "Traceable to a single farm in Yirgacheffe. A tribute to the art of careful growi"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 4505,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 4505,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 4505,
+    "w": 55,
+    "h": 16,
+    "text": "Raw bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 256,
+    "y": 4505,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 4541,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 4547,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media.cards-coffee-media-placeholder > span.cards-coffee-placeholder-label",
+    "x": 111,
+    "y": 4724,
+    "w": 137,
+    "h": 32,
+    "text": "Colombian"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 4882,
+    "w": 273,
+    "h": 17,
+    "text": "Single origin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#colombian",
+    "x": 43,
+    "y": 4906,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "colombian"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#colombian > a",
+    "x": 43,
+    "y": 4905,
+    "w": 102,
+    "h": 25,
+    "text": "colombian",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 4940,
+    "w": 273,
+    "h": 49,
+    "text": "Sun-dried on raised beds in Huila. Rich, round, and endlessly drinkable."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 5004,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 5004,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 5004,
+    "w": 55,
+    "h": 16,
+    "text": "Raw bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 256,
+    "y": 5004,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 5040,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 5046,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media.cards-coffee-media-placeholder > span.cards-coffee-placeholder-label",
+    "x": 105,
+    "y": 5224,
+    "w": 150,
+    "h": 32,
+    "text": "Guatemalan"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 5381,
+    "w": 273,
+    "h": 17,
+    "text": "Single origin"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#guatemalan",
+    "x": 43,
+    "y": 5405,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "guatemalan"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#guatemalan > a",
+    "x": 43,
+    "y": 5404,
+    "w": 114,
+    "h": 25,
+    "text": "guatemalan",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 5439,
+    "w": 273,
+    "h": 49,
+    "text": "Highland-grown with remarkable depth. Best enjoyed as a slow morning cup."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 5504,
+    "w": 45,
+    "h": 16,
+    "text": "Ground"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 103,
+    "y": 5504,
+    "w": 70,
+    "h": 16,
+    "text": "Whole bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 187,
+    "y": 5504,
+    "w": 55,
+    "h": 16,
+    "text": "Raw bean"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 256,
+    "y": 5504,
+    "w": 28,
+    "h": 16,
+    "text": "Pods"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 5539,
+    "w": 83,
+    "h": 32,
+    "text": "from $10"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 5545,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5739,
+    "w": 320,
+    "h": 19,
+    "text": "Instant"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > h2#fast-still-fréscopa",
+    "x": 20,
+    "y": 5768,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "fast, still fréscopa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.cards-coffee-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5810,
+    "w": 320,
+    "h": 73,
+    "text": "Premium freeze-dried coffee that doesn't taste instant. For travel, the office, "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media.cards-coffee-media-placeholder > span.cards-coffee-placeholder-label",
+    "x": 98,
+    "y": 6027,
+    "w": 164,
+    "h": 32,
+    "text": "Instant Blend"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 6185,
+    "w": 273,
+    "h": 17,
+    "text": "Instant"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#instant-blend",
+    "x": 43,
+    "y": 6208,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "instant blend"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#instant-blend > a",
+    "x": 43,
+    "y": 6207,
+    "w": 126,
+    "h": 25,
+    "text": "instant blend",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 6242,
+    "w": 273,
+    "h": 24,
+    "text": "Premium instant that doesn't taste like it."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 6283,
+    "w": 48,
+    "h": 16,
+    "text": "Regular"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 6318,
+    "w": 82,
+    "h": 32,
+    "text": "from $13"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 6324,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-media.cards-coffee-media-placeholder > span.cards-coffee-placeholder-label",
+    "x": 55,
+    "y": 6502,
+    "w": 250,
+    "h": 32,
+    "text": "Instant Blend — Decaf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > span.cards-coffee-category",
+    "x": 43,
+    "y": 6660,
+    "w": 273,
+    "h": 17,
+    "text": "Instant"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > h3#instant-blend--decaf",
+    "x": 43,
+    "y": 6683,
+    "w": 273,
+    "h": 23,
+    "level": 3,
+    "text": "instant blend — decaf"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > h3#instant-blend--decaf > a",
+    "x": 43,
+    "y": 6682,
+    "w": 209,
+    "h": 25,
+    "text": "instant blend — decaf",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-coffee-card > div.cards-coffee-body > p.cards-coffee-desc",
+    "x": 43,
+    "y": 6717,
+    "w": 273,
+    "h": 49,
+    "text": "All the warmth, none of the buzz. Freeze-dried, naturally decaffeinated."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > ul.cards-coffee-formats > li",
+    "x": 43,
+    "y": 6782,
+    "w": 35,
+    "h": 16,
+    "text": "Decaf"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > p.cards-coffee-price",
+    "x": 43,
+    "y": 6817,
+    "w": 82,
+    "h": 32,
+    "text": "from $13"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-coffee-body > div.cards-coffee-foot > a.cards-coffee-cta",
+    "x": 196,
+    "y": 6823,
+    "w": 121,
+    "h": 24,
+    "text": "choose options→",
+    "href": "/coffee-pdp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 7071,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 7184,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 7214,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 7301,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7333,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7365,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7397,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7430,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7462,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 7532,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7563,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7596,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7628,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7660,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 7731,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7762,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7794,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7826,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7859,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 7954,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 7954,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 7954,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 8010,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 129,
+    "controls": 47,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "coffee, the way you take it.",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 4,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 4,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "everyday house roasts",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "morning blend",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 6,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "dark roast",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 6,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "breakfast blend",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 6,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "decaf reserve",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 6,
+    "image": 1
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "espresso blend",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 6,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "a taste of place",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "ethiopian",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 8,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 8,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "colombian",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 8,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 8,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "guatemalan",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 7,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 7,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 12,
+   "heading": "fast, still fréscopa",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 13,
+   "heading": "instant blend",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 14,
+   "heading": "instant blend — decaf",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 20,
+    "y": 185,
+    "w": 38,
+    "h": 15
+   },
+   {
+    "x": 66,
+    "y": 185,
+    "w": 6,
+    "h": 15
+   },
+   {
+    "x": 81,
+    "y": 185,
+    "w": 51,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 209,
+    "w": 270,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 239,
+    "w": 94,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 290,
+    "w": 299,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 317,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 345,
+    "w": 14,
+    "h": 22
+   },
+   {
+    "x": 34,
+    "y": 345,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 127,
+    "y": 345,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 372,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 149,
+    "y": 372,
+    "w": 93,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 372,
+    "w": 77,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 400,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 427,
+    "w": 53,
+    "h": 22
+   },
+   {
+    "x": 73,
+    "y": 427,
+    "w": 210,
+    "h": 22
+   },
+   {
+    "x": 37,
+    "y": 508,
+    "w": 60,
+    "h": 18
+   },
+   {
+    "x": 140,
+    "y": 508,
+    "w": 101,
+    "h": 18
+   },
+   {
+    "x": 37,
+    "y": 551,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 159,
+    "y": 551,
+    "w": 44,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 668,
+    "w": 138,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 692,
+    "w": 280,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 740,
+    "w": 309,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 764,
+    "w": 263,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 788,
+    "w": 309,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 813,
+    "w": 71,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 895,
+    "w": 79,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 1217,
+    "w": 108,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 1239,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 1276,
+    "w": 267,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1300,
+    "w": 258,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1325,
+    "w": 141,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1364,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 1364,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 1364,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 1401,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1406,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1820,
+    "w": 108,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 1842,
+    "w": 104,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 1879,
+    "w": 246,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1903,
+    "w": 254,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1943,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 1943,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 1943,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 1980,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1985,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 2399,
+    "w": 108,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 2421,
+    "w": 150,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 2458,
+    "w": 245,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 2482,
+    "w": 232,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 2521,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 2521,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 2521,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 2559,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2564,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 2978,
+    "w": 108,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 2999,
+    "w": 138,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 3036,
+    "w": 261,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 3061,
+    "w": 261,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 3100,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 3100,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 3100,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 3137,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3142,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 3556,
+    "w": 108,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 3578,
+    "w": 145,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 3615,
+    "w": 224,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 3639,
+    "w": 225,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 3679,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 3679,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 3679,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 3716,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3721,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3914,
+    "w": 113,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 3939,
+    "w": 188,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 3986,
+    "w": 317,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4010,
+    "w": 315,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4035,
+    "w": 313,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4059,
+    "w": 219,
+    "h": 20
+   },
+   {
+    "x": 134,
+    "y": 4228,
+    "w": 92,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 4384,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 4406,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 4443,
+    "w": 271,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 4467,
+    "w": 253,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 4506,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 4506,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 4506,
+    "w": 55,
+    "h": 13
+   },
+   {
+    "x": 256,
+    "y": 4506,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 4544,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4549,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 127,
+    "y": 4727,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 4883,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 4905,
+    "w": 102,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 4942,
+    "w": 260,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 4966,
+    "w": 210,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 5005,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 5005,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 5005,
+    "w": 55,
+    "h": 13
+   },
+   {
+    "x": 256,
+    "y": 5005,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 5043,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5048,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 121,
+    "y": 5227,
+    "w": 118,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 5382,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 5404,
+    "w": 114,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 5441,
+    "w": 265,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 5465,
+    "w": 243,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 5505,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 5505,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 5505,
+    "w": 55,
+    "h": 13
+   },
+   {
+    "x": 256,
+    "y": 5505,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 5542,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5547,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5740,
+    "w": 64,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5765,
+    "w": 230,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 5812,
+    "w": 310,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5836,
+    "w": 320,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5860,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 114,
+    "y": 6030,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 6186,
+    "w": 50,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 6207,
+    "w": 126,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 6244,
+    "w": 271,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 6284,
+    "w": 48,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 6321,
+    "w": 82,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6326,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 71,
+    "y": 6505,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 6661,
+    "w": 50,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 6682,
+    "w": 209,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 6719,
+    "w": 220,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 6744,
+    "w": 250,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 6783,
+    "w": 35,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 6820,
+    "w": 82,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6825,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7073,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7098,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7122,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7186,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 7227,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7300,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7333,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7365,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7397,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7430,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7462,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7531,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7563,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7596,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7628,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7660,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7730,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7762,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7794,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7826,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7859,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 8012,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 8036,
+    "w": 228,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 20,
+    "y": 185,
+    "w": 38,
+    "h": 15
+   },
+   {
+    "x": 66,
+    "y": 185,
+    "w": 6,
+    "h": 15
+   },
+   {
+    "x": 81,
+    "y": 185,
+    "w": 51,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 209,
+    "w": 270,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 239,
+    "w": 94,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 290,
+    "w": 299,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 317,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 345,
+    "w": 14,
+    "h": 22
+   },
+   {
+    "x": 34,
+    "y": 345,
+    "w": 94,
+    "h": 22
+   },
+   {
+    "x": 127,
+    "y": 345,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 372,
+    "w": 129,
+    "h": 22
+   },
+   {
+    "x": 149,
+    "y": 372,
+    "w": 93,
+    "h": 22
+   },
+   {
+    "x": 242,
+    "y": 372,
+    "w": 77,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 400,
+    "w": 279,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 427,
+    "w": 53,
+    "h": 22
+   },
+   {
+    "x": 73,
+    "y": 427,
+    "w": 210,
+    "h": 22
+   },
+   {
+    "x": 37,
+    "y": 508,
+    "w": 60,
+    "h": 18
+   },
+   {
+    "x": 140,
+    "y": 508,
+    "w": 101,
+    "h": 18
+   },
+   {
+    "x": 37,
+    "y": 551,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 159,
+    "y": 551,
+    "w": 44,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 668,
+    "w": 138,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 692,
+    "w": 280,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 740,
+    "w": 309,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 764,
+    "w": 263,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 788,
+    "w": 309,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 813,
+    "w": 71,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 895,
+    "w": 79,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 1217,
+    "w": 108,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 1239,
+    "w": 137,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 1276,
+    "w": 267,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1300,
+    "w": 258,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1325,
+    "w": 141,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1364,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 1364,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 1364,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 1401,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1406,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1820,
+    "w": 108,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 1842,
+    "w": 104,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 1879,
+    "w": 246,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1903,
+    "w": 254,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 1943,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 1943,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 1943,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 1980,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 1985,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 2399,
+    "w": 108,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 2421,
+    "w": 150,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 2458,
+    "w": 245,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 2482,
+    "w": 232,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 2521,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 2521,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 2521,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 2559,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 2564,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 2978,
+    "w": 108,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 2999,
+    "w": 138,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 3036,
+    "w": 261,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 3061,
+    "w": 261,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 3100,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 3100,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 3100,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 3137,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3142,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 3556,
+    "w": 108,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 3578,
+    "w": 145,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 3615,
+    "w": 224,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 3639,
+    "w": 225,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 3679,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 3679,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 3679,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 3716,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 3721,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3914,
+    "w": 113,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 3939,
+    "w": 188,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 3986,
+    "w": 317,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4010,
+    "w": 315,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4035,
+    "w": 313,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4059,
+    "w": 219,
+    "h": 20
+   },
+   {
+    "x": 134,
+    "y": 4228,
+    "w": 92,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 4384,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 4406,
+    "w": 88,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 4443,
+    "w": 271,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 4467,
+    "w": 253,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 4506,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 4506,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 4506,
+    "w": 55,
+    "h": 13
+   },
+   {
+    "x": 256,
+    "y": 4506,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 4544,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 4549,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 127,
+    "y": 4727,
+    "w": 105,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 4883,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 4905,
+    "w": 102,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 4942,
+    "w": 260,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 4966,
+    "w": 210,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 5005,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 5005,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 5005,
+    "w": 55,
+    "h": 13
+   },
+   {
+    "x": 256,
+    "y": 5005,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 5043,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5048,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 121,
+    "y": 5227,
+    "w": 118,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 5382,
+    "w": 88,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 5404,
+    "w": 114,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 5441,
+    "w": 265,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 5465,
+    "w": 243,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 5505,
+    "w": 45,
+    "h": 13
+   },
+   {
+    "x": 103,
+    "y": 5505,
+    "w": 70,
+    "h": 13
+   },
+   {
+    "x": 187,
+    "y": 5505,
+    "w": 55,
+    "h": 13
+   },
+   {
+    "x": 256,
+    "y": 5505,
+    "w": 28,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 5542,
+    "w": 83,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 5547,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5740,
+    "w": 64,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5765,
+    "w": 230,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 5812,
+    "w": 310,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5836,
+    "w": 320,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5860,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 114,
+    "y": 6030,
+    "w": 132,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 6186,
+    "w": 50,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 6207,
+    "w": 126,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 6244,
+    "w": 271,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 6284,
+    "w": 48,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 6321,
+    "w": 82,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6326,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 71,
+    "y": 6505,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 6661,
+    "w": 50,
+    "h": 14
+   },
+   {
+    "x": 43,
+    "y": 6682,
+    "w": 209,
+    "h": 25
+   },
+   {
+    "x": 43,
+    "y": 6719,
+    "w": 220,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 6744,
+    "w": 250,
+    "h": 20
+   },
+   {
+    "x": 43,
+    "y": 6783,
+    "w": 35,
+    "h": 13
+   },
+   {
+    "x": 43,
+    "y": 6820,
+    "w": 82,
+    "h": 25
+   },
+   {
+    "x": 196,
+    "y": 6825,
+    "w": 121,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7073,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7098,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7122,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7186,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 7227,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7300,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7333,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7365,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7397,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7430,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7462,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7531,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7563,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7596,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7628,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7660,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7730,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7762,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7794,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7826,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7859,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 8012,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 8036,
+    "w": 228,
+    "h": 20
+   }
+  ]
+ }
+}

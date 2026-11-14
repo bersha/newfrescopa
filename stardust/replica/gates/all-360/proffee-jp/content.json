@@ -1,0 +1,4636 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T21:25:02.090Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://new.frescopa.coffee/proffee-jp",
+  "at": "2026-11-13T21:24:38.673Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8101,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 128,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 680,
+    "text": "",
+    "file": "media_1ae7b300835f4da72460fc57fdcfd83341"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p.eyebrow",
+    "x": 20,
+    "y": 163,
+    "w": 320,
+    "h": 19,
+    "text": "プロフィーという朝"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h1#プロフィーをフレスコパらしく",
+    "x": 20,
+    "y": 200,
+    "w": 320,
+    "h": 143,
+    "level": 1,
+    "text": "プロフィーを、フレスコパらしく。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 365,
+    "w": 320,
+    "h": 138,
+    "text": "プロテインコーヒーはジムのものではありません。あたたかく、ていねいで、心から飲みたくなる——そんな朝のためのもの。毎朝が待ち遠しくなる習慣の作り方をご紹介します"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 534,
+    "w": 169,
+    "h": 46,
+    "text": "アトリエを見る→",
+    "href": "/machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 752,
+    "w": 320,
+    "h": 19,
+    "text": "朝が、少し変わる"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > h2#プロフィーの広がり",
+    "x": 20,
+    "y": 781,
+    "w": 320,
+    "h": 33,
+    "level": 2,
+    "text": "プロフィーの広がり。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 827,
+    "w": 320,
+    "h": 248,
+    "text": "最初の一杯から最後の一口までのどこかで、朝の景色が静かに変わりました。かつてはジムバッグの片隅にあったプロテインが、いつのまにかキッチンカウンターの定位置へ。人"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1089,
+    "w": 320,
+    "h": 220,
+    "text": "人を惹きつけるのは、ラベルの数字ではありません。無理をせずとも、朝が少しだけ自分のために働いてくれる——その感覚です。コーヒーの味がして、ごほうびのようで、その"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1457,
+    "w": 320,
+    "h": 19,
+    "text": "多くのプロフィーがつまずく理由"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > h2#おいしいプロテインコーヒーはおいしいコーヒーから",
+    "x": 20,
+    "y": 1486,
+    "w": 320,
+    "h": 99,
+    "level": 2,
+    "text": "おいしいプロテインコーヒーは、おいしいコーヒーから。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1599,
+    "w": 320,
+    "h": 358,
+    "text": "この分野の多くは、プロテインコーヒーをまず栄養補助として扱い、飲みものとしては二の次にしてきました。味気ないパッケージ、こなしていくような姿勢、そして味わいは後"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1971,
+    "w": 320,
+    "h": 220,
+    "text": "手軽な解決ほど、毎朝あなたに多くを求めます。手間が増え、妥協が増え、しっくりこない一杯が増える。おいしいプロフィーは、おいしいコーヒーがずっとそうであったように"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.columns-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 2339,
+    "w": 320,
+    "h": 19,
+    "text": "フレスコパの考え方"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.columns-container > div.default-content-wrapper > h2#規律から儀式へ",
+    "x": 20,
+    "y": 2368,
+    "w": 320,
+    "h": 33,
+    "level": 2,
+    "text": "規律から、儀式へ。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2710,
+    "w": 103,
+    "h": 19,
+    "text": "まずはクラフト"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#栄養補助ブランドとは逆を行きます",
+    "x": 20,
+    "y": 2740,
+    "w": 320,
+    "h": 59,
+    "level": 3,
+    "text": "栄養補助ブランドとは逆を行きます。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2815,
+    "w": 320,
+    "h": 292,
+    "text": "私たちは誰かより多くを足すことを競いません。プロフィーをあたたかく、ていねいで、ゆっくり味わう価値のあるものにしたいのです——講釈をたれる専門家ではなく、テーブ"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 3129,
+    "w": 259,
+    "h": 28,
+    "text": "コーヒーのラインナップを見る→",
+    "href": "/beverages"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 20,
+    "y": 2408,
+    "w": 320,
+    "h": 256,
+    "text": "",
+    "file": "media_126153dedaaab1e3fdd811716e201bae4b"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 20,
+    "y": 3301,
+    "w": 320,
+    "h": 256,
+    "text": "",
+    "file": "media_132718180b6190179a138b13595a42c32f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#アトリエすべてが一つになる場所",
+    "x": 20,
+    "y": 3633,
+    "w": 320,
+    "h": 59,
+    "level": 3,
+    "text": "アトリエ——すべてが一つになる場所。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 3708,
+    "w": 320,
+    "h": 292,
+    "text": "アトリエは、ダマも、シェイカーボトルも、手探りもなしに、プロテインをコーヒーに溶け込ませ、きめ細かく仕上げます。温度と一貫性を保つから、なめらかなプロフィーはワ"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 4022,
+    "w": 138,
+    "h": 28,
+    "text": "アトリエを見る→",
+    "href": "/machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4193,
+    "w": 320,
+    "h": 19,
+    "text": "アトリエは、その価値がある?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > h2#毎日おいしいプロフィーを楽しむいちばん賢い方法",
+    "x": 20,
+    "y": 4222,
+    "w": 320,
+    "h": 99,
+    "level": 2,
+    "text": "毎日おいしいプロフィーを楽しむ、いちばん賢い方法。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4335,
+    "w": 320,
+    "h": 165,
+    "text": "アトリエはいちばん安いマシンではありません。でも公平な比べ方は、ほかのマシンの値札ではなく、あなたがすでに買っているカフェのプロフィーと比べること。そう見れば、"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 20,
+    "y": 4568,
+    "w": 147,
+    "h": 93,
+    "text": "約¥800"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 20,
+    "y": 4666,
+    "w": 147,
+    "h": 18,
+    "text": "カフェのプロフィー一杯"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 193,
+    "y": 4568,
+    "w": 147,
+    "h": 93,
+    "text": "約¥280"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 193,
+    "y": 4666,
+    "w": 147,
+    "h": 35,
+    "text": "自宅で、新鮮な豆と好みのプロテインで"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 20,
+    "y": 4727,
+    "w": 147,
+    "h": 93,
+    "text": "約11か月"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 20,
+    "y": 4824,
+    "w": 147,
+    "h": 35,
+    "text": "一日一杯で、アトリエは元が取れる計算"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 193,
+    "y": 4727,
+    "w": 147,
+    "h": 46,
+    "text": "5年目"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 193,
+    "y": 4778,
+    "w": 147,
+    "h": 35,
+    "text": "ポッドとほぼ互角——以降は毎年こちらが有利"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4889,
+    "w": 320,
+    "h": 19,
+    "text": "安い選択肢は、どこかで妥協を求めます"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4922,
+    "w": 320,
+    "h": 220,
+    "text": "シェイカーや廉価なマシンはダマを残し、ポッドはプロテインも量も一杯の値段も決めてしまいます。アトリエは選んだ素材で毎回なめらかに仕上げ、しかも長く使えるつくり—"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5156,
+    "w": 320,
+    "h": 138,
+    "text": "あるフレスコパ カフェのバリスタはこう言います。「職場で一日中プロフィーを作って、家に帰ってもまったく同じように作る。そのとき、価値があると分かったんです。」"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.reveal.is-in > a",
+    "x": 20,
+    "y": 5309,
+    "w": 206,
+    "h": 22,
+    "text": "一杯あたりの費用を見る→",
+    "href": "/machines/atelier/worth-it"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5483,
+    "w": 320,
+    "h": 19,
+    "text": "習慣を、切らさない"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > h2#なくなる前に届く新鮮な材料",
+    "x": 20,
+    "y": 5512,
+    "w": 320,
+    "h": 66,
+    "level": 2,
+    "text": "なくなる前に届く、新鮮な材料。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5591,
+    "w": 320,
+    "h": 165,
+    "text": "プロテインブレンド、焙煎したての豆、植物性ミルク——単品でも、定期便でも。だから戸棚が空になりません。新鮮な材料がなくなる前に届き、補充はひと手間で済みます。補"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.reveal.is-in > a",
+    "x": 20,
+    "y": 5772,
+    "w": 189,
+    "h": 22,
+    "text": "新鮮な材料を注文する→",
+    "href": "/bundles"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5946,
+    "w": 320,
+    "h": 19,
+    "text": "対面で学ぶ"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > h2#アトリエでプロフィーを",
+    "x": 20,
+    "y": 5975,
+    "w": 320,
+    "h": 66,
+    "level": 2,
+    "text": "アトリエでプロフィーを。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 6055,
+    "w": 320,
+    "h": 193,
+    "text": "いちばんの学び方は、実際にやってみること。「アトリエでプロフィー」ワークショップでは、最寄りのフレスコパ カフェで自分の一杯を作り、ラインナップを味わい、詳しい"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.reveal.is-in > a",
+    "x": 20,
+    "y": 6263,
+    "w": 242,
+    "h": 22,
+    "text": "近くのワークショップを探す→",
+    "href": "/event-registration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p.eyebrow",
+    "x": 39,
+    "y": 6437,
+    "w": 282,
+    "h": 19,
+    "text": "お誘い"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#朝にふさわしい一杯を作りに来てください",
+    "x": 20,
+    "y": 6474,
+    "w": 320,
+    "h": 59,
+    "level": 2,
+    "text": "朝にふさわしい一杯を、作りに来てください。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 6554,
+    "w": 320,
+    "h": 165,
+    "text": "プロフィーはジムのものではありません。朝のもの——あなたの朝を、あなたの好きなように、ゆっくり味わう価値のあるコーヒーで。まずは、それを気楽にしてくれるマシンか"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 88,
+    "y": 6751,
+    "w": 169,
+    "h": 46,
+    "text": "アトリエを見る→",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 74,
+    "y": 6829,
+    "w": 198,
+    "h": 46,
+    "text": "新鮮な材料を注文する",
+    "href": "/bundles"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 7074,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 7187,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 7217,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 7304,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7335,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7368,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7400,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7432,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7465,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 7535,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7566,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7598,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7631,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7663,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 7733,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7765,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7797,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7829,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7861,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 7957,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/proffee-jp"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 7957,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/proffee-jp"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 7957,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/proffee-jp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 8013,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 70,
+    "controls": 30,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--7c29ab64--aemcoder.aem.page/proffee-jp",
+  "at": "2026-11-13T21:25:01.958Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 8101,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 128,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 360,
+    "h": 680,
+    "text": "",
+    "file": "media_1ae7b300835f4da72460fc57fdcfd83341"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p.eyebrow",
+    "x": 20,
+    "y": 163,
+    "w": 320,
+    "h": 19,
+    "text": "プロフィーという朝"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h1#プロフィーをフレスコパらしく",
+    "x": 20,
+    "y": 200,
+    "w": 320,
+    "h": 143,
+    "level": 1,
+    "text": "プロフィーを、フレスコパらしく。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 365,
+    "w": 320,
+    "h": 138,
+    "text": "プロテインコーヒーはジムのものではありません。あたたかく、ていねいで、心から飲みたくなる——そんな朝のためのもの。毎朝が待ち遠しくなる習慣の作り方をご紹介します"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 534,
+    "w": 169,
+    "h": 46,
+    "text": "アトリエを見る→",
+    "href": "/machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 752,
+    "w": 320,
+    "h": 19,
+    "text": "朝が、少し変わる"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > h2#プロフィーの広がり",
+    "x": 20,
+    "y": 781,
+    "w": 320,
+    "h": 33,
+    "level": 2,
+    "text": "プロフィーの広がり。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 827,
+    "w": 320,
+    "h": 248,
+    "text": "最初の一杯から最後の一口までのどこかで、朝の景色が静かに変わりました。かつてはジムバッグの片隅にあったプロテインが、いつのまにかキッチンカウンターの定位置へ。人"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1089,
+    "w": 320,
+    "h": 220,
+    "text": "人を惹きつけるのは、ラベルの数字ではありません。無理をせずとも、朝が少しだけ自分のために働いてくれる——その感覚です。コーヒーの味がして、ごほうびのようで、その"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1457,
+    "w": 320,
+    "h": 19,
+    "text": "多くのプロフィーがつまずく理由"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > h2#おいしいプロテインコーヒーはおいしいコーヒーから",
+    "x": 20,
+    "y": 1486,
+    "w": 320,
+    "h": 99,
+    "level": 2,
+    "text": "おいしいプロテインコーヒーは、おいしいコーヒーから。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1599,
+    "w": 320,
+    "h": 358,
+    "text": "この分野の多くは、プロテインコーヒーをまず栄養補助として扱い、飲みものとしては二の次にしてきました。味気ないパッケージ、こなしていくような姿勢、そして味わいは後"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 1971,
+    "w": 320,
+    "h": 220,
+    "text": "手軽な解決ほど、毎朝あなたに多くを求めます。手間が増え、妥協が増え、しっくりこない一杯が増える。おいしいプロフィーは、おいしいコーヒーがずっとそうであったように"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.columns-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 2339,
+    "w": 320,
+    "h": 19,
+    "text": "フレスコパの考え方"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.columns-container > div.default-content-wrapper > h2#規律から儀式へ",
+    "x": 20,
+    "y": 2368,
+    "w": 320,
+    "h": 33,
+    "level": 2,
+    "text": "規律から、儀式へ。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2710,
+    "w": 103,
+    "h": 19,
+    "text": "まずはクラフト"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#栄養補助ブランドとは逆を行きます",
+    "x": 20,
+    "y": 2740,
+    "w": 320,
+    "h": 59,
+    "level": 3,
+    "text": "栄養補助ブランドとは逆を行きます。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2815,
+    "w": 320,
+    "h": 292,
+    "text": "私たちは誰かより多くを足すことを競いません。プロフィーをあたたかく、ていねいで、ゆっくり味わう価値のあるものにしたいのです——講釈をたれる専門家ではなく、テーブ"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 3129,
+    "w": 259,
+    "h": 28,
+    "text": "コーヒーのラインナップを見る→",
+    "href": "/beverages"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 20,
+    "y": 2408,
+    "w": 320,
+    "h": 256,
+    "text": "",
+    "file": "media_126153dedaaab1e3fdd811716e201bae4b"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 20,
+    "y": 3301,
+    "w": 320,
+    "h": 256,
+    "text": "",
+    "file": "media_132718180b6190179a138b13595a42c32f"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#アトリエすべてが一つになる場所",
+    "x": 20,
+    "y": 3633,
+    "w": 320,
+    "h": 59,
+    "level": 3,
+    "text": "アトリエ——すべてが一つになる場所。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 3708,
+    "w": 320,
+    "h": 292,
+    "text": "アトリエは、ダマも、シェイカーボトルも、手探りもなしに、プロテインをコーヒーに溶け込ませ、きめ細かく仕上げます。温度と一貫性を保つから、なめらかなプロフィーはワ"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 4022,
+    "w": 138,
+    "h": 28,
+    "text": "アトリエを見る→",
+    "href": "/machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4193,
+    "w": 320,
+    "h": 19,
+    "text": "アトリエは、その価値がある?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > h2#毎日おいしいプロフィーを楽しむいちばん賢い方法",
+    "x": 20,
+    "y": 4222,
+    "w": 320,
+    "h": 99,
+    "level": 2,
+    "text": "毎日おいしいプロフィーを楽しむ、いちばん賢い方法。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4335,
+    "w": 320,
+    "h": 165,
+    "text": "アトリエはいちばん安いマシンではありません。でも公平な比べ方は、ほかのマシンの値札ではなく、あなたがすでに買っているカフェのプロフィーと比べること。そう見れば、"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 20,
+    "y": 4568,
+    "w": 147,
+    "h": 93,
+    "text": "約¥800"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 20,
+    "y": 4666,
+    "w": 147,
+    "h": 18,
+    "text": "カフェのプロフィー一杯"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 193,
+    "y": 4568,
+    "w": 147,
+    "h": 93,
+    "text": "約¥280"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 193,
+    "y": 4666,
+    "w": 147,
+    "h": 35,
+    "text": "自宅で、新鮮な豆と好みのプロテインで"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 20,
+    "y": 4727,
+    "w": 147,
+    "h": 93,
+    "text": "約11か月"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 20,
+    "y": 4824,
+    "w": 147,
+    "h": 35,
+    "text": "一日一杯で、アトリエは元が取れる計算"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 193,
+    "y": 4727,
+    "w": 147,
+    "h": 46,
+    "text": "5年目"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 193,
+    "y": 4778,
+    "w": 147,
+    "h": 35,
+    "text": "ポッドとほぼ互角——以降は毎年こちらが有利"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4889,
+    "w": 320,
+    "h": 19,
+    "text": "安い選択肢は、どこかで妥協を求めます"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 4922,
+    "w": 320,
+    "h": 220,
+    "text": "シェイカーや廉価なマシンはダマを残し、ポッドはプロテインも量も一杯の値段も決めてしまいます。アトリエは選んだ素材で毎回なめらかに仕上げ、しかも長く使えるつくり—"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5156,
+    "w": 320,
+    "h": 138,
+    "text": "あるフレスコパ カフェのバリスタはこう言います。「職場で一日中プロフィーを作って、家に帰ってもまったく同じように作る。そのとき、価値があると分かったんです。」"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.reveal.is-in > a",
+    "x": 20,
+    "y": 5309,
+    "w": 206,
+    "h": 22,
+    "text": "一杯あたりの費用を見る→",
+    "href": "/machines/atelier/worth-it"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5483,
+    "w": 320,
+    "h": 19,
+    "text": "習慣を、切らさない"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > h2#なくなる前に届く新鮮な材料",
+    "x": 20,
+    "y": 5512,
+    "w": 320,
+    "h": 66,
+    "level": 2,
+    "text": "なくなる前に届く、新鮮な材料。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5591,
+    "w": 320,
+    "h": 165,
+    "text": "プロテインブレンド、焙煎したての豆、植物性ミルク——単品でも、定期便でも。だから戸棚が空になりません。新鮮な材料がなくなる前に届き、補充はひと手間で済みます。補"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.reveal.is-in > a",
+    "x": 20,
+    "y": 5772,
+    "w": 189,
+    "h": 22,
+    "text": "新鮮な材料を注文する→",
+    "href": "/bundles"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 5946,
+    "w": 320,
+    "h": 19,
+    "text": "対面で学ぶ"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > h2#アトリエでプロフィーを",
+    "x": 20,
+    "y": 5975,
+    "w": 320,
+    "h": 66,
+    "level": 2,
+    "text": "アトリエでプロフィーを。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section > div.default-content-wrapper > p.reveal.is-in",
+    "x": 20,
+    "y": 6055,
+    "w": 320,
+    "h": 193,
+    "text": "いちばんの学び方は、実際にやってみること。「アトリエでプロフィー」ワークショップでは、最寄りのフレスコパ カフェで自分の一杯を作り、ラインナップを味わい、詳しい"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.reveal.is-in > a",
+    "x": 20,
+    "y": 6263,
+    "w": 242,
+    "h": 22,
+    "text": "近くのワークショップを探す→",
+    "href": "/event-registration"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p.eyebrow",
+    "x": 20,
+    "y": 6437,
+    "w": 320,
+    "h": 19,
+    "text": "お誘い"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#朝にふさわしい一杯を作りに来てください",
+    "x": 20,
+    "y": 6474,
+    "w": 320,
+    "h": 59,
+    "level": 2,
+    "text": "朝にふさわしい一杯を、作りに来てください。"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 6554,
+    "w": 320,
+    "h": 165,
+    "text": "プロフィーはジムのものではありません。朝のもの——あなたの朝を、あなたの好きなように、ゆっくり味わう価値のあるコーヒーで。まずは、それを気楽にしてくれるマシンか"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 88,
+    "y": 6751,
+    "w": 169,
+    "h": 46,
+    "text": "アトリエを見る→",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 74,
+    "y": 6829,
+    "w": 198,
+    "h": 46,
+    "text": "新鮮な材料を注文する",
+    "href": "/bundles"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 7074,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 7187,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 7217,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 7304,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7335,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7368,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7400,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7432,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7465,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 7535,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7566,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7598,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7631,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7663,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 7733,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7765,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7797,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7829,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 7861,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 7957,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/proffee-jp"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 7957,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/proffee-jp"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 7957,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/proffee-jp"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 8013,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 70,
+    "controls": 30,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "プロフィーを、フレスコパらしく。",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "プロフィーの広がり。",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "おいしいプロテインコーヒーは、おいしいコーヒーから。",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "規律から、儀式へ。",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "栄養補助ブランドとは逆を行きます。",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "アトリエ——すべてが一つになる場所。",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "毎日おいしいプロフィーを楽しむ、いちばん賢い方法。",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 13,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "なくなる前に届く、新鮮な材料。",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "アトリエでプロフィーを。",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "朝にふさわしい一杯を、作りに来てください。",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 20,
+    "y": 164,
+    "w": 132,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 195,
+    "w": 232,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 243,
+    "w": 278,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 291,
+    "w": 232,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 367,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 394,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 422,
+    "w": 314,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 449,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 477,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 547,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 753,
+    "w": 116,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 780,
+    "w": 287,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 829,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 857,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 885,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 912,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 940,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 967,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 995,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1022,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1050,
+    "w": 156,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1091,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1118,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1146,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1173,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1201,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1229,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1256,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1284,
+    "w": 276,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1458,
+    "w": 219,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 1485,
+    "w": 317,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 1518,
+    "w": 316,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 1551,
+    "w": 114,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 1601,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1629,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1656,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1684,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1711,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1739,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1766,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1794,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1821,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1849,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1876,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1904,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1931,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1973,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2000,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2028,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2055,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2083,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2110,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2138,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2165,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2340,
+    "w": 132,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 2367,
+    "w": 256,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 2711,
+    "w": 103,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 2738,
+    "w": 305,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2768,
+    "w": 127,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2818,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2848,
+    "w": 312,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2877,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2906,
+    "w": 314,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2935,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2964,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2993,
+    "w": 293,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3023,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3052,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3081,
+    "w": 293,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3131,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3604,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 3631,
+    "w": 306,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 3660,
+    "w": 152,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 3711,
+    "w": 312,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3740,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3769,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3798,
+    "w": 309,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3828,
+    "w": 294,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3857,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3886,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3915,
+    "w": 312,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3944,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3973,
+    "w": 275,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 4024,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4194,
+    "w": 199,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 4221,
+    "w": 316,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 4254,
+    "w": 316,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 4287,
+    "w": 85,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 4337,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4364,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4392,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4419,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4447,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4474,
+    "w": 52,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4562,
+    "w": 45,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 4609,
+    "w": 116,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 4667,
+    "w": 136,
+    "h": 14
+   },
+   {
+    "x": 193,
+    "y": 4562,
+    "w": 45,
+    "h": 57
+   },
+   {
+    "x": 193,
+    "y": 4609,
+    "w": 114,
+    "h": 57
+   },
+   {
+    "x": 193,
+    "y": 4667,
+    "w": 135,
+    "h": 14
+   },
+   {
+    "x": 193,
+    "y": 4684,
+    "w": 87,
+    "h": 14
+   },
+   {
+    "x": 20,
+    "y": 4721,
+    "w": 130,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 4767,
+    "w": 45,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 4825,
+    "w": 136,
+    "h": 14
+   },
+   {
+    "x": 20,
+    "y": 4843,
+    "w": 86,
+    "h": 14
+   },
+   {
+    "x": 193,
+    "y": 4721,
+    "w": 119,
+    "h": 57
+   },
+   {
+    "x": 193,
+    "y": 4779,
+    "w": 137,
+    "h": 14
+   },
+   {
+    "x": 193,
+    "y": 4796,
+    "w": 123,
+    "h": 14
+   },
+   {
+    "x": 20,
+    "y": 4890,
+    "w": 262,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 4924,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4952,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4979,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5007,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5034,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5062,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5089,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5117,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5158,
+    "w": 318,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5185,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5213,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5240,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5268,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5309,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5484,
+    "w": 131,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5511,
+    "w": 314,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 5544,
+    "w": 114,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 5593,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5621,
+    "w": 293,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5649,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5676,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5704,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5731,
+    "w": 207,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5772,
+    "w": 189,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5947,
+    "w": 73,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5974,
+    "w": 288,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 6007,
+    "w": 57,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 6057,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6084,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6112,
+    "w": 316,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6139,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6167,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6194,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6222,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6263,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 158,
+    "y": 6438,
+    "w": 44,
+    "h": 16
+   },
+   {
+    "x": 22,
+    "y": 6471,
+    "w": 315,
+    "h": 35
+   },
+   {
+    "x": 37,
+    "y": 6500,
+    "w": 287,
+    "h": 35
+   },
+   {
+    "x": 32,
+    "y": 6556,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6583,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6611,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 25,
+    "y": 6638,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6666,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 102,
+    "y": 6694,
+    "w": 156,
+    "h": 22
+   },
+   {
+    "x": 112,
+    "y": 6764,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 97,
+    "y": 6842,
+    "w": 151,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7076,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7100,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7125,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7189,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 7230,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7303,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7335,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7368,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7400,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7432,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7465,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7534,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7566,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7598,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7631,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7663,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7732,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7765,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7797,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7829,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7861,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 8015,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 8039,
+    "w": 228,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 20,
+    "y": 164,
+    "w": 132,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 195,
+    "w": 232,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 243,
+    "w": 278,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 291,
+    "w": 232,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 367,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 394,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 422,
+    "w": 314,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 449,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 477,
+    "w": 155,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 547,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 753,
+    "w": 116,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 780,
+    "w": 287,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 829,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 857,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 885,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 912,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 940,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 967,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 995,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1022,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1050,
+    "w": 156,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1091,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1118,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1146,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1173,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1201,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1229,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1256,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1284,
+    "w": 276,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1458,
+    "w": 219,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 1485,
+    "w": 317,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 1518,
+    "w": 316,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 1551,
+    "w": 114,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 1601,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1629,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1656,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1684,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1711,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1739,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1766,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1794,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1821,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1849,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1876,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1904,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1931,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 1973,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2000,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2028,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2055,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2083,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2110,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2138,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2165,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 2340,
+    "w": 132,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 2367,
+    "w": 256,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 2711,
+    "w": 103,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 2738,
+    "w": 305,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2768,
+    "w": 127,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2818,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2848,
+    "w": 312,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2877,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2906,
+    "w": 314,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2935,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2964,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2993,
+    "w": 293,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3023,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3052,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3081,
+    "w": 293,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3131,
+    "w": 259,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3604,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 3631,
+    "w": 306,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 3660,
+    "w": 152,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 3711,
+    "w": 312,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3740,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3769,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3798,
+    "w": 309,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3828,
+    "w": 294,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3857,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3886,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3915,
+    "w": 312,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3944,
+    "w": 311,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3973,
+    "w": 275,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 4024,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4194,
+    "w": 199,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 4221,
+    "w": 316,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 4254,
+    "w": 316,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 4287,
+    "w": 85,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 4337,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4364,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4392,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4419,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4447,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4474,
+    "w": 52,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4562,
+    "w": 45,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 4609,
+    "w": 116,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 4667,
+    "w": 136,
+    "h": 14
+   },
+   {
+    "x": 193,
+    "y": 4562,
+    "w": 45,
+    "h": 57
+   },
+   {
+    "x": 193,
+    "y": 4609,
+    "w": 114,
+    "h": 57
+   },
+   {
+    "x": 193,
+    "y": 4667,
+    "w": 135,
+    "h": 14
+   },
+   {
+    "x": 193,
+    "y": 4684,
+    "w": 87,
+    "h": 14
+   },
+   {
+    "x": 20,
+    "y": 4721,
+    "w": 130,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 4767,
+    "w": 45,
+    "h": 57
+   },
+   {
+    "x": 20,
+    "y": 4825,
+    "w": 136,
+    "h": 14
+   },
+   {
+    "x": 20,
+    "y": 4843,
+    "w": 86,
+    "h": 14
+   },
+   {
+    "x": 193,
+    "y": 4721,
+    "w": 119,
+    "h": 57
+   },
+   {
+    "x": 193,
+    "y": 4779,
+    "w": 137,
+    "h": 14
+   },
+   {
+    "x": 193,
+    "y": 4796,
+    "w": 123,
+    "h": 14
+   },
+   {
+    "x": 20,
+    "y": 4890,
+    "w": 262,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 4924,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4952,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 4979,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5007,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5034,
+    "w": 303,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5062,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5089,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5117,
+    "w": 121,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5158,
+    "w": 318,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5185,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5213,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5240,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5268,
+    "w": 104,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5309,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5484,
+    "w": 131,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5511,
+    "w": 314,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 5544,
+    "w": 114,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 5593,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5621,
+    "w": 293,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5649,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5676,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5704,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5731,
+    "w": 207,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5772,
+    "w": 189,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 5947,
+    "w": 73,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 5974,
+    "w": 288,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 6007,
+    "w": 57,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 6057,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6084,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6112,
+    "w": 316,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6139,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6167,
+    "w": 294,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6194,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6222,
+    "w": 138,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 6263,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 158,
+    "y": 6438,
+    "w": 44,
+    "h": 16
+   },
+   {
+    "x": 22,
+    "y": 6471,
+    "w": 315,
+    "h": 35
+   },
+   {
+    "x": 37,
+    "y": 6500,
+    "w": 287,
+    "h": 35
+   },
+   {
+    "x": 32,
+    "y": 6556,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6583,
+    "w": 313,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6611,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 25,
+    "y": 6638,
+    "w": 311,
+    "h": 22
+   },
+   {
+    "x": 24,
+    "y": 6666,
+    "w": 312,
+    "h": 22
+   },
+   {
+    "x": 102,
+    "y": 6694,
+    "w": 156,
+    "h": 22
+   },
+   {
+    "x": 112,
+    "y": 6764,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 97,
+    "y": 6842,
+    "w": 151,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7076,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7100,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7125,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7189,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 7230,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7303,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7335,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7368,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7400,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7432,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7465,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7534,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7566,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7598,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7631,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7663,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7732,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 7765,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7797,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7829,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 7861,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 8015,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 8039,
+    "w": 228,
+    "h": 20
+   }
+  ]
+ }
+}

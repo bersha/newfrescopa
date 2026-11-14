@@ -1,0 +1,17 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://new.frescopa.coffee/cafe
+  modules  7 sections: capped 1120 ×7 · full-bleed ×0
+  contentMaxWidth 1120px (module) · shellMaxWidth fluid · root body.appear > main
+build  http://localhost:8791/cafe-proposed.html
+  modules  7 sections: capped 1120 ×7 · full-bleed ×0
+  contentMaxWidth 1120px (module) · shellMaxWidth fluid · root body.appear > main
+rows
+  ✓ content cap: live 1120px = build 1120px (±20, shared module cap)
+  ✓ module 1/7: 1120px = 1120px
+  ✓ module 2/7: 1120px = 1120px
+  ✓ module 3/7: 1120px = 1120px
+  ✓ module 4/7: 1120px = 1120px
+  ✓ module 5/7: 1120px = 1120px
+  ✓ module 6/7: 1120px = 1120px
+  ✓ module 7/7: 1120px = 1120px
+cap-probe: PASS at 2560 — 0 of 8 rows failed (evidence stardust/replica/gates/cafe-2560/cap-iter.json)

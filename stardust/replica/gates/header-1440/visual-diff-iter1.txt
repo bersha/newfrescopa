@@ -1,0 +1,65 @@
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/header-1440/vdiff-iter1/
+
+build red flags (advisory): 
+  • BLANK RENDER: the build page is hidden/empty (main height 144px, text 0 chars). NOT a pass. The build render is hidden/empty — a load failure or an unsatisfied visibility gate. Fix before trusting any other result.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": true,
+  "mainHeight": 144,
+  "textLen": 0,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": []
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": true,
+  "mainHeight": 144,
+  "textLen": 0,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": []
+ }
+}

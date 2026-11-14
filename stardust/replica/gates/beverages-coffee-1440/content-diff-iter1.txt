@@ -1,0 +1,22 @@
+
+Content diff @ 1440px (profile "generic", roots: main, header, footer)
+root "main"
+  source: 106 text nodes — 4 headings, 45 eyebrows, 21 CTAs, 36 body; 5 img
+  build: 106 text nodes — 4 headings, 45 eyebrows, 21 CTAs, 36 body; 5 img
+  editable texts (outermost h*/p/ul/ol): source 51 / build 51
+  attributes (placeholder/aria-label/title): source 12 / build 12; icons: source 0 / build 0
+root "header"
+  source: 5 text nodes — 0 headings, 0 eyebrows, 5 CTAs, 0 body; 1 img
+  build: 5 text nodes — 0 headings, 0 eyebrows, 5 CTAs, 0 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 1 / build 1
+  attributes (placeholder/aria-label/title): source 9 / build 9; icons: source 4 / build 4
+root "footer"
+  source: 20 text nodes — 3 headings, 0 eyebrows, 13 CTAs, 4 body; 1 img
+  build: 20 text nodes — 3 headings, 0 eyebrows, 13 CTAs, 4 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 8 / build 8
+  attributes (placeholder/aria-label/title): source 4 / build 4; icons: source 3 / build 3
+
+Findings: 2 (1 structural 🔴)
+Tiers: looks-same 🔴 1 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 1
+  🔴 MISSING EYEBROW [main]: source eyebrow "Coffee" has no build match. A small label present in the source is absent in the build — often a component that classifies its nodes by position rather than content.
+  🟠 EXTRA [main]: build eyebrow "Beverages Coffee Proposed.html" has no source source — Unexpected node with no source.

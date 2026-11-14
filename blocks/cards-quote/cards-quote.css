@@ -1,0 +1,50 @@
+/* cards-quote: unframed testimonial cards (quote + citation) */
+
+.cards-quote > ul {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 2.5rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.cards-quote > ul > li {
+  margin: 0;
+  padding: 0;
+}
+
+.cards-quote .cards-quote-card-body > p {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: 1.4rem;
+  font-weight: 600;
+  line-height: 1.4;
+  color: var(--ink);
+}
+
+/* citation: the last of two or more paragraphs */
+.cards-quote .cards-quote-card-body > p:last-child:not(:only-child) {
+  margin: 1.1rem 0 0;
+  font-family: var(--font-body);
+  font-size: 0.76rem;
+  font-weight: 400;
+  line-height: 1.62;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--link-color);
+}
+
+.cards-quote .cards-quote-card-image img {
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+@media (width >= 900px) {
+  .cards-quote > ul {
+    grid-template-columns: 1fr 1fr;
+    gap: 4rem;
+    padding-top: 3rem;
+  }
+}

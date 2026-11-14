@@ -1,0 +1,52 @@
+run-bg: home-measure-360 launched 2026-11-13T20:44:34.438Z (timeout 900s): node stardust/scripts/replica/measure.mjs https://new.frescopa.coffee/ --against https://main--7c29ab64--aemcoder.aem.page/ --width 360 --selectors main > .section,footer --all-matches
+measure  A = https://new.frescopa.coffee/
+         B = https://main--7c29ab64--aemcoder.aem.page/
+  widths 360 · 2 selector(s) · 24 props · all matches (≤ 12)
+
+@ 360px
+  root
+    A  scrollWidth   360  viewport 360  scrollHeight   8812
+    B  scrollWidth   360  viewport 360  scrollHeight   8812
+    Δ  scrollWidth 0  scrollHeight 0
+  main > .section   9 matches
+    [1]
+    A  x     0  y      0  w   360  h   680  vis  "MEET THE ATELIER Every morning, perfect…"
+    B  x     0  y      0  w   360  h   680  vis  "MEET THE ATELIER Every morning, perfect…"
+    Δ  Δx 0 Δy 0 Δw 0 Δh 0  props equal
+    [2]
+    A  x     0  y    680  w   360  h   587  vis  "FUEL, MEET A MACHINE THAT GETS IT Great…"
+    B  x     0  y    680  w   360  h   587  vis  "FUEL, MEET A MACHINE THAT GETS IT Great…"
+    Δ  Δx 0 Δy 0 Δw 0 Δh 0  props equal
+    [3]
+    A  x     0  y   1267  w   360  h  1000  vis  "HOW IT LEARNS YOU Your taste, drawn one…"
+    B  x     0  y   1267  w   360  h  1000  vis  "HOW IT LEARNS YOU Your taste, drawn one…"
+    Δ  Δx 0 Δy 0 Δw 0 Δh 0  props equal
+    [4]
+    A  x     0  y   2266  w   360  h   910  vis  "MOOD-AWARE BREWING It reads the room. A…"
+    B  x     0  y   2266  w   360  h   910  vis  "MOOD-AWARE BREWING It reads the room. A…"
+    Δ  Δx 0 Δy 0 Δw 0 Δh 0  props equal
+    [5]
+    A  x     0  y   3176  w   360  h  1918  vis  "THIS WEEK, FOR YOU New favourites, foun…"
+    B  x     0  y   3176  w   360  h  1918  vis  "THIS WEEK, FOR YOU New favourites, foun…"
+    Δ  Δx 0 Δy 0 Δw 0 Δh 0  props equal
+    [6]
+    A  x     0  y   5094  w   360  h   842  vis  "KIND BY DESIGN Nothing wasted, right do…"
+    B  x     0  y   5094  w   360  h   842  vis  "KIND BY DESIGN Nothing wasted, right do…"
+    Δ  Δx 0 Δy 0 Δw 0 Δh 0  props equal
+    [7]
+    A  x     0  y   5936  w   360  h   809  vis  "FROM KITCHENS LIKE YOURS “It worked out…"
+    B  x     0  y   5936  w   360  h   809  vis  "FROM KITCHENS LIKE YOURS “It worked out…"
+    Δ  Δx 0 Δy 0 Δw 0 Δh 0  props equal
+    [8]
+    A  x     0  y   6745  w   360  h   434  vis  "COME SAY HELLO Every Atelier begins at …"
+    B  x     0  y   6745  w   360  h   434  vis  "COME SAY HELLO Every Atelier begins at …"
+    Δ  Δx 0 Δy 0 Δw 0 Δh 0  props equal
+    [9]
+    A  x     0  y   7179  w   360  h   479  vis  "Your best cup is the one you haven't me…"
+    B  x     0  y   7179  w   360  h   479  vis  "Your best cup is the one you haven't me…"
+    Δ  Δx 0 Δy 0 Δw 0 Δh 0  props equal
+  footer
+    A  x     0  y   7658  w   360  h  1154  vis  "Warm mornings, made effortless. Coffee,…"
+    B  x     0  y   7658  w   360  h  1154  vis  "Warm mornings, made effortless. Coffee,…"
+    Δ  Δx 0 Δy 0 Δw 0 Δh 0  props equal
+run-bg: home-measure-360 ended exit=0

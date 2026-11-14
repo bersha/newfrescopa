@@ -10,6 +10,8 @@ import {
   loadSections,
   loadCSS,
   buildBlock,
+  readBlockConfig,
+  toClassName,
 } from './aem.js';
 
 if (window.trustedTypes && window.trustedTypes.createPolicy) {
@@ -143,6 +145,171 @@ function decorateButtons(main) {
 }
 
 /**
+ * Applies `section-metadata` blocks: `style` values become section classes,
+ * other keys become data attributes. The block itself is removed.
+ * @param {Element} main The main element
+ */
+function decorateSectionMetadata(main) {
+  main.querySelectorAll(':scope > .section .section-metadata').forEach((meta) => {
+    const section = meta.closest('.section');
+    const config = readBlockConfig(meta);
+    Object.entries(config).forEach(([key, value]) => {
+      if (key === 'style') {
+        value.split(',').map((style) => toClassName(style.trim())).filter(Boolean)
+          .forEach((style) => section.classList.add(style));
+      } else {
+        const prop = toClassName(key).replace(/-([a-z])/g, (m) => m[1].toUpperCase());
+        section.dataset[prop] = value;
+      }
+    });
+    const wrapper = meta.parentElement;
+    meta.remove();
+    if (wrapper?.classList.contains('section-metadata-wrapper') && !wrapper.children.length) {
+      wrapper.remove();
+    }
+  });
+}
+
+/**
+ * Scroll reveal: default-content children and blocks of every section after
+ * the first fade and rise in as they enter the viewport.
+ * @param {Element} main The main element
+ */
+function decorateScrollReveal(main) {
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      if (!entry.isIntersecting) return;
+      entry.target.classList.add('is-in');
+      observer.unobserve(entry.target);
+    });
+  }, { threshold: 0.15, rootMargin: '0px 0px -8% 0px' });
+
+  [...main.querySelectorAll(':scope > .section')].slice(1).forEach((section) => {
+    const targets = [
+      ...section.querySelectorAll(':scope > .default-content-wrapper > *'),
+      ...section.querySelectorAll(':scope > div[class$="-wrapper"] > .block'),
+    ];
+    targets.forEach((el, i) => {
+      el.classList.add('reveal');
+      el.style.setProperty('--reveal-delay', `${Math.min(i * 0.08, 0.32)}s`);
+      observer.observe(el);
+    });
+  });
+}
+
+/**
+ * Builds a breadcrumb nav from [label, href] pairs; the last crumb is current.
+ * @param {string} className nav class
+ * @param {Array<[string, string|null]>} crumbs label/href pairs
+ * @returns {HTMLElement} the breadcrumb nav
+ */
+function buildBreadcrumb(className, crumbs) {
+  const nav = document.createElement('nav');
+  nav.className = className;
+  nav.setAttribute('aria-label', 'Breadcrumb');
+  crumbs.forEach(([label, href], i) => {
+    if (i > 0) {
+      const sep = document.createElement('span');
+      sep.setAttribute('aria-hidden', 'true');
+      sep.textContent = '/';
+      nav.append(sep);
+    }
+    const crumb = document.createElement(href ? 'a' : 'span');
+    if (href) crumb.href = href;
+    if (i === crumbs.length - 1) crumb.setAttribute('aria-current', 'page');
+    crumb.textContent = label;
+    nav.append(crumb);
+  });
+  return nav;
+}
+
+/**
+ * Catalogue pages (with a machine-filter bar): "Home / <Page>" breadcrumb
+ * above the intro heading, the label derived from the URL.
+ * @param {Element} main The main element
+ */
+/**
+ * The page's own path: the canonical URL's path when present (prototype and preview
+ * hosts serve the page under another URL), else the location's.
+ * @returns {string}
+ */
+export function pagePath() {
+  const canonical = document.querySelector('link[rel="canonical"]')?.href;
+  try {
+    if (canonical) return new URL(canonical).pathname;
+  } catch (e) { /* malformed canonical: fall back */ }
+  return window.location.pathname;
+}
+
+function decorateCatalogueBreadcrumb(main) {
+  if (!main.querySelector('.machine-filter')) return;
+  const intro = [...main.querySelectorAll(':scope > .section')].find((s) => s.querySelector('h1'));
+  const wrapper = intro?.querySelector('.default-content-wrapper');
+  if (!wrapper?.querySelector('h1')) return;
+  const pathname = pagePath();
+  const label = (pathname.replace(/\/$/, '').split('/').pop() || '')
+    .split('-')
+    .map((w) => w.charAt(0).toUpperCase() + w.slice(1))
+    .join(' ');
+  wrapper.prepend(buildBreadcrumb('page-breadcrumb', [
+    ['Home', pathname.replace(/[^/]+$/, '')],
+    [label, null],
+  ]));
+}
+
+/**
+ * Machine-catalogue band heads: eyebrow / heading / lede on the left and the
+ * trailing paragraph as a "How they differ" note on the right.
+ * @param {Element} main The main element
+ */
+function decorateMachineBandHeads(main) {
+  main.querySelectorAll(':scope > .section:has(.cards-machine) > .default-content-wrapper').forEach((wrapper) => {
+    const kids = [...wrapper.children];
+    const paragraphs = kids.filter((el) => el.tagName === 'P');
+    if (!kids.some((el) => el.tagName === 'H2') || paragraphs.length < 2) return;
+    const note = paragraphs[paragraphs.length - 1];
+
+    const copy = document.createElement('div');
+    copy.className = 'section-head-copy';
+    copy.append(...kids.filter((el) => el !== note));
+
+    const aside = document.createElement('div');
+    aside.className = 'section-head-note';
+    const label = document.createElement('span');
+    label.className = 'section-head-note-label';
+    label.textContent = 'How they differ';
+    aside.append(label, note);
+
+    wrapper.classList.add('section-head-split');
+    wrapper.append(copy, aside);
+  });
+}
+
+/**
+ * Journal article: turns the flat "The Journal / Category" paragraph into a
+ * breadcrumb and groups the header copy and top byline into `.article-header`.
+ * @param {Element} main The main element
+ */
+function decorateArticleHeader(main) {
+  const section = main.querySelector(':scope > .section:has(.article-byline)');
+  const copy = section?.querySelector(':scope > .default-content-wrapper');
+  const crumb = copy?.querySelector(':scope > p:first-child');
+  if (!crumb || !crumb.textContent.includes('/')) return;
+
+  const parts = crumb.textContent.split('/').map((s) => s.trim()).filter(Boolean);
+  const blogHref = pagePath().replace(/[^/]+$/, 'blog');
+  crumb.replaceWith(buildBreadcrumb('article-breadcrumb', parts.map((p, i) => [p, i === 0 ? blogHref : null])));
+
+  const header = document.createElement('div');
+  header.className = 'article-header';
+  section.insertBefore(header, copy);
+  header.append(copy);
+  const byline = section.querySelector(':scope > .article-byline-wrapper');
+  if (byline) header.append(byline);
+}
+
+/**
  * Decorates the main element.
  * @param {Element} main The main element
  */
@@ -151,8 +318,12 @@ export function decorateMain(main) {
   decorateIcons(main);
   buildAutoBlocks(main);
   decorateSections(main);
+  decorateSectionMetadata(main);
   decorateBlocks(main);
   decorateButtons(main);
+  decorateCatalogueBreadcrumb(main);
+  decorateMachineBandHeads(main);
+  decorateArticleHeader(main);
 }
 
 /**
@@ -160,6 +331,7 @@ export function decorateMain(main) {
  * @param {Element} doc The container element
  */
 async function loadEager(doc) {
+  import('./martech.js').then((m) => m.loadConsent());
   document.documentElement.lang = 'en';
   decorateTemplateAndTheme();
   const main = doc.querySelector('main');
@@ -188,6 +360,7 @@ async function loadLazy(doc) {
 
   const main = doc.querySelector('main');
   await loadSections(main);
+  decorateScrollReveal(main);
 
   const { hash } = window.location;
   const element = hash ? doc.getElementById(hash.substring(1)) : false;
@@ -204,6 +377,7 @@ async function loadLazy(doc) {
  * without impacting the user experience.
  */
 function loadDelayed() {
+  import('./martech.js').then((m) => m.loadTags());
   import('./consent-check.js');
   // load anything that can be postponed to the latest here
 }

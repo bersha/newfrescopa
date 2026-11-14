@@ -1,0 +1,4494 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T20:48:44.015Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://new.frescopa.coffee/machines",
+  "at": "2026-11-13T20:48:22.051Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6879,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > a",
+    "x": 20,
+    "y": 184,
+    "w": 38,
+    "h": 19,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > span",
+    "x": 81,
+    "y": 184,
+    "w": 68,
+    "h": 19,
+    "label": "current",
+    "value": "machines",
+    "via": "aria-current"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > span",
+    "x": 81,
+    "y": 184,
+    "w": 68,
+    "h": 19,
+    "text": "Machines"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > h1#made-in-the-workshop",
+    "x": 20,
+    "y": 212,
+    "w": 320,
+    "h": 30,
+    "level": 1,
+    "text": "made in the workshop."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 258,
+    "w": 320,
+    "h": 110,
+    "text": "Four families of machine, each tuned by hand for a different kind of morning. St"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab.is-active",
+    "x": 20,
+    "y": 416,
+    "w": 115,
+    "h": 34,
+    "text": "all machines"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 145,
+    "y": 416,
+    "w": 112,
+    "h": 34,
+    "text": "bean-to-cup"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 20,
+    "y": 459,
+    "w": 92,
+    "h": 34,
+    "text": "espresso"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 122,
+    "y": 459,
+    "w": 68,
+    "h": 34,
+    "text": "filter"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 199,
+    "y": 459,
+    "w": 101,
+    "h": 34,
+    "text": "cold brew"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 582,
+    "w": 320,
+    "h": 19,
+    "text": "Bean-to-cup · Premium"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > h2#the-thinking-machines",
+    "x": 20,
+    "y": 611,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "the thinking machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 653,
+    "w": 320,
+    "h": 117,
+    "text": "Whole beans in, a finished cup out — milk, timing and all. The most hands-off wa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > span.section-head-note-label",
+    "x": 40,
+    "y": 770,
+    "w": 300,
+    "h": 18,
+    "text": "How they differ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > p",
+    "x": 40,
+    "y": 795,
+    "w": 300,
+    "h": 79,
+    "text": "The Atelier learns and adapts on its own; the Mini carries the same brain to a s"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 942,
+    "w": 318,
+    "h": 173,
+    "text": "",
+    "file": "media_1a775c161149ea61e50ce787b6c0adb646"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-media > span.cards-machine-badge",
+    "x": 37,
+    "y": 958,
+    "w": 42,
+    "h": 23,
+    "text": "New"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 61,
+    "y": 1155,
+    "w": 238,
+    "h": 18,
+    "text": "The flagship"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > h3#the-atelier",
+    "x": 61,
+    "y": 1181,
+    "w": 238,
+    "h": 29,
+    "level": 3,
+    "text": "the atelier"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > p.cards-machine-desc",
+    "x": 61,
+    "y": 1223,
+    "w": 238,
+    "h": 138,
+    "text": "It senses what you like, builds a taste profile, reads the day ahead and pours a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 61,
+    "y": 1383,
+    "w": 238,
+    "h": 39,
+    "text": "Learns your taste cup by cup, no dialing-in"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 61,
+    "y": 1433,
+    "w": 238,
+    "h": 39,
+    "text": "Reads your calendar and mood to pace the morning"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 61,
+    "y": 1484,
+    "w": 238,
+    "h": 39,
+    "text": "Reorders beans before you run out"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 61,
+    "y": 1568,
+    "w": 63,
+    "h": 32,
+    "text": "$2,199"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 140,
+    "y": 1547,
+    "w": 159,
+    "h": 74,
+    "text": "view the atelier →",
+    "href": "/machines/atelier"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine.block > div.cards-machine-companions > span.cards-machine-group-label",
+    "x": 20,
+    "y": 1726,
+    "w": 320,
+    "h": 18,
+    "text": "Also in this family"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 1761,
+    "w": 318,
+    "h": 173,
+    "text": "",
+    "file": "media_1017eb8d437ebe44b4a61e0865dcaef05f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 49,
+    "y": 1962,
+    "w": 262,
+    "h": 18,
+    "text": "Bean-to-cup"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > h3#the-atelier-mini",
+    "x": 49,
+    "y": 1988,
+    "w": 262,
+    "h": 23,
+    "level": 3,
+    "text": "the atelier mini"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > p.cards-machine-desc",
+    "x": 49,
+    "y": 2023,
+    "w": 262,
+    "h": 55,
+    "text": "The same clever heart, sized for smaller kitchens."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 49,
+    "y": 2102,
+    "w": 49,
+    "h": 32,
+    "text": "$799"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 217,
+    "y": 2106,
+    "w": 94,
+    "h": 24,
+    "text": "join the list→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 2308,
+    "w": 320,
+    "h": 19,
+    "text": "Espresso"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > h2#for-the-hands-on-ritual",
+    "x": 20,
+    "y": 2337,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "for the hands-on ritual"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 2379,
+    "w": 320,
+    "h": 87,
+    "text": "Grind, tamp, pull. Machines for people who want to be the barista — precise, tac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > span.section-head-note-label",
+    "x": 40,
+    "y": 2466,
+    "w": 300,
+    "h": 18,
+    "text": "How they differ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > p",
+    "x": 40,
+    "y": 2492,
+    "w": 300,
+    "h": 79,
+    "text": "The Barista gives you full manual control; the Everyday keeps it simple for a re"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 2671,
+    "w": 318,
+    "h": 256,
+    "text": "",
+    "file": "media_1db811b17fbc255479a69bb6ae75e55e55"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 49,
+    "y": 2955,
+    "w": 262,
+    "h": 18,
+    "text": "Espresso"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > h3#the-barista",
+    "x": 49,
+    "y": 2980,
+    "w": 262,
+    "h": 23,
+    "level": 3,
+    "text": "the barista"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > p.cards-machine-desc",
+    "x": 49,
+    "y": 3016,
+    "w": 262,
+    "h": 55,
+    "text": "A hands-on machine for the morning ritualist."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 49,
+    "y": 3095,
+    "w": 51,
+    "h": 32,
+    "text": "$899"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 217,
+    "y": 3099,
+    "w": 94,
+    "h": 24,
+    "text": "join the list→",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 3182,
+    "w": 318,
+    "h": 256,
+    "text": "",
+    "file": "media_1dd4513b3aaf352944950aa2185c992730"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 49,
+    "y": 3466,
+    "w": 262,
+    "h": 18,
+    "text": "Espresso"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > h3#the-everyday",
+    "x": 49,
+    "y": 3491,
+    "w": 262,
+    "h": 23,
+    "level": 3,
+    "text": "the everyday"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > p.cards-machine-desc",
+    "x": 49,
+    "y": 3527,
+    "w": 262,
+    "h": 55,
+    "text": "Honest espresso, every single morning."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 49,
+    "y": 3606,
+    "w": 51,
+    "h": 32,
+    "text": "$499"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 217,
+    "y": 3610,
+    "w": 94,
+    "h": 24,
+    "text": "join the list→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 3812,
+    "w": 320,
+    "h": 19,
+    "text": "Filter"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > h2#slow-and-even",
+    "x": 20,
+    "y": 3840,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "slow and even"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 3883,
+    "w": 320,
+    "h": 87,
+    "text": "Clean, balanced filter coffee for the unhurried cup — the kind you sip through a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > span.section-head-note-label",
+    "x": 40,
+    "y": 3970,
+    "w": 300,
+    "h": 18,
+    "text": "How they differ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > p",
+    "x": 40,
+    "y": 3996,
+    "w": 300,
+    "h": 79,
+    "text": "One machine, perfected: even saturation and gentle timing, so every batch tastes"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 4174,
+    "w": 318,
+    "h": 256,
+    "text": "",
+    "file": "media_1d34c4d078381820a4960089ca6fa50b65"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 49,
+    "y": 4459,
+    "w": 262,
+    "h": 18,
+    "text": "Filter"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > h3#the-slow-pour",
+    "x": 49,
+    "y": 4484,
+    "w": 262,
+    "h": 23,
+    "level": 3,
+    "text": "the slow pour"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > p.cards-machine-desc",
+    "x": 49,
+    "y": 4520,
+    "w": 262,
+    "h": 55,
+    "text": "Filter coffee, unhurried and beautifully even."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 49,
+    "y": 4599,
+    "w": 49,
+    "h": 32,
+    "text": "$279"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 217,
+    "y": 4603,
+    "w": 94,
+    "h": 24,
+    "text": "join the list→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 4804,
+    "w": 320,
+    "h": 19,
+    "text": "Cold brew"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > h2#ready-by-morning",
+    "x": 20,
+    "y": 4833,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "ready by morning"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 4876,
+    "w": 320,
+    "h": 87,
+    "text": "Smooth, low-acid cold brew steeped overnight — poured cold straight from the fri"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > span.section-head-note-label",
+    "x": 40,
+    "y": 4963,
+    "w": 300,
+    "h": 18,
+    "text": "How they differ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > p",
+    "x": 40,
+    "y": 4989,
+    "w": 300,
+    "h": 53,
+    "text": "Set it before bed; the Carafe does the steeping while you sleep."
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 5141,
+    "w": 318,
+    "h": 283,
+    "text": "",
+    "file": "media_1b37b66e87d844199ff136582ca6c1f13b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 49,
+    "y": 5452,
+    "w": 262,
+    "h": 18,
+    "text": "Cold brew"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > h3#the-carafe",
+    "x": 49,
+    "y": 5477,
+    "w": 262,
+    "h": 23,
+    "level": 3,
+    "text": "the carafe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > p.cards-machine-desc",
+    "x": 49,
+    "y": 5513,
+    "w": 262,
+    "h": 55,
+    "text": "Smooth cold brew, ready and waiting by morning."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 49,
+    "y": 5592,
+    "w": 45,
+    "h": 32,
+    "text": "$179"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 217,
+    "y": 5596,
+    "w": 94,
+    "h": 24,
+    "text": "join the list→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 5852,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 5965,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 5995,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 6082,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6113,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6146,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6178,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6210,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6243,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 6313,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6344,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6376,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6409,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6441,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 6511,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6543,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6575,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6607,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6639,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 6735,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 6735,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 6735,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 6791,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 85,
+    "controls": 34,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--7c29ab64--aemcoder.aem.page/machines",
+  "at": "2026-11-13T20:48:43.877Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6879,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > a",
+    "x": 20,
+    "y": 184,
+    "w": 38,
+    "h": 19,
+    "text": "home",
+    "href": "/"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > span",
+    "x": 81,
+    "y": 184,
+    "w": 68,
+    "h": 19,
+    "label": "current",
+    "value": "machines",
+    "via": "aria-current"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.page-breadcrumb > span",
+    "x": 81,
+    "y": 184,
+    "w": 68,
+    "h": 19,
+    "text": "Machines"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > h1#made-in-the-workshop",
+    "x": 20,
+    "y": 212,
+    "w": 320,
+    "h": 30,
+    "level": 1,
+    "text": "made in the workshop."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 258,
+    "w": 320,
+    "h": 110,
+    "text": "Four families of machine, each tuned by hand for a different kind of morning. St"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab.is-active",
+    "x": 20,
+    "y": 416,
+    "w": 115,
+    "h": 34,
+    "text": "all machines"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 145,
+    "y": 416,
+    "w": 112,
+    "h": 34,
+    "text": "bean-to-cup"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 20,
+    "y": 459,
+    "w": 92,
+    "h": 34,
+    "text": "espresso"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 122,
+    "y": 459,
+    "w": 68,
+    "h": 34,
+    "text": "filter"
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.machine-filter.block > div.machine-filter-bar > button.machine-filter-tab",
+    "x": 199,
+    "y": 459,
+    "w": 101,
+    "h": 34,
+    "text": "cold brew"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 582,
+    "w": 320,
+    "h": 19,
+    "text": "Bean-to-cup · Premium"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > h2#the-thinking-machines",
+    "x": 20,
+    "y": 611,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "the thinking machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 653,
+    "w": 320,
+    "h": 117,
+    "text": "Whole beans in, a finished cup out — milk, timing and all. The most hands-off wa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > span.section-head-note-label",
+    "x": 40,
+    "y": 770,
+    "w": 300,
+    "h": 18,
+    "text": "How they differ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > p",
+    "x": 40,
+    "y": 795,
+    "w": 300,
+    "h": 79,
+    "text": "The Atelier learns and adapts on its own; the Mini carries the same brain to a s"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 942,
+    "w": 318,
+    "h": 173,
+    "text": "",
+    "file": "media_1a775c161149ea61e50ce787b6c0adb646"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-media > span.cards-machine-badge",
+    "x": 37,
+    "y": 958,
+    "w": 42,
+    "h": 23,
+    "text": "New"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 61,
+    "y": 1155,
+    "w": 238,
+    "h": 18,
+    "text": "The flagship"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > h3#the-atelier",
+    "x": 61,
+    "y": 1181,
+    "w": 238,
+    "h": 29,
+    "level": 3,
+    "text": "the atelier"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > p.cards-machine-desc",
+    "x": 61,
+    "y": 1223,
+    "w": 238,
+    "h": 138,
+    "text": "It senses what you like, builds a taste profile, reads the day ahead and pours a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 61,
+    "y": 1383,
+    "w": 238,
+    "h": 39,
+    "text": "Learns your taste cup by cup, no dialing-in"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 61,
+    "y": 1433,
+    "w": 238,
+    "h": 39,
+    "text": "Reads your calendar and mood to pace the morning"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 61,
+    "y": 1484,
+    "w": 238,
+    "h": 39,
+    "text": "Reorders beans before you run out"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 61,
+    "y": 1568,
+    "w": 63,
+    "h": 32,
+    "text": "$2,199"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 140,
+    "y": 1547,
+    "w": 159,
+    "h": 74,
+    "text": "view the atelier →",
+    "href": "/machines/atelier"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine.block > div.cards-machine-companions > span.cards-machine-group-label",
+    "x": 20,
+    "y": 1726,
+    "w": 320,
+    "h": 18,
+    "text": "Also in this family"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 1761,
+    "w": 318,
+    "h": 173,
+    "text": "",
+    "file": "media_1017eb8d437ebe44b4a61e0865dcaef05f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 49,
+    "y": 1962,
+    "w": 262,
+    "h": 18,
+    "text": "Bean-to-cup"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > h3#the-atelier-mini",
+    "x": 49,
+    "y": 1988,
+    "w": 262,
+    "h": 23,
+    "level": 3,
+    "text": "the atelier mini"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > p.cards-machine-desc",
+    "x": 49,
+    "y": 2023,
+    "w": 262,
+    "h": 55,
+    "text": "The same clever heart, sized for smaller kitchens."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 49,
+    "y": 2102,
+    "w": 49,
+    "h": 32,
+    "text": "$799"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 217,
+    "y": 2106,
+    "w": 94,
+    "h": 24,
+    "text": "join the list→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 2308,
+    "w": 320,
+    "h": 19,
+    "text": "Espresso"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > h2#for-the-hands-on-ritual",
+    "x": 20,
+    "y": 2337,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "for the hands-on ritual"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 2379,
+    "w": 320,
+    "h": 87,
+    "text": "Grind, tamp, pull. Machines for people who want to be the barista — precise, tac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > span.section-head-note-label",
+    "x": 40,
+    "y": 2466,
+    "w": 300,
+    "h": 18,
+    "text": "How they differ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > p",
+    "x": 40,
+    "y": 2492,
+    "w": 300,
+    "h": 79,
+    "text": "The Barista gives you full manual control; the Everyday keeps it simple for a re"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 2671,
+    "w": 318,
+    "h": 256,
+    "text": "",
+    "file": "media_1db811b17fbc255479a69bb6ae75e55e55"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 49,
+    "y": 2955,
+    "w": 262,
+    "h": 18,
+    "text": "Espresso"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > h3#the-barista",
+    "x": 49,
+    "y": 2980,
+    "w": 262,
+    "h": 23,
+    "level": 3,
+    "text": "the barista"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > p.cards-machine-desc",
+    "x": 49,
+    "y": 3016,
+    "w": 262,
+    "h": 55,
+    "text": "A hands-on machine for the morning ritualist."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 49,
+    "y": 3095,
+    "w": 51,
+    "h": 32,
+    "text": "$899"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 217,
+    "y": 3099,
+    "w": 94,
+    "h": 24,
+    "text": "join the list→",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 3182,
+    "w": 318,
+    "h": 256,
+    "text": "",
+    "file": "media_1dd4513b3aaf352944950aa2185c992730"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 49,
+    "y": 3466,
+    "w": 262,
+    "h": 18,
+    "text": "Espresso"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > h3#the-everyday",
+    "x": 49,
+    "y": 3491,
+    "w": 262,
+    "h": 23,
+    "level": 3,
+    "text": "the everyday"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > p.cards-machine-desc",
+    "x": 49,
+    "y": 3527,
+    "w": 262,
+    "h": 55,
+    "text": "Honest espresso, every single morning."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 49,
+    "y": 3606,
+    "w": 51,
+    "h": 32,
+    "text": "$499"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 217,
+    "y": 3610,
+    "w": 94,
+    "h": 24,
+    "text": "join the list→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 3812,
+    "w": 320,
+    "h": 19,
+    "text": "Filter"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > h2#slow-and-even",
+    "x": 20,
+    "y": 3840,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "slow and even"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 3883,
+    "w": 320,
+    "h": 87,
+    "text": "Clean, balanced filter coffee for the unhurried cup — the kind you sip through a"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > span.section-head-note-label",
+    "x": 40,
+    "y": 3970,
+    "w": 300,
+    "h": 18,
+    "text": "How they differ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > p",
+    "x": 40,
+    "y": 3996,
+    "w": 300,
+    "h": 79,
+    "text": "One machine, perfected: even saturation and gentle timing, so every batch tastes"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 4174,
+    "w": 318,
+    "h": 256,
+    "text": "",
+    "file": "media_1d34c4d078381820a4960089ca6fa50b65"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 49,
+    "y": 4459,
+    "w": 262,
+    "h": 18,
+    "text": "Filter"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > h3#the-slow-pour",
+    "x": 49,
+    "y": 4484,
+    "w": 262,
+    "h": 23,
+    "level": 3,
+    "text": "the slow pour"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > p.cards-machine-desc",
+    "x": 49,
+    "y": 4520,
+    "w": 262,
+    "h": 55,
+    "text": "Filter coffee, unhurried and beautifully even."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 49,
+    "y": 4599,
+    "w": 49,
+    "h": 32,
+    "text": "$279"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 217,
+    "y": 4603,
+    "w": 94,
+    "h": 24,
+    "text": "join the list→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 4804,
+    "w": 320,
+    "h": 19,
+    "text": "Cold brew"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > h2#ready-by-morning",
+    "x": 20,
+    "y": 4833,
+    "w": 320,
+    "h": 26,
+    "level": 2,
+    "text": "ready by morning"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-copy.reveal > p",
+    "x": 20,
+    "y": 4876,
+    "w": 320,
+    "h": 87,
+    "text": "Smooth, low-acid cold brew steeped overnight — poured cold straight from the fri"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > span.section-head-note-label",
+    "x": 40,
+    "y": 4963,
+    "w": 300,
+    "h": 18,
+    "text": "How they differ"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper.section-head-split > div.section-head-note.reveal > p",
+    "x": 40,
+    "y": 4989,
+    "w": 300,
+    "h": 53,
+    "text": "Set it before bed; the Carafe does the steeping while you sleep."
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 21,
+    "y": 5141,
+    "w": 318,
+    "h": 283,
+    "text": "",
+    "file": "media_1b37b66e87d844199ff136582ca6c1f13b"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 49,
+    "y": 5452,
+    "w": 262,
+    "h": 18,
+    "text": "Cold brew"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > h3#the-carafe",
+    "x": 49,
+    "y": 5477,
+    "w": 262,
+    "h": 23,
+    "level": 3,
+    "text": "the carafe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-companion > div.cards-machine-body > p.cards-machine-desc",
+    "x": 49,
+    "y": 5513,
+    "w": 262,
+    "h": 55,
+    "text": "Smooth cold brew, ready and waiting by morning."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > span.cards-machine-price",
+    "x": 49,
+    "y": 5592,
+    "w": 45,
+    "h": 32,
+    "text": "$179"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 217,
+    "y": 5596,
+    "w": 94,
+    "h": 24,
+    "text": "join the list→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 5852,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 5965,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 5995,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 6082,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6113,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6146,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6178,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6210,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6243,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 6313,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6344,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6376,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6409,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6441,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 6511,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6543,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6575,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6607,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6639,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 6735,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 6735,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 6735,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 6791,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 85,
+    "controls": 34,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "made in the workshop.",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 5,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 5,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "the thinking machines",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 5,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "the atelier",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 7,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 7,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "the atelier mini",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "for the hands-on ritual",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "the barista",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "the everyday",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "slow and even",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "the slow pour",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "ready by morning",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 4,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 4,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "the carafe",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 20,
+    "y": 185,
+    "w": 38,
+    "h": 15
+   },
+   {
+    "x": 66,
+    "y": 185,
+    "w": 6,
+    "h": 15
+   },
+   {
+    "x": 81,
+    "y": 185,
+    "w": 68,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 209,
+    "w": 313,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 260,
+    "w": 302,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 287,
+    "w": 314,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 315,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 342,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 37,
+    "y": 423,
+    "w": 82,
+    "h": 18
+   },
+   {
+    "x": 162,
+    "y": 423,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 37,
+    "y": 466,
+    "w": 59,
+    "h": 18
+   },
+   {
+    "x": 139,
+    "y": 466,
+    "w": 34,
+    "h": 18
+   },
+   {
+    "x": 216,
+    "y": 466,
+    "w": 67,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 583,
+    "w": 189,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 608,
+    "w": 278,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 656,
+    "w": 298,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 685,
+    "w": 313,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 714,
+    "w": 246,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 744,
+    "w": 318,
+    "h": 23
+   },
+   {
+    "x": 40,
+    "y": 771,
+    "w": 116,
+    "h": 14
+   },
+   {
+    "x": 40,
+    "y": 797,
+    "w": 269,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 824,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 850,
+    "w": 136,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 962,
+    "w": 27,
+    "h": 14
+   },
+   {
+    "x": 61,
+    "y": 1156,
+    "w": 87,
+    "h": 14
+   },
+   {
+    "x": 61,
+    "y": 1179,
+    "w": 136,
+    "h": 32
+   },
+   {
+    "x": 61,
+    "y": 1225,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 61,
+    "y": 1253,
+    "w": 203,
+    "h": 22
+   },
+   {
+    "x": 61,
+    "y": 1280,
+    "w": 221,
+    "h": 22
+   },
+   {
+    "x": 61,
+    "y": 1308,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 61,
+    "y": 1335,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1381,
+    "w": 188,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1401,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1431,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1451,
+    "w": 200,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1482,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1501,
+    "w": 55,
+    "h": 22
+   },
+   {
+    "x": 61,
+    "y": 1571,
+    "w": 63,
+    "h": 25
+   },
+   {
+    "x": 163,
+    "y": 1562,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 163,
+    "y": 1586,
+    "w": 15,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1727,
+    "w": 127,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 1963,
+    "w": 84,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 1987,
+    "w": 152,
+    "h": 25
+   },
+   {
+    "x": 49,
+    "y": 2025,
+    "w": 243,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 2053,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 2105,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 217,
+    "y": 2108,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 2309,
+    "w": 76,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 2334,
+    "w": 279,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2382,
+    "w": 308,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2411,
+    "w": 306,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2440,
+    "w": 287,
+    "h": 23
+   },
+   {
+    "x": 40,
+    "y": 2467,
+    "w": 116,
+    "h": 14
+   },
+   {
+    "x": 40,
+    "y": 2494,
+    "w": 249,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 2520,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 2547,
+    "w": 245,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 2956,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 2979,
+    "w": 111,
+    "h": 25
+   },
+   {
+    "x": 49,
+    "y": 3018,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 3046,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 3098,
+    "w": 51,
+    "h": 25
+   },
+   {
+    "x": 217,
+    "y": 3101,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 49,
+    "y": 3467,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 3490,
+    "w": 133,
+    "h": 25
+   },
+   {
+    "x": 49,
+    "y": 3529,
+    "w": 226,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 3557,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 3609,
+    "w": 51,
+    "h": 25
+   },
+   {
+    "x": 217,
+    "y": 3612,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3813,
+    "w": 50,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 3837,
+    "w": 178,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 3886,
+    "w": 284,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3915,
+    "w": 268,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3944,
+    "w": 196,
+    "h": 23
+   },
+   {
+    "x": 40,
+    "y": 3971,
+    "w": 116,
+    "h": 14
+   },
+   {
+    "x": 40,
+    "y": 3998,
+    "w": 227,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 4024,
+    "w": 284,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 4050,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 4460,
+    "w": 40,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 4483,
+    "w": 139,
+    "h": 25
+   },
+   {
+    "x": 49,
+    "y": 4522,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 4549,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 4602,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 217,
+    "y": 4605,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4805,
+    "w": 89,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 4830,
+    "w": 222,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 4879,
+    "w": 293,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 4908,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 4937,
+    "w": 82,
+    "h": 23
+   },
+   {
+    "x": 40,
+    "y": 4964,
+    "w": 116,
+    "h": 14
+   },
+   {
+    "x": 40,
+    "y": 4991,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5017,
+    "w": 189,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 5453,
+    "w": 73,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 5476,
+    "w": 106,
+    "h": 25
+   },
+   {
+    "x": 49,
+    "y": 5515,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 5543,
+    "w": 147,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 5595,
+    "w": 45,
+    "h": 25
+   },
+   {
+    "x": 217,
+    "y": 5598,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5854,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5878,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5903,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5967,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 6008,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6081,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6113,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6146,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6178,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6210,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6243,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6312,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6344,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6376,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6409,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6441,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6510,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6543,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6575,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6607,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6639,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6793,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6817,
+    "w": 228,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 20,
+    "y": 185,
+    "w": 38,
+    "h": 15
+   },
+   {
+    "x": 66,
+    "y": 185,
+    "w": 6,
+    "h": 15
+   },
+   {
+    "x": 81,
+    "y": 185,
+    "w": 68,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 209,
+    "w": 313,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 260,
+    "w": 302,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 287,
+    "w": 314,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 315,
+    "w": 308,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 342,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 37,
+    "y": 423,
+    "w": 82,
+    "h": 18
+   },
+   {
+    "x": 162,
+    "y": 423,
+    "w": 79,
+    "h": 18
+   },
+   {
+    "x": 37,
+    "y": 466,
+    "w": 59,
+    "h": 18
+   },
+   {
+    "x": 139,
+    "y": 466,
+    "w": 34,
+    "h": 18
+   },
+   {
+    "x": 216,
+    "y": 466,
+    "w": 67,
+    "h": 18
+   },
+   {
+    "x": 20,
+    "y": 583,
+    "w": 189,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 608,
+    "w": 278,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 656,
+    "w": 298,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 685,
+    "w": 313,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 714,
+    "w": 246,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 744,
+    "w": 318,
+    "h": 23
+   },
+   {
+    "x": 40,
+    "y": 771,
+    "w": 116,
+    "h": 14
+   },
+   {
+    "x": 40,
+    "y": 797,
+    "w": 269,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 824,
+    "w": 295,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 850,
+    "w": 136,
+    "h": 22
+   },
+   {
+    "x": 44,
+    "y": 962,
+    "w": 27,
+    "h": 14
+   },
+   {
+    "x": 61,
+    "y": 1156,
+    "w": 87,
+    "h": 14
+   },
+   {
+    "x": 61,
+    "y": 1179,
+    "w": 136,
+    "h": 32
+   },
+   {
+    "x": 61,
+    "y": 1225,
+    "w": 238,
+    "h": 22
+   },
+   {
+    "x": 61,
+    "y": 1253,
+    "w": 203,
+    "h": 22
+   },
+   {
+    "x": 61,
+    "y": 1280,
+    "w": 221,
+    "h": 22
+   },
+   {
+    "x": 61,
+    "y": 1308,
+    "w": 211,
+    "h": 22
+   },
+   {
+    "x": 61,
+    "y": 1335,
+    "w": 34,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1381,
+    "w": 188,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1401,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1431,
+    "w": 190,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1451,
+    "w": 200,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1482,
+    "w": 205,
+    "h": 22
+   },
+   {
+    "x": 88,
+    "y": 1501,
+    "w": 55,
+    "h": 22
+   },
+   {
+    "x": 61,
+    "y": 1571,
+    "w": 63,
+    "h": 25
+   },
+   {
+    "x": 163,
+    "y": 1562,
+    "w": 107,
+    "h": 20
+   },
+   {
+    "x": 163,
+    "y": 1586,
+    "w": 15,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 1727,
+    "w": 127,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 1963,
+    "w": 84,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 1987,
+    "w": 152,
+    "h": 25
+   },
+   {
+    "x": 49,
+    "y": 2025,
+    "w": 243,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 2053,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 2105,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 217,
+    "y": 2108,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 2309,
+    "w": 76,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 2334,
+    "w": 279,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2382,
+    "w": 308,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2411,
+    "w": 306,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2440,
+    "w": 287,
+    "h": 23
+   },
+   {
+    "x": 40,
+    "y": 2467,
+    "w": 116,
+    "h": 14
+   },
+   {
+    "x": 40,
+    "y": 2494,
+    "w": 249,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 2520,
+    "w": 280,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 2547,
+    "w": 245,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 2956,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 2979,
+    "w": 111,
+    "h": 25
+   },
+   {
+    "x": 49,
+    "y": 3018,
+    "w": 209,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 3046,
+    "w": 128,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 3098,
+    "w": 51,
+    "h": 25
+   },
+   {
+    "x": 217,
+    "y": 3101,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 49,
+    "y": 3467,
+    "w": 62,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 3490,
+    "w": 133,
+    "h": 25
+   },
+   {
+    "x": 49,
+    "y": 3529,
+    "w": 226,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 3557,
+    "w": 66,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 3609,
+    "w": 51,
+    "h": 25
+   },
+   {
+    "x": 217,
+    "y": 3612,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3813,
+    "w": 50,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 3837,
+    "w": 178,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 3886,
+    "w": 284,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3915,
+    "w": 268,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 3944,
+    "w": 196,
+    "h": 23
+   },
+   {
+    "x": 40,
+    "y": 3971,
+    "w": 116,
+    "h": 14
+   },
+   {
+    "x": 40,
+    "y": 3998,
+    "w": 227,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 4024,
+    "w": 284,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 4050,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 4460,
+    "w": 40,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 4483,
+    "w": 139,
+    "h": 25
+   },
+   {
+    "x": 49,
+    "y": 4522,
+    "w": 206,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 4549,
+    "w": 125,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 4602,
+    "w": 49,
+    "h": 25
+   },
+   {
+    "x": 217,
+    "y": 4605,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4805,
+    "w": 89,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 4830,
+    "w": 222,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 4879,
+    "w": 293,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 4908,
+    "w": 310,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 4937,
+    "w": 82,
+    "h": 23
+   },
+   {
+    "x": 40,
+    "y": 4964,
+    "w": 116,
+    "h": 14
+   },
+   {
+    "x": 40,
+    "y": 4991,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 40,
+    "y": 5017,
+    "w": 189,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 5453,
+    "w": 73,
+    "h": 14
+   },
+   {
+    "x": 49,
+    "y": 5476,
+    "w": 106,
+    "h": 25
+   },
+   {
+    "x": 49,
+    "y": 5515,
+    "w": 223,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 5543,
+    "w": 147,
+    "h": 22
+   },
+   {
+    "x": 49,
+    "y": 5595,
+    "w": 45,
+    "h": 25
+   },
+   {
+    "x": 217,
+    "y": 5598,
+    "w": 94,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5854,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5878,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5903,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5967,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 6008,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6081,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6113,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6146,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6178,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6210,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6243,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6312,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6344,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6376,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6409,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6441,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6510,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6543,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6575,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6607,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6639,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6793,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6817,
+    "w": 228,
+    "h": 20
+   }
+  ]
+ }
+}

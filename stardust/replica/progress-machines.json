@@ -1,0 +1,82 @@
+{
+  "slug": "machines",
+  "type": "listing",
+  "iterations": {
+    "360": 2,
+    "1440": 3
+  },
+  "gates": {
+    "360": {
+      "label": "iter2",
+      "full": true,
+      "pixelPct": 0.29,
+      "heightDelta": 0,
+      "contentDiff": {
+        "red": 1,
+        "nothingLostYellow": 0,
+        "redDetail": "same breadcrumb proto-URL artifact"
+      },
+      "visualDiffFlags": 0,
+      "chromeParity": "pass",
+      "clipped": 0,
+      "overflow": "ok"
+    },
+    "1440": {
+      "label": "iter3",
+      "full": true,
+      "pixelPct": 1.12,
+      "heightDelta": 0,
+      "contentDiff": {
+        "red": 1,
+        "nothingLostYellow": 0,
+        "redDetail": "MISSING EYEBROW 'Machines' / EXTRA 'Machines Proposed.html' — breadcrumb label derived from window.location by foundation scripts.js; proto URL is /machines-proposed.html"
+      },
+      "visualDiffFlags": 0,
+      "chromeParity": "1 delta: header 'Machines' aria-current colour — header derives the current link from window.location (proto URL artifact)",
+      "clipped": 0,
+      "overflow": "ok",
+      "capProbe": "PASS (0 of 7 rows failed, stardust/replica/gates/machines-2560/cap-iter.json)"
+    }
+  },
+  "residuals": [
+    "Breadcrumb label + header current-link derive from the URL path; on the proto server the path is /machines-proposed.html, so the gate sees 'Machines Proposed.html' and no active nav colour. Correct on /machines. Foundation change request: derive from link[rel=canonical] (or strip '-proposed.html').",
+    "1440 band 500–1000 9.4% (not hot): first stitched chunk captures the flagship card before scroll-reveal fires on the build (card only ~150px inside the 900px fold, under the 15% threshold); live capture is settled. Geometry measured identical (measure.mjs Δ0 on cards/media/body/grid).",
+    "360 band 2500–3000 3.7%: same reveal mid-transition on one card in one chunk."
+  ],
+  "motion": {
+    "observed": [
+      "filter tab hover colour/border 350ms quint",
+      "filter click: is-active + is-filtered-out class toggles",
+      "scroll reveal opacity/transform 900ms (foundation)"
+    ],
+    "implemented": [
+      "machine-filter tabs (click filter, hover, aria-pressed) — motion-compare 12 parity, 0 missing, 0 extra"
+    ],
+    "dead": [
+      "header scroll-morph",
+      "filter-tab frame sampling (instant toggle)",
+      "cards-machine foot link hover (no measured diff)"
+    ]
+  },
+  "confirm": {
+    "360": {
+      "pixel": "0.28%",
+      "dh": 0,
+      "red": 0,
+      "yellow": 0,
+      "clip": 0,
+      "overflow": "ok",
+      "chromeParity": "ok"
+    },
+    "1440": {
+      "pixel": "1.12%",
+      "dh": 0,
+      "red": 0,
+      "yellow": 0,
+      "clip": 0,
+      "overflow": "ok",
+      "chromeParity": "ok"
+    },
+    "note": "foundation fix (canonical page path for breadcrumb + active nav) then --full confirm"
+  }
+}

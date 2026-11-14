@@ -1,0 +1,392 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/blog-atelier-taste-360/vdiff-iter1/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 5189,
+  "textLen": 2984,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x175",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x175",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "318x212",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14dda38183367f1ef5f700eaf66d1a13a59bdd756.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "318x212",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_11963a4969e9d029a1613bfbdb474e23808af40db.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "318x212",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "How the Atelier learns your tast",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "38.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "It starts with the senses",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "32px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Then it builds a taste profile",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "32px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "And it reads the room",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "32px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "More from the Journal",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "In praise of the slow pour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Nothing wasted, right down to th",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Single origin, explained",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "/",
+    "color": "oklch(0.262 0.021 52)"
+   },
+   {
+    "text": "The Atelier",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Head of Coffee · June 20",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "The short version",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Share",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "About the author",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Keep reading",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Brewing",
+    "color": "oklch(0.605 0.116 44)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "article-byline-body",
+    "width": 254,
+    "left": 80
+   },
+   {
+    "sel": "article-byline-inner",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-article-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-article-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-article-card-body",
+    "width": 320,
+    "left": 20
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 5189,
+  "textLen": 2984,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x175",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x175",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "318x212",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14dda38183367f1ef5f700eaf66d1a13a59bdd756.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "318x212",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_11963a4969e9d029a1613bfbdb474e23808af40db.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "318x212",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "How the Atelier learns your tast",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "38.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "It starts with the senses",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "32px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Then it builds a taste profile",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "32px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "And it reads the room",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "32px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "More from the Journal",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "In praise of the slow pour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Nothing wasted, right down to th",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Single origin, explained",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "/",
+    "color": "oklch(0.262 0.021 52)"
+   },
+   {
+    "text": "The Atelier",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Head of Coffee · June 20",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "The short version",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Share",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "About the author",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Keep reading",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Brewing",
+    "color": "oklch(0.605 0.116 44)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "article-byline-body",
+    "width": 254,
+    "left": 80
+   },
+   {
+    "sel": "article-byline-inner",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-article-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-article-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-article-card-body",
+    "width": 320,
+    "left": 20
+   }
+  ]
+ }
+}

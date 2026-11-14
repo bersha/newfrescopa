@@ -1,0 +1,1214 @@
+{
+  "url": "https://new.frescopa.coffee/",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 4800,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 4061,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2561,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "0px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".taste-profile-btn:nth-child(2)",
+      "frames": [
+        {
+          "t": 16706.600000000093,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 16915.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 17122.700000000186,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 17328.100000000093,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    },
+    {
+      "sel": ".mood-calendar-grid button.mood-calendar-day:nth-of-type(3)",
+      "frames": [
+        {
+          "t": 18345.700000000186,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 18551.200000000186,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 18756.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 18961.399999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".hero p a",
+      "changed": [
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.945 0.016 80)",
+          "background": "oklch(0.605 0.116 44)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.945 0.016 80)",
+          "background": "oklab(0.515012 0.0827329 0.0694226)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".intro .columns p a",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.605 0.116 44)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.515 0.108 40)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".taste-profile-btn",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.43 0.022 52)",
+          "background": "oklch(0.97 0.01 82)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklab(0.340045 0.0842515 0.0392926)",
+          "background": "oklch(0.97 0.01 82)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": "button.mood-calendar-day",
+      "changed": [
+        "self.transform",
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.262 0.021 52)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.6s cubic-bezier(0.22, 1, 0.36, 1), color 0.6s cubic-bezier(0.22, 1, 0.36, 1), transform 0.35s"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "matrix(1, 0, 0, 1, 0, -0.988074)",
+          "color": "oklch(0.262 0.021 52)",
+          "background": "oklab(0.918 0.00551275 0.0192252 / 0.961398)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.6s cubic-bezier(0.22, 1, 0.36, 1), color 0.6s cubic-bezier(0.22, 1, 0.36, 1), transform 0.35s"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".cards-product-cta",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.605 0.116 44)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklab(0.515045 0.0827332 0.0694266)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".cards-product > ul > li",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.262 0.021 52)",
+          "background": "oklch(0.97 0.01 82)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "img.",
+            "transform": "none",
+            "color": "oklch(0.262 0.021 52)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "h3.",
+            "transform": "none",
+            "color": "oklch(0.34 0.093 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "a.cards-product-cta",
+            "transform": "none",
+            "color": "oklch(0.605 0.116 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.262 0.021 52)",
+          "background": "oklch(0.97 0.01 82)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "all"
+        },
+        "subs": [
+          {
+            "el": "img.",
+            "transform": "none",
+            "color": "oklch(0.262 0.021 52)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "h3.",
+            "transform": "none",
+            "color": "oklch(0.34 0.093 25)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          },
+          {
+            "el": "a.cards-product-cta",
+            "transform": "none",
+            "color": "oklch(0.605 0.116 44)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".dark a",
+      "changed": [
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.945 0.016 80)",
+          "background": "oklch(0.605 0.116 44)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.945 0.016 80)",
+          "background": "oklab(0.515045 0.0827332 0.0694266)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.intro.section.columns-container > div.columns-wrapper > div.columns.block.columns-2-cols",
+        "y": 400,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.intro.section.columns-container > div.columns-wrapper > div.columns.block.columns-2-cols",
+        "y": 400,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.learn.section.taste-profile-container > div.taste-profile-wrapper > div.taste-profile.block.reveal",
+        "y": 1200,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.learn.section.taste-profile-container > div.taste-profile-wrapper > div.taste-profile.block.reveal",
+        "y": 1200,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.mood.section.mood-calendar-container > div.mood-calendar-wrapper > div.mood-calendar.block.reveal",
+        "y": 1600,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.mood.section.mood-calendar-container > div.mood-calendar-wrapper > div.mood-calendar.block.reveal",
+        "y": 1600,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.default-content-wrapper > p.reveal.is-in",
+        "y": 2000,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.default-content-wrapper > p.reveal.is-in",
+        "y": 2000,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.default-content-wrapper > h2.reveal.is-in",
+        "y": 2400,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.default-content-wrapper > h2.reveal.is-in",
+        "y": 2400,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.default-content-wrapper > p.reveal.is-in",
+        "y": 2800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.default-content-wrapper > p.reveal.is-in",
+        "y": 2800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.cards-product-wrapper > div.cards-product.block.reveal",
+        "y": 2800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.cards-product-wrapper > div.cards-product.block.reveal",
+        "y": 2800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.sustain.section.columns-container > div.columns-wrapper > div.columns.block.columns-2-cols",
+        "y": 3200,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.sustain.section.columns-container > div.columns-wrapper > div.columns.block.columns-2-cols",
+        "y": 3200,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.voices.section.cards-quote-container > div.default-content-wrapper > p.reveal.is-in",
+        "y": 3600,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.voices.section.cards-quote-container > div.default-content-wrapper > p.reveal.is-in",
+        "y": 3600,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.voices.section.cards-quote-container > div.default-content-wrapper > blockquote.reveal.is-in",
+        "y": 3600,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.voices.section.cards-quote-container > div.default-content-wrapper > blockquote.reveal.is-in",
+        "y": 3600,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.section.hero-container > div.hero-wrapper > div.hero.short.tint",
+        "y": 4000,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.section.hero-container > div.hero-wrapper > div.hero.short.tint",
+        "y": 4000,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.voices.section.cards-quote-container > div.cards-quote-wrapper > div.cards-quote.block.reveal",
+        "y": 4400,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.voices.section.cards-quote-container > div.cards-quote-wrapper > div.cards-quote.block.reveal",
+        "y": 4400,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.dark.section > div.default-content-wrapper > p.reveal.is-in",
+        "y": 4800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.dark.section > div.default-content-wrapper > p.reveal.is-in",
+        "y": 4800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.dark.section > div.default-content-wrapper > p.reveal.is-in",
+        "y": 4800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.dark.section > div.default-content-wrapper > p.reveal.is-in",
+        "y": 4800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.dark.section > div.default-content-wrapper > p.reveal.is-in",
+        "y": 4800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.dark.section > div.default-content-wrapper > p.reveal.is-in",
+        "y": 4800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn.is-active",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn.is-active",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn.is-active",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn.is-active",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn.is-active",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn.is-active",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1200,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day.is-active",
+        "y": 800,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day.is-active",
+        "y": 800,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day",
+        "y": 800,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day",
+        "y": 800,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day.is-active",
+        "y": 1690,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day.is-active",
+        "y": 1690,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day",
+        "y": 1690,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day",
+        "y": 1690,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.hero.block > div > div > p > a",
+        "y": 370,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.hero.block > div > div > p > a",
+        "y": 370,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.hero.block > div > div > p > a",
+        "y": 370,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.hero.block > div > div > p > a",
+        "y": 370,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.hero.block > div > div > p > a",
+        "y": 370,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.hero.block > div > div > p > a",
+        "y": 934,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.hero.block > div > div > p > a",
+        "y": 934,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.hero.block > div > div > p > a",
+        "y": 934,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.hero.block > div > div > p > a",
+        "y": 934,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.hero.block > div > div > p > a",
+        "y": 934,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1690,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1690,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1690,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1690,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1690,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1997,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1997,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1997,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1997,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn",
+        "y": 1997,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day",
+        "y": 1997,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day",
+        "y": 1997,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day",
+        "y": 3009,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day",
+        "y": 3009,
+        "dur": "0.6s, 0.6s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "ul > li > div.cards-product-card-body > div.cards-product-card-foot > a.cards-product-cta",
+        "y": 3009,
+        "dur": "0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "ul > li > div.cards-product-card-body > div.cards-product-card-foot > a.cards-product-cta",
+        "y": 2804,
+        "dur": "0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "main > div.dark.section > div.default-content-wrapper > p.reveal.is-in > a",
+        "y": 5078,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "main > div.dark.section > div.default-content-wrapper > p.reveal.is-in > a",
+        "y": 5078,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "main > div.dark.section > div.default-content-wrapper > p.reveal.is-in > a",
+        "y": 5078,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "main > div.dark.section > div.default-content-wrapper > p.reveal.is-in > a",
+        "y": 5078,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "main > div.dark.section > div.default-content-wrapper > p.reveal.is-in > a",
+        "y": 5078,
+        "dur": "0.35s, 0.35s, 0.35s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.intro.section.columns-container > div.columns-wrapper > div.columns.block.columns-2-cols",
+        "y": 400
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.learn.section.taste-profile-container > div.taste-profile-wrapper > div.taste-profile.block.reveal",
+        "y": 1200
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.mood.section.mood-calendar-container > div.mood-calendar-wrapper > div.mood-calendar.block.reveal",
+        "y": 1600
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.default-content-wrapper > p.reveal.is-in",
+        "y": 2000
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.default-content-wrapper > h2.reveal.is-in",
+        "y": 2400
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.default-content-wrapper > p.reveal.is-in",
+        "y": 2400
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.feed.section.cards-product-container > div.cards-product-wrapper > div.cards-product.block.reveal",
+        "y": 2400
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.sustain.section.columns-container > div.columns-wrapper > div.columns.block.columns-2-cols",
+        "y": 3200
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.voices.section.cards-quote-container > div.default-content-wrapper > p.reveal.is-in",
+        "y": 3600
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.voices.section.cards-quote-container > div.default-content-wrapper > blockquote.reveal.is-in",
+        "y": 3600
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.voices.section.cards-quote-container > div.cards-quote-wrapper > div.cards-quote.block.reveal",
+        "y": 4000
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.section.hero-container > div.hero-wrapper > div.hero.short.tint",
+        "y": 4000
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.dark.section > div.default-content-wrapper > p.reveal.is-in",
+        "y": 4800
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.dark.section > div.default-content-wrapper > p.reveal.is-in",
+        "y": 4800
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.dark.section > div.default-content-wrapper > p.reveal.is-in",
+        "y": 4800
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn.is-active",
+        "y": 1200
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn.is-active",
+        "y": 1200
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day.is-active",
+        "y": 800
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day.is-active",
+        "y": 800
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.taste-profile-wrapper > div.taste-profile.block.reveal > div.taste-profile-viz > div.taste-profile-controls > button.taste-profile-btn.is-active",
+        "y": 1690
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day.is-active",
+        "y": 1690
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day.is-active",
+        "y": 1690
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.mood-calendar.block.reveal > div.mood-calendar-panel > div.mood-calendar-cal > div.mood-calendar-grid > button.mood-calendar-day.is-active",
+        "y": 1997
+      }
+    ]
+  }
+}

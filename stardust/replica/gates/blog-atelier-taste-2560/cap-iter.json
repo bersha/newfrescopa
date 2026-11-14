@@ -1,0 +1,531 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T20:00:11.578Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://new.frescopa.coffee/blog/atelier-taste",
+      "http://localhost:8791/blog-atelier-taste-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://new.frescopa.coffee/blog/atelier-taste",
+    "http://localhost:8791/blog-atelier-taste-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 46,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 680,
+        "via": "max-width",
+        "selector": "main > div.section.article-byline-container > div.article-header > div.default-content-wrapper",
+        "tier": 3,
+        "share": 0.11,
+        "section": 0,
+        "w1": 680,
+        "maxWidth": "680px"
+      },
+      {
+        "kind": "module",
+        "px": 680,
+        "via": "max-width",
+        "selector": "main > div.section.article-byline-container > div.article-header > div.article-byline-wrapper",
+        "tier": 3,
+        "share": 0.07,
+        "section": 0,
+        "w1": 680,
+        "maxWidth": "680px"
+      },
+      {
+        "kind": "module",
+        "px": 254,
+        "via": "fixed",
+        "selector": "div.article-byline-wrapper > div.article-byline.block > div.article-byline-inner > div.article-byline-body",
+        "tier": 6,
+        "share": 0.04,
+        "section": 0,
+        "w1": 254,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 680,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.52,
+        "section": 1,
+        "w1": 680,
+        "maxWidth": "680px"
+      },
+      {
+        "kind": "module",
+        "px": 559,
+        "via": "fixed",
+        "selector": "div.section.article-byline-container > div.default-content-wrapper > blockquote > p",
+        "tier": 4,
+        "share": 0.02,
+        "section": 1,
+        "w1": 559,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 680,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.article-share-wrapper",
+        "tier": 2,
+        "share": 0.02,
+        "section": 2,
+        "w1": 680,
+        "maxWidth": "680px"
+      },
+      {
+        "kind": "module",
+        "px": 680,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.article-byline-wrapper",
+        "tier": 2,
+        "share": 0.09,
+        "section": 3,
+        "w1": 680,
+        "maxWidth": "680px"
+      },
+      {
+        "kind": "module",
+        "px": 451,
+        "via": "fixed",
+        "selector": "div.article-byline-wrapper > div.article-byline.bio > div.article-byline-inner > div.article-byline-body",
+        "tier": 5,
+        "share": 0.07,
+        "section": 3,
+        "w1": 451,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.04,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.cards-article-wrapper",
+        "tier": 2,
+        "share": 0.13,
+        "section": 5,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 322,
+        "via": "fixed",
+        "selector": "div.cards-article-wrapper > div.cards-article.block > ul > li",
+        "tier": 5,
+        "share": 0.04,
+        "section": 5,
+        "w1": 322,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 322,
+        "via": "fixed",
+        "selector": "div.cards-article-wrapper > div.cards-article.block > ul > li",
+        "tier": 5,
+        "share": 0.04,
+        "section": 5,
+        "w1": 322,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 314,
+        "via": "fixed",
+        "selector": "#nothing-wasted-right-down-to-the-grounds > a",
+        "tier": 8,
+        "share": 0.02,
+        "section": 5,
+        "w1": 314,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 322,
+        "via": "fixed",
+        "selector": "div.cards-article-wrapper > div.cards-article.block > ul > li",
+        "tier": 5,
+        "share": 0.04,
+        "section": 5,
+        "w1": 322,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.02,
+        "section": 6,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body.appear > main > div.section.article-byline-container > div.article-header",
+        "px": 680,
+        "capSelector": "main > div.section.article-byline-container > div.article-header > div.default-content-wrapper"
+      },
+      {
+        "index": 1,
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "px": 680,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper"
+      },
+      {
+        "index": 2,
+        "selector": "body.appear > main > div.section.article-byline-container > div.article-share-wrapper",
+        "px": 680,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.article-share-wrapper"
+      },
+      {
+        "index": 3,
+        "selector": "body.appear > main > div.section.article-byline-container > div.article-byline-wrapper",
+        "px": 680,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.article-byline-wrapper"
+      },
+      {
+        "index": 4,
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper"
+      },
+      {
+        "index": 5,
+        "selector": "body.appear > main > div.section.article-byline-container > div.cards-article-wrapper",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.cards-article-wrapper"
+      },
+      {
+        "index": 6,
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 680,
+    "contentFrom": "module",
+    "maxCap": 1120,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 85
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 46,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 680,
+        "via": "max-width",
+        "selector": "main > div.section.article-byline-container > div.article-header > div.default-content-wrapper",
+        "tier": 3,
+        "share": 0.11,
+        "section": 0,
+        "w1": 680,
+        "maxWidth": "680px"
+      },
+      {
+        "kind": "module",
+        "px": 680,
+        "via": "max-width",
+        "selector": "main > div.section.article-byline-container > div.article-header > div.article-byline-wrapper",
+        "tier": 3,
+        "share": 0.07,
+        "section": 0,
+        "w1": 680,
+        "maxWidth": "680px"
+      },
+      {
+        "kind": "module",
+        "px": 254,
+        "via": "fixed",
+        "selector": "div.article-byline-wrapper > div.article-byline.block > div.article-byline-inner > div.article-byline-body",
+        "tier": 6,
+        "share": 0.04,
+        "section": 0,
+        "w1": 254,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 680,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.52,
+        "section": 1,
+        "w1": 680,
+        "maxWidth": "680px"
+      },
+      {
+        "kind": "module",
+        "px": 559,
+        "via": "fixed",
+        "selector": "div.section.article-byline-container > div.default-content-wrapper > blockquote > p",
+        "tier": 4,
+        "share": 0.02,
+        "section": 1,
+        "w1": 559,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 680,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.article-share-wrapper",
+        "tier": 2,
+        "share": 0.02,
+        "section": 2,
+        "w1": 680,
+        "maxWidth": "680px"
+      },
+      {
+        "kind": "module",
+        "px": 680,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.article-byline-wrapper",
+        "tier": 2,
+        "share": 0.09,
+        "section": 3,
+        "w1": 680,
+        "maxWidth": "680px"
+      },
+      {
+        "kind": "module",
+        "px": 451,
+        "via": "fixed",
+        "selector": "div.article-byline-wrapper > div.article-byline.bio > div.article-byline-inner > div.article-byline-body",
+        "tier": 5,
+        "share": 0.07,
+        "section": 3,
+        "w1": 451,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.04,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.cards-article-wrapper",
+        "tier": 2,
+        "share": 0.13,
+        "section": 5,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 322,
+        "via": "fixed",
+        "selector": "div.cards-article-wrapper > div.cards-article.block > ul > li",
+        "tier": 5,
+        "share": 0.04,
+        "section": 5,
+        "w1": 322,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 322,
+        "via": "fixed",
+        "selector": "div.cards-article-wrapper > div.cards-article.block > ul > li",
+        "tier": 5,
+        "share": 0.04,
+        "section": 5,
+        "w1": 322,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 314,
+        "via": "fixed",
+        "selector": "#nothing-wasted-right-down-to-the-grounds > a",
+        "tier": 8,
+        "share": 0.02,
+        "section": 5,
+        "w1": 314,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 322,
+        "via": "fixed",
+        "selector": "div.cards-article-wrapper > div.cards-article.block > ul > li",
+        "tier": 5,
+        "share": 0.04,
+        "section": 5,
+        "w1": 322,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.02,
+        "section": 6,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body.appear > main > div.section.article-byline-container > div.article-header",
+        "px": 680,
+        "capSelector": "main > div.section.article-byline-container > div.article-header > div.default-content-wrapper"
+      },
+      {
+        "index": 1,
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "px": 680,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper"
+      },
+      {
+        "index": 2,
+        "selector": "body.appear > main > div.section.article-byline-container > div.article-share-wrapper",
+        "px": 680,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.article-share-wrapper"
+      },
+      {
+        "index": 3,
+        "selector": "body.appear > main > div.section.article-byline-container > div.article-byline-wrapper",
+        "px": 680,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.article-byline-wrapper"
+      },
+      {
+        "index": 4,
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper"
+      },
+      {
+        "index": 5,
+        "selector": "body.appear > main > div.section.article-byline-container > div.cards-article-wrapper",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.cards-article-wrapper"
+      },
+      {
+        "index": 6,
+        "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 680,
+    "contentFrom": "module",
+    "maxCap": 1120,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 85
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 680px = build 680px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/7",
+        "detail": "680px = 680px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/7",
+        "detail": "680px = 680px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/7",
+        "detail": "680px = 680px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/7",
+        "detail": "680px = 680px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 5/7",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 6/7",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 7/7",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/blog-atelier-taste-2560/cap-iter.json"
+}

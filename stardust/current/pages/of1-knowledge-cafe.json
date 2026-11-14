@@ -1,0 +1,718 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T19:09:29.696Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "of1-knowledge-cafe",
+  "url": "https://new.frescopa.coffee/of1/knowledge/cafe",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T19:09:29.696Z",
+  "finalUrl": "https://new.frescopa.coffee/of1/knowledge/cafe",
+  "title": "Come taste the whole of Fréscopa.",
+  "description": "Part coffee bar, part showroom, part gathering place. Sit with a cup, get hands-on with the machines, and stay for a class — no purchase, ...",
+  "og": {
+    "title": "Come taste the whole of Fréscopa.",
+    "description": "Part coffee bar, part showroom, part gathering place. Sit with a cup, get hands-on with the machines, and stay for a class — no purchase, ...",
+    "image": "https://new.frescopa.coffee/of1/knowledge/media_1faa34ed50f110587996f0dbb12b177f1db7b711d.webp?width=1200&format=pjpg&optimize=medium",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Come taste the whole of Fréscopa."
+    },
+    {
+      "tag": "h2",
+      "text": "Reasons to make the trip."
+    },
+    {
+      "tag": "h3",
+      "text": "Taste before you commit"
+    },
+    {
+      "tag": "h3",
+      "text": "Meet the machines"
+    },
+    {
+      "tag": "h3",
+      "text": "Learn from the team"
+    },
+    {
+      "tag": "h3",
+      "text": "Somewhere to linger"
+    },
+    {
+      "tag": "h2",
+      "text": "Three rooms, one long morning."
+    },
+    {
+      "tag": "h3",
+      "text": "Every drink we make, poured to order."
+    },
+    {
+      "tag": "h3",
+      "text": "Get your hands on the whole line."
+    },
+    {
+      "tag": "h3",
+      "text": "Learn something, meet someone."
+    },
+    {
+      "tag": "h2",
+      "text": "This week at the table."
+    },
+    {
+      "tag": "h3",
+      "text": "Origins cupping"
+    },
+    {
+      "tag": "h3",
+      "text": "Latte-art lab"
+    },
+    {
+      "tag": "h3",
+      "text": "Home brewing 101"
+    },
+    {
+      "tag": "h3",
+      "text": "Slow morning cupping"
+    },
+    {
+      "tag": "h2",
+      "text": "There's a Fréscopa in your town."
+    },
+    {
+      "tag": "h3",
+      "text": "The Fréscopa flagship"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Williamsburg"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Seaport"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Back Bay"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Rittenhouse"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Georgetown"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Ponce City Market"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa West Loop"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Wicker Park"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa North Loop"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Crossroads"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa RiNo"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa South Congress"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa The Domain"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Deep Ellum"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa The Heights"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Wynwood"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Warehouse District"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Ferry Building"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Hayes Valley"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Capitol Hill"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Ballard"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Pearl District"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Arts District"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Silver Lake"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Little Italy"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Roosevelt Row"
+    },
+    {
+      "tag": "h3",
+      "text": "Fréscopa Sydney"
+    },
+    {
+      "tag": "h2",
+      "text": "A guided hour with the machine that learns you."
+    },
+    {
+      "tag": "h2",
+      "text": "The kettle's on. The door's open."
+    },
+    {
+      "tag": "h3",
+      "text": "Shop"
+    },
+    {
+      "tag": "h3",
+      "text": "Company"
+    },
+    {
+      "tag": "h3",
+      "text": "Support"
+    }
+  ],
+  "body": [
+    "THE CAFÉ & SHOWROOM",
+    "Part coffee bar, part showroom, part gathering place. Sit with a cup, get hands-on with the machines, and stay for a class — no purchase, no pressure.",
+    "Find your nearest café→",
+    "See what's inside",
+    "WHY COME IN",
+    "Taste before you commit Flight through the coffee, tea and cold-press range at the bar. Find the cup you'll want at home.",
+    "Flight through the coffee, tea and cold-press range at the bar. Find the cup you'll want at home.",
+    "Meet the machines Pull a shot on the Atelier line yourself. Feel the difference before it lands on your counter.",
+    "Pull a shot on the Atelier line yourself. Feel the difference before it lands on your counter.",
+    "Learn from the team Brewing classes, latte-art labs and cuppings led by people who do it every day.",
+    "Brewing classes, latte-art labs and cuppings led by people who do it every day.",
+    "Somewhere to linger A warm room to meet, work, or read the morning away. Come for the coffee, stay for the quiet.",
+    "A warm room to meet, work, or read the morning away. Come for the coffee, stay for the quiet.",
+    "THE EXPERIENCE",
+    "01 · THE TASTE BAR",
+    "Sit at the bar and work through the range — espresso and slow-pour coffee, loose-leaf tea, and cold-pressed juice. Our team talks you through each one and builds a tasting flight around what you like. It's the fastest way to find your everyday cup.",
+    "Browse the coffee range→",
+    "02 · THE SHOWROOM",
+    "The full Atelier range is set up and running. Pull your own shot, watch the machine learn a profile, and ask the questions a spec sheet can't answer. When you're ready, we'll help you pick the one that fits your kitchen — or arrange a home delivery.",
+    "Explore the machines→",
+    "03 · THE TABLE",
+    "Most evenings the long table hosts something — a brewing class, a latte-art lab, a cupping, or just a slow community morning. Classes are small and hands-on, and most are free with a drink. Check what's on below and save a seat.",
+    "See what's on→",
+    "WHAT'S ON",
+    "Free with a drink unless noted",
+    "TUESDAY Origins cupping Taste three single-origin lots side by side and learn to name what you taste. 6:30–7:30PM Free",
+    "TUESDAY",
+    "Taste three single-origin lots side by side and learn to name what you taste.",
+    "WEDNESDAY Latte-art lab Hands-on milk steaming and pour practice on the Atelier line. Beginners welcome. 6:00–7:30PM $15",
+    "WEDNESDAY",
+    "Hands-on milk steaming and pour practice on the Atelier line. Beginners welcome.",
+    "THURSDAY Home brewing 101 Dial in grind, dose and time for a filter cup you can repeat at home. 6:30–8:00PM Free",
+    "THURSDAY",
+    "Dial in grind, dose and time for a filter cup you can repeat at home.",
+    "SATURDAY Slow morning cupping A relaxed community tasting over pastries. Drop in, no booking needed. 9:00–11:00AM Free",
+    "SATURDAY",
+    "A relaxed community tasting over pastries. Drop in, no booking needed.",
+    "FIND US",
+    "From flagship showrooms to the café on the corner, we're probably closer than you think. Every café pours the full range — showrooms and workshop tables vary by location.",
+    "1,200+ CAFÉS NATIONWIDE",
+    "1,200+",
+    "CAFÉS NATIONWIDE",
+    "190 CITIES",
+    "190",
+    "CITIES",
+    "48 STATES",
+    "STATES",
+    "12 FLAGSHIP SHOWROOMS",
+    "FLAGSHIP SHOWROOMS",
+    "Flagship",
+    "NEW YORK · SOHO",
+    "Our largest room: a full taste bar, the complete showroom, and a dedicated workshop table upstairs. The best place to spend an unhurried afternoon in the Fréscopa world.",
+    "Café Showroom Workshops",
+    "112 Greene Street, New York, NY Mon–Sun · 7am–8pm",
+    "Get directions→",
+    "27 CAFÉS NEAR YOU",
+    "BROOKLYN, NY",
+    "134 N 6th St, Brooklyn, NY",
+    "CAFÉ SHOWROOM",
+    "Mon–Sun · 7am–8pm",
+    "Directions→",
+    "BOSTON, MA",
+    "48 Harbor Way, Boston, MA",
+    "CAFÉ SHOWROOM",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "BOSTON, MA",
+    "221 Newbury St, Boston, MA",
+    "CAFÉ",
+    "Mon–Sun · 6:30am–7pm",
+    "Directions→",
+    "PHILADELPHIA, PA",
+    "1820 Walnut St, Philadelphia, PA",
+    "CAFÉ WORKSHOPS",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "WASHINGTON, DC",
+    "3040 M St NW, Washington, DC",
+    "CAFÉ SHOWROOM",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "ATLANTA, GA",
+    "675 Ponce De Leon Ave NE, Atlanta, GA",
+    "CAFÉ SHOWROOM WORKSHOPS",
+    "Mon–Sun · 7am–8pm",
+    "Directions→",
+    "CHICAGO, IL",
+    "905 W Fulton Market, Chicago, IL",
+    "CAFÉ SHOWROOM WORKSHOPS",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "CHICAGO, IL",
+    "1547 N Milwaukee Ave, Chicago, IL",
+    "CAFÉ",
+    "Mon–Sun · 6:30am–7pm",
+    "Directions→",
+    "MINNEAPOLIS, MN",
+    "215 N Washington Ave, Minneapolis, MN",
+    "CAFÉ WORKSHOPS",
+    "Mon–Sun · 7am–6pm",
+    "Directions→",
+    "KANSAS CITY, MO",
+    "1801 Grand Blvd, Kansas City, MO",
+    "CAFÉ",
+    "Mon–Sun · 7am–6pm",
+    "Directions→",
+    "DENVER, CO",
+    "2601 Larimer St, Denver, CO",
+    "CAFÉ SHOWROOM",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "AUSTIN, TX",
+    "1601 S Congress Ave, Austin, TX",
+    "CAFÉ WORKSHOPS",
+    "Mon–Sun · 7am–6pm",
+    "Directions→",
+    "AUSTIN, TX",
+    "11700 Domain Blvd, Austin, TX",
+    "CAFÉ SHOWROOM",
+    "Mon–Sun · 7am–8pm",
+    "Directions→",
+    "DALLAS, TX",
+    "2822 Main St, Dallas, TX",
+    "CAFÉ SHOWROOM",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "HOUSTON, TX",
+    "714 Yale St, Houston, TX",
+    "CAFÉ",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "MIAMI, FL",
+    "2750 NW 3rd Ave, Miami, FL",
+    "CAFÉ SHOWROOM WORKSHOPS",
+    "Mon–Sun · 7am–9pm",
+    "Directions→",
+    "NEW ORLEANS, LA",
+    "640 Julia St, New Orleans, LA",
+    "CAFÉ WORKSHOPS",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "SAN FRANCISCO, CA",
+    "1 Ferry Building, San Francisco, CA",
+    "CAFÉ SHOWROOM",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "SAN FRANCISCO, CA",
+    "556 Hayes St, San Francisco, CA",
+    "CAFÉ",
+    "Mon–Sun · 6:30am–7pm",
+    "Directions→",
+    "SEATTLE, WA",
+    "520 E Pine St, Seattle, WA",
+    "CAFÉ WORKSHOPS",
+    "Mon–Sun · 6:30am–7pm",
+    "Directions→",
+    "SEATTLE, WA",
+    "5405 Ballard Ave NW, Seattle, WA",
+    "CAFÉ SHOWROOM",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "PORTLAND, OR",
+    "1130 NW Everett St, Portland, OR",
+    "CAFÉ WORKSHOPS",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "LOS ANGELES, CA",
+    "720 E 3rd St, Los Angeles, CA",
+    "CAFÉ SHOWROOM WORKSHOPS",
+    "Mon–Sun · 7am–8pm",
+    "Directions→",
+    "LOS ANGELES, CA",
+    "2909 Sunset Blvd, Los Angeles, CA",
+    "CAFÉ",
+    "Mon–Sun · 6:30am–8pm",
+    "Directions→",
+    "SAN DIEGO, CA",
+    "1660 India St, San Diego, CA",
+    "CAFÉ SHOWROOM",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "PHOENIX, AZ",
+    "814 N 2nd St, Phoenix, AZ",
+    "CAFÉ",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "SYDNEY, NSW",
+    "201 Sussex St, Sydney, NSW, Australia",
+    "CAFÉ SHOWROOM",
+    "Mon–Sun · 7am–7pm",
+    "Directions→",
+    "BOOK AN ATELIER TOUR",
+    "Book a free, 45-minute private tour at any showroom café. A specialist walks you through the Atelier line, dials a shot to your taste, and answers everything a spec sheet can't. No obligation to buy.",
+    "→ 45 minutes, one-to-one with a specialist",
+    "→ Taste the full range, dialled to your palate",
+    "→ Free, and yours to book whenever suits",
+    "We'll confirm by email within one business day. No payment needed to book.",
+    "COME SAY HELLO",
+    "No appointment, no pressure — just a good cup and a warm room. We'd love to see you.",
+    "Find a café→",
+    "Book an Atelier tour"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "The Atelier",
+      "href": "/machines/atelier"
+    },
+    {
+      "label": "Machines",
+      "href": "/machines"
+    },
+    {
+      "label": "Beverages",
+      "href": "/beverages"
+    },
+    {
+      "label": "Café",
+      "href": "/cafe"
+    },
+    {
+      "label": "Journal",
+      "href": "/blog"
+    },
+    {
+      "label": "Sign up",
+      "href": null
+    },
+    {
+      "label": "Coffee",
+      "href": "/beverages/coffee"
+    },
+    {
+      "label": "Tea",
+      "href": "/"
+    },
+    {
+      "label": "Cold-pressed juice",
+      "href": "/"
+    },
+    {
+      "label": "Machines",
+      "href": "/machines"
+    },
+    {
+      "label": "Accessories",
+      "href": "/"
+    },
+    {
+      "label": "Our story",
+      "href": "/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/"
+    },
+    {
+      "label": "Fréscopa Café",
+      "href": "/"
+    },
+    {
+      "label": "Careers",
+      "href": "/"
+    },
+    {
+      "label": "Contact us",
+      "href": "/"
+    },
+    {
+      "label": "Delivery & returns",
+      "href": "/"
+    },
+    {
+      "label": "Register your Atelier",
+      "href": "/"
+    },
+    {
+      "label": "Help centre",
+      "href": "/"
+    }
+  ],
+  "links": [
+    "https://new.frescopa.coffee/",
+    "https://new.frescopa.coffee/machines/atelier",
+    "https://new.frescopa.coffee/machines",
+    "https://new.frescopa.coffee/beverages",
+    "https://new.frescopa.coffee/cafe",
+    "https://new.frescopa.coffee/blog",
+    "https://new.frescopa.coffee/beverages/coffee",
+    "https://new.frescopa.coffee/of1/knowledge/cafe#"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://new.frescopa.coffee/fragments/media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+        "alt": "Fréscopa",
+        "w": 1391,
+        "h": 378
+      },
+      {
+        "src": "https://new.frescopa.coffee/of1/knowledge/media_1faa34ed50f110587996f0dbb12b177f1db7b711d.webp?width=2000&format=webply&optimize=medium",
+        "alt": "",
+        "w": 1408,
+        "h": 768
+      },
+      {
+        "src": "https://new.frescopa.coffee/of1/knowledge/media_1faa34ed50f110587996f0dbb12b177f1db7b711d.webp?width=2000&format=webply&optimize=medium",
+        "alt": "",
+        "w": 1408,
+        "h": 768
+      },
+      {
+        "src": "https://new.frescopa.coffee/fragments/media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+        "alt": "Fréscopa",
+        "w": 1391,
+        "h": 378
+      }
+    ],
+    "allImgCount": 10,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--burgundy": "oklch(34% 0.093 25deg)",
+    "--burgundy-deep": "oklch(27.5% 0.082 26deg)",
+    "--terracotta": "oklch(60.5% 0.116 44deg)",
+    "--terracotta-deep": "oklch(51.5% 0.108 40deg)",
+    "--terracotta-fill": "oklch(60.5% 0.116 44deg / 22%)",
+    "--amber": "oklch(79% 0.128 74deg)",
+    "--amber-soft": "oklch(86.5% 0.083 80deg)",
+    "--teal": "oklch(55% 0.05 205deg)",
+    "--paper": "oklch(97% 0.010 82deg)",
+    "--paper-2": "oklch(94.8% 0.015 78deg)",
+    "--paper-3": "oklch(91.8% 0.020 74deg)",
+    "--sand": "oklch(88.4% 0.025 71deg)",
+    "--line": "oklch(85.5% 0.018 68deg)",
+    "--ink": "oklch(26.2% 0.021 52deg)",
+    "--ink-soft": "oklch(43% 0.022 52deg)",
+    "--charcoal": "oklch(22.2% 0.016 52deg)",
+    "--charcoal-2": "oklch(28.2% 0.020 50deg)",
+    "--line-dark": "oklch(40% 0.020 55deg)",
+    "--cream": "oklch(94.5% 0.016 80deg)",
+    "--cream-soft": "oklch(79.5% 0.021 78deg)",
+    "--bg": "oklch(97% 0.010 82deg)",
+    "--fg": "oklch(26.2% 0.021 52deg)",
+    "--accent": "oklch(60.5% 0.116 44deg)",
+    "--focus": "oklch(60.5% 0.116 44deg)",
+    "--background-color": "oklch(97% 0.010 82deg)",
+    "--text-color": "oklch(26.2% 0.021 52deg)",
+    "--link-color": "oklch(60.5% 0.116 44deg)",
+    "--link-hover-color": "oklch(51.5% 0.108 40deg)",
+    "--font-display": "\"Schibsted Grotesk\", system-ui, sans-serif",
+    "--font-body": "\"Hanken Grotesk\", system-ui, sans-serif",
+    "--heading-font-family": "\"Schibsted Grotesk\", system-ui, sans-serif",
+    "--body-font-family": "\"Hanken Grotesk\", system-ui, sans-serif",
+    "--fs-eyebrow": "0.75rem",
+    "--fs-sm": "0.9375rem",
+    "--fs-body": "1.0625rem",
+    "--fs-body-lg": "clamp(1.125rem, 0.98rem + 0.5vw, 1.3125rem)",
+    "--fs-h4": "clamp(1.25rem, 1.08rem + 0.7vw, 1.6rem)",
+    "--fs-h3": "clamp(1.6rem, 1.25rem + 1.4vw, 2.3rem)",
+    "--fs-h2": "clamp(1.8rem, 1.3rem + 2vw, 2.8rem)",
+    "--fs-h1": "clamp(2.9rem, 1.7rem + 4.6vw, 5.4rem)",
+    "--fs-display": "clamp(3.4rem, 1.1rem + 8.4vw, 8rem)",
+    "--heading-size-xxl": "clamp(2.9rem, 1.7rem + 4.6vw, 5.4rem)",
+    "--heading-size-xl": "clamp(1.8rem, 1.3rem + 2vw, 2.8rem)",
+    "--heading-size-l": "clamp(1.6rem, 1.25rem + 1.4vw, 2.3rem)",
+    "--heading-size-m": "clamp(1.25rem, 1.08rem + 0.7vw, 1.6rem)",
+    "--heading-size-s": "1.0625rem",
+    "--heading-size-xs": "0.9375rem",
+    "--lh-tight": "1.03",
+    "--lh-snug": "1.15",
+    "--lh-body": "1.62",
+    "--tracking-eyebrow": "0.2em",
+    "--tracking-tight": "-0.02em",
+    "--space-3xs": "0.25rem",
+    "--space-2xs": "0.5rem",
+    "--space-xs": "0.75rem",
+    "--space-sm": "1rem",
+    "--space-md": "1.5rem",
+    "--space-lg": "2.5rem",
+    "--space-xl": "4rem",
+    "--space-2xl": "6rem",
+    "--section-y": "72px",
+    "--section-padding": "72px",
+    "--content": "1120px",
+    "--content-wide": "1320px",
+    "--content-narrow": "760px",
+    "--gutter": "clamp(1.25rem, 0.4rem + 3vw, 3rem)",
+    "--nav-height": "72px",
+    "--r-sm": "8px",
+    "--r-md": "14px",
+    "--r-lg": "22px",
+    "--r-xl": "32px",
+    "--r-pill": "999px",
+    "--shadow-sm": "0 1px 2px oklch(30% 0.03 50deg / 6%), 0 2px 8px oklch(30% 0.03 50deg / 5%)",
+    "--shadow-md": "0 4px 14px oklch(30% 0.03 50deg / 7%), 0 14px 34px oklch(30% 0.03 50deg / 8%)",
+    "--shadow-lg": "0 14px 34px oklch(26% 0.03 50deg / 10%), 0 34px 80px oklch(26% 0.03 50deg / 13%)",
+    "--ease-quint": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "--ease-expo": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "--dur-1": "0.35s",
+    "--dur-2": "0.6s",
+    "--dur-3": "0.9s",
+    "--light-color": "oklch(94.8% 0.015 78deg)",
+    "--dark-color": "oklch(22.2% 0.016 52deg)",
+    "--body-font-size-m": "1.0625rem",
+    "--body-font-size-s": "0.9375rem",
+    "--body-font-size-xs": "0.8125rem",
+    "--heading-font-size-xxl": "clamp(2.9rem, 1.7rem + 4.6vw, 5.4rem)",
+    "--heading-font-size-xl": "clamp(1.8rem, 1.3rem + 2vw, 2.8rem)",
+    "--heading-font-size-l": "clamp(1.6rem, 1.25rem + 1.4vw, 2.3rem)",
+    "--heading-font-size-m": "clamp(1.25rem, 1.08rem + 0.7vw, 1.6rem)",
+    "--heading-font-size-s": "clamp(1.125rem, 0.98rem + 0.5vw, 1.3125rem)",
+    "--heading-font-size-xs": "1.0625rem"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 49,
+    "mainTextLen": 7146,
+    "realImageCount": 4,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "new.frescopa.coffee",
+        "path": "/fragments/footer.plain.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 200,
+        "bytes": 605,
+        "hits": 1,
+        "example": "https://new.frescopa.coffee/fragments/footer.plain.html",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "new.frescopa.coffee",
+        "path": "/fragments/nav.plain.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 200,
+        "bytes": 406,
+        "hits": 1,
+        "example": "https://new.frescopa.coffee/fragments/nav.plain.html",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [],
+    "forms": [
+      {
+        "action": "https://new.frescopa.coffee/of1/knowledge/cafe",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "/"
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 0,
+      "thirdPartyScriptHosts": 0,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/of1-knowledge-cafe.png",
+  "renderedHtml": "pages/of1-knowledge-cafe.html",
+  "slots": {
+    "headline": "Come taste the whole of Fréscopa.",
+    "blocks": []
+  }
+}

@@ -1,0 +1,298 @@
+{
+  "url": "http://localhost:8791/myatelier-proposed.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 130,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 130,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 130,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 130,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 130,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 130,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 130,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".account-signin-submit",
+      "frames": [
+        {
+          "t": 7900.100000000093,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 8105.199999999721,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 8312.399999999907,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 8517.100000000093,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".account-signin-submit",
+      "changed": [
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.945 0.016 80)",
+          "background": "oklch(0.605 0.116 44)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": [
+          {
+            "el": "span.account-signin-arrow",
+            "transform": "none",
+            "color": "oklch(0.945 0.016 80)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.945 0.016 80)",
+          "background": "oklab(0.515045 0.0827332 0.0694266)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": [
+          {
+            "el": "span.account-signin-arrow",
+            "transform": "none",
+            "color": "oklch(0.945 0.016 80)",
+            "background": "rgba(0, 0, 0, 0)",
+            "boxShadow": "none",
+            "opacity": "1",
+            "transition": "all"
+          }
+        ]
+      }
+    },
+    {
+      "sel": ".account-signin-input",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.262 0.021 52)",
+          "background": "oklch(0.97 0.01 82)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.262 0.021 52)",
+          "background": "oklch(0.97 0.01 82)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "background-color",
+        "el": "div.section.account-signin-container > div.account-signin-wrapper > div.account-signin.block > form.account-signin-form > button.account-signin-submit",
+        "y": 0,
+        "dur": "0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.section.account-signin-container > div.account-signin-wrapper > div.account-signin.block > form.account-signin-form > button.account-signin-submit",
+        "y": 0,
+        "dur": "0.35s"
+      }
+    ],
+    "classMutations": []
+  }
+}

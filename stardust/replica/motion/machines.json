@@ -1,0 +1,661 @@
+{
+  "url": "https://new.frescopa.coffee/machines",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2294,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 794,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": ".machine-filter-tab:nth-child(3)",
+      "frames": [
+        {
+          "t": 16037.099999999627,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 16245.799999999814,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 16453,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 16660.5,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": ".machine-filter-tab",
+      "changed": [
+        "self.color"
+      ],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.43 0.022 52)",
+          "background": "oklch(0.97 0.01 82)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklab(0.340045 0.0842516 0.0392926)",
+          "background": "oklch(0.97 0.01 82)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".cards-machine-foot a",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.945 0.016 80)",
+          "background": "oklch(0.605 0.116 44)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.945 0.016 80)",
+          "background": "oklch(0.605 0.116 44)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background-color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy.reveal.is-in",
+        "y": 1200,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy.reveal.is-in",
+        "y": 1200,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note.reveal.is-in",
+        "y": 1200,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note.reveal.is-in",
+        "y": 1200,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 1600,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 1600,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy.reveal.is-in",
+        "y": 2000,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy.reveal.is-in",
+        "y": 2000,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note.reveal.is-in",
+        "y": 2000,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note.reveal.is-in",
+        "y": 2000,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy.reveal.is-in",
+        "y": 2800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy.reveal.is-in",
+        "y": 2800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 2800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 2800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note.reveal.is-in",
+        "y": 2800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note.reveal.is-in",
+        "y": 2800,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "opacity",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 3200,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "transform",
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 3200,
+        "dur": "0.9s, 0.9s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab.is-active",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab.is-active",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab.is-active",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab.is-active",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab.is-active",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab.is-active",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab",
+        "y": 0,
+        "dur": "0.35s, 0.35s, 0.35s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 400
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy.reveal.is-in",
+        "y": 1200
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note.reveal.is-in",
+        "y": 1200
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 1200
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy.reveal.is-in",
+        "y": 2000
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note.reveal.is-in",
+        "y": 2000
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 2400
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy.reveal.is-in",
+        "y": 2800
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note.reveal.is-in",
+        "y": 2800
+      },
+      {
+        "added": [
+          "is-in"
+        ],
+        "el": "body.appear > main > div.alt.section.cards-machine-container > div.cards-machine-wrapper > div.cards-machine.block.reveal",
+        "y": 2800
+      },
+      {
+        "added": [
+          "is-filtered-out"
+        ],
+        "el": "html > body.appear > main > div.section.cards-machine-container.is-filtered-out",
+        "y": 0
+      },
+      {
+        "added": [
+          "is-filtered-out"
+        ],
+        "el": "html > body.appear > main > div.section.cards-machine-container.is-filtered-out",
+        "y": 0
+      },
+      {
+        "added": [
+          "is-filtered-out"
+        ],
+        "el": "html > body.appear > main > div.alt.section.cards-machine-container",
+        "y": 0
+      },
+      {
+        "added": [
+          "is-active"
+        ],
+        "el": "div.alt.section.machine-filter-container > div.machine-filter-wrapper > div.machine-filter.block.reveal > div.machine-filter-bar > button.machine-filter-tab.is-active",
+        "y": 0
+      }
+    ]
+  }
+}

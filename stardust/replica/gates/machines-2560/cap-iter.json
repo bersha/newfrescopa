@@ -1,0 +1,843 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T19:48:37.439Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://new.frescopa.coffee/machines",
+      "http://localhost:8791/machines-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://new.frescopa.coffee/machines",
+    "http://localhost:8791/machines-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 65,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.08,
+        "section": 0,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 495,
+        "via": "max-width",
+        "selector": "main > div.alt.section > div.default-content-wrapper > p",
+        "tier": 3,
+        "share": 0.02,
+        "section": 0,
+        "w1": 495,
+        "maxWidth": "495.039px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.machine-filter-wrapper",
+        "tier": 2,
+        "share": 0.08,
+        "section": 1,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split",
+        "tier": 2,
+        "share": 0.08,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy",
+        "tier": 3,
+        "share": 0.05,
+        "section": 2,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note",
+        "tier": 3,
+        "share": 0.03,
+        "section": 2,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 468,
+        "via": "fixed",
+        "selector": "div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note > p",
+        "tier": 4,
+        "share": 0.02,
+        "section": 2,
+        "w1": 468,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-machine-container > div.cards-machine-wrapper",
+        "tier": 2,
+        "share": 0.23,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 511,
+        "via": "fixed",
+        "selector": "div.cards-machine-wrapper > div.cards-machine.block > article.cards-machine-card.cards-machine-flagship > div.cards-machine-media",
+        "tier": 5,
+        "share": 0.02,
+        "section": 2,
+        "w1": 511,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 511,
+        "via": "fixed",
+        "selector": "div.cards-machine-wrapper > div.cards-machine.block > article.cards-machine-card.cards-machine-flagship > div.cards-machine-body",
+        "tier": 5,
+        "share": 0.12,
+        "section": 2,
+        "w1": 511,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 802,
+        "via": "fixed",
+        "selector": "div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion > div.cards-machine-body",
+        "tier": 7,
+        "share": 0.08,
+        "section": 2,
+        "w1": 802,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.default-content-wrapper.section-head-split",
+        "tier": 2,
+        "share": 0.08,
+        "section": 3,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-copy",
+        "tier": 3,
+        "share": 0.05,
+        "section": 3,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-note",
+        "tier": 3,
+        "share": 0.03,
+        "section": 3,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 468,
+        "via": "fixed",
+        "selector": "div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-note > p",
+        "tier": 4,
+        "share": 0.02,
+        "section": 3,
+        "w1": 468,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.cards-machine-wrapper",
+        "tier": 2,
+        "share": 0.15,
+        "section": 3,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 500,
+        "via": "fixed",
+        "selector": "div.cards-machine.block > div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion",
+        "tier": 6,
+        "share": 0.08,
+        "section": 3,
+        "w1": 500,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 500,
+        "via": "fixed",
+        "selector": "div.cards-machine.block > div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion",
+        "tier": 6,
+        "share": 0.08,
+        "section": 3,
+        "w1": 500,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split",
+        "tier": 2,
+        "share": 0.08,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy",
+        "tier": 3,
+        "share": 0.05,
+        "section": 4,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note",
+        "tier": 3,
+        "share": 0.03,
+        "section": 4,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 468,
+        "via": "fixed",
+        "selector": "div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note > p",
+        "tier": 4,
+        "share": 0.02,
+        "section": 4,
+        "w1": 468,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-machine-container > div.cards-machine-wrapper",
+        "tier": 2,
+        "share": 0.08,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 802,
+        "via": "fixed",
+        "selector": "div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion > div.cards-machine-body",
+        "tier": 7,
+        "share": 0.08,
+        "section": 4,
+        "w1": 802,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.default-content-wrapper.section-head-split",
+        "tier": 2,
+        "share": 0.08,
+        "section": 5,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-copy",
+        "tier": 3,
+        "share": 0.05,
+        "section": 5,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-note",
+        "tier": 3,
+        "share": 0.03,
+        "section": 5,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 468,
+        "via": "fixed",
+        "selector": "div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-note > p",
+        "tier": 4,
+        "share": 0.02,
+        "section": 5,
+        "w1": 468,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.cards-machine-wrapper",
+        "tier": 2,
+        "share": 0.08,
+        "section": 5,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 802,
+        "via": "fixed",
+        "selector": "div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion > div.cards-machine-body",
+        "tier": 7,
+        "share": 0.08,
+        "section": 5,
+        "w1": 802,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.default-content-wrapper"
+      },
+      {
+        "index": 1,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.machine-filter-wrapper"
+      },
+      {
+        "index": 2,
+        "selector": "body.appear > main > div.section.cards-machine-container",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split"
+      },
+      {
+        "index": 3,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.default-content-wrapper.section-head-split"
+      },
+      {
+        "index": 4,
+        "selector": "body.appear > main > div.section.cards-machine-container",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split"
+      },
+      {
+        "index": 5,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.default-content-wrapper.section-head-split"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1120,
+    "contentFrom": "module",
+    "maxCap": 1120,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 110
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 65,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.08,
+        "section": 0,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 495,
+        "via": "max-width",
+        "selector": "main > div.alt.section > div.default-content-wrapper > p",
+        "tier": 3,
+        "share": 0.02,
+        "section": 0,
+        "w1": 495,
+        "maxWidth": "495.039px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.machine-filter-wrapper",
+        "tier": 2,
+        "share": 0.08,
+        "section": 1,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split",
+        "tier": 2,
+        "share": 0.08,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy",
+        "tier": 3,
+        "share": 0.05,
+        "section": 2,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note",
+        "tier": 3,
+        "share": 0.03,
+        "section": 2,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 468,
+        "via": "fixed",
+        "selector": "div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note > p",
+        "tier": 4,
+        "share": 0.02,
+        "section": 2,
+        "w1": 468,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-machine-container > div.cards-machine-wrapper",
+        "tier": 2,
+        "share": 0.23,
+        "section": 2,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 511,
+        "via": "fixed",
+        "selector": "div.cards-machine-wrapper > div.cards-machine.block > article.cards-machine-card.cards-machine-flagship > div.cards-machine-media",
+        "tier": 5,
+        "share": 0.02,
+        "section": 2,
+        "w1": 511,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 511,
+        "via": "fixed",
+        "selector": "div.cards-machine-wrapper > div.cards-machine.block > article.cards-machine-card.cards-machine-flagship > div.cards-machine-body",
+        "tier": 5,
+        "share": 0.12,
+        "section": 2,
+        "w1": 511,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 802,
+        "via": "fixed",
+        "selector": "div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion > div.cards-machine-body",
+        "tier": 7,
+        "share": 0.08,
+        "section": 2,
+        "w1": 802,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.default-content-wrapper.section-head-split",
+        "tier": 2,
+        "share": 0.08,
+        "section": 3,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-copy",
+        "tier": 3,
+        "share": 0.05,
+        "section": 3,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-note",
+        "tier": 3,
+        "share": 0.03,
+        "section": 3,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 468,
+        "via": "fixed",
+        "selector": "div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-note > p",
+        "tier": 4,
+        "share": 0.02,
+        "section": 3,
+        "w1": 468,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.cards-machine-wrapper",
+        "tier": 2,
+        "share": 0.15,
+        "section": 3,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 500,
+        "via": "fixed",
+        "selector": "div.cards-machine.block > div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion",
+        "tier": 6,
+        "share": 0.08,
+        "section": 3,
+        "w1": 500,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 500,
+        "via": "fixed",
+        "selector": "div.cards-machine.block > div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion",
+        "tier": 6,
+        "share": 0.08,
+        "section": 3,
+        "w1": 500,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split",
+        "tier": 2,
+        "share": 0.08,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-copy",
+        "tier": 3,
+        "share": 0.05,
+        "section": 4,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note",
+        "tier": 3,
+        "share": 0.03,
+        "section": 4,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 468,
+        "via": "fixed",
+        "selector": "div.section.cards-machine-container > div.default-content-wrapper.section-head-split > div.section-head-note > p",
+        "tier": 4,
+        "share": 0.02,
+        "section": 4,
+        "w1": 468,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.cards-machine-container > div.cards-machine-wrapper",
+        "tier": 2,
+        "share": 0.08,
+        "section": 4,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 802,
+        "via": "fixed",
+        "selector": "div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion > div.cards-machine-body",
+        "tier": 7,
+        "share": 0.08,
+        "section": 4,
+        "w1": 802,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.default-content-wrapper.section-head-split",
+        "tier": 2,
+        "share": 0.08,
+        "section": 5,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-copy",
+        "tier": 3,
+        "share": 0.05,
+        "section": 5,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 488,
+        "via": "fixed",
+        "selector": "main > div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-note",
+        "tier": 3,
+        "share": 0.03,
+        "section": 5,
+        "w1": 488,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 468,
+        "via": "fixed",
+        "selector": "div.alt.section > div.default-content-wrapper.section-head-split > div.section-head-note > p",
+        "tier": 4,
+        "share": 0.02,
+        "section": 5,
+        "w1": 468,
+        "maxWidth": "none"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.alt.section > div.cards-machine-wrapper",
+        "tier": 2,
+        "share": 0.08,
+        "section": 5,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 802,
+        "via": "fixed",
+        "selector": "div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion > div.cards-machine-body",
+        "tier": 7,
+        "share": 0.08,
+        "section": 5,
+        "w1": 802,
+        "maxWidth": "none"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.default-content-wrapper"
+      },
+      {
+        "index": 1,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.machine-filter-wrapper"
+      },
+      {
+        "index": 2,
+        "selector": "body.appear > main > div.section.cards-machine-container",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split"
+      },
+      {
+        "index": 3,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.default-content-wrapper.section-head-split"
+      },
+      {
+        "index": 4,
+        "selector": "body.appear > main > div.section.cards-machine-container",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.cards-machine-container > div.default-content-wrapper.section-head-split"
+      },
+      {
+        "index": 5,
+        "selector": "body.appear > main > div.alt.section",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.alt.section > div.default-content-wrapper.section-head-split"
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1120,
+    "contentFrom": "module",
+    "maxCap": 1120,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 110
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1120px = build 1120px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/6",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/6",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/6",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/6",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 5/6",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 6/6",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/machines-2560/cap-iter.json"
+}

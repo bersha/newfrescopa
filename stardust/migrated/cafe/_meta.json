@@ -1,0 +1,69 @@
+{
+  "slug": "cafe",
+  "type": "landing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "hero",
+    "cards-reasons",
+    "columns",
+    "cards-event",
+    "stats-row",
+    "store-locator",
+    "booking-form"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "div",
+    "div",
+    "alt",
+    "div",
+    "alt",
+    "div",
+    "dark"
+  ],
+  "canonShas": {
+    "header": "534598da2521",
+    "footer": "736a7ff44f02",
+    "css": "4df8e3921e99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Come taste the whole of Fréscopa.",
+    "description": "Part coffee bar, part showroom, part gathering place. Sit with a cup, get hands-on with the machines, and stay for a class — no purchase, ...",
+    "canonical": "https://new.frescopa.coffee/cafe",
+    "lang": null
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Come taste the whole of Fréscopa.",
+    "description": "Part coffee bar, part showroom, part gathering place. Sit with a cup, get hands-on with the machines, and stay for a class — no purchase, ...",
+    "url": "https://new.frescopa.coffee/cafe"
+  },
+  "migratedAt": "2026-11-13T20:13:39Z",
+  "designMdSha": "104fd13ba944",
+  "designJsonSha": "1449a990b92e",
+  "sourceCurrentSha": "790c26a1b883",
+  "sourceProposedSha": "097ca15c1dcf",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [
+    {
+      "href": "/coffee",
+      "reason": "not-in-inventory"
+    }
+  ],
+  "outputPath": "cafe/index.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "cafe/_meta.json",
+  "driverVersion": "1"
+}

@@ -1,0 +1,47 @@
+{
+  "/header": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T20:57:25.862Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/of1/knowledge/atelier": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T20:57:25.862Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/of1/knowledge/beverages": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T20:57:31.124Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/of1/knowledge/cafe": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T20:57:31.691Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/of1/knowledge/japan": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T20:57:36.564Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

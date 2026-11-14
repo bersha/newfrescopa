@@ -1,0 +1,226 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-13T20:14:30.779Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-13T21:30:41.299Z",
+  "templates": [
+    {
+      "id": "blog-atelier-taste",
+      "representativeSlug": "blog-atelier-taste",
+      "pages": [
+        "blog-atelier-taste"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "article-byline",
+        "article-share",
+        "cards-article"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "cafe",
+      "representativeSlug": "cafe",
+      "pages": [
+        "cafe"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "booking-form",
+        "cards-event",
+        "cards-reasons",
+        "columns",
+        "hero",
+        "stats-row",
+        "store-locator"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "index",
+      "representativeSlug": "index",
+      "pages": [
+        "index"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "cards-product",
+        "cards-quote",
+        "columns",
+        "hero",
+        "mood-calendar",
+        "taste-profile"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "landing",
+      "representativeSlug": "beverages",
+      "pages": [
+        "beverages",
+        "japan",
+        "proffee",
+        "proffee-jp"
+      ],
+      "pageCount": 4,
+      "blocks": [],
+      "delivery": {
+        "verified": 4,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "listing",
+      "representativeSlug": "beverages-coffee",
+      "pages": [
+        "beverages-coffee",
+        "blog"
+      ],
+      "pageCount": 2,
+      "blocks": [],
+      "delivery": {
+        "verified": 2,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "machines",
+      "representativeSlug": "machines",
+      "pages": [
+        "machines"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "cards-machine",
+        "machine-filter"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "machines-atelier",
+      "representativeSlug": "machines-atelier",
+      "pages": [
+        "machines-atelier"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "accordion",
+        "bundle-cards",
+        "cards-product",
+        "media-video",
+        "product-hero",
+        "product-jumpnav",
+        "reviews",
+        "spec-table",
+        "steps-tabs",
+        "taste-profile"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "myatelier",
+      "representativeSlug": "myatelier",
+      "pages": [
+        "myatelier"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "account-signin"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "of1",
+      "representativeSlug": "of1",
+      "pages": [
+        "of1"
+      ],
+      "pageCount": 1,
+      "blocks": [
+        "of1"
+      ],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "of1-knowledge-machines",
+      "representativeSlug": "of1-knowledge-machines",
+      "pages": [
+        "of1-knowledge-machines"
+      ],
+      "pageCount": 1,
+      "blocks": [],
+      "delivery": {
+        "verified": 1,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    },
+    {
+      "id": "static",
+      "representativeSlug": "fragments-footer",
+      "pages": [
+        "fragments-footer",
+        "fragments-nav",
+        "header",
+        "of1-knowledge-atelier",
+        "of1-knowledge-beverages",
+        "of1-knowledge-cafe",
+        "of1-knowledge-japan"
+      ],
+      "pageCount": 7,
+      "blocks": [],
+      "delivery": {
+        "verified": 7,
+        "deployed": 0,
+        "contentPending": 0,
+        "pending": 0
+      }
+    }
+  ]
+}

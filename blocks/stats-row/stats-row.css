@@ -1,0 +1,56 @@
+/* stats-row: 2-up (mobile) / 4-up band of big numbers between hairlines */
+.stats-row {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 1.6rem;
+  margin: 2.4rem 0 0;
+  padding: 1.8rem 0;
+  border-block: 1px solid var(--line);
+}
+
+.stats-row > ul {
+  display: contents;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.stats-row > ul > li {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+  text-align: start;
+}
+
+.stats-row .stats-row-number {
+  font-family: var(--font-display);
+  font-size: 2.9rem;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: var(--tracking-tight);
+  color: var(--burgundy);
+}
+
+.stats-row .stats-row-label {
+  font-family: var(--font-body);
+  font-size: 0.68rem;
+  font-weight: 400;
+  line-height: 1.62;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.stats-row .stats-row-number p,
+.stats-row .stats-row-label p {
+  margin: 0;
+  font: inherit;
+  letter-spacing: inherit;
+  color: inherit;
+}
+
+@media (width >= 900px) {
+  .stats-row {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}

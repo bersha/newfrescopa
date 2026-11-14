@@ -1,0 +1,1134 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/cafe-360/vdiff-iter3/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 9568,
+  "textLen": 7552,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "360x680",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_126153dedaaab1e3fdd811716e201bae4bcfcf30f.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x175",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "769.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "769.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "770.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "770.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Come taste the whole of Fréscopa",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "46.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Reasons to make the trip.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Taste before you commit",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Meet the machines",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Learn from the team",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Somewhere to linger",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Three rooms, one long morning.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Every drink we make, poured to o",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Get your hands on the whole line",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Learn something, meet someone.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "This week at the table.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Origins cupping",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Latte-art lab",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Home brewing 101",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Slow morning cupping",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "There's a Fréscopa in your town.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Fréscopa flagship",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Williamsburg",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Seaport",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Back Bay",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Rittenhouse",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Georgetown",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Ponce City Market",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa West Loop",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Wicker Park",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa North Loop",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Crossroads",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa RiNo",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa South Congress",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa The Domain",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Deep Ellum",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa The Heights",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Wynwood",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Warehouse District",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Ferry Building",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Hayes Valley",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Capitol Hill",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Ballard",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Pearl District",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Arts District",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Silver Lake",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Little Italy",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Roosevelt Row",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Sydney",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "A guided hour with the machine t",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The kettle's on. The door's open",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "The café & showroom",
+    "color": "oklch(0.79 0.128 74)"
+   },
+   {
+    "text": "Why come in",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "The experience",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "01 · The taste bar",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "02 · The showroom",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "03 · The table",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "What's on",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Tuesday",
+    "color": "oklch(0.605 0.116 44)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "cards-reasons-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-reasons-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-reasons-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-reasons-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "columns",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "columns",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "columns",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-event",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "stats-row",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "columns",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "store-locator-card-head",
+    "width": 268,
+    "left": 42
+   }
+  ]
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 9568,
+  "textLen": 7552,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "360x680",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_126153dedaaab1e3fdd811716e201bae4bcfcf30f.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x175",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "769.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "769.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "770.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "770.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Come taste the whole of Fréscopa",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "46.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Reasons to make the trip.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Taste before you commit",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Meet the machines",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Learn from the team",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Somewhere to linger",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Three rooms, one long morning.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Every drink we make, poured to o",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Get your hands on the whole line",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Learn something, meet someone.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "This week at the table.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Origins cupping",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Latte-art lab",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Home brewing 101",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Slow morning cupping",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "There's a Fréscopa in your town.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Fréscopa flagship",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Williamsburg",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Seaport",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Back Bay",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Rittenhouse",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Georgetown",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Ponce City Market",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa West Loop",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Wicker Park",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa North Loop",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Crossroads",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa RiNo",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa South Congress",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa The Domain",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Deep Ellum",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa The Heights",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Wynwood",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Warehouse District",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Ferry Building",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Hayes Valley",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Capitol Hill",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Ballard",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Pearl District",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Arts District",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Silver Lake",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Little Italy",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Roosevelt Row",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Fréscopa Sydney",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "A guided hour with the machine t",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The kettle's on. The door's open",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "The café & showroom",
+    "color": "oklch(0.79 0.128 74)"
+   },
+   {
+    "text": "Why come in",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "The experience",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "01 · The taste bar",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "02 · The showroom",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "03 · The table",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "What's on",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Tuesday",
+    "color": "oklch(0.605 0.116 44)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero",
+    "width": 360,
+    "left": 0
+   },
+   {
+    "sel": "cards-reasons-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-reasons-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-reasons-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-reasons-card-body",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "columns",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "columns",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "columns",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "cards-event",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "stats-row",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "columns",
+    "width": 320,
+    "left": 20
+   },
+   {
+    "sel": "store-locator-card-head",
+    "width": 268,
+    "left": 42
+   }
+  ]
+ }
+}

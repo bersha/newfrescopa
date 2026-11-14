@@ -1,0 +1,82 @@
+{
+  "key": {
+    "url": "https://new.frescopa.coffee/",
+    "width": 360,
+    "main": "main"
+  },
+  "probedAt": "2026-11-13T19:46:44.401Z",
+  "data": {
+    "doc": 8812,
+    "rootMissing": false,
+    "rootWrapsChrome": false,
+    "sections": [
+      {
+        "label": "hero-container",
+        "box": [
+          0,
+          680
+        ]
+      },
+      {
+        "label": "intro.columns-container",
+        "box": [
+          680,
+          587
+        ]
+      },
+      {
+        "label": "learn.taste-profile-container",
+        "box": [
+          1267,
+          1000
+        ]
+      },
+      {
+        "label": "mood.mood-calendar-container",
+        "box": [
+          2266,
+          910
+        ]
+      },
+      {
+        "label": "feed.cards-product-container",
+        "box": [
+          3176,
+          1918
+        ]
+      },
+      {
+        "label": "sustain.columns-container",
+        "box": [
+          5094,
+          842
+        ]
+      },
+      {
+        "label": "voices.cards-quote-container",
+        "box": [
+          5936,
+          809
+        ]
+      },
+      {
+        "label": "hero-container",
+        "box": [
+          6745,
+          434
+        ]
+      },
+      {
+        "label": "dark",
+        "box": [
+          7179,
+          479
+        ]
+      }
+    ],
+    "footer": [
+      7658,
+      1154
+    ]
+  }
+}

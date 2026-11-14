@@ -1,0 +1,37 @@
+{
+  "frozenAt": "2026-11-13T20:35:06.551Z",
+  "root": ".",
+  "paths": [
+    "styles/",
+    "fonts/",
+    "blocks/header/",
+    "blocks/footer/",
+    "head.html",
+    "scripts/"
+  ],
+  "files": {
+    "blocks/footer/footer.css": "59a7006d01cb6d483bcf96d937b4da4d607822e2dad95a1312ece388602f7905",
+    "blocks/footer/footer.js": "d06e215371479462509abe06a5d9df10bc8bd1cf5ff021cc9b8e8000f1d461c2",
+    "blocks/header/header.css": "eeba86f82e27e7a7f84bc586282da0b9f28fe35ee659e55a2da1ba9fa1266115",
+    "blocks/header/header.js": "b06db8603de370d39531ed9940df5997a599c7d72b029c800136a83ca0673cab",
+    "blocks/header/media/trending-atelier.jpg": "c4fee97c4887212685d4d56a935a4bb47a0d253cc4744534f237fd80a8620866",
+    "blocks/header/media/trending-morning-blend.jpg": "b5cd15deec5c55e2ecc6120decd69bcfb21af7d40a71852f9230fd77dbd944d4",
+    "blocks/header/search.css": "ab86ee46f7a44bcd2f52478d7b0a3f54743f4839a67763a792d500113ec48841",
+    "blocks/header/search.js": "04084a3e38ec76c9ed1ca7922120f91a0c0ef4979225b232a55e1f1deabbf25f",
+    "fonts/hanken-grotesk-cyrillic-ext.woff2": "2f52020a90793104e4178b0ae3ccd30eea28cac27e0fea8fcf4f246151777f74",
+    "fonts/hanken-grotesk-latin-ext.woff2": "a1376a563717f1efa2f5286ab23da2b61ae8dec827a77b97adfa01cad4ec4ee2",
+    "fonts/hanken-grotesk-latin.woff2": "1f21c6eaa0000f3329cfcfac966b43d5bebf5aa610303e33294ac31bc6f4bb59",
+    "fonts/hanken-grotesk-vietnamese.woff2": "2f467719b2167cc4778b5780a2fb42fadf5203b29d0fb5f1482bbab32b1b7999",
+    "fonts/schibsted-grotesk-latin-ext.woff2": "f5df746dbc2eccec6d22fdaaa2d253cd6915a30ce9f6ba86138bb6151c7254db",
+    "fonts/schibsted-grotesk-latin.woff2": "e3b56e90510a84ac0ed465b822e112983eaf58e37436bf769681c31f77b1f3a7",
+    "head.html": "febf320b5244a1634f688726999064ba4b95335ec71ef14628d4806501baca65",
+    "scripts/aem.js": "786e8019b14b4c0bee9df38a3162f129c04310d9d00e7a6dd326c7e5830c84ae",
+    "scripts/consent-check.js": "ac21f825288cfc82c52a6acd9c57bbb76a2017ee1b06319d493244f32751249a",
+    "scripts/consented.js": "8a0ec7239cfab36c9bbfd8e7cde178c6c9061f68da8539879411ee9fa09b18ab",
+    "scripts/martech.js": "00d333c6e7bb1729894afedc9c0035822f765f7d8b04f52421789eadc1ecbf63",
+    "scripts/scripts.js": "164936f684bc3197be831e0032f0d4dd21b191a171dccaa2d75bde8d41b9b744",
+    "styles/fonts.css": "520f22666cceb145b5c81818c8b7955909cc8ee99f334bcf4b688a352584f5a7",
+    "styles/lazy-styles.css": "391d6721991eb169fa04d7c71d9b597361d76c24ab8a3d5f1dcb47457d8ca2d6",
+    "styles/styles.css": "332a1d0a40cc9e552e93d2bfa11e7e24f44ebf2177c6b66be627734a89d880f5"
+  }
+}

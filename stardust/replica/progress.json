@@ -1,0 +1,600 @@
+{
+  "types": {
+    "static": {
+      "archetype": "of1-knowledge-machines",
+      "slug": "of1-knowledge-machines",
+      "type": "static",
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "gates": {
+        "360": {
+          "label": "iter3",
+          "full": true,
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "chromeCrop": {
+            "headerPct": 0,
+            "footerPct": 0
+          },
+          "clipped": 0,
+          "overflow": "ok"
+        },
+        "1440": {
+          "label": "iter3",
+          "full": true,
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "chromeCrop": {
+            "headerPct": 0,
+            "footerPct": 0
+          },
+          "clipped": 0,
+          "overflow": "ok",
+          "capProbe": "PASS (0 of 36 rows failed, evidence stardust/replica/gates/of1-knowledge-machines-2560/cap-iter.json)"
+        }
+      },
+      "chromeCheck": {
+        "slug": "header",
+        "width": 1440,
+        "label": "iter1",
+        "full": true,
+        "pixelPct": 0,
+        "heightDelta": 0,
+        "contentDiff": {
+          "red": 0,
+          "nothingLostYellow": 0
+        },
+        "chromeParity": "pass",
+        "clipped": 0,
+        "overflow": "ok",
+        "visualDiffFlags": [
+          "BLANK RENDER (justified: the authored /header page has an empty main; the live source flags the same, blankRender true, main 144px)"
+        ]
+      },
+      "residuals": [],
+      "notes": [
+        "iter1 build capture was 2151px (1440) / 633px (360) short: gate.sh settles (scroll-loads) the live side only, and below-the-fold lazy images collapse to 0px until loaded on both sites. Fixed with `main .default-content-wrapper img[width][height] { width: attr(width px, auto) }` so default-content images keep their authored box before load. The loaded result is the same size as live (measured equal); browsers without typed attr() keep width:auto.",
+        "Font files under stardust/current/source/code/fonts are gzip-encoded captures; /fonts/*.woff2 are the decoded woff2 files."
+      ],
+      "motion": {
+        "observed": [
+          "search click: overlay is-open, transform 600ms expo, backdrop-filter/opacity 350ms quint, chip/esc border+colour 350ms"
+        ],
+        "implemented": [
+          "header search dialog (blocks/header/search.js + search.css), parity 9/9, 0 missing, 0 extra"
+        ],
+        "dead": [
+          "header scroll-morph (static on both sides)",
+          "nav link hover (no measured diff on live)",
+          "search trigger frame sampling (no change)"
+        ]
+      },
+      "recordedAt": "2026-11-13T19:40:34.653Z"
+    },
+    "home": {
+      "archetype": "index",
+      "slug": "index",
+      "type": "home",
+      "iterations": {
+        "360": 3,
+        "1440": 3
+      },
+      "gates": {
+        "360": {
+          "label": "iter3",
+          "full": true,
+          "pixelPct": 4.62,
+          "heightDelta": 0,
+          "hotBands": [
+            "6500-7000 27.7% (explained, see residuals)",
+            "7000-7500 19.2% (explained, see residuals)"
+          ],
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "chromeCrop": {
+            "headerPct": 0,
+            "footerPct": 4.16
+          },
+          "clipped": 0,
+          "overflow": "ok"
+        },
+        "1440": {
+          "label": "iter3",
+          "full": true,
+          "pixelPct": 0.23,
+          "heightDelta": 0,
+          "hotBands": [],
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "chromeCrop": {
+            "headerPct": 0,
+            "footerPct": 0
+          },
+          "clipped": 0,
+          "overflow": "ok",
+          "capProbe": "PASS at 2560 (0 of 10 rows failed, evidence stardust/replica/gates/index-2560/cap-iter.json)"
+        }
+      },
+      "residuals": [
+        "360 hot bands 6500-7500 and footer crop 4.16%: capture-timing artefact, not geometry. Anchors match live section-for-section at rest (Δ0 every section, doc 8812 both). The mood-calendar (and taste-profile) auto-cycle every 3s — a behaviour that fires on live — is scheduled by an IntersectionObserver AFTER stitch-shot clears timers; gate.sh settles only the live side, so on the build the cycle advances mid-capture (Bolder -> Balanced, whose note wraps one more line at 360) and every chunk from y=6300 down is stitched 24px low. Verified by an independent build capture (same result) and a scroll probe showing the mood section 910 -> 934px after ~3s on BOTH live and build. Not fixable in block code without removing a live behaviour; a build-side --settle (or freezing the cycle on both sides) would clear it."
+      ],
+      "notes": [
+        "iter1 -> iter2: intro columns body cell was 19px short — the source's `p:first-child` margin-reset rule loses the cascade to the body-paragraph rule on live (equal specificity, later wins), so the first body paragraph keeps margin-top 0.9em; removed the dead reset.",
+        "taste-profile: for the known profiles (Weekday, Slow Sunday, After dinner) the live site's readout copy and radar values come from the block JS, not the document (live shows 'The slow Sunday' while the doc says 'Slow Sunday'); the recreation keeps that canonical dataset so the readouts match live. Unknown labels use the authored cells.",
+        "Section styles intro/learn/mood/feed/sustain/voices needed no rules beyond the foundation."
+      ],
+      "motion": {
+        "observed": [
+          "scroll reveal opacity/transform 900ms (is-in x15, foundation)",
+          "taste-profile + mood-calendar auto-cycle (is-active, 3s) after scroll-in",
+          "hover: hero CTA background 350ms, intro arrow link colour, taste-profile chip border/colour 350ms, calendar day background+translateY 600ms, product CTA colour 350ms, dark-band CTA background 350ms"
+        ],
+        "implemented": [
+          "all observed behaviours: motion-compare 16 parity, 0 missing, 0 extra, 0 out of tolerance",
+          "taste-profile chip click (radar morph 820ms expo, readout swap, stops cycle) and mood-calendar day click (readout swap, stops cycle) per source JS"
+        ],
+        "dead": [
+          "header scroll-morph (static on both sides)",
+          "taste-profile chip / calendar day click: no frame-sampled box change (state change is class/text only)",
+          "product card hover (no measured diff on live)"
+        ]
+      },
+      "recordedAt": "2026-11-13T19:54:27.313Z"
+    },
+    "form": {
+      "archetype": "myatelier",
+      "slug": "myatelier",
+      "type": "form",
+      "iterations": {
+        "360": 2,
+        "1440": 1
+      },
+      "gates": {
+        "360": {
+          "label": "iter2",
+          "full": true,
+          "pixelPct": 0.01,
+          "heightDelta": 0,
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "clipped": 0,
+          "overflow": "ok"
+        },
+        "1440": {
+          "label": "iter1",
+          "full": true,
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "clipped": 0,
+          "overflow": "ok",
+          "capProbe": "PASS (0 of 4 rows failed, stardust/replica/gates/myatelier-2560/cap-iter.json)"
+        }
+      },
+      "residuals": [
+        "Source defect fixed (needs an inconsistency-register entry): the live email input is content-box (width 100% + padding) and overflows the 360 viewport by 19px (live scrollWidth 379, measured). Build sets box-sizing:border-box below 600px only, so 1440 is untouched; 360 pixel delta 0.01%."
+      ],
+      "motion": {
+        "observed": [
+          "submit hover background 350ms quint"
+        ],
+        "implemented": [
+          "submit hover; submit prevented client-side (no backend) as on source — motion-compare 2 parity, 0 missing, 0 extra"
+        ],
+        "dead": [
+          "header scroll-morph",
+          "submit click (no visual change on live)",
+          "input hover (no measured diff)"
+        ]
+      },
+      "recordedAt": "2026-11-13T19:58:01.926Z"
+    },
+    "unique": {
+      "archetype": "of1",
+      "slug": "of1",
+      "type": "unique",
+      "iterations": {
+        "360": 1,
+        "1440": 1
+      },
+      "gates": {
+        "360": {
+          "label": "iter1",
+          "full": true,
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "clipped": 0,
+          "overflow": "ok"
+        },
+        "1440": {
+          "label": "iter1",
+          "full": true,
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "clipped": 0,
+          "overflow": "ok",
+          "capProbe": "PASS (0 of 3 rows failed, stardust/replica/gates/of1-2560/cap-iter.json)"
+        }
+      },
+      "residuals": [
+        "UI is rendered by the source's assistant SDK (https://of1-gen-web-service.franklin-prod.workers.dev/sdk/of1-client.js, kept as a third-party passthrough); our block supplies config + EDS decorateAndLoad hook, of1.css re-skins it. No queries were submitted (the SDK's landing /api/suggest call on load is the only service request). Generated-result states (skeleton, generated sections, follow-up suggestions) are styled but not gated."
+      ],
+      "motion": {
+        "observed": [
+          "submit hover background + scale 350ms",
+          "input border transition"
+        ],
+        "implemented": [
+          "of1 skin hover/focus states — motion-compare 7 parity, 0 missing, 0 extra"
+        ],
+        "dead": [
+          "header scroll-morph",
+          "input hover (no measured diff)",
+          "chip hover (no chips rendered on live at capture)"
+        ]
+      },
+      "recordedAt": "2026-11-13T19:58:02.078Z"
+    },
+    "listing": {
+      "archetype": "machines",
+      "slug": "machines",
+      "type": "listing",
+      "iterations": {
+        "360": 2,
+        "1440": 3
+      },
+      "gates": {
+        "360": {
+          "label": "iter2",
+          "full": true,
+          "pixelPct": 0.29,
+          "heightDelta": 0,
+          "contentDiff": {
+            "red": 1,
+            "nothingLostYellow": 0,
+            "redDetail": "same breadcrumb proto-URL artifact"
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "clipped": 0,
+          "overflow": "ok"
+        },
+        "1440": {
+          "label": "iter3",
+          "full": true,
+          "pixelPct": 1.12,
+          "heightDelta": 0,
+          "contentDiff": {
+            "red": 1,
+            "nothingLostYellow": 0,
+            "redDetail": "MISSING EYEBROW 'Machines' / EXTRA 'Machines Proposed.html' — breadcrumb label derived from window.location by foundation scripts.js; proto URL is /machines-proposed.html"
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "1 delta: header 'Machines' aria-current colour — header derives the current link from window.location (proto URL artifact)",
+          "clipped": 0,
+          "overflow": "ok",
+          "capProbe": "PASS (0 of 7 rows failed, stardust/replica/gates/machines-2560/cap-iter.json)"
+        }
+      },
+      "residuals": [
+        "Breadcrumb label + header current-link derive from the URL path; on the proto server the path is /machines-proposed.html, so the gate sees 'Machines Proposed.html' and no active nav colour. Correct on /machines. Foundation change request: derive from link[rel=canonical] (or strip '-proposed.html').",
+        "1440 band 500–1000 9.4% (not hot): first stitched chunk captures the flagship card before scroll-reveal fires on the build (card only ~150px inside the 900px fold, under the 15% threshold); live capture is settled. Geometry measured identical (measure.mjs Δ0 on cards/media/body/grid).",
+        "360 band 2500–3000 3.7%: same reveal mid-transition on one card in one chunk."
+      ],
+      "motion": {
+        "observed": [
+          "filter tab hover colour/border 350ms quint",
+          "filter click: is-active + is-filtered-out class toggles",
+          "scroll reveal opacity/transform 900ms (foundation)"
+        ],
+        "implemented": [
+          "machine-filter tabs (click filter, hover, aria-pressed) — motion-compare 12 parity, 0 missing, 0 extra"
+        ],
+        "dead": [
+          "header scroll-morph",
+          "filter-tab frame sampling (instant toggle)",
+          "cards-machine foot link hover (no measured diff)"
+        ]
+      },
+      "confirm": {
+        "360": {
+          "pixel": "0.28%",
+          "dh": 0,
+          "red": 0,
+          "yellow": 0,
+          "clip": 0,
+          "overflow": "ok",
+          "chromeParity": "ok"
+        },
+        "1440": {
+          "pixel": "1.12%",
+          "dh": 0,
+          "red": 0,
+          "yellow": 0,
+          "clip": 0,
+          "overflow": "ok",
+          "chromeParity": "ok"
+        },
+        "note": "foundation fix (canonical page path for breadcrumb + active nav) then --full confirm"
+      },
+      "recordedAt": "2026-11-13T19:58:42.673Z"
+    },
+    "article": {
+      "archetype": "blog-atelier-taste",
+      "slug": "blog-atelier-taste",
+      "type": "article",
+      "iterations": {
+        "360": 1,
+        "1440": 1
+      },
+      "gates": {
+        "360": {
+          "label": "iter1",
+          "full": true,
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "hotBands": [],
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "clipped": 0,
+          "overflow": "ok"
+        },
+        "1440": {
+          "label": "iter1",
+          "full": true,
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "hotBands": [],
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "1 delta: header 'Journal' aria-current colour — header derives the current link from window.location (proto URL artefact, same as machines)",
+          "clipped": 0,
+          "overflow": "ok",
+          "capProbe": "PASS at 2560 (0 of 8 rows failed, stardust/replica/gates/blog-atelier-taste-2560/cap-iter.json)"
+        }
+      },
+      "residuals": [],
+      "motion": {
+        "observed": [
+          "scroll reveal (foundation)",
+          "hover: article-share-link colour/border 350ms, cards-article h3 colour 350ms"
+        ],
+        "implemented": [
+          "all observed: motion-compare 7 parity, 0 missing, 0 extra, 0 out of tolerance",
+          "cards-article category filter (blog listing only; not present on this page)"
+        ],
+        "dead": [
+          "header scroll-morph",
+          "article-breadcrumb hover"
+        ]
+      },
+      "recordedAt": "2026-11-13T20:05:29.344Z"
+    },
+    "program": {
+      "archetype": "machines-atelier",
+      "slug": "machines-atelier",
+      "type": "program",
+      "iterations": {
+        "360": 1,
+        "1440": 2
+      },
+      "gates": {
+        "360": {
+          "label": "iter1",
+          "full": true,
+          "pixelPct": 0.31,
+          "heightDelta": 0,
+          "hotBands": [
+            "7000-7500 7.0% (explained: taste-profile auto-cycle)",
+            "9500-10000 1.1% (explained: build-side reveal at chunk boundary)"
+          ],
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "clipped": 0,
+          "overflow": "ok"
+        },
+        "1440": {
+          "label": "iter2",
+          "full": false,
+          "fullRound": "iter1 (0.29%, all gates green)",
+          "pixelPct": 0.29,
+          "heightDelta": 0,
+          "hotBands": [
+            "5000-5500 2.6% (explained: taste-profile auto-cycle)",
+            "6000-6500 1.1% / 7000-7500 1.1% (explained: build-side reveal at chunk boundary)"
+          ],
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "clipped": 0,
+          "overflow": "ok",
+          "capProbe": "PASS at 2560 (0 of 13 rows failed, stardust/replica/gates/machines-atelier-2560/cap-iter.json)"
+        }
+      },
+      "residuals": [
+        "taste-profile band: auto-cycle (3s, fires on live) advances on the build mid-capture (Weekday vs Slow Sunday readout) — same capture-timing artefact as index; geometry identical, height Δ0.",
+        "reveal bands: the scroll reveal (foundation) on the build is caught mid-transition at a stitch-chunk boundary (accordion section h2/lede at 1440, bundle-cards first card at 1440/360); gate.sh settles only the live side. Deterministic across rounds; not block geometry.",
+        "product-hero renders the source block's default trust lines (delivery / guarantee / 30 mornings) because the authored document lost them — matches live; content owner should author them."
+      ],
+      "motion": {
+        "observed": [
+          "scroll reveal opacity/transform 900ms (foundation)",
+          "taste-profile auto-cycle",
+          "hover: jumpnav pill colour/border 200ms, video play background+scale 200ms, bundle CTA colour 200ms, product-hero cart background 200ms",
+          "box-shadow transitions 200ms (thumbs/swatches/tabs)"
+        ],
+        "implemented": [
+          "all observed: motion-compare 15 parity, 0 missing, 0 extra, 0 out of tolerance",
+          "per source JS (state change is class/text only): steps-tabs tab select, accordion single-open details (first open), gallery thumb swap, finish swatch + label, qty stepper; Add to cart is client-only (no backend), as on live"
+        ],
+        "dead": [
+          "header scroll-morph",
+          "media-video play click (no player on live)",
+          "steps-tabs/accordion/thumb/swatch clicks: no frame-sampled box change",
+          "steps-tabs-tab and accordion-summary hover: no measured diff"
+        ]
+      },
+      "recordedAt": "2026-11-13T20:05:29.586Z"
+    },
+    "landing": {
+      "archetype": "cafe",
+      "slug": "cafe",
+      "type": "landing",
+      "iterations": {
+        "360": 3,
+        "1440": 2
+      },
+      "gates": {
+        "360": {
+          "label": "iter3",
+          "full": true,
+          "pixelPct": 0.85,
+          "heightDelta": 0,
+          "hotBands": [
+            "1500-2000 15.3% (explained, see residuals)"
+          ],
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "clipped": 0,
+          "overflow": "ok"
+        },
+        "1440": {
+          "label": "iter2",
+          "full": true,
+          "pixelPct": 0.02,
+          "heightDelta": 0,
+          "hotBands": [],
+          "contentDiff": {
+            "red": 0,
+            "nothingLostYellow": 0
+          },
+          "visualDiffFlags": 0,
+          "chromeParity": "pass",
+          "clipped": 0,
+          "overflow": "ok",
+          "capProbe": "PASS at 2560 (0 of 8 rows failed, evidence stardust/replica/gates/cafe-2560/cap-iter.json)"
+        }
+      },
+      "residuals": [
+        "360 hot band 1500-2000 (15.3%): capture-timing artefact, not geometry. The first 'experience' columns block (gated, not changed) sits at the bottom edge of stitch chunk 2 (900-1800); the build is captured unsettled, so the scroll reveal (threshold 0.15, rootMargin -8%) has not fired for it in that chunk and its top ~100px paints as section background, while the live side is settled. A --settle capture of the build compares 0.00% / Δ0 against the same live.png (stardust/.work/replica/cafe-verify/build-settled.png).",
+        "Leaflet map tiles/pins depend on OSM tile + Nominatim timing on both sides (minor residual pixels in the store-locator band only)."
+      ],
+      "siblings": {
+        "japan": {
+          "1440": {
+            "label": "iter1",
+            "full": true,
+            "pixelPct": 0.01,
+            "heightDelta": 539,
+            "contentDiff": {
+              "red": 0,
+              "nothingLostYellow": 0
+            },
+            "clipped": 0,
+            "overflow": "ok",
+            "note": "Unsettled build capture measured 5834 vs live 6373 (footer not yet loaded and last reveals not fired when height was taken); anchor.mjs matches live section for section (doc 6373 on both), and a --settle build capture compares 0.00% / Δ0. Marker 'フレスコパ' (page has no 'Fréscopa' in main)."
+          }
+        },
+        "proffee": {
+          "1440": {
+            "label": "iter1",
+            "full": true,
+            "pixelPct": 0.02,
+            "heightDelta": 0,
+            "contentDiff": {
+              "red": 0,
+              "nothingLostYellow": 0
+            },
+            "clipped": 0,
+            "overflow": "ok",
+            "note": "cards-machine band owned by another agent"
+          }
+        }
+      },
+      "notes": [
+        "hero-media, columns-editorial and text are blocks on the source (block class + -container section class) but the source ships no code for them (404 on /blocks/<name>/*); they render as plain block markup under global styles. Recreated as explicit no-op blocks so they load without 404s and stay identical.",
+        "Leaflet 1.9.4 vendored at blocks/store-locator/vendor/ and loaded with loadScript/loadCSS, as the source does (lint-disable headers added so npm run lint skips it)."
+      ],
+      "motion": {
+        "observed": [
+          "scroll reveal opacity/transform 900ms (foundation)",
+          "region pill hover colour 350ms",
+          "booking submit hover background 350ms",
+          "store-locator is-active / is-locating on card + region click",
+          "leaflet tile/marker loading"
+        ],
+        "implemented": [
+          "all observed: motion-compare 16 parity, 0 missing, 0 extra, 0 out of tolerance",
+          "region filter + search filter, card click geocode+flyTo+popup, marker click selects card, booking toggle pills, client-side submit (no backend)"
+        ],
+        "dead": [
+          "header scroll-morph",
+          "region/toggle/card click: no frame-sampled box change",
+          "card hover, toggle hover, directions link hover: no measured diff on live"
+        ]
+      },
+      "recordedAt": "2026-11-13T20:06:36.097Z"
+    }
+  }
+}

@@ -1,0 +1,471 @@
+[live-session] waiting to pace live navigations to new.frescopa.coffee (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 635 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/index-1440/vdiff-iter3/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 5599,
+  "textLen": 3226,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1440x1050",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_126153dedaaab1e3fdd811716e201bae4bcfcf30f.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_11963a4969e9d029a1613bfbdb474e23808af40db.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14dda38183367f1ef5f700eaf66d1a13a59bdd756.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "475x380",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1440x439",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Everymorning,perfected.",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "86.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Great coffee, without the barist",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Your taste, drawn one cup at a t",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "It reads the room. And the calen",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "New favourites, found for you.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The house pour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Honeybush & orange peel",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Cold-pressed citrus",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Nothing wasted, right down to th",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Every Atelier begins at the Frés",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Meet the Atelier",
+    "color": "oklch(0.79 0.128 74)"
+   },
+   {
+    "text": "Fuel, meet a machine tha",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "How it learns you",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Mood-aware brewing",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Tap a day to see what it",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "M",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "T",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "W",
+    "color": "oklch(0.43 0.022 52)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "columns",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "taste-profile",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "mood-calendar",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-product",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "columns",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-quote",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "hero",
+    "width": 1440,
+    "left": 0
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 5599,
+  "textLen": 3226,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1440x1050",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_126153dedaaab1e3fdd811716e201bae4bcfcf30f.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_11963a4969e9d029a1613bfbdb474e23808af40db.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14dda38183367f1ef5f700eaf66d1a13a59bdd756.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "475x380",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1440x439",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Everymorning,perfected.",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "86.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Great coffee, without the barist",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Your taste, drawn one cup at a t",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "It reads the room. And the calen",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "New favourites, found for you.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The house pour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Honeybush & orange peel",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Cold-pressed citrus",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Nothing wasted, right down to th",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Every Atelier begins at the Frés",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "Meet the Atelier",
+    "color": "oklch(0.79 0.128 74)"
+   },
+   {
+    "text": "Fuel, meet a machine tha",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "How it learns you",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Mood-aware brewing",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Tap a day to see what it",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "M",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "T",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "W",
+    "color": "oklch(0.43 0.022 52)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero",
+    "width": 1440,
+    "left": 0
+   },
+   {
+    "sel": "columns",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "taste-profile",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "mood-calendar",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-product",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "columns",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-quote",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "hero",
+    "width": 1440,
+    "left": 0
+   }
+  ]
+ }
+}

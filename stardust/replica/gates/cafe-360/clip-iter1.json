@@ -1,0 +1,6481 @@
+{
+ "url": "http://localhost:8791/cafe-proposed.html",
+ "at": "2026-11-13T19:59:47.771Z",
+ "width": 360,
+ "status": 200,
+ "settlePasses": 2,
+ "docH": 10722,
+ "pageW": 360,
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 200,
+  "horizontal": 0,
+  "offPage": 15,
+  "textNodes": 294,
+  "controls": 117,
+  "total": 0
+ },
+ "findings": [
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "cut": 255,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa back bay boston, ma221 newbury st, boston, macafémo",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 7504,
+    "r": 332,
+    "b": 7787,
+    "w": 312,
+    "h": 283
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "cut": 15,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-back-bay",
+   "text": "fréscopa back bay",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 7523,
+    "r": 214,
+    "b": 7547,
+    "w": 172,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "cut": 13,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "boston, ma",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 240,
+    "t": 7532,
+    "r": 310,
+    "b": 7545,
+    "w": 70,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "221 newbury st, boston, ma",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 7575,
+    "r": 224,
+    "b": 7593,
+    "w": 183,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 7626,
+    "r": 78,
+    "b": 7639,
+    "w": 27,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 6:30am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 7684,
+    "r": 185,
+    "b": 7702,
+    "w": 144,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 7745,
+    "r": 118,
+    "b": 7763,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 7745,
+    "r": 118,
+    "b": 7763,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa rittenhouse philadelphia, pa1820 walnut st, philade",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 7801,
+    "r": 332,
+    "b": 8102,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-rittenhouse",
+   "text": "fréscopa rittenhouse",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 7820,
+    "r": 126,
+    "b": 7844,
+    "w": 84,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "philadelphia, pa",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 211,
+    "t": 7829,
+    "r": 310,
+    "b": 7842,
+    "w": 99,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "1820 walnut st, philadelphia, pa",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 7890,
+    "r": 248,
+    "b": 7908,
+    "w": 206,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café workshops",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 7941,
+    "r": 146,
+    "b": 7954,
+    "w": 95,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 7999,
+    "r": 167,
+    "b": 8017,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8060,
+    "r": 118,
+    "b": 8078,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8060,
+    "r": 118,
+    "b": 8078,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa georgetown washington, dc3040 m st nw, washington, ",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 8116,
+    "r": 332,
+    "b": 8417,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-georgetown",
+   "text": "fréscopa georgetown",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8135,
+    "r": 126,
+    "b": 8159,
+    "w": 84,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "washington, dc",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 212,
+    "t": 8144,
+    "r": 310,
+    "b": 8157,
+    "w": 99,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "3040 m st nw, washington, dc",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8205,
+    "r": 242,
+    "b": 8223,
+    "w": 200,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 8256,
+    "r": 144,
+    "b": 8269,
+    "w": 92,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8314,
+    "r": 167,
+    "b": 8332,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8375,
+    "r": 118,
+    "b": 8393,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8375,
+    "r": 118,
+    "b": 8393,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa ponce city market atlanta, ga675 ponce de leon ave ",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 8431,
+    "r": 332,
+    "b": 8732,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-ponce-city-market",
+   "text": "fréscopa ponce city market",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8450,
+    "r": 186,
+    "b": 8474,
+    "w": 145,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "atlanta, ga",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 238,
+    "t": 8459,
+    "r": 310,
+    "b": 8472,
+    "w": 72,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "675 ponce de leon ave ne, atlanta, ga",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8520,
+    "r": 293,
+    "b": 8538,
+    "w": 252,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom workshops",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 8571,
+    "r": 212,
+    "b": 8584,
+    "w": 160,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–8pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8629,
+    "r": 167,
+    "b": 8647,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8690,
+    "r": 118,
+    "b": 8708,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8690,
+    "r": 118,
+    "b": 8708,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa west loop chicago, il905 w fulton market, chicago, ",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 8746,
+    "r": 332,
+    "b": 9029,
+    "w": 312,
+    "h": 283
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-west-loop",
+   "text": "fréscopa west loop",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8765,
+    "r": 224,
+    "b": 8789,
+    "w": 183,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "chicago, il",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 241,
+    "t": 8774,
+    "r": 310,
+    "b": 8787,
+    "w": 69,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "905 w fulton market, chicago, il",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8817,
+    "r": 254,
+    "b": 8835,
+    "w": 212,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom workshops",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 8868,
+    "r": 212,
+    "b": 8881,
+    "w": 160,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8926,
+    "r": 167,
+    "b": 8944,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8987,
+    "r": 118,
+    "b": 9005,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 8987,
+    "r": 118,
+    "b": 9005,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa wicker park chicago, il1547 n milwaukee ave, chicag",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 9043,
+    "r": 332,
+    "b": 9343,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-wicker-park",
+   "text": "fréscopa wicker park",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9062,
+    "r": 195,
+    "b": 9086,
+    "w": 153,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "chicago, il",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 241,
+    "t": 9071,
+    "r": 310,
+    "b": 9084,
+    "w": 69,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "1547 n milwaukee ave, chicago, il",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9131,
+    "r": 264,
+    "b": 9149,
+    "w": 222,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 9183,
+    "r": 78,
+    "b": 9196,
+    "w": 27,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 6:30am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9241,
+    "r": 185,
+    "b": 9259,
+    "w": 144,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9301,
+    "r": 118,
+    "b": 9319,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9301,
+    "r": 118,
+    "b": 9319,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa north loop minneapolis, mn215 n washington ave, min",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 9358,
+    "r": 332,
+    "b": 9658,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-north-loop",
+   "text": "fréscopa north loop",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9377,
+    "r": 182,
+    "b": 9401,
+    "w": 140,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "minneapolis, mn",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 210,
+    "t": 9386,
+    "r": 310,
+    "b": 9399,
+    "w": 100,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "215 n washington ave, minneapolis, mn",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9446,
+    "r": 299,
+    "b": 9464,
+    "w": 257,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café workshops",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 9498,
+    "r": 146,
+    "b": 9511,
+    "w": 95,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–6pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9556,
+    "r": 167,
+    "b": 9574,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9616,
+    "r": 118,
+    "b": 9634,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9616,
+    "r": 118,
+    "b": 9634,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa crossroads kansas city, mo1801 grand blvd, kansas c",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 9673,
+    "r": 332,
+    "b": 9973,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-crossroads",
+   "text": "fréscopa crossroads",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9692,
+    "r": 126,
+    "b": 9716,
+    "w": 84,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "kansas city, mo",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 211,
+    "t": 9701,
+    "r": 310,
+    "b": 9714,
+    "w": 99,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "1801 grand blvd, kansas city, mo",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9761,
+    "r": 262,
+    "b": 9779,
+    "w": 221,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 9813,
+    "r": 78,
+    "b": 9826,
+    "w": 27,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–6pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9871,
+    "r": 167,
+    "b": 9889,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9931,
+    "r": 118,
+    "b": 9949,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 9931,
+    "r": 118,
+    "b": 9949,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa rino denver, co2601 larimer st, denver, cocafé show",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 9988,
+    "r": 332,
+    "b": 10270,
+    "w": 312,
+    "h": 283
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-rino",
+   "text": "fréscopa rino",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10006,
+    "r": 173,
+    "b": 10030,
+    "w": 131,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "denver, co",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 241,
+    "t": 10015,
+    "r": 310,
+    "b": 10028,
+    "w": 69,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "2601 larimer st, denver, co",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10058,
+    "r": 225,
+    "b": 10076,
+    "w": 183,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 10110,
+    "r": 144,
+    "b": 10123,
+    "w": 92,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10168,
+    "r": 167,
+    "b": 10186,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10228,
+    "r": 118,
+    "b": 10246,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10228,
+    "r": 118,
+    "b": 10246,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa south congress austin, tx1601 s congress ave, austi",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 10285,
+    "r": 332,
+    "b": 10585,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-south-congress",
+   "text": "fréscopa south congress",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10303,
+    "r": 183,
+    "b": 10327,
+    "w": 141,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "austin, tx",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 248,
+    "t": 10312,
+    "r": 310,
+    "b": 10325,
+    "w": 62,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "1601 s congress ave, austin, tx",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10373,
+    "r": 249,
+    "b": 10391,
+    "w": 207,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café workshops",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 10425,
+    "r": 146,
+    "b": 10438,
+    "w": 95,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–6pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10483,
+    "r": 167,
+    "b": 10501,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10543,
+    "r": 118,
+    "b": 10561,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10543,
+    "r": 118,
+    "b": 10561,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa the domain austin, tx11700 domain blvd, austin, txc",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 10600,
+    "r": 332,
+    "b": 10900,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-the-domain",
+   "text": "fréscopa the domain",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10618,
+    "r": 165,
+    "b": 10642,
+    "w": 123,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "austin, tx",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 248,
+    "t": 10627,
+    "r": 310,
+    "b": 10640,
+    "w": 62,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "11700 domain blvd, austin, tx",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10688,
+    "r": 239,
+    "b": 10706,
+    "w": 197,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 10739,
+    "r": 144,
+    "b": 10752,
+    "w": 92,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–8pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10798,
+    "r": 167,
+    "b": 10816,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10858,
+    "r": 118,
+    "b": 10876,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10858,
+    "r": 118,
+    "b": 10876,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa deep ellum dallas, tx2822 main st, dallas, txcafé s",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 10914,
+    "r": 332,
+    "b": 11215,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-deep-ellum",
+   "text": "fréscopa deep ellum",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 10933,
+    "r": 178,
+    "b": 10957,
+    "w": 136,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "dallas, tx",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 247,
+    "t": 10942,
+    "r": 310,
+    "b": 10955,
+    "w": 64,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "2822 main st, dallas, tx",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11003,
+    "r": 197,
+    "b": 11021,
+    "w": 155,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 11054,
+    "r": 144,
+    "b": 11067,
+    "w": 92,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11112,
+    "r": 167,
+    "b": 11130,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11173,
+    "r": 118,
+    "b": 11191,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11173,
+    "r": 118,
+    "b": 11191,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa the heights houston, tx714 yale st, houston, txcafé",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 11229,
+    "r": 332,
+    "b": 11530,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-the-heights",
+   "text": "fréscopa the heights",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11248,
+    "r": 165,
+    "b": 11272,
+    "w": 123,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "houston, tx",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 234,
+    "t": 11257,
+    "r": 310,
+    "b": 11270,
+    "w": 76,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "714 yale st, houston, tx",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11318,
+    "r": 199,
+    "b": 11336,
+    "w": 157,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 11369,
+    "r": 78,
+    "b": 11382,
+    "w": 27,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11427,
+    "r": 167,
+    "b": 11445,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11488,
+    "r": 118,
+    "b": 11506,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11488,
+    "r": 118,
+    "b": 11506,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa wynwood miami, fl2750 nw 3rd ave, miami, flcafé sho",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 11544,
+    "r": 332,
+    "b": 11827,
+    "w": 312,
+    "h": 283
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-wynwood",
+   "text": "fréscopa wynwood",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11563,
+    "r": 222,
+    "b": 11587,
+    "w": 180,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "miami, fl",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 256,
+    "t": 11572,
+    "r": 310,
+    "b": 11585,
+    "w": 54,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "2750 nw 3rd ave, miami, fl",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11615,
+    "r": 222,
+    "b": 11633,
+    "w": 180,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom workshops",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 11666,
+    "r": 212,
+    "b": 11679,
+    "w": 160,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–9pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11724,
+    "r": 167,
+    "b": 11742,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11785,
+    "r": 118,
+    "b": 11803,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11785,
+    "r": 118,
+    "b": 11803,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa warehouse district new orleans, la640 julia st, new",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 11841,
+    "r": 332,
+    "b": 12163,
+    "w": 312,
+    "h": 322
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 3,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-warehouse-district",
+   "text": "fréscopa warehouse district",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11860,
+    "r": 126,
+    "b": 11884,
+    "w": 84,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 3
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "new orleans, la",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 209,
+    "t": 11869,
+    "r": 310,
+    "b": 11882,
+    "w": 101,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "640 julia st, new orleans, la",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 11951,
+    "r": 230,
+    "b": 11969,
+    "w": 188,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café workshops",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 12003,
+    "r": 146,
+    "b": 12016,
+    "w": 95,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12061,
+    "r": 167,
+    "b": 12079,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12121,
+    "r": 118,
+    "b": 12139,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12121,
+    "r": 118,
+    "b": 12139,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa ferry building san francisco, ca1 ferry building, s",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 12178,
+    "r": 332,
+    "b": 12478,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-ferry-building",
+   "text": "fréscopa ferry building",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12196,
+    "r": 179,
+    "b": 12220,
+    "w": 137,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "san francisco, ca",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 197,
+    "t": 12205,
+    "r": 310,
+    "b": 12218,
+    "w": 113,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "1 ferry building, san francisco, ca",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12266,
+    "r": 266,
+    "b": 12284,
+    "w": 224,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 12317,
+    "r": 144,
+    "b": 12330,
+    "w": 92,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12376,
+    "r": 167,
+    "b": 12394,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12436,
+    "r": 118,
+    "b": 12454,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12436,
+    "r": 118,
+    "b": 12454,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa hayes valley san francisco, ca556 hayes st, san fra",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 12493,
+    "r": 332,
+    "b": 12793,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-hayes-valley",
+   "text": "fréscopa hayes valley",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12511,
+    "r": 126,
+    "b": 12535,
+    "w": 84,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "san francisco, ca",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 197,
+    "t": 12520,
+    "r": 310,
+    "b": 12533,
+    "w": 113,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "556 hayes st, san francisco, ca",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12581,
+    "r": 248,
+    "b": 12599,
+    "w": 207,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 12632,
+    "r": 78,
+    "b": 12645,
+    "w": 27,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 6:30am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12691,
+    "r": 185,
+    "b": 12709,
+    "w": 144,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12751,
+    "r": 118,
+    "b": 12769,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12751,
+    "r": 118,
+    "b": 12769,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa capitol hill seattle, wa520 e pine st, seattle, wac",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 12807,
+    "r": 332,
+    "b": 13108,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-capitol-hill",
+   "text": "fréscopa capitol hill",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12826,
+    "r": 194,
+    "b": 12850,
+    "w": 152,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "seattle, wa",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 238,
+    "t": 12835,
+    "r": 310,
+    "b": 12848,
+    "w": 72,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "520 e pine st, seattle, wa",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 12896,
+    "r": 207,
+    "b": 12914,
+    "w": 165,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café workshops",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 12947,
+    "r": 146,
+    "b": 12960,
+    "w": 95,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 6:30am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13005,
+    "r": 185,
+    "b": 13023,
+    "w": 144,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13066,
+    "r": 118,
+    "b": 13084,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13066,
+    "r": 118,
+    "b": 13084,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa ballard seattle, wa5405 ballard ave nw, seattle, wa",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 13122,
+    "r": 332,
+    "b": 13405,
+    "w": 312,
+    "h": 283
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-ballard",
+   "text": "fréscopa ballard",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13141,
+    "r": 195,
+    "b": 13165,
+    "w": 153,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "seattle, wa",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 238,
+    "t": 13150,
+    "r": 310,
+    "b": 13163,
+    "w": 72,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "5405 ballard ave nw, seattle, wa",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13193,
+    "r": 259,
+    "b": 13211,
+    "w": 217,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 13244,
+    "r": 144,
+    "b": 13257,
+    "w": 92,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13302,
+    "r": 167,
+    "b": 13320,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13363,
+    "r": 118,
+    "b": 13381,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13363,
+    "r": 118,
+    "b": 13381,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa pearl district portland, or1130 nw everett st, port",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 13419,
+    "r": 332,
+    "b": 13720,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-pearl-district",
+   "text": "fréscopa pearl district",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13438,
+    "r": 177,
+    "b": 13462,
+    "w": 136,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "portland, or",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 229,
+    "t": 13447,
+    "r": 310,
+    "b": 13460,
+    "w": 82,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "1130 nw everett st, portland, or",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13508,
+    "r": 256,
+    "b": 13526,
+    "w": 214,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café workshops",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 13559,
+    "r": 146,
+    "b": 13572,
+    "w": 95,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13617,
+    "r": 167,
+    "b": 13635,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13678,
+    "r": 118,
+    "b": 13696,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13678,
+    "r": 118,
+    "b": 13696,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa arts district los angeles, ca720 e 3rd st, los ange",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 13734,
+    "r": 332,
+    "b": 14035,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-arts-district",
+   "text": "fréscopa arts district",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13753,
+    "r": 169,
+    "b": 13777,
+    "w": 127,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "los angeles, ca",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 212,
+    "t": 13762,
+    "r": 310,
+    "b": 13775,
+    "w": 98,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "720 e 3rd st, los angeles, ca",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13823,
+    "r": 230,
+    "b": 13841,
+    "w": 188,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom workshops",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 13874,
+    "r": 212,
+    "b": 13887,
+    "w": 160,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–8pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13932,
+    "r": 167,
+    "b": 13950,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13993,
+    "r": 118,
+    "b": 14011,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 13993,
+    "r": 118,
+    "b": 14011,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa silver lake los angeles, ca2909 sunset blvd, los an",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 14049,
+    "r": 332,
+    "b": 14350,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-silver-lake",
+   "text": "fréscopa silver lake",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14068,
+    "r": 182,
+    "b": 14092,
+    "w": 140,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "los angeles, ca",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 212,
+    "t": 14077,
+    "r": 310,
+    "b": 14090,
+    "w": 98,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "2909 sunset blvd, los angeles, ca",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14138,
+    "r": 263,
+    "b": 14156,
+    "w": 221,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 14189,
+    "r": 78,
+    "b": 14202,
+    "w": 27,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 6:30am–8pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14247,
+    "r": 185,
+    "b": 14265,
+    "w": 144,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14308,
+    "r": 118,
+    "b": 14326,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14308,
+    "r": 118,
+    "b": 14326,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa little italy san diego, ca1660 india st, san diego,",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 14364,
+    "r": 332,
+    "b": 14664,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-little-italy",
+   "text": "fréscopa little italy",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14383,
+    "r": 175,
+    "b": 14407,
+    "w": 134,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "san diego, ca",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 226,
+    "t": 14392,
+    "r": 310,
+    "b": 14405,
+    "w": 84,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "1660 india st, san diego, ca",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14452,
+    "r": 223,
+    "b": 14470,
+    "w": 181,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 14504,
+    "r": 144,
+    "b": 14517,
+    "w": 92,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14562,
+    "r": 167,
+    "b": 14580,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14622,
+    "r": 118,
+    "b": 14640,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14622,
+    "r": 118,
+    "b": 14640,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa roosevelt row phoenix, az814 n 2nd st, phoenix, azc",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 14679,
+    "r": 332,
+    "b": 14979,
+    "w": 312,
+    "h": 301
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 2,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-roosevelt-row",
+   "text": "fréscopa roosevelt row",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14698,
+    "r": 220,
+    "b": 14722,
+    "w": 178,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 2
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "phoenix, az",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 239,
+    "t": 14707,
+    "r": 310,
+    "b": 14720,
+    "w": 71,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "814 n 2nd st, phoenix, az",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14767,
+    "r": 206,
+    "b": 14785,
+    "w": 165,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 14819,
+    "r": 78,
+    "b": 14832,
+    "w": 27,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14877,
+    "r": 167,
+    "b": 14895,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14937,
+    "r": 118,
+    "b": 14955,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 14937,
+    "r": 118,
+    "b": 14955,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa sydney sydney, nsw201 sussex st, sydney, nsw, austr",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 20,
+    "t": 14994,
+    "r": 332,
+    "b": 15276,
+    "w": 312,
+    "h": 283
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-sydney",
+   "text": "fréscopa sydney",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 15013,
+    "r": 198,
+    "b": 15037,
+    "w": 156,
+    "h": 24
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "sydney, nsw",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 234,
+    "t": 15022,
+    "r": 310,
+    "b": 15035,
+    "w": 76,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "201 sussex st, sydney, nsw, australia",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 15064,
+    "r": 286,
+    "b": 15082,
+    "w": 244,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-chips > p",
+   "text": "café showroom",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 52,
+    "t": 15116,
+    "r": 144,
+    "b": 15129,
+    "w": 92,
+    "h": 13
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-hours > p",
+   "text": "mon–sun · 7am–7pm",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 15174,
+    "r": 167,
+    "b": 15192,
+    "w": 125,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 15234,
+    "r": 118,
+    "b": 15252,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   }
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "hiddenLines": 1,
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "clipper": "div.store-locator-cards",
+   "rect": {
+    "l": 42,
+    "t": 15234,
+    "r": 118,
+    "b": 15252,
+    "w": 76,
+    "h": 18
+   },
+   "clip": {
+    "l": 20,
+    "t": 6892,
+    "r": 340,
+    "b": 7532,
+    "w": 320,
+    "h": 640
+   },
+   "lines": 1
+  }
+ ],
+ "textBoxes": [
+  {
+   "x": 20,
+   "y": 139,
+   "w": 186,
+   "h": 16
+  },
+  {
+   "x": 20,
+   "y": 170,
+   "w": 251,
+   "h": 57
+  },
+  {
+   "x": 20,
+   "y": 218,
+   "w": 271,
+   "h": 57
+  },
+  {
+   "x": 20,
+   "y": 266,
+   "w": 223,
+   "h": 57
+  },
+  {
+   "x": 20,
+   "y": 341,
+   "w": 277,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 369,
+   "w": 315,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 396,
+   "w": 316,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 424,
+   "w": 219,
+   "h": 22
+  },
+  {
+   "x": 44,
+   "y": 494,
+   "w": 167,
+   "h": 20
+  },
+  {
+   "x": 44,
+   "y": 572,
+   "w": 115,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 753,
+   "w": 106,
+   "h": 16
+  },
+  {
+   "x": 20,
+   "y": 780,
+   "w": 279,
+   "h": 35
+  },
+  {
+   "x": 20,
+   "y": 813,
+   "w": 56,
+   "h": 35
+  },
+  {
+   "x": 20,
+   "y": 929,
+   "w": 232,
+   "h": 25
+  },
+  {
+   "x": 20,
+   "y": 955,
+   "w": 302,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 979,
+   "w": 296,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 1004,
+   "w": 42,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 1092,
+   "w": 178,
+   "h": 25
+  },
+  {
+   "x": 20,
+   "y": 1118,
+   "w": 316,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 1143,
+   "w": 287,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 1231,
+   "w": 188,
+   "h": 25
+  },
+  {
+   "x": 20,
+   "y": 1257,
+   "w": 300,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 1282,
+   "w": 236,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 1370,
+   "w": 194,
+   "h": 25
+  },
+  {
+   "x": 20,
+   "y": 1396,
+   "w": 276,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 1421,
+   "w": 300,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 1445,
+   "w": 64,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 1613,
+   "w": 128,
+   "h": 16
+  },
+  {
+   "x": 20,
+   "y": 1630,
+   "w": 301,
+   "h": 35
+  },
+  {
+   "x": 20,
+   "y": 1663,
+   "w": 121,
+   "h": 35
+  },
+  {
+   "x": 20,
+   "y": 2007,
+   "w": 152,
+   "h": 16
+  },
+  {
+   "x": 20,
+   "y": 2035,
+   "w": 264,
+   "h": 32
+  },
+  {
+   "x": 20,
+   "y": 2064,
+   "w": 196,
+   "h": 32
+  },
+  {
+   "x": 20,
+   "y": 2115,
+   "w": 281,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2144,
+   "w": 267,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2173,
+   "w": 317,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2202,
+   "w": 309,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2231,
+   "w": 296,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2260,
+   "w": 319,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2290,
+   "w": 154,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2340,
+   "w": 202,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 2668,
+   "w": 160,
+   "h": 16
+  },
+  {
+   "x": 20,
+   "y": 2696,
+   "w": 266,
+   "h": 32
+  },
+  {
+   "x": 20,
+   "y": 2725,
+   "w": 133,
+   "h": 32
+  },
+  {
+   "x": 20,
+   "y": 2776,
+   "w": 273,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2805,
+   "w": 305,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2834,
+   "w": 286,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2863,
+   "w": 292,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2892,
+   "w": 307,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2921,
+   "w": 276,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 2951,
+   "w": 200,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 3001,
+   "w": 182,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 3329,
+   "w": 116,
+   "h": 16
+  },
+  {
+   "x": 20,
+   "y": 3357,
+   "w": 280,
+   "h": 32
+  },
+  {
+   "x": 20,
+   "y": 3386,
+   "w": 121,
+   "h": 32
+  },
+  {
+   "x": 20,
+   "y": 3437,
+   "w": 278,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 3466,
+   "w": 300,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 3495,
+   "w": 256,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 3524,
+   "w": 309,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 3553,
+   "w": 314,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 3582,
+   "w": 312,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 3612,
+   "w": 53,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 3662,
+   "w": 122,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 3832,
+   "w": 84,
+   "h": 16
+  },
+  {
+   "x": 20,
+   "y": 3859,
+   "w": 303,
+   "h": 35
+  },
+  {
+   "x": 20,
+   "y": 3909,
+   "w": 228,
+   "h": 22
+  },
+  {
+   "x": 45,
+   "y": 3997,
+   "w": 52,
+   "h": 14
+  },
+  {
+   "x": 45,
+   "y": 4020,
+   "w": 153,
+   "h": 25
+  },
+  {
+   "x": 45,
+   "y": 4054,
+   "w": 266,
+   "h": 19
+  },
+  {
+   "x": 45,
+   "y": 4077,
+   "w": 224,
+   "h": 19
+  },
+  {
+   "x": 45,
+   "y": 4126,
+   "w": 69,
+   "h": 14
+  },
+  {
+   "x": 280,
+   "y": 4123,
+   "w": 35,
+   "h": 20
+  },
+  {
+   "x": 45,
+   "y": 4220,
+   "w": 71,
+   "h": 14
+  },
+  {
+   "x": 45,
+   "y": 4243,
+   "w": 122,
+   "h": 25
+  },
+  {
+   "x": 45,
+   "y": 4277,
+   "w": 220,
+   "h": 19
+  },
+  {
+   "x": 45,
+   "y": 4300,
+   "w": 245,
+   "h": 19
+  },
+  {
+   "x": 45,
+   "y": 4323,
+   "w": 63,
+   "h": 19
+  },
+  {
+   "x": 45,
+   "y": 4372,
+   "w": 69,
+   "h": 14
+  },
+  {
+   "x": 289,
+   "y": 4368,
+   "w": 26,
+   "h": 20
+  },
+  {
+   "x": 45,
+   "y": 4465,
+   "w": 60,
+   "h": 14
+  },
+  {
+   "x": 45,
+   "y": 4489,
+   "w": 175,
+   "h": 25
+  },
+  {
+   "x": 45,
+   "y": 4522,
+   "w": 247,
+   "h": 19
+  },
+  {
+   "x": 45,
+   "y": 4545,
+   "w": 188,
+   "h": 19
+  },
+  {
+   "x": 45,
+   "y": 4594,
+   "w": 69,
+   "h": 14
+  },
+  {
+   "x": 280,
+   "y": 4591,
+   "w": 35,
+   "h": 20
+  },
+  {
+   "x": 45,
+   "y": 4688,
+   "w": 58,
+   "h": 14
+  },
+  {
+   "x": 45,
+   "y": 4711,
+   "w": 217,
+   "h": 25
+  },
+  {
+   "x": 45,
+   "y": 4745,
+   "w": 220,
+   "h": 19
+  },
+  {
+   "x": 45,
+   "y": 4768,
+   "w": 245,
+   "h": 19
+  },
+  {
+   "x": 45,
+   "y": 4817,
+   "w": 76,
+   "h": 14
+  },
+  {
+   "x": 280,
+   "y": 4814,
+   "w": 35,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 5006,
+   "w": 61,
+   "h": 16
+  },
+  {
+   "x": 20,
+   "y": 5023,
+   "w": 283,
+   "h": 35
+  },
+  {
+   "x": 20,
+   "y": 5056,
+   "w": 146,
+   "h": 35
+  },
+  {
+   "x": 20,
+   "y": 5106,
+   "w": 303,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 5133,
+   "w": 291,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 5161,
+   "w": 311,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 5188,
+   "w": 312,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 5216,
+   "w": 88,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 5304,
+   "w": 147,
+   "h": 57
+  },
+  {
+   "x": 20,
+   "y": 5362,
+   "w": 121,
+   "h": 14
+  },
+  {
+   "x": 193,
+   "y": 5304,
+   "w": 77,
+   "h": 57
+  },
+  {
+   "x": 193,
+   "y": 5362,
+   "w": 40,
+   "h": 14
+  },
+  {
+   "x": 20,
+   "y": 5398,
+   "w": 58,
+   "h": 57
+  },
+  {
+   "x": 20,
+   "y": 5456,
+   "w": 44,
+   "h": 14
+  },
+  {
+   "x": 193,
+   "y": 5398,
+   "w": 46,
+   "h": 57
+  },
+  {
+   "x": 193,
+   "y": 5456,
+   "w": 144,
+   "h": 14
+  },
+  {
+   "x": 20,
+   "y": 5522,
+   "w": 67,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 5786,
+   "w": 140,
+   "h": 16
+  },
+  {
+   "x": 20,
+   "y": 5813,
+   "w": 270,
+   "h": 32
+  },
+  {
+   "x": 20,
+   "y": 5864,
+   "w": 297,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 5893,
+   "w": 303,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 5922,
+   "w": 274,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 5951,
+   "w": 310,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 5980,
+   "w": 179,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 6026,
+   "w": 225,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 6071,
+   "w": 312,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 6100,
+   "w": 123,
+   "h": 23
+  },
+  {
+   "x": 20,
+   "y": 6150,
+   "w": 125,
+   "h": 22
+  },
+  {
+   "x": 37,
+   "y": 6308,
+   "w": 66,
+   "h": 18
+  },
+  {
+   "x": 145,
+   "y": 6308,
+   "w": 27,
+   "h": 18
+  },
+  {
+   "x": 215,
+   "y": 6308,
+   "w": 53,
+   "h": 18
+  },
+  {
+   "x": 37,
+   "y": 6356,
+   "w": 37,
+   "h": 18
+  },
+  {
+   "x": 116,
+   "y": 6356,
+   "w": 32,
+   "h": 18
+  },
+  {
+   "x": 43,
+   "y": 6424,
+   "w": 11,
+   "h": 28
+  },
+  {
+   "x": 42,
+   "y": 6455,
+   "w": 13,
+   "h": 28
+  },
+  {
+   "x": 122,
+   "y": 6815,
+   "w": 39,
+   "h": 14
+  },
+  {
+   "x": 165,
+   "y": 6815,
+   "w": 3,
+   "h": 14
+  },
+  {
+   "x": 168,
+   "y": 6815,
+   "w": 16,
+   "h": 14
+  },
+  {
+   "x": 183,
+   "y": 6815,
+   "w": 85,
+   "h": 14
+  },
+  {
+   "x": 268,
+   "y": 6815,
+   "w": 66,
+   "h": 14
+  },
+  {
+   "x": 20,
+   "y": 6859,
+   "w": 122,
+   "h": 15
+  },
+  {
+   "x": 42,
+   "y": 6911,
+   "w": 84,
+   "h": 24
+  },
+  {
+   "x": 42,
+   "y": 6933,
+   "w": 120,
+   "h": 24
+  },
+  {
+   "x": 229,
+   "y": 6920,
+   "w": 81,
+   "h": 13
+  },
+  {
+   "x": 42,
+   "y": 6981,
+   "w": 169,
+   "h": 18
+  },
+  {
+   "x": 52,
+   "y": 7032,
+   "w": 92,
+   "h": 13
+  },
+  {
+   "x": 42,
+   "y": 7090,
+   "w": 125,
+   "h": 18
+  },
+  {
+   "x": 42,
+   "y": 7151,
+   "w": 76,
+   "h": 18
+  },
+  {
+   "x": 42,
+   "y": 7226,
+   "w": 161,
+   "h": 24
+  },
+  {
+   "x": 240,
+   "y": 7235,
+   "w": 70,
+   "h": 13
+  },
+  {
+   "x": 42,
+   "y": 7278,
+   "w": 178,
+   "h": 18
+  },
+  {
+   "x": 52,
+   "y": 7329,
+   "w": 92,
+   "h": 13
+  },
+  {
+   "x": 42,
+   "y": 7387,
+   "w": 125,
+   "h": 18
+  },
+  {
+   "x": 42,
+   "y": 7448,
+   "w": 76,
+   "h": 18
+  },
+  {
+   "x": 42,
+   "y": 7523,
+   "w": 172,
+   "h": 24
+  },
+  {
+   "x": 240,
+   "y": 7532,
+   "w": 70,
+   "h": 13
+  },
+  {
+   "x": 20,
+   "y": 7683,
+   "w": 181,
+   "h": 16
+  },
+  {
+   "x": 20,
+   "y": 7711,
+   "w": 308,
+   "h": 35
+  },
+  {
+   "x": 20,
+   "y": 7741,
+   "w": 274,
+   "h": 35
+  },
+  {
+   "x": 20,
+   "y": 7772,
+   "w": 60,
+   "h": 35
+  },
+  {
+   "x": 20,
+   "y": 7817,
+   "w": 313,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 7845,
+   "w": 288,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 7873,
+   "w": 284,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 7901,
+   "w": 315,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 7928,
+   "w": 244,
+   "h": 22
+  },
+  {
+   "x": 20,
+   "y": 7966,
+   "w": 16,
+   "h": 21
+  },
+  {
+   "x": 47,
+   "y": 7966,
+   "w": 282,
+   "h": 21
+  },
+  {
+   "x": 20,
+   "y": 8003,
+   "w": 16,
+   "h": 21
+  },
+  {
+   "x": 47,
+   "y": 8003,
+   "w": 248,
+   "h": 21
+  },
+  {
+   "x": 47,
+   "y": 8029,
+   "w": 45,
+   "h": 21
+  },
+  {
+   "x": 20,
+   "y": 8066,
+   "w": 16,
+   "h": 21
+  },
+  {
+   "x": 47,
+   "y": 8066,
+   "w": 281,
+   "h": 21
+  },
+  {
+   "x": 59,
+   "y": 8170,
+   "w": 30,
+   "h": 14
+  },
+  {
+   "x": 59,
+   "y": 8260,
+   "w": 29,
+   "h": 14
+  },
+  {
+   "x": 243,
+   "y": 8260,
+   "w": 28,
+   "h": 14
+  },
+  {
+   "x": 59,
+   "y": 8354,
+   "w": 45,
+   "h": 14
+  },
+  {
+   "x": 59,
+   "y": 8444,
+   "w": 33,
+   "h": 14
+  },
+  {
+   "x": 59,
+   "y": 8536,
+   "w": 35,
+   "h": 14
+  },
+  {
+   "x": 187,
+   "y": 8536,
+   "w": 108,
+   "h": 14
+  },
+  {
+   "x": 59,
+   "y": 8629,
+   "w": 194,
+   "h": 14
+  },
+  {
+   "x": 74,
+   "y": 8661,
+   "w": 88,
+   "h": 17
+  },
+  {
+   "x": 74,
+   "y": 8705,
+   "w": 94,
+   "h": 17
+  },
+  {
+   "x": 74,
+   "y": 8750,
+   "w": 96,
+   "h": 17
+  },
+  {
+   "x": 74,
+   "y": 8795,
+   "w": 112,
+   "h": 17
+  },
+  {
+   "x": 84,
+   "y": 8863,
+   "w": 115,
+   "h": 20
+  },
+  {
+   "x": 209,
+   "y": 8863,
+   "w": 15,
+   "h": 20
+  },
+  {
+   "x": 59,
+   "y": 8919,
+   "w": 240,
+   "h": 17
+  },
+  {
+   "x": 59,
+   "y": 8938,
+   "w": 193,
+   "h": 17
+  },
+  {
+   "x": 115,
+   "y": 9141,
+   "w": 131,
+   "h": 16
+  },
+  {
+   "x": 48,
+   "y": 9174,
+   "w": 265,
+   "h": 35
+  },
+  {
+   "x": 96,
+   "y": 9203,
+   "w": 169,
+   "h": 35
+  },
+  {
+   "x": 36,
+   "y": 9259,
+   "w": 288,
+   "h": 22
+  },
+  {
+   "x": 24,
+   "y": 9286,
+   "w": 311,
+   "h": 22
+  },
+  {
+   "x": 149,
+   "y": 9314,
+   "w": 63,
+   "h": 22
+  },
+  {
+   "x": 128,
+   "y": 9384,
+   "w": 89,
+   "h": 20
+  },
+  {
+   "x": 105,
+   "y": 9462,
+   "w": 136,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 9696,
+   "w": 272,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 9721,
+   "w": 238,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 9745,
+   "w": 206,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 9809,
+   "w": 174,
+   "h": 18
+  },
+  {
+   "x": 269,
+   "y": 9850,
+   "w": 50,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 9924,
+   "w": 36,
+   "h": 15
+  },
+  {
+   "x": 20,
+   "y": 9956,
+   "w": 44,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 9988,
+   "w": 24,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10020,
+   "w": 125,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10053,
+   "w": 63,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10085,
+   "w": 81,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10154,
+   "w": 66,
+   "h": 15
+  },
+  {
+   "x": 20,
+   "y": 10186,
+   "w": 64,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10219,
+   "w": 89,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10251,
+   "w": 97,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10283,
+   "w": 53,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10353,
+   "w": 60,
+   "h": 15
+  },
+  {
+   "x": 20,
+   "y": 10385,
+   "w": 73,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10417,
+   "w": 122,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10449,
+   "w": 136,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10482,
+   "w": 78,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10635,
+   "w": 311,
+   "h": 20
+  },
+  {
+   "x": 20,
+   "y": 10659,
+   "w": 228,
+   "h": 20
+  }
+ ],
+ "groups": [
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 100,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-city > p",
+   "text": "boston, ma",
+   "cutMin": 13,
+   "cutMax": 13
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 25,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa back bay boston, ma221 newbury st, boston, macafémo",
+   "cutMin": 255,
+   "cutMax": 255
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 25,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 25,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-back-bay",
+   "text": "fréscopa back bay",
+   "cutMin": 15,
+   "cutMax": 15
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-rittenhouse",
+   "text": "fréscopa rittenhouse",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-georgetown",
+   "text": "fréscopa georgetown",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-ponce-city-market",
+   "text": "fréscopa ponce city market",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-west-loop",
+   "text": "fréscopa west loop",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-wicker-park",
+   "text": "fréscopa wicker park",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-north-loop",
+   "text": "fréscopa north loop",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-crossroads",
+   "text": "fréscopa crossroads",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-rino",
+   "text": "fréscopa rino",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-south-congress",
+   "text": "fréscopa south congress",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-the-domain",
+   "text": "fréscopa the domain",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-deep-ellum",
+   "text": "fréscopa deep ellum",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-the-heights",
+   "text": "fréscopa the heights",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-wynwood",
+   "text": "fréscopa wynwood",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-warehouse-district",
+   "text": "fréscopa warehouse district",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-ferry-building",
+   "text": "fréscopa ferry building",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-hayes-valley",
+   "text": "fréscopa hayes valley",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-capitol-hill",
+   "text": "fréscopa capitol hill",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-ballard",
+   "text": "fréscopa ballard",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-pearl-district",
+   "text": "fréscopa pearl district",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-arts-district",
+   "text": "fréscopa arts district",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-silver-lake",
+   "text": "fréscopa silver lake",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-little-italy",
+   "text": "fréscopa little italy",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-roosevelt-row",
+   "text": "fréscopa roosevelt row",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-sydney",
+   "text": "fréscopa sydney",
+   "cutMin": null,
+   "cutMax": null
+  }
+ ],
+ "tier": "chrome"
+}

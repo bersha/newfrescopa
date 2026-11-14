@@ -1,0 +1,177 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T19:53:50.111Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://new.frescopa.coffee/of1",
+      "http://localhost:8791/of1-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://new.frescopa.coffee/of1",
+    "http://localhost:8791/of1-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 2,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 760,
+        "via": "max-width",
+        "selector": "div.of1-wrapper > div.of1.block > div.of1-search-ui > div.of1-search-content",
+        "tier": 5,
+        "share": 1,
+        "section": 1,
+        "w1": 760,
+        "maxWidth": "760px"
+      },
+      {
+        "kind": "module",
+        "px": 282,
+        "via": "fixed",
+        "selector": "div.of1.block > div.of1-search-ui > div.of1-search-content > p.of1-subtitle",
+        "tier": 6,
+        "share": 0.5,
+        "section": 1,
+        "w1": 282,
+        "maxWidth": "611.517px"
+      },
+      {
+        "kind": "module",
+        "px": 640,
+        "via": "max-width",
+        "selector": "div.of1.block > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper",
+        "tier": 6,
+        "share": 0,
+        "section": 1,
+        "w1": 640,
+        "maxWidth": "640px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body.appear > main > div.section",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "body.appear > main > div.section.of1-container",
+        "px": 640,
+        "capSelector": "div.of1.block > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper"
+      }
+    ],
+    "shellMaxWidth": 760,
+    "contentMaxWidth": 760,
+    "contentFrom": "shell",
+    "maxCap": 760,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 28
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 2,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 760,
+        "via": "max-width",
+        "selector": "div.of1-wrapper > div.of1.block > div.of1-search-ui > div.of1-search-content",
+        "tier": 5,
+        "share": 1,
+        "section": 1,
+        "w1": 760,
+        "maxWidth": "760px"
+      },
+      {
+        "kind": "module",
+        "px": 282,
+        "via": "fixed",
+        "selector": "div.of1.block > div.of1-search-ui > div.of1-search-content > p.of1-subtitle",
+        "tier": 6,
+        "share": 0.5,
+        "section": 1,
+        "w1": 282,
+        "maxWidth": "611.517px"
+      },
+      {
+        "kind": "module",
+        "px": 640,
+        "via": "max-width",
+        "selector": "div.of1.block > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper",
+        "tier": 6,
+        "share": 0,
+        "section": 1,
+        "w1": 640,
+        "maxWidth": "640px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body.appear > main > div.section",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "body.appear > main > div.section.of1-container",
+        "px": 640,
+        "capSelector": "div.of1.block > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper"
+      }
+    ],
+    "shellMaxWidth": 760,
+    "contentMaxWidth": 760,
+    "contentFrom": "shell",
+    "maxCap": 760,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 28
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "wrapper cap",
+        "detail": "live 760px = build 760px (±20)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/2",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/2",
+        "detail": "640px = 640px",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/of1-2560/cap-iter.json"
+}

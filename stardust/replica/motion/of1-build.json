@@ -1,0 +1,281 @@
+{
+  "url": "http://localhost:8791/of1-proposed.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 766,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 766,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 766,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [],
+  "hoverSamples": [
+    {
+      "sel": ".of1-submit",
+      "changed": [
+        "self.transform",
+        "self.background"
+      ],
+      "before": {
+        "self": {
+          "transform": "matrix(1, 0, 0, 1, 0, -22)",
+          "color": "oklch(0.945 0.016 80)",
+          "background": "oklch(0.605 0.116 44)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background 0.35s cubic-bezier(0.22, 1, 0.36, 1), transform 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "matrix(1.04998, 0, 0, 1.04998, 0, -22)",
+          "color": "oklch(0.945 0.016 80)",
+          "background": "oklab(0.515045 0.0827332 0.0694266)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "background 0.35s cubic-bezier(0.22, 1, 0.36, 1), transform 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".of1-input",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.262 0.021 52)",
+          "background": "oklch(0.97 0.01 82)",
+          "boxShadow": "oklch(0.3 0.03 50 / 0.06) 0px 1px 2px 0px, oklch(0.3 0.03 50 / 0.05) 0px 2px 8px 0px",
+          "opacity": "1",
+          "transition": "border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.262 0.021 52)",
+          "background": "oklch(0.97 0.01 82)",
+          "boxShadow": "oklch(0.3 0.03 50 / 0.06) 0px 1px 2px 0px, oklch(0.3 0.03 50 / 0.05) 0px 2px 8px 0px",
+          "opacity": "1",
+          "transition": "border-color 0.35s cubic-bezier(0.22, 1, 0.36, 1), box-shadow 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      }
+    },
+    {
+      "sel": ".of1-chip",
+      "error": "not found"
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "background-color",
+        "el": "div.of1.block.reveal > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper > button.of1-submit",
+        "y": 416,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.of1.block.reveal > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper > button.of1-submit",
+        "y": 416,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.of1.block.reveal > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper > button.of1-submit",
+        "y": 416,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "transform",
+        "el": "div.of1.block.reveal > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper > button.of1-submit",
+        "y": 416,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.of1.block.reveal > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper > input.of1-input",
+        "y": 416,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.of1.block.reveal > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper > input.of1-input",
+        "y": 416,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.of1.block.reveal > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper > input.of1-input",
+        "y": 416,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.of1.block.reveal > div.of1-search-ui > div.of1-search-content > div.of1-input-wrapper > input.of1-input",
+        "y": 416,
+        "dur": "0.35s, 0.35s"
+      }
+    ],
+    "classMutations": []
+  }
+}

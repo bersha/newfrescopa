@@ -1,0 +1,47 @@
+{
+ "url": "https://main--7c29ab64--aemcoder.aem.page/proffee",
+ "at": "2026-11-13T21:24:42.471Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 0,
+  "horizontal": 4,
+  "offPage": 0,
+  "textNodes": 90,
+  "controls": 31,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT X-CUT",
+   "advisory": true,
+   "n": 4,
+   "clipper": null,
+   "path": "ul > li > div.stats-row-number > p",
+   "text": "~$1.80",
+   "cutMin": 45,
+   "cutMax": 66
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 0,
+   "horizontal": 4,
+   "offPage": 0,
+   "textNodes": 90,
+   "controls": 31,
+   "total": 0
+  }
+ }
+}

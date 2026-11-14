@@ -1,0 +1,81 @@
+[live-session] waiting to pace live navigations to new.frescopa.coffee (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/fragments-nav-360/vdiff-c0/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 845,
+  "textLen": 68,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "320x87",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": []
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 845,
+  "textLen": 68,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "320x87",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": []
+ }
+}

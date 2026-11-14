@@ -1,0 +1,58 @@
+{
+  "slug": "machines",
+  "type": "listing",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "machine-filter",
+    "cards-machine"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "alt",
+    "alt",
+    "div",
+    "alt",
+    "div",
+    "alt"
+  ],
+  "canonShas": {
+    "header": "534598da2521",
+    "footer": "736a7ff44f02",
+    "css": "4df8e3921e99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "Made in the workshop.",
+    "description": "Four families of machine, each tuned by hand for a different kind of morning. Start with how you like to make it — we&#x27;ll help ...",
+    "canonical": "https://new.frescopa.coffee/machines",
+    "lang": null
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "Made in the workshop.",
+    "description": "Four families of machine, each tuned by hand for a different kind of morning. Start with how you like to make it — we&#x27;ll help ...",
+    "url": "https://new.frescopa.coffee/machines"
+  },
+  "migratedAt": "2026-11-13T20:13:39Z",
+  "designMdSha": "104fd13ba944",
+  "designJsonSha": "1449a990b92e",
+  "sourceCurrentSha": "d009befdf6e7",
+  "sourceProposedSha": "bfb75af29649",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [],
+  "outputPath": "machines/index.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "machines/_meta.json",
+  "driverVersion": "1"
+}

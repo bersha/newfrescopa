@@ -1,0 +1,26 @@
+{
+  "slug": "cafe",
+  "type": "landing",
+  "iterations": { "1440": 2, "360": 3 },
+  "gates": {
+    "1440": { "label": "iter2", "full": true, "pixelPct": 0.02, "heightDelta": 0, "hotBands": [], "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "clipped": 0, "overflow": "ok", "capProbe": "PASS at 2560 (0 of 8 rows failed, evidence stardust/replica/gates/cafe-2560/cap-iter.json)" },
+    "360": { "label": "iter3", "full": true, "pixelPct": 0.85, "heightDelta": 0, "hotBands": ["1500-2000 15.3% (explained, see residuals)"], "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "clipped": 0, "overflow": "ok" }
+  },
+  "residuals": [
+    "360 hot band 1500-2000 (15.3%): capture-timing artefact, not geometry. The first 'experience' columns block (gated, not changed) sits at the bottom edge of stitch chunk 2 (900-1800); the build is captured unsettled, so the scroll reveal (threshold 0.15, rootMargin -8%) has not fired for it in that chunk and its top ~100px paints as section background, while the live side is settled. A --settle capture of the build compares 0.00% / Δ0 against the same live.png (stardust/.work/replica/cafe-verify/build-settled.png).",
+    "Leaflet map tiles/pins depend on OSM tile + Nominatim timing on both sides (minor residual pixels in the store-locator band only)."
+  ],
+  "siblings": {
+    "japan": { "1440": { "label": "iter1", "full": true, "pixelPct": 0.01, "heightDelta": 539, "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "clipped": 0, "overflow": "ok", "note": "Unsettled build capture measured 5834 vs live 6373 (footer not yet loaded and last reveals not fired when height was taken); anchor.mjs matches live section for section (doc 6373 on both), and a --settle build capture compares 0.00% / Δ0. Marker 'フレスコパ' (page has no 'Fréscopa' in main)." } },
+    "proffee": { "1440": { "label": "iter1", "full": true, "pixelPct": 0.02, "heightDelta": 0, "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "clipped": 0, "overflow": "ok", "note": "cards-machine band owned by another agent" } }
+  },
+  "notes": [
+    "hero-media, columns-editorial and text are blocks on the source (block class + -container section class) but the source ships no code for them (404 on /blocks/<name>/*); they render as plain block markup under global styles. Recreated as explicit no-op blocks so they load without 404s and stay identical.",
+    "Leaflet 1.9.4 vendored at blocks/store-locator/vendor/ and loaded with loadScript/loadCSS, as the source does (lint-disable headers added so npm run lint skips it)."
+  ],
+  "motion": {
+    "observed": ["scroll reveal opacity/transform 900ms (foundation)", "region pill hover colour 350ms", "booking submit hover background 350ms", "store-locator is-active / is-locating on card + region click", "leaflet tile/marker loading"],
+    "implemented": ["all observed: motion-compare 16 parity, 0 missing, 0 extra, 0 out of tolerance", "region filter + search filter, card click geocode+flyTo+popup, marker click selects card, booking toggle pills, client-side submit (no backend)"],
+    "dead": ["header scroll-morph", "region/toggle/card click: no frame-sampled box change", "card hover, toggle hover, directions link hover: no measured diff on live"]
+  }
+}

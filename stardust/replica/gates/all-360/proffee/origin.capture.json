@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://new.frescopa.coffee/proffee",
+  "width": 360,
+  "vh": 900,
+  "height": 10059,
+  "chunks": 12,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 1,
+    "late": 0
+  },
+  "at": "2026-11-13T21:15:07.376Z"
+}

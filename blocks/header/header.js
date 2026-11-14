@@ -1,5 +1,6 @@
 import { getMetadata } from '../../scripts/aem.js';
 import { loadFragment } from '../fragment/fragment.js';
+import { pagePath } from '../../scripts/scripts.js';
 
 // media query match that indicates mobile/tablet width
 const isDesktop = window.matchMedia('(min-width: 900px)');
@@ -86,6 +87,60 @@ function toggleMenu(nav, navSections, forceExpanded = null) {
   }
 }
 
+const TOOL_ICONS = {
+  search: '<circle cx="11" cy="11" r="7"></circle><path d="m20 20-3.2-3.2" stroke-linecap="round"></path>',
+  account: '<circle cx="12" cy="8" r="4"></circle><path d="M5 20c0-3.6 3.1-6 7-6s7 2.4 7 6" stroke-linecap="round"></path>',
+  cart: '<path d="M6 8h12l-1 11H7L6 8Z"></path><path d="M9 8a3 3 0 0 1 6 0" stroke-linecap="round"></path>',
+};
+
+/**
+ * Marks the nav link whose path is the longest match for the current page.
+ * @param {Element} navSections nav sections container
+ */
+function markCurrentLink(navSections) {
+  const normalise = (path) => path.replace(/\/+$/, '') || '/';
+  const current = normalise(pagePath());
+  let best = null;
+  let bestLength = -1;
+  navSections.querySelectorAll('a[href]').forEach((link) => {
+    const path = normalise(new URL(link.href, window.location).pathname);
+    const matches = path === current || (path !== '/' && current.startsWith(`${path}/`));
+    if (matches && path.length > bestLength) {
+      best = link;
+      bestLength = path.length;
+    }
+  });
+  if (best) best.setAttribute('aria-current', 'page');
+}
+
+/**
+ * Turns the tool links (Search / Account / Cart) into icon links; Search
+ * opens the search dialog.
+ * @param {Element} navTools nav tools container
+ */
+function decorateTools(navTools) {
+  navTools.querySelectorAll('a').forEach((link) => {
+    const label = link.textContent.trim();
+    const hrefKey = (link.getAttribute('href') || '').replace(/^#/, '').toLowerCase();
+    const key = TOOL_ICONS[hrefKey] ? hrefKey : label.toLowerCase();
+    if (!TOOL_ICONS[key]) return;
+    link.setAttribute('aria-label', label);
+    link.removeAttribute('title');
+    link.innerHTML = `<svg viewBox="0 0 24 24" width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">${TOOL_ICONS[key]}</svg>`;
+    if (key !== 'search') return;
+    link.setAttribute('aria-haspopup', 'dialog');
+    link.addEventListener('click', async (e) => {
+      e.preventDefault();
+      try {
+        const { default: openSearch } = await import('./search.js');
+        openSearch(link);
+      } catch {
+        window.location.assign(link.href);
+      }
+    });
+  });
+}
+
 /**
  * loads and decorates the header, mainly the nav
  * @param {Element} block The header block element
@@ -93,7 +148,7 @@ function toggleMenu(nav, navSections, forceExpanded = null) {
 export default async function decorate(block) {
   // load nav as fragment
   const navMeta = getMetadata('nav');
-  const navPath = navMeta ? new URL(navMeta, window.location).pathname : '/nav';
+  const navPath = navMeta ? new URL(navMeta, window.location).pathname : '/fragments/nav';
   const fragment = await loadFragment(navPath);
 
   // decorate nav DOM
@@ -112,10 +167,11 @@ export default async function decorate(block) {
   const brandLink = navBrand.querySelector('.button');
   if (brandLink) {
     brandLink.className = '';
-    brandLink.closest('.button-container').className = '';
+    brandLink.closest('.button-wrapper').className = '';
   }
 
   const navSections = nav.querySelector('.nav-sections');
+  if (navSections) markCurrentLink(navSections);
   if (navSections) {
     navSections.querySelectorAll(':scope .default-content-wrapper > ul > li').forEach((navSection) => {
       const subList = navSection.querySelector(':scope > ul');
@@ -139,6 +195,9 @@ export default async function decorate(block) {
       });
     });
   }
+
+  const navTools = nav.querySelector('.nav-tools');
+  if (navTools) decorateTools(navTools);
 
   // hamburger for mobile
   const hamburger = document.createElement('div');

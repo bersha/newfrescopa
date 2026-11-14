@@ -1,0 +1,344 @@
+{
+  "generatedAt": "2026-11-13T21:30:50.101Z",
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://new.frescopa.coffee",
+    "liveHost": "main--7c29ab64--aemcoder.aem.live"
+  },
+  "stageCount": {
+    "identified": 21,
+    "prototyped": 21,
+    "deployed": 21,
+    "optimised": 0
+  },
+  "stageExclusive": {
+    "identified": 0,
+    "prototyped": 0,
+    "deployed": 21,
+    "optimised": 0
+  },
+  "pages": [
+    {
+      "slug": "index",
+      "path": "/",
+      "stage": "deployed",
+      "templateId": "index",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "beverages",
+      "path": "/beverages",
+      "stage": "deployed",
+      "templateId": "landing",
+      "isTemplate": true,
+      "openFindings": 2
+    },
+    {
+      "slug": "beverages-coffee",
+      "path": "/beverages/coffee",
+      "stage": "deployed",
+      "templateId": "listing",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "blog",
+      "path": "/blog",
+      "stage": "deployed",
+      "templateId": "listing",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "blog-atelier-taste",
+      "path": "/blog/atelier-taste",
+      "stage": "deployed",
+      "templateId": "blog-atelier-taste",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "cafe",
+      "path": "/cafe",
+      "stage": "deployed",
+      "templateId": "cafe",
+      "isTemplate": true,
+      "openFindings": 3
+    },
+    {
+      "slug": "fragments-footer",
+      "path": "/fragments/footer",
+      "stage": "deployed",
+      "templateId": "static",
+      "isTemplate": true,
+      "openFindings": 2
+    },
+    {
+      "slug": "fragments-nav",
+      "path": "/fragments/nav",
+      "stage": "deployed",
+      "templateId": "static",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "header",
+      "path": "/header",
+      "stage": "deployed",
+      "templateId": "static",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "japan",
+      "path": "/japan",
+      "stage": "deployed",
+      "templateId": "landing",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "machines",
+      "path": "/machines",
+      "stage": "deployed",
+      "templateId": "machines",
+      "isTemplate": true,
+      "openFindings": 2
+    },
+    {
+      "slug": "machines-atelier",
+      "path": "/machines/atelier",
+      "stage": "deployed",
+      "templateId": "machines-atelier",
+      "isTemplate": true,
+      "openFindings": 2
+    },
+    {
+      "slug": "myatelier",
+      "path": "/myatelier",
+      "stage": "deployed",
+      "templateId": "myatelier",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "of1",
+      "path": "/of1",
+      "stage": "deployed",
+      "templateId": "of1",
+      "isTemplate": true,
+      "openFindings": 1
+    },
+    {
+      "slug": "of1-knowledge-atelier",
+      "path": "/of1/knowledge/atelier",
+      "stage": "deployed",
+      "templateId": "static",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "of1-knowledge-beverages",
+      "path": "/of1/knowledge/beverages",
+      "stage": "deployed",
+      "templateId": "static",
+      "isTemplate": false,
+      "openFindings": 2
+    },
+    {
+      "slug": "of1-knowledge-cafe",
+      "path": "/of1/knowledge/cafe",
+      "stage": "deployed",
+      "templateId": "static",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "of1-knowledge-japan",
+      "path": "/of1/knowledge/japan",
+      "stage": "deployed",
+      "templateId": "static",
+      "isTemplate": false,
+      "openFindings": 3
+    },
+    {
+      "slug": "of1-knowledge-machines",
+      "path": "/of1/knowledge/machines",
+      "stage": "deployed",
+      "templateId": "of1-knowledge-machines",
+      "isTemplate": true,
+      "openFindings": 2
+    },
+    {
+      "slug": "proffee",
+      "path": "/proffee",
+      "stage": "deployed",
+      "templateId": "landing",
+      "isTemplate": false,
+      "openFindings": 1
+    },
+    {
+      "slug": "proffee-jp",
+      "path": "/proffee-jp",
+      "stage": "deployed",
+      "templateId": "landing",
+      "isTemplate": false,
+      "openFindings": 1
+    }
+  ],
+  "templates": [
+    {
+      "id": "blog-atelier-taste",
+      "archetype": "blog-atelier-taste",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "cafe",
+      "archetype": "cafe",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "index",
+      "archetype": "index",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "landing",
+      "archetype": "beverages",
+      "pageCount": 4,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 4,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "listing",
+      "archetype": "beverages-coffee",
+      "pageCount": 2,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 2,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "machines",
+      "archetype": "machines",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "machines-atelier",
+      "archetype": "machines-atelier",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "myatelier",
+      "archetype": "myatelier",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "of1",
+      "archetype": "of1",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "of1-knowledge-machines",
+      "archetype": "of1-knowledge-machines",
+      "pageCount": 1,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 1,
+        "optimised": 0
+      }
+    },
+    {
+      "id": "static",
+      "archetype": "fragments-footer",
+      "pageCount": 7,
+      "stages": {
+        "identified": 0,
+        "prototyped": 0,
+        "deployed": 7,
+        "optimised": 0
+      }
+    }
+  ],
+  "blocks": {
+    "total": 26,
+    "converted": 26
+  },
+  "quality": {
+    "overall": 100,
+    "dimensions": {
+      "brand-tensions": null,
+      "design-ux": null,
+      "accessibility": null,
+      "seo": 100,
+      "content-conversion": null,
+      "ai-search": 100,
+      "cross-page": 100
+    },
+    "severity": {
+      "P1": 0,
+      "P2": 0,
+      "P3": 0
+    },
+    "history": [
+      64,
+      100
+    ]
+  },
+  "findings": {
+    "byFixability": {
+      "out-of-scope": 33
+    },
+    "byAutofix": {}
+  }
+}

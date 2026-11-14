@@ -1,0 +1,47 @@
+{
+  "/beverages/coffee": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T21:29:23.605Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/blog/atelier-taste": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T21:29:23.606Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/cafe": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T21:29:30.586Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/proffee-jp": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T21:29:30.911Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/proffee": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T21:29:37.142Z",
+    "put": 200,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

@@ -1,0 +1,126 @@
+/* spec-table: grid of label/value spec cards + "In the box" card */
+.spec-table .spec-table-head {
+  max-width: var(--content-narrow);
+  margin-bottom: clamp(1.5rem, 1rem + 2vw, 2.5rem);
+}
+
+.spec-table .spec-table-head p:first-child {
+  margin-bottom: 0.6rem;
+  font-family: var(--font-mono, monospace);
+  font-size: 0.72rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--terracotta);
+}
+
+.spec-table .spec-table-head h2 {
+  margin: 0;
+  color: var(--burgundy);
+}
+
+.spec-table .spec-table-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: clamp(2rem, 1.4rem + 2vw, 2.8rem);
+}
+
+@media (width >= 600px) {
+  .spec-table .spec-table-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (width >= 900px) {
+  .spec-table .spec-table-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+.spec-table .spec-table-card h3 {
+  margin: 0 0 0.4rem;
+  font-family: var(--body-font-family);
+  font-size: 0.72rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--terracotta);
+}
+
+.spec-table .spec-table-card dl {
+  margin: 0;
+}
+
+.spec-table .spec-table-row {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 0.7rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.spec-table .spec-table-row dt {
+  font-size: var(--fs-sm);
+  color: var(--ink-soft);
+}
+
+.spec-table .spec-table-row dd {
+  margin: 0;
+  text-align: right;
+  font-size: var(--fs-sm);
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.spec-table .spec-table-inbox {
+  margin-top: clamp(2.5rem, 1.5rem + 3vw, 4rem);
+  padding: clamp(1.6rem, 1rem + 2vw, 2.6rem);
+  border: 1px solid var(--line);
+  border-radius: var(--r-xl);
+  background: var(--paper);
+  box-shadow: var(--shadow-sm);
+}
+
+.spec-table .spec-table-inbox h3 {
+  margin: 0 0 1.2rem;
+  font-family: var(--heading-font-family);
+  font-size: var(--fs-h4);
+  font-weight: 700;
+  color: var(--burgundy);
+}
+
+.spec-table .spec-table-inbox ul {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 0.6rem 2rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+@media (width >= 600px) {
+  .spec-table .spec-table-inbox ul {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (width >= 900px) {
+  .spec-table .spec-table-inbox ul {
+    grid-template-columns: repeat(4, 1fr);
+  }
+}
+
+.spec-table .spec-table-inbox li {
+  position: relative;
+  padding-left: 1.5rem;
+  font-size: var(--fs-sm);
+  line-height: var(--lh-body);
+  color: var(--ink-soft);
+}
+
+.spec-table .spec-table-inbox li::before {
+  content: "—";
+  position: absolute;
+  left: 0;
+  color: var(--terracotta);
+}

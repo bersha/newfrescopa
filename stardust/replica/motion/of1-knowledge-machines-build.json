@@ -1,0 +1,565 @@
+{
+  "url": "http://localhost:8791/of1-knowledge-machines-proposed.html",
+  "width": 1440,
+  "headerTimeline": [
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3600,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 3289,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1789,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 2400,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 1200,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 800,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 500,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 300,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 200,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 150,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 120,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 90,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 60,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 30,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    },
+    {
+      "y": 0,
+      "cls": "header-wrapper",
+      "position": "static",
+      "height": "72px",
+      "transform": "none",
+      "transition": "all",
+      "mainPadTop": "0px",
+      "bodyPadTop": "0px",
+      "headerCount": 1
+    }
+  ],
+  "widgetSamples": [
+    {
+      "sel": "header .nav-tools li:first-child a",
+      "frames": [
+        {
+          "t": 10179,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 10386.30000000028,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 10592.30000000028,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        },
+        {
+          "t": 10797.30000000028,
+          "trackTransform": null,
+          "trackTransition": null,
+          "boxScrollLeft": null,
+          "boxTransform": null,
+          "dots": []
+        }
+      ]
+    }
+  ],
+  "hoverSamples": [
+    {
+      "sel": "header .nav-sections a",
+      "changed": [],
+      "before": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.262 0.021 52)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      },
+      "after": {
+        "self": {
+          "transform": "none",
+          "color": "oklch(0.262 0.021 52)",
+          "background": "rgba(0, 0, 0, 0)",
+          "boxShadow": "none",
+          "opacity": "1",
+          "transition": "color 0.35s cubic-bezier(0.22, 1, 0.36, 1)"
+        },
+        "subs": []
+      }
+    }
+  ],
+  "media": {
+    "videos": [],
+    "idleClassMutations": [],
+    "idleClassMutationCount": 0
+  },
+  "events": {
+    "animations": [],
+    "transitions": [
+      {
+        "prop": "transform",
+        "el": "html > body.appear > div.search-overlay.is-open > div.search-modal",
+        "y": 4389,
+        "dur": "0.6s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-trending > a.search-trending-item",
+        "y": 4389,
+        "dur": "0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-trending > a.search-trending-item",
+        "y": 4389,
+        "dur": "0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "body.appear > div.search-overlay.is-open > div.search-modal > div.search-bar > button.search-esc",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "body.appear > div.search-overlay.is-open > div.search-modal > div.search-bar > button.search-esc",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "body.appear > div.search-overlay.is-open > div.search-modal > div.search-bar > button.search-esc",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "color",
+        "el": "body.appear > div.search-overlay.is-open > div.search-modal > div.search-bar > button.search-esc",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "body.appear > div.search-overlay.is-open > div.search-modal > div.search-bar > button.search-esc",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-top-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "background-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-bottom-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-left-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "border-right-color",
+        "el": "div.search-body > div.search-default > section.search-group > div.search-chips > button.search-chip",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      },
+      {
+        "prop": "backdrop-filter",
+        "el": "html > body.appear > div.search-overlay.is-open",
+        "y": 4389,
+        "dur": "0.35s, 0.35s"
+      }
+    ],
+    "classMutations": [
+      {
+        "added": [
+          "is-open"
+        ],
+        "el": "html > body.appear > div.search-overlay.is-open",
+        "y": 4691
+      }
+    ]
+  }
+}

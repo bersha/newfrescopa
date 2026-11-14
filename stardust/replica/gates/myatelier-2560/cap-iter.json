@@ -1,0 +1,239 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T19:50:59.023Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://new.frescopa.coffee/myatelier",
+      "http://localhost:8791/myatelier-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://new.frescopa.coffee/myatelier",
+    "http://localhost:8791/myatelier-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 7,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.account-signin-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.43,
+        "section": 0,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "max-width",
+        "selector": "#welcome-back",
+        "tier": 3,
+        "share": 0.14,
+        "section": 0,
+        "w1": 401,
+        "maxWidth": "401.466px"
+      },
+      {
+        "kind": "module",
+        "px": 495,
+        "via": "max-width",
+        "selector": "main > div.section.account-signin-container > div.default-content-wrapper > p",
+        "tier": 3,
+        "share": 0.14,
+        "section": 0,
+        "w1": 495,
+        "maxWidth": "495.039px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.account-signin-container > div.account-signin-wrapper",
+        "tier": 2,
+        "share": 0.43,
+        "section": 1,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 416,
+        "via": "max-width",
+        "selector": "div.section.account-signin-container > div.account-signin-wrapper > div.account-signin.block > form.account-signin-form",
+        "tier": 4,
+        "share": 0.43,
+        "section": 1,
+        "w1": 416,
+        "maxWidth": "416px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body.appear > main > div.section.account-signin-container > div.default-content-wrapper",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.account-signin-container > div.default-content-wrapper"
+      },
+      {
+        "index": 1,
+        "selector": "body.appear > main > div.section.account-signin-container > div.account-signin-wrapper",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.account-signin-container > div.account-signin-wrapper"
+      },
+      {
+        "index": 2,
+        "selector": "body.appear > main > div.section.account-signin-container > div.default-content-wrapper",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1120,
+    "contentFrom": "module",
+    "maxCap": 1120,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 28
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 7,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.account-signin-container > div.default-content-wrapper",
+        "tier": 2,
+        "share": 0.43,
+        "section": 0,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 401,
+        "via": "max-width",
+        "selector": "#welcome-back",
+        "tier": 3,
+        "share": 0.14,
+        "section": 0,
+        "w1": 401,
+        "maxWidth": "401.466px"
+      },
+      {
+        "kind": "module",
+        "px": 495,
+        "via": "max-width",
+        "selector": "main > div.section.account-signin-container > div.default-content-wrapper > p",
+        "tier": 3,
+        "share": 0.14,
+        "section": 0,
+        "w1": 495,
+        "maxWidth": "495.039px"
+      },
+      {
+        "kind": "module",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section.account-signin-container > div.account-signin-wrapper",
+        "tier": 2,
+        "share": 0.43,
+        "section": 1,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      },
+      {
+        "kind": "module",
+        "px": 416,
+        "via": "max-width",
+        "selector": "div.section.account-signin-container > div.account-signin-wrapper > div.account-signin.block > form.account-signin-form",
+        "tier": 4,
+        "share": 0.43,
+        "section": 1,
+        "w1": 416,
+        "maxWidth": "416px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "body.appear > main > div.section.account-signin-container > div.default-content-wrapper",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.account-signin-container > div.default-content-wrapper"
+      },
+      {
+        "index": 1,
+        "selector": "body.appear > main > div.section.account-signin-container > div.account-signin-wrapper",
+        "px": 1120,
+        "capSelector": "body.appear > main > div.section.account-signin-container > div.account-signin-wrapper"
+      },
+      {
+        "index": 2,
+        "selector": "body.appear > main > div.section.account-signin-container > div.default-content-wrapper",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": null,
+    "contentMaxWidth": 1120,
+    "contentFrom": "module",
+    "maxCap": 1120,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 28
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "content cap",
+        "detail": "live 1120px = build 1120px (±20, shared module cap)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/3",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/3",
+        "detail": "1120px = 1120px",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/3",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/myatelier-2560/cap-iter.json"
+}

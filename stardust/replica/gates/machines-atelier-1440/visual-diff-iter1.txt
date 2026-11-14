@@ -1,0 +1,799 @@
+[live-session] waiting to pace live navigations to new.frescopa.coffee (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/machines-atelier-1440/vdiff-iter1/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 8286,
+  "textLen": 4963,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "750x409",
+    "rendered": "492x516",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "750x409",
+    "rendered": "113x113",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "750x409",
+    "rendered": "113x113",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14dda38183367f1ef5f700eaf66d1a13a59bdd756.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "750x409",
+    "rendered": "113x113",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "750x409",
+    "rendered": "113x113",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "446x335",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=1200&format=webply&optimize=medium",
+    "natural": "1200x655",
+    "rendered": "960x540",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_126153dedaaab1e3fdd811716e201bae4bcfcf30f.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_11963a4969e9d029a1613bfbdb474e23808af40db.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "The Atelier",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "86.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "It learns your taste.Here's how.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "It tastes every cup",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Two minutes in a real kitchen.",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Every promise, backed up.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The full specification.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Design and build",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Brewing",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Intelligence and connectivity",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Power and sound",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Sustainability",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Delivery and returns",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "In the box",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Your taste, drawn one cup at a t",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The verdict, three months in.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Every last hesitation, handled.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Start with the machine, or the w",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Atelier",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Atelier + a year of beans",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Atelier + Barista Kit",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Stock the shelf beside it.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The house pour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Honeybush and orange peel",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Cold-pressed citrus",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "The Atelier",
+    "color": "oklch(0.262 0.021 52)"
+   },
+   {
+    "text": "Bean-to-cup machine",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Jump to",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "How it actually works",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Step 1 of 4",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "See it in the morning",
+    "color": "oklch(0.79 0.128 74)"
+   },
+   {
+    "text": "The claims, answered",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Every detail",
+    "color": "oklch(0.605 0.116 44)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "product-hero-grid",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "steps-tabs-tabs",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "steps-tabs-panel",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "media-video",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "accordion",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "spec-table-grid",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "spec-table-inbox",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "taste-profile",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "reviews-head",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "accordion",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "bundle-cards-grid",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-product",
+    "width": 1024,
+    "left": 208
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 8286,
+  "textLen": 4963,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "750x409",
+    "rendered": "492x516",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "750x409",
+    "rendered": "113x113",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "750x409",
+    "rendered": "113x113",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14dda38183367f1ef5f700eaf66d1a13a59bdd756.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "750x409",
+    "rendered": "113x113",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=750&format=jpg&optimize=medium",
+    "natural": "750x409",
+    "rendered": "113x113",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "446x335",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=1200&format=webply&optimize=medium",
+    "natural": "1200x655",
+    "rendered": "960x540",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_126153dedaaab1e3fdd811716e201bae4bcfcf30f.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_11963a4969e9d029a1613bfbdb474e23808af40db.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x240",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "The Atelier",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "86.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "It learns your taste.Here's how.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "It tastes every cup",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Two minutes in a real kitchen.",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Every promise, backed up.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The full specification.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Design and build",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Brewing",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Intelligence and connectivity",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Power and sound",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Sustainability",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Delivery and returns",
+    "color": "oklch(0.605 0.116 44)",
+    "fontSize": "11.52px",
+    "family": "Hanken Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "In the box",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Your taste, drawn one cup at a t",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The verdict, three months in.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Every last hesitation, handled.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Start with the machine, or the w",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Atelier",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Atelier + a year of beans",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Atelier + Barista Kit",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Stock the shelf beside it.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The house pour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Honeybush and orange peel",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Cold-pressed citrus",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "24px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "The Atelier",
+    "color": "oklch(0.262 0.021 52)"
+   },
+   {
+    "text": "Bean-to-cup machine",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Jump to",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "How it actually works",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Step 1 of 4",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "See it in the morning",
+    "color": "oklch(0.79 0.128 74)"
+   },
+   {
+    "text": "The claims, answered",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Every detail",
+    "color": "oklch(0.605 0.116 44)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "product-hero-grid",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "steps-tabs-tabs",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "steps-tabs-panel",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "media-video",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "accordion",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "spec-table-grid",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "spec-table-inbox",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "taste-profile",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "reviews-head",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "accordion",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "bundle-cards-grid",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-product",
+    "width": 1024,
+    "left": 208
+   }
+  ]
+ }
+}

@@ -1,0 +1,51 @@
+{
+  "a": "stardust/replica/gates/all-1440/blog/origin.png",
+  "b": "stardust/replica/gates/all-1440/blog/eds.png",
+  "compared": {
+    "width": 1440,
+    "height": 2355,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 440,
+  "pct": 0.01,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-1440/blog/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 0.14,
+  "textBoxes": 79,
+  "textPixels": 314837,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 0
+    },
+    {
+      "y0": 2000,
+      "y1": 2355,
+      "pct": 0
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--7c29ab64--aemcoder.aem.page/blog"
+  }
+}

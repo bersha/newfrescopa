@@ -1,0 +1,27 @@
+{
+ "tool": "chrome-compare",
+ "at": "2026-11-13T20:31:51.893Z",
+ "source": "https://new.frescopa.coffee/",
+ "build": "https://main--7c29ab64--aemcoder.aem.page/fragments/nav",
+ "profile": "replica",
+ "bar": 0.02,
+ "widths": [
+  390,
+  1440
+ ],
+ "counts": {
+  "error": 0,
+  "warn": 1,
+  "decided": 0
+ },
+ "findings": [
+  {
+   "key": "link-missing@1440 link",
+   "width": 1440,
+   "path": "link",
+   "id": "link-missing",
+   "severity": "warn",
+   "detail": "top-level link / not in the build header"
+  }
+ ]
+}

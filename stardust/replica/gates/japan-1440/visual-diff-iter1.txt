@@ -1,0 +1,716 @@
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/japan-1440/vdiff-iter1/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 5840,
+  "textLen": 1543,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "6.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "5.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "5.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "5.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "6.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "6.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "4.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "7.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "4.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "4.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "7.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "7.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "フレスコパ、東京にやってきます。",
+    "color": "oklch(0.262 0.021 52)",
+    "fontSize": "86.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "味わい、学び、くつろぐ新しい空間。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "すべてのラインナップを味わう",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "マシンに触れる",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "スタッフから学ぶ",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "くつろげる場所",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "表参道、オープン当日。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "4月11日（土）オープン。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "アトリエ全ラインナップを、その場で。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "今週の東京のテーブルにて。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "グランドオープン・カッピング",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "ラテアートラボ",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "ホームブリューイング101",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "スローモーニング・カッピング",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "フレスコパ表参道。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "フレスコパ表参道",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "お湯を沸かしてお待ちしています。東京、扉は開いています。",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "ぜひお立ち寄りを",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "オープン",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "オープン週",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "土曜",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "10:00–11:30",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "日曜",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "14:00–15:30",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "水曜",
+    "color": "oklch(0.605 0.116 44)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero-media",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-reasons",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "columns-editorial",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "columns-editorial",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-event",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "store-locator-layout",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "hero-media",
+    "width": 1024,
+    "left": 208
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 5840,
+  "textLen": 1543,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "6.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "5.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "5.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "5.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "6.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "6.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "4.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "7.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "4.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "4.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "7.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "7.png",
+    "natural": "256x256",
+    "rendered": "256x256",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "フレスコパ、東京にやってきます。",
+    "color": "oklch(0.262 0.021 52)",
+    "fontSize": "86.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "味わい、学び、くつろぐ新しい空間。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "すべてのラインナップを味わう",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "マシンに触れる",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "スタッフから学ぶ",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "くつろげる場所",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "表参道、オープン当日。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "4月11日（土）オープン。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "アトリエ全ラインナップを、その場で。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "今週の東京のテーブルにて。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "グランドオープン・カッピング",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "ラテアートラボ",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "ホームブリューイング101",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "スローモーニング・カッピング",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "フレスコパ表参道。",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h3",
+    "text": "フレスコパ表参道",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "19.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   },
+   {
+    "tag": "h2",
+    "text": "お湯を沸かしてお待ちしています。東京、扉は開いています。",
+    "color": "oklch(0.945 0.016 80)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": false
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "ぜひお立ち寄りを",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "オープン",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "オープン週",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "土曜",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "10:00–11:30",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "日曜",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "14:00–15:30",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "水曜",
+    "color": "oklch(0.605 0.116 44)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "hero-media",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-reasons",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "columns-editorial",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "columns-editorial",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-event",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "store-locator-layout",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "hero-media",
+    "width": 1024,
+    "left": 208
+   }
+  ]
+ }
+}

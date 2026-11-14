@@ -1,0 +1,33 @@
+{
+  "slug": "index",
+  "type": "home",
+  "iterations": { "1440": 3, "360": 3 },
+  "gates": {
+    "1440": { "label": "iter3", "full": true, "pixelPct": 0.23, "heightDelta": 0, "hotBands": [], "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "chromeCrop": { "headerPct": 0.0, "footerPct": 0.0 }, "clipped": 0, "overflow": "ok", "capProbe": "PASS at 2560 (0 of 10 rows failed, evidence stardust/replica/gates/index-2560/cap-iter.json)" },
+    "360": { "label": "iter3", "full": true, "pixelPct": 4.62, "heightDelta": 0, "hotBands": ["6500-7000 27.7% (explained, see residuals)", "7000-7500 19.2% (explained, see residuals)"], "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "chromeCrop": { "headerPct": 0.0, "footerPct": 4.16 }, "clipped": 0, "overflow": "ok" }
+  },
+  "residuals": [
+    "360 hot bands 6500-7500 and footer crop 4.16%: capture-timing artefact, not geometry. Anchors match live section-for-section at rest (Δ0 every section, doc 8812 both). The mood-calendar (and taste-profile) auto-cycle every 3s — a behaviour that fires on live — is scheduled by an IntersectionObserver AFTER stitch-shot clears timers; gate.sh settles only the live side, so on the build the cycle advances mid-capture (Bolder -> Balanced, whose note wraps one more line at 360) and every chunk from y=6300 down is stitched 24px low. Verified by an independent build capture (same result) and a scroll probe showing the mood section 910 -> 934px after ~3s on BOTH live and build. Not fixable in block code without removing a live behaviour; a build-side --settle (or freezing the cycle on both sides) would clear it."
+  ],
+  "notes": [
+    "iter1 -> iter2: intro columns body cell was 19px short — the source's `p:first-child` margin-reset rule loses the cascade to the body-paragraph rule on live (equal specificity, later wins), so the first body paragraph keeps margin-top 0.9em; removed the dead reset.",
+    "taste-profile: for the known profiles (Weekday, Slow Sunday, After dinner) the live site's readout copy and radar values come from the block JS, not the document (live shows 'The slow Sunday' while the doc says 'Slow Sunday'); the recreation keeps that canonical dataset so the readouts match live. Unknown labels use the authored cells.",
+    "Section styles intro/learn/mood/feed/sustain/voices needed no rules beyond the foundation."
+  ],
+  "motion": {
+    "observed": [
+      "scroll reveal opacity/transform 900ms (is-in x15, foundation)",
+      "taste-profile + mood-calendar auto-cycle (is-active, 3s) after scroll-in",
+      "hover: hero CTA background 350ms, intro arrow link colour, taste-profile chip border/colour 350ms, calendar day background+translateY 600ms, product CTA colour 350ms, dark-band CTA background 350ms"
+    ],
+    "implemented": [
+      "all observed behaviours: motion-compare 16 parity, 0 missing, 0 extra, 0 out of tolerance",
+      "taste-profile chip click (radar morph 820ms expo, readout swap, stops cycle) and mood-calendar day click (readout swap, stops cycle) per source JS"
+    ],
+    "dead": [
+      "header scroll-morph (static on both sides)",
+      "taste-profile chip / calendar day click: no frame-sampled box change (state change is class/text only)",
+      "product card hover (no measured diff on live)"
+    ]
+  }
+}

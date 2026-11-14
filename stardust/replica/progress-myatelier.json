@@ -1,0 +1,17 @@
+{
+  "slug": "myatelier",
+  "type": "form",
+  "iterations": { "1440": 1, "360": 2 },
+  "gates": {
+    "1440": { "label": "iter1", "full": true, "pixelPct": 0.0, "heightDelta": 0, "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "clipped": 0, "overflow": "ok", "capProbe": "PASS (0 of 4 rows failed, stardust/replica/gates/myatelier-2560/cap-iter.json)" },
+    "360": { "label": "iter2", "full": true, "pixelPct": 0.01, "heightDelta": 0, "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "clipped": 0, "overflow": "ok" }
+  },
+  "residuals": [
+    "Source defect fixed (needs an inconsistency-register entry): the live email input is content-box (width 100% + padding) and overflows the 360 viewport by 19px (live scrollWidth 379, measured). Build sets box-sizing:border-box below 600px only, so 1440 is untouched; 360 pixel delta 0.01%."
+  ],
+  "motion": {
+    "observed": ["submit hover background 350ms quint"],
+    "implemented": ["submit hover; submit prevented client-side (no backend) as on source — motion-compare 2 parity, 0 missing, 0 extra"],
+    "dead": ["header scroll-morph", "submit click (no visual change on live)", "input hover (no measured diff)"]
+  }
+}

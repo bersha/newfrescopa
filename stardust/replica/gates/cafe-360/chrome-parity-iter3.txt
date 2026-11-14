@@ -1,0 +1,9 @@
+chrome-parity @ 360px, tolerance 1px
+  live:  https://new.frescopa.coffee/cafe (live side from cache stardust/replica/gates/cafe-360/chrome-live.json, probed 2026-11-13T19:59:37.304Z — delete the file to re-probe)
+  build: http://localhost:8791/cafe-proposed.html
+
+■ header: ✓ parity — 0 paired of 0/0 texts, 4/4 icons
+
+■ footer: ✓ parity — 20 paired of 20/20 texts, 4/4 icons
+
+✓ chrome parity within tolerance — run crop-compare (pass bar item 5) to confirm in pixels.

@@ -1,0 +1,58 @@
+/* product-jumpnav: hairline-ruled bar of pill links */
+.product-jumpnav {
+  border-top: 1px solid var(--line);
+  border-bottom: 1px solid var(--line);
+}
+
+.product-jumpnav .product-jumpnav-inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1.2rem;
+  max-width: var(--content);
+  margin-inline: auto;
+  padding: 1rem var(--gutter);
+}
+
+.product-jumpnav .product-jumpnav-intro {
+  display: flex;
+  align-items: baseline;
+  gap: 0.9rem;
+}
+
+.product-jumpnav .product-jumpnav-hint {
+  font-family: var(--heading-font-family);
+  font-size: var(--fs-body-lg);
+  font-weight: 700;
+  color: var(--burgundy);
+}
+
+.product-jumpnav .product-jumpnav-label {
+  font-family: var(--font-mono, monospace);
+  font-size: 0.7rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+.product-jumpnav .product-jumpnav-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.6rem;
+  margin-left: auto;
+}
+
+.product-jumpnav .product-jumpnav-links a {
+  padding: 0.4rem 0.9rem;
+  border: 1px solid var(--line);
+  border-radius: var(--r-pill);
+  font-size: var(--fs-sm);
+  color: var(--ink);
+  text-decoration: none;
+  transition: border-color 0.2s var(--ease-quint), color 0.2s var(--ease-quint);
+}
+
+.product-jumpnav .product-jumpnav-links a:hover {
+  border-color: var(--terracotta);
+  color: var(--terracotta);
+}

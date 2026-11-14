@@ -1,0 +1,14 @@
+{
+  "runtime": "vanilla-eds",
+  "detectedFrom": ["scripts/scripts.js decorateButtons()", "scripts/aem.js decorateBlock()", "blocks/fragment/fragment.js"],
+  "blockWrapperClass": "block",
+  "blockWrapping": "div.<name>-wrapper > div.<name>.block[data-block-name]; section gains .<name>-container",
+  "buttonClasses": "a.button.primary (strong) / a.button.secondary (em) / a.button.accent (strong+em), in p.button-wrapper",
+  "buttonization": "formatted-only",
+  "fragmentScriptPolicy": "inert-innerHTML",
+  "emptySectionCollapse": false,
+  "emptySectionNote": "page metadata is authored in the last content section, never alone, so no empty section is left; the source documents carry the same shape",
+  "sectionStyles": "section-metadata Style values (alt, dark, intro, learn, mood, feed, sustain, voices, …) land as section classes",
+  "chromeDocuments": { "nav": "/fragments/nav (header block default)", "footer": "/fragments/footer (footer block default)" },
+  "writtenAt": "2026-11-13"
+}

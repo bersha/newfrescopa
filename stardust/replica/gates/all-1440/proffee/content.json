@@ -1,0 +1,4790 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T21:23:43.397Z",
+  "width": 1440,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://new.frescopa.coffee/proffee",
+  "at": "2026-11-13T21:23:22.285Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6218,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 208,
+    "y": 20,
+    "w": 128,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 535,
+    "y": 22,
+    "w": 74,
+    "h": 26,
+    "text": "the atelier",
+    "href": "/machines/atelier"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 633,
+    "y": 22,
+    "w": 65,
+    "h": 26,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 722,
+    "y": 22,
+    "w": 71,
+    "h": 26,
+    "text": "beverages",
+    "href": "/beverages"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 816,
+    "y": 22,
+    "w": 32,
+    "h": 26,
+    "text": "café",
+    "href": "/cafe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 872,
+    "y": 22,
+    "w": 53,
+    "h": 26,
+    "text": "journal",
+    "href": "/blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1124,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1212,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 1050,
+    "text": "",
+    "file": "media_1ae7b300835f4da72460fc57fdcfd83341"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p.eyebrow",
+    "x": 208,
+    "y": 370,
+    "w": 620,
+    "h": 19,
+    "text": "A morning called proffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h1#proffee-the-fréscopa-way",
+    "x": 208,
+    "y": 407,
+    "w": 620,
+    "h": 178,
+    "level": 1,
+    "text": "proffee, the fréscopa way."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 606,
+    "w": 381,
+    "h": 110,
+    "text": "Protein coffee isn't just for the gym. Warm, considered, and genuinely worth rea"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 208,
+    "y": 748,
+    "w": 165,
+    "h": 46,
+    "text": "see the atelier →",
+    "href": "/machines"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#the-rise-of-proffee",
+    "x": 208,
+    "y": 1122,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "the rise of proffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1188,
+    "w": 1024,
+    "h": 83,
+    "text": "Protein coffee has jumped the fence. What started as a gym-bag hack, a scoop of "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1284,
+    "w": 1024,
+    "h": 83,
+    "text": "Proffee doesn't belong to the gym. It belongs to the morning. Somewhere between "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1380,
+    "w": 1024,
+    "h": 83,
+    "text": "What changed is the feeling, not just the formula. High protein coffee used to b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#why-most-protein-coffee-gets-it-wrong",
+    "x": 208,
+    "y": 1611,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "why most protein coffee gets it wrong"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1676,
+    "w": 1024,
+    "h": 83,
+    "text": "Most of the category treats protein coffee as a supplement first and a drink sec"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1772,
+    "w": 1024,
+    "h": 83,
+    "text": "Then there's the texture. Shakers and budget machines leave lumps, because blend"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1868,
+    "w": 1024,
+    "h": 83,
+    "text": "This is where the cheaper options cost more than they seem. A pod system or a bu"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#the-fréscopa-take",
+    "x": 208,
+    "y": 2099,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "the fréscopa take"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2164,
+    "w": 1024,
+    "h": 55,
+    "text": "Great protein coffee starts with great coffee. That's the whole philosophy, and "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2233,
+    "w": 1024,
+    "h": 83,
+    "text": "That means fresh beans, real care, and a method that treats protein as an ingred"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#the-atelier-where-it-all-comes-together",
+    "x": 208,
+    "y": 2464,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "the atelier, where it all comes together"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2529,
+    "w": 1024,
+    "h": 83,
+    "text": "The Atelier is where the ritual becomes effortless. Picture it on the counter as"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2625,
+    "w": 1024,
+    "h": 55,
+    "text": "And yes, it's a premium machine, so it's fair to ask: is the Atelier worth it? T"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2694,
+    "w": 1024,
+    "h": 110,
+    "text": "A café proffee runs about $8. The same drink at home, with fresh beans and your "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2817,
+    "w": 1024,
+    "h": 55,
+    "text": "Put simply, the Atelier isn't the cheapest machine. It's the least expensive way"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 600,
+    "y": 2847,
+    "w": 159,
+    "h": 22,
+    "text": "what it costs per cup",
+    "href": "/machines/atelier/worth-it"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 209,
+    "y": 2878,
+    "w": 511,
+    "h": 413,
+    "text": "",
+    "file": "media_1a775c161149ea61e50ce787b6c0adb646"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-media > span.cards-machine-badge",
+    "x": 225,
+    "y": 2894,
+    "w": 42,
+    "h": 23,
+    "text": "New"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 760,
+    "y": 2918,
+    "w": 431,
+    "h": 18,
+    "text": "The flagship"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > h3#the-atelier",
+    "x": 760,
+    "y": 2943,
+    "w": 431,
+    "h": 42,
+    "level": 3,
+    "text": "the atelier"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > p.cards-machine-desc",
+    "x": 760,
+    "y": 2998,
+    "w": 431,
+    "h": 55,
+    "text": "Smooth, clump-free proffee from fresh ingredients in a single press, built to la"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 760,
+    "y": 3076,
+    "w": 431,
+    "h": 20,
+    "text": "Blends and textures protein into coffee, no lumps"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 760,
+    "y": 3107,
+    "w": 431,
+    "h": 20,
+    "text": "Holds temperature and consistency cup after cup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 760,
+    "y": 3137,
+    "w": 431,
+    "h": 39,
+    "text": "About $1.80 a cup, and pays its way in around eleven months"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 760,
+    "y": 3200,
+    "w": 154,
+    "h": 50,
+    "text": "meet the atelier",
+    "href": "/machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 208,
+    "y": 3435,
+    "w": 1024,
+    "h": 19,
+    "text": "Is the Atelier worth it?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > h2#the-smartest-way-to-enjoy-a-great-proffee-every-day",
+    "x": 208,
+    "y": 3464,
+    "w": 1024,
+    "h": 103,
+    "level": 2,
+    "text": "the smartest way to enjoy a great proffee every day."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 208,
+    "y": 3581,
+    "w": 1024,
+    "h": 55,
+    "text": "The Atelier isn't the cheapest machine. But the fair comparison isn't another ma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 208,
+    "y": 3704,
+    "w": 237,
+    "h": 46,
+    "text": "~$8"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 208,
+    "y": 3755,
+    "w": 237,
+    "h": 18,
+    "text": "A café proffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 470,
+    "y": 3704,
+    "w": 237,
+    "h": 46,
+    "text": "~$1.80"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 470,
+    "y": 3755,
+    "w": 237,
+    "h": 35,
+    "text": "At home, with fresh beans and your own protein"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 733,
+    "y": 3704,
+    "w": 237,
+    "h": 46,
+    "text": "~11months"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 733,
+    "y": 3755,
+    "w": 237,
+    "h": 35,
+    "text": "One a day, and the Atelier pays for itself"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 995,
+    "y": 3704,
+    "w": 237,
+    "h": 46,
+    "text": "~Year five"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 995,
+    "y": 3755,
+    "w": 237,
+    "h": 35,
+    "text": "Roughly level with pods—and ahead every year after"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 208,
+    "y": 3820,
+    "w": 1024,
+    "h": 19,
+    "text": "The cheaper options ask for a compromise somewhere"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 208,
+    "y": 3853,
+    "w": 1024,
+    "h": 83,
+    "text": "Shakers and budget machines leave lumps, and pods decide your protein, your dose"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 208,
+    "y": 3949,
+    "w": 1024,
+    "h": 55,
+    "text": "As one Fréscopa Café barista puts it: \"I make proffee all day at work, and I mak"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.reveal.is-in > a",
+    "x": 208,
+    "y": 4020,
+    "w": 213,
+    "h": 22,
+    "text": "see what it costs per cup →",
+    "href": "/machines/atelier/worth-it"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#fresh-supplies-the-ritual-restocked",
+    "x": 208,
+    "y": 4193,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "fresh supplies, the ritual restocked"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 4259,
+    "w": 1024,
+    "h": 55,
+    "text": "A ritual only works if the cupboard is never bare. Fréscopa fresh supplies keep "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 387,
+    "y": 4288,
+    "w": 109,
+    "h": 22,
+    "text": "protein blends",
+    "href": "/coffee-pods"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 538,
+    "y": 4288,
+    "w": 210,
+    "h": 22,
+    "text": "plant milks and accessories",
+    "href": "/accessories"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 4327,
+    "w": 1024,
+    "h": 55,
+    "text": "Order them on their own when you want to, or set up a so everything arrives befo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 628,
+    "y": 4329,
+    "w": 135,
+    "h": 22,
+    "text": "recurring delivery",
+    "href": "/bundles"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#learn-it-in-person",
+    "x": 208,
+    "y": 4531,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "learn it in person"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 4596,
+    "w": 1024,
+    "h": 83,
+    "text": "The best way to learn proffee is hands-on, with someone who makes it every day. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 4692,
+    "w": 1024,
+    "h": 55,
+    "text": "It's relaxed, unhurried, and genuinely useful, the kind of hour that turns a new"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 208,
+    "y": 4694,
+    "w": 999,
+    "h": 50,
+    "text": "your nearest fréscopa café",
+    "href": "/locations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 290,
+    "y": 4721,
+    "w": 132,
+    "h": 22,
+    "text": "book a workshop",
+    "href": "/event-registration"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#frequently-asked-questions",
+    "x": 208,
+    "y": 4895,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "frequently asked questions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#how-much-protein-is-in-a-homemade-proffee",
+    "x": 208,
+    "y": 4976,
+    "w": 1024,
+    "h": 42,
+    "level": 3,
+    "text": "how much protein is in a homemade proffee?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 5032,
+    "w": 1024,
+    "h": 55,
+    "text": "It depends on the blend and dose you choose, which is rather the point. Because "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#can-i-make-proffee-hot-or-does-it-have-to-be-iced",
+    "x": 208,
+    "y": 5117,
+    "w": 1024,
+    "h": 42,
+    "level": 3,
+    "text": "can i make proffee hot, or does it have to be iced?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 5172,
+    "w": 1024,
+    "h": 55,
+    "text": "Both work. Iced proffee is the familiar version, but a warm proffee is lovely on"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#will-protein-make-my-coffee-taste-chalky",
+    "x": 208,
+    "y": 5257,
+    "w": 1024,
+    "h": 42,
+    "level": 3,
+    "text": "will protein make my coffee taste chalky?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 5313,
+    "w": 1024,
+    "h": 55,
+    "text": "Not when it's blended properly. Chalkiness and clumps come from stirring powder "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#is-the-atelier-worth-it-compared-to-a-café-or-pods",
+    "x": 208,
+    "y": 5397,
+    "w": 1024,
+    "h": 42,
+    "level": 3,
+    "text": "is the atelier worth it compared to a café or pods?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 5453,
+    "w": 1024,
+    "h": 83,
+    "text": "Against a daily café proffee at about $8, the Atelier at about $1.80 a cup pays "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 208,
+    "y": 5882,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 208,
+    "y": 5995,
+    "w": 362,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 457,
+    "y": 6025,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 610,
+    "y": 5842,
+    "w": 181,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 610,
+    "y": 5874,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 610,
+    "y": 5906,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 610,
+    "y": 5938,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 610,
+    "y": 5971,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 610,
+    "y": 6003,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 830,
+    "y": 5842,
+    "w": 181,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 830,
+    "y": 5874,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 830,
+    "y": 5906,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 830,
+    "y": 5938,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 830,
+    "y": 5971,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 1051,
+    "y": 5842,
+    "w": 181,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1051,
+    "y": 5874,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1051,
+    "y": 5906,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1051,
+    "y": 5938,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1051,
+    "y": 5971,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 208,
+    "y": 6138,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/proffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 272,
+    "y": 6138,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/proffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 336,
+    "y": 6138,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/proffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 690,
+    "y": 6146,
+    "w": 542,
+    "h": 24,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 95,
+    "controls": 35,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--7c29ab64--aemcoder.aem.page/proffee",
+  "at": "2026-11-13T21:23:43.231Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6218,
+  "root": "main",
+  "items": [
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 208,
+    "y": 20,
+    "w": 128,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 535,
+    "y": 22,
+    "w": 74,
+    "h": 26,
+    "text": "the atelier",
+    "href": "/machines/atelier"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 633,
+    "y": 22,
+    "w": 65,
+    "h": 26,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 722,
+    "y": 22,
+    "w": 71,
+    "h": 26,
+    "text": "beverages",
+    "href": "/beverages"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 816,
+    "y": 22,
+    "w": 32,
+    "h": 26,
+    "text": "café",
+    "href": "/cafe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "li > p > a",
+    "x": 872,
+    "y": 22,
+    "w": 53,
+    "h": 26,
+    "text": "journal",
+    "href": "/blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1124,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1168,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1212,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > picture > img",
+    "x": 0,
+    "y": 0,
+    "w": 1440,
+    "h": 1050,
+    "text": "",
+    "file": "media_1ae7b300835f4da72460fc57fdcfd83341"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p.eyebrow",
+    "x": 208,
+    "y": 370,
+    "w": 620,
+    "h": 19,
+    "text": "A morning called proffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h1#proffee-the-fréscopa-way",
+    "x": 208,
+    "y": 407,
+    "w": 620,
+    "h": 178,
+    "level": 1,
+    "text": "proffee, the fréscopa way."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 606,
+    "w": 381,
+    "h": 110,
+    "text": "Protein coffee isn't just for the gym. Warm, considered, and genuinely worth rea"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 208,
+    "y": 748,
+    "w": 165,
+    "h": 46,
+    "text": "see the atelier →",
+    "href": "/machines"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#the-rise-of-proffee",
+    "x": 208,
+    "y": 1122,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "the rise of proffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1188,
+    "w": 1024,
+    "h": 83,
+    "text": "Protein coffee has jumped the fence. What started as a gym-bag hack, a scoop of "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1284,
+    "w": 1024,
+    "h": 83,
+    "text": "Proffee doesn't belong to the gym. It belongs to the morning. Somewhere between "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1380,
+    "w": 1024,
+    "h": 83,
+    "text": "What changed is the feeling, not just the formula. High protein coffee used to b"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#why-most-protein-coffee-gets-it-wrong",
+    "x": 208,
+    "y": 1611,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "why most protein coffee gets it wrong"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1676,
+    "w": 1024,
+    "h": 83,
+    "text": "Most of the category treats protein coffee as a supplement first and a drink sec"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1772,
+    "w": 1024,
+    "h": 83,
+    "text": "Then there's the texture. Shakers and budget machines leave lumps, because blend"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 1868,
+    "w": 1024,
+    "h": 83,
+    "text": "This is where the cheaper options cost more than they seem. A pod system or a bu"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#the-fréscopa-take",
+    "x": 208,
+    "y": 2099,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "the fréscopa take"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2164,
+    "w": 1024,
+    "h": 55,
+    "text": "Great protein coffee starts with great coffee. That's the whole philosophy, and "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2233,
+    "w": 1024,
+    "h": 83,
+    "text": "That means fresh beans, real care, and a method that treats protein as an ingred"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#the-atelier-where-it-all-comes-together",
+    "x": 208,
+    "y": 2464,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "the atelier, where it all comes together"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2529,
+    "w": 1024,
+    "h": 83,
+    "text": "The Atelier is where the ritual becomes effortless. Picture it on the counter as"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2625,
+    "w": 1024,
+    "h": 55,
+    "text": "And yes, it's a premium machine, so it's fair to ask: is the Atelier worth it? T"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2694,
+    "w": 1024,
+    "h": 110,
+    "text": "A café proffee runs about $8. The same drink at home, with fresh beans and your "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 2817,
+    "w": 1024,
+    "h": 55,
+    "text": "Put simply, the Atelier isn't the cheapest machine. It's the least expensive way"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 600,
+    "y": 2847,
+    "w": 159,
+    "h": 22,
+    "text": "what it costs per cup",
+    "href": "/machines/atelier/worth-it"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-media > picture > img",
+    "x": 209,
+    "y": 2878,
+    "w": 511,
+    "h": 413,
+    "text": "",
+    "file": "media_1a775c161149ea61e50ce787b6c0adb646"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-media > span.cards-machine-badge",
+    "x": 225,
+    "y": 2894,
+    "w": 42,
+    "h": 23,
+    "text": "New"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > span.cards-machine-eyebrow",
+    "x": 760,
+    "y": 2918,
+    "w": 431,
+    "h": 18,
+    "text": "The flagship"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > h3#the-atelier",
+    "x": 760,
+    "y": 2943,
+    "w": 431,
+    "h": 42,
+    "level": 3,
+    "text": "the atelier"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "article.cards-machine-card.cards-machine-flagship > div.cards-machine-body > p.cards-machine-desc",
+    "x": 760,
+    "y": 2998,
+    "w": 431,
+    "h": 55,
+    "text": "Smooth, clump-free proffee from fresh ingredients in a single press, built to la"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 760,
+    "y": 3076,
+    "w": 431,
+    "h": 20,
+    "text": "Blends and textures protein into coffee, no lumps"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 760,
+    "y": 3107,
+    "w": 431,
+    "h": 20,
+    "text": "Holds temperature and consistency cup after cup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > ul.cards-machine-features > li",
+    "x": 760,
+    "y": 3137,
+    "w": 431,
+    "h": 39,
+    "text": "About $1.80 a cup, and pays its way in around eleven months"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-machine-body > div.cards-machine-foot > a",
+    "x": 760,
+    "y": 3200,
+    "w": 154,
+    "h": 50,
+    "text": "meet the atelier",
+    "href": "/machines"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 208,
+    "y": 3435,
+    "w": 1024,
+    "h": 19,
+    "text": "Is the Atelier worth it?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > h2#the-smartest-way-to-enjoy-a-great-proffee-every-day",
+    "x": 208,
+    "y": 3464,
+    "w": 1024,
+    "h": 103,
+    "level": 2,
+    "text": "the smartest way to enjoy a great proffee every day."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 208,
+    "y": 3581,
+    "w": 1024,
+    "h": 55,
+    "text": "The Atelier isn't the cheapest machine. But the fair comparison isn't another ma"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 208,
+    "y": 3704,
+    "w": 237,
+    "h": 46,
+    "text": "~$8"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 208,
+    "y": 3755,
+    "w": 237,
+    "h": 18,
+    "text": "A café proffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 470,
+    "y": 3704,
+    "w": 237,
+    "h": 46,
+    "text": "~$1.80"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 470,
+    "y": 3755,
+    "w": 237,
+    "h": 35,
+    "text": "At home, with fresh beans and your own protein"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 733,
+    "y": 3704,
+    "w": 237,
+    "h": 46,
+    "text": "~11months"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 733,
+    "y": 3755,
+    "w": 237,
+    "h": 35,
+    "text": "One a day, and the Atelier pays for itself"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-number > p",
+    "x": 995,
+    "y": 3704,
+    "w": 237,
+    "h": 46,
+    "text": "~Year five"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.stats-row-label > p",
+    "x": 995,
+    "y": 3755,
+    "w": 237,
+    "h": 35,
+    "text": "Roughly level with pods—and ahead every year after"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 208,
+    "y": 3820,
+    "w": 1024,
+    "h": 19,
+    "text": "The cheaper options ask for a compromise somewhere"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 208,
+    "y": 3853,
+    "w": 1024,
+    "h": 83,
+    "text": "Shakers and budget machines leave lumps, and pods decide your protein, your dose"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.stats-row-container > div.default-content-wrapper > p.reveal.is-in",
+    "x": 208,
+    "y": 3949,
+    "w": 1024,
+    "h": 55,
+    "text": "As one Fréscopa Café barista puts it: \"I make proffee all day at work, and I mak"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p.reveal.is-in > a",
+    "x": 208,
+    "y": 4020,
+    "w": 213,
+    "h": 22,
+    "text": "see what it costs per cup →",
+    "href": "/machines/atelier/worth-it"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#fresh-supplies-the-ritual-restocked",
+    "x": 208,
+    "y": 4193,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "fresh supplies, the ritual restocked"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 4259,
+    "w": 1024,
+    "h": 55,
+    "text": "A ritual only works if the cupboard is never bare. Fréscopa fresh supplies keep "
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 387,
+    "y": 4288,
+    "w": 109,
+    "h": 22,
+    "text": "protein blends",
+    "href": "/coffee-pods"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 538,
+    "y": 4288,
+    "w": 210,
+    "h": 22,
+    "text": "plant milks and accessories",
+    "href": "/accessories"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 4327,
+    "w": 1024,
+    "h": 55,
+    "text": "Order them on their own when you want to, or set up a so everything arrives befo"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 628,
+    "y": 4329,
+    "w": 135,
+    "h": 22,
+    "text": "recurring delivery",
+    "href": "/bundles"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#learn-it-in-person",
+    "x": 208,
+    "y": 4531,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "learn it in person"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 4596,
+    "w": 1024,
+    "h": 83,
+    "text": "The best way to learn proffee is hands-on, with someone who makes it every day. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 4692,
+    "w": 1024,
+    "h": 55,
+    "text": "It's relaxed, unhurried, and genuinely useful, the kind of hour that turns a new"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 208,
+    "y": 4694,
+    "w": 999,
+    "h": 50,
+    "text": "your nearest fréscopa café",
+    "href": "/locations"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 290,
+    "y": 4721,
+    "w": 132,
+    "h": 22,
+    "text": "book a workshop",
+    "href": "/event-registration"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#frequently-asked-questions",
+    "x": 208,
+    "y": 4895,
+    "w": 1024,
+    "h": 52,
+    "level": 2,
+    "text": "frequently asked questions"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#how-much-protein-is-in-a-homemade-proffee",
+    "x": 208,
+    "y": 4976,
+    "w": 1024,
+    "h": 42,
+    "level": 3,
+    "text": "how much protein is in a homemade proffee?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 5032,
+    "w": 1024,
+    "h": 55,
+    "text": "It depends on the blend and dose you choose, which is rather the point. Because "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#can-i-make-proffee-hot-or-does-it-have-to-be-iced",
+    "x": 208,
+    "y": 5117,
+    "w": 1024,
+    "h": 42,
+    "level": 3,
+    "text": "can i make proffee hot, or does it have to be iced?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 5172,
+    "w": 1024,
+    "h": 55,
+    "text": "Both work. Iced proffee is the familiar version, but a warm proffee is lovely on"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#will-protein-make-my-coffee-taste-chalky",
+    "x": 208,
+    "y": 5257,
+    "w": 1024,
+    "h": 42,
+    "level": 3,
+    "text": "will protein make my coffee taste chalky?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 5313,
+    "w": 1024,
+    "h": 55,
+    "text": "Not when it's blended properly. Chalkiness and clumps come from stirring powder "
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h3#is-the-atelier-worth-it-compared-to-a-café-or-pods",
+    "x": 208,
+    "y": 5397,
+    "w": 1024,
+    "h": 42,
+    "level": 3,
+    "text": "is the atelier worth it compared to a café or pods?"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 208,
+    "y": 5453,
+    "w": 1024,
+    "h": 83,
+    "text": "Against a daily café proffee at about $8, the Atelier at about $1.80 a cup pays "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 208,
+    "y": 5882,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 208,
+    "y": 5995,
+    "w": 362,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 457,
+    "y": 6025,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 610,
+    "y": 5842,
+    "w": 181,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 610,
+    "y": 5874,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 610,
+    "y": 5906,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 610,
+    "y": 5938,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 610,
+    "y": 5971,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 610,
+    "y": 6003,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 830,
+    "y": 5842,
+    "w": 181,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 830,
+    "y": 5874,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 830,
+    "y": 5906,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 830,
+    "y": 5938,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 830,
+    "y": 5971,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 1051,
+    "y": 5842,
+    "w": 181,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1051,
+    "y": 5874,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1051,
+    "y": 5906,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1051,
+    "y": 5938,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 1051,
+    "y": 5971,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 208,
+    "y": 6138,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/proffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 272,
+    "y": 6138,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/proffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 336,
+    "y": 6138,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/proffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 690,
+    "y": 6146,
+    "w": 542,
+    "h": 24,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 95,
+    "controls": 35,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "proffee, the fréscopa way.",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "the rise of proffee",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "why most protein coffee gets it wrong",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "the fréscopa take",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "the atelier, where it all comes together",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 6,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 6,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "the atelier",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "the smartest way to enjoy a great proffee every day.",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 12,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 12,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "fresh supplies, the ritual restocked",
+   "variable": false,
+   "origin": {
+    "link": 3,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 3,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 9,
+   "heading": "learn it in person",
+   "variable": false,
+   "origin": {
+    "link": 2,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 2,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 10,
+   "heading": "frequently asked questions",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 11,
+   "heading": "how much protein is in a homemade proffee?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 12,
+   "heading": "can i make proffee hot, or does it have to be iced?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 13,
+   "heading": "will protein make my coffee taste chalky?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 14,
+   "heading": "is the atelier worth it compared to a café or pods?",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 535,
+    "y": 25,
+    "w": 74,
+    "h": 20
+   },
+   {
+    "x": 633,
+    "y": 25,
+    "w": 65,
+    "h": 20
+   },
+   {
+    "x": 722,
+    "y": 25,
+    "w": 71,
+    "h": 20
+   },
+   {
+    "x": 816,
+    "y": 25,
+    "w": 32,
+    "h": 20
+   },
+   {
+    "x": 872,
+    "y": 25,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 371,
+    "w": 223,
+    "h": 16
+   },
+   {
+    "x": 208,
+    "y": 398,
+    "w": 483,
+    "h": 106
+   },
+   {
+    "x": 208,
+    "y": 487,
+    "w": 600,
+    "h": 106
+   },
+   {
+    "x": 208,
+    "y": 608,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 635,
+    "w": 361,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 663,
+    "w": 356,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 690,
+    "w": 345,
+    "h": 22
+   },
+   {
+    "x": 232,
+    "y": 761,
+    "w": 118,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 1119,
+    "w": 384,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 1190,
+    "w": 996,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1217,
+    "w": 1016,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1245,
+    "w": 687,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1286,
+    "w": 992,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1313,
+    "w": 1015,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1341,
+    "w": 726,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1382,
+    "w": 1012,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1409,
+    "w": 1004,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1437,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1608,
+    "w": 791,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 1678,
+    "w": 1001,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1705,
+    "w": 1011,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1733,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1774,
+    "w": 1021,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1802,
+    "w": 1006,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1829,
+    "w": 161,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1870,
+    "w": 1012,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1898,
+    "w": 957,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1925,
+    "w": 202,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2096,
+    "w": 388,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 2166,
+    "w": 969,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2194,
+    "w": 982,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2235,
+    "w": 1016,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2262,
+    "w": 997,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2290,
+    "w": 300,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2461,
+    "w": 817,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 2531,
+    "w": 1016,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2558,
+    "w": 1024,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2586,
+    "w": 857,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2627,
+    "w": 964,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2654,
+    "w": 812,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2696,
+    "w": 1010,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2723,
+    "w": 1023,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2751,
+    "w": 1016,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2778,
+    "w": 560,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2819,
+    "w": 1006,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2847,
+    "w": 392,
+    "h": 22
+   },
+   {
+    "x": 600,
+    "y": 2847,
+    "w": 159,
+    "h": 22
+   },
+   {
+    "x": 759,
+    "y": 2847,
+    "w": 268,
+    "h": 22
+   },
+   {
+    "x": 232,
+    "y": 2898,
+    "w": 27,
+    "h": 14
+   },
+   {
+    "x": 760,
+    "y": 2919,
+    "w": 87,
+    "h": 14
+   },
+   {
+    "x": 760,
+    "y": 2941,
+    "w": 196,
+    "h": 45
+   },
+   {
+    "x": 760,
+    "y": 3000,
+    "w": 411,
+    "h": 22
+   },
+   {
+    "x": 760,
+    "y": 3028,
+    "w": 187,
+    "h": 22
+   },
+   {
+    "x": 787,
+    "y": 3074,
+    "w": 371,
+    "h": 22
+   },
+   {
+    "x": 787,
+    "y": 3105,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 787,
+    "y": 3135,
+    "w": 403,
+    "h": 22
+   },
+   {
+    "x": 787,
+    "y": 3155,
+    "w": 56,
+    "h": 22
+   },
+   {
+    "x": 783,
+    "y": 3215,
+    "w": 109,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 3436,
+    "w": 205,
+    "h": 16
+   },
+   {
+    "x": 208,
+    "y": 3461,
+    "w": 999,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 3512,
+    "w": 87,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 3583,
+    "w": 964,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3610,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3698,
+    "w": 85,
+    "h": 57
+   },
+   {
+    "x": 208,
+    "y": 3756,
+    "w": 103,
+    "h": 14
+   },
+   {
+    "x": 470,
+    "y": 3698,
+    "w": 146,
+    "h": 57
+   },
+   {
+    "x": 470,
+    "y": 3756,
+    "w": 212,
+    "h": 14
+   },
+   {
+    "x": 470,
+    "y": 3774,
+    "w": 123,
+    "h": 14
+   },
+   {
+    "x": 733,
+    "y": 3698,
+    "w": 234,
+    "h": 57
+   },
+   {
+    "x": 733,
+    "y": 3756,
+    "w": 213,
+    "h": 14
+   },
+   {
+    "x": 733,
+    "y": 3774,
+    "w": 69,
+    "h": 14
+   },
+   {
+    "x": 995,
+    "y": 3698,
+    "w": 216,
+    "h": 57
+   },
+   {
+    "x": 995,
+    "y": 3756,
+    "w": 210,
+    "h": 14
+   },
+   {
+    "x": 995,
+    "y": 3774,
+    "w": 163,
+    "h": 14
+   },
+   {
+    "x": 208,
+    "y": 3821,
+    "w": 470,
+    "h": 16
+   },
+   {
+    "x": 208,
+    "y": 3855,
+    "w": 972,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3882,
+    "w": 988,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3910,
+    "w": 668,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3951,
+    "w": 1024,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3979,
+    "w": 162,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4020,
+    "w": 213,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4190,
+    "w": 736,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 4261,
+    "w": 1007,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4288,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 387,
+    "y": 4288,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 496,
+    "y": 4288,
+    "w": 41,
+    "h": 22
+   },
+   {
+    "x": 538,
+    "y": 4288,
+    "w": 210,
+    "h": 22
+   },
+   {
+    "x": 747,
+    "y": 4288,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4329,
+    "w": 420,
+    "h": 22
+   },
+   {
+    "x": 628,
+    "y": 4329,
+    "w": 135,
+    "h": 22
+   },
+   {
+    "x": 763,
+    "y": 4329,
+    "w": 459,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4357,
+    "w": 797,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4528,
+    "w": 362,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 4598,
+    "w": 996,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4625,
+    "w": 1022,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4653,
+    "w": 29,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4694,
+    "w": 828,
+    "h": 22
+   },
+   {
+    "x": 1036,
+    "y": 4694,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4721,
+    "w": 36,
+    "h": 22
+   },
+   {
+    "x": 244,
+    "y": 4721,
+    "w": 47,
+    "h": 22
+   },
+   {
+    "x": 290,
+    "y": 4721,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 422,
+    "y": 4721,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4892,
+    "w": 581,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 4974,
+    "w": 772,
+    "h": 45
+   },
+   {
+    "x": 208,
+    "y": 5034,
+    "w": 1017,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5062,
+    "w": 662,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5115,
+    "w": 853,
+    "h": 45
+   },
+   {
+    "x": 208,
+    "y": 5174,
+    "w": 1019,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5202,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5255,
+    "w": 717,
+    "h": 45
+   },
+   {
+    "x": 208,
+    "y": 5315,
+    "w": 999,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5342,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5395,
+    "w": 856,
+    "h": 45
+   },
+   {
+    "x": 208,
+    "y": 5455,
+    "w": 977,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5483,
+    "w": 1010,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5510,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5884,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 5909,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 5933,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 5997,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 477,
+    "y": 6039,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 610,
+    "y": 5841,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 610,
+    "y": 5874,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 610,
+    "y": 5906,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 610,
+    "y": 5938,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 610,
+    "y": 5971,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 610,
+    "y": 6003,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 830,
+    "y": 5841,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 830,
+    "y": 5874,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 830,
+    "y": 5906,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 830,
+    "y": 5938,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 830,
+    "y": 5971,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 1051,
+    "y": 5841,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 1051,
+    "y": 5874,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 1051,
+    "y": 5906,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 1051,
+    "y": 5938,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 1051,
+    "y": 5971,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 690,
+    "y": 6148,
+    "w": 542,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 535,
+    "y": 25,
+    "w": 74,
+    "h": 20
+   },
+   {
+    "x": 633,
+    "y": 25,
+    "w": 65,
+    "h": 20
+   },
+   {
+    "x": 722,
+    "y": 25,
+    "w": 71,
+    "h": 20
+   },
+   {
+    "x": 816,
+    "y": 25,
+    "w": 32,
+    "h": 20
+   },
+   {
+    "x": 872,
+    "y": 25,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 371,
+    "w": 223,
+    "h": 16
+   },
+   {
+    "x": 208,
+    "y": 398,
+    "w": 483,
+    "h": 106
+   },
+   {
+    "x": 208,
+    "y": 487,
+    "w": 600,
+    "h": 106
+   },
+   {
+    "x": 208,
+    "y": 608,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 635,
+    "w": 361,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 663,
+    "w": 356,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 690,
+    "w": 345,
+    "h": 22
+   },
+   {
+    "x": 232,
+    "y": 761,
+    "w": 118,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 1119,
+    "w": 384,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 1190,
+    "w": 996,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1217,
+    "w": 1016,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1245,
+    "w": 687,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1286,
+    "w": 992,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1313,
+    "w": 1015,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1341,
+    "w": 726,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1382,
+    "w": 1012,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1409,
+    "w": 1004,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1437,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1608,
+    "w": 791,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 1678,
+    "w": 1001,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1705,
+    "w": 1011,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1733,
+    "w": 105,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1774,
+    "w": 1021,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1802,
+    "w": 1006,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1829,
+    "w": 161,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1870,
+    "w": 1012,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1898,
+    "w": 957,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 1925,
+    "w": 202,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2096,
+    "w": 388,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 2166,
+    "w": 969,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2194,
+    "w": 982,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2235,
+    "w": 1016,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2262,
+    "w": 997,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2290,
+    "w": 300,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2461,
+    "w": 817,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 2531,
+    "w": 1016,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2558,
+    "w": 1024,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2586,
+    "w": 857,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2627,
+    "w": 964,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2654,
+    "w": 812,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2696,
+    "w": 1010,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2723,
+    "w": 1023,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2751,
+    "w": 1016,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2778,
+    "w": 560,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2819,
+    "w": 1006,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 2847,
+    "w": 392,
+    "h": 22
+   },
+   {
+    "x": 600,
+    "y": 2847,
+    "w": 159,
+    "h": 22
+   },
+   {
+    "x": 759,
+    "y": 2847,
+    "w": 268,
+    "h": 22
+   },
+   {
+    "x": 232,
+    "y": 2898,
+    "w": 27,
+    "h": 14
+   },
+   {
+    "x": 760,
+    "y": 2919,
+    "w": 87,
+    "h": 14
+   },
+   {
+    "x": 760,
+    "y": 2941,
+    "w": 196,
+    "h": 45
+   },
+   {
+    "x": 760,
+    "y": 3000,
+    "w": 411,
+    "h": 22
+   },
+   {
+    "x": 760,
+    "y": 3028,
+    "w": 187,
+    "h": 22
+   },
+   {
+    "x": 787,
+    "y": 3074,
+    "w": 371,
+    "h": 22
+   },
+   {
+    "x": 787,
+    "y": 3105,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 787,
+    "y": 3135,
+    "w": 403,
+    "h": 22
+   },
+   {
+    "x": 787,
+    "y": 3155,
+    "w": 56,
+    "h": 22
+   },
+   {
+    "x": 783,
+    "y": 3215,
+    "w": 109,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 3436,
+    "w": 205,
+    "h": 16
+   },
+   {
+    "x": 208,
+    "y": 3461,
+    "w": 999,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 3512,
+    "w": 87,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 3583,
+    "w": 964,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3610,
+    "w": 376,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3698,
+    "w": 85,
+    "h": 57
+   },
+   {
+    "x": 208,
+    "y": 3756,
+    "w": 103,
+    "h": 14
+   },
+   {
+    "x": 470,
+    "y": 3698,
+    "w": 146,
+    "h": 57
+   },
+   {
+    "x": 470,
+    "y": 3756,
+    "w": 212,
+    "h": 14
+   },
+   {
+    "x": 470,
+    "y": 3774,
+    "w": 123,
+    "h": 14
+   },
+   {
+    "x": 733,
+    "y": 3698,
+    "w": 234,
+    "h": 57
+   },
+   {
+    "x": 733,
+    "y": 3756,
+    "w": 213,
+    "h": 14
+   },
+   {
+    "x": 733,
+    "y": 3774,
+    "w": 69,
+    "h": 14
+   },
+   {
+    "x": 995,
+    "y": 3698,
+    "w": 216,
+    "h": 57
+   },
+   {
+    "x": 995,
+    "y": 3756,
+    "w": 210,
+    "h": 14
+   },
+   {
+    "x": 995,
+    "y": 3774,
+    "w": 163,
+    "h": 14
+   },
+   {
+    "x": 208,
+    "y": 3821,
+    "w": 470,
+    "h": 16
+   },
+   {
+    "x": 208,
+    "y": 3855,
+    "w": 972,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3882,
+    "w": 988,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3910,
+    "w": 668,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3951,
+    "w": 1024,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 3979,
+    "w": 162,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4020,
+    "w": 213,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4190,
+    "w": 736,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 4261,
+    "w": 1007,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4288,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 387,
+    "y": 4288,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 496,
+    "y": 4288,
+    "w": 41,
+    "h": 22
+   },
+   {
+    "x": 538,
+    "y": 4288,
+    "w": 210,
+    "h": 22
+   },
+   {
+    "x": 747,
+    "y": 4288,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4329,
+    "w": 420,
+    "h": 22
+   },
+   {
+    "x": 628,
+    "y": 4329,
+    "w": 135,
+    "h": 22
+   },
+   {
+    "x": 763,
+    "y": 4329,
+    "w": 459,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4357,
+    "w": 797,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4528,
+    "w": 362,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 4598,
+    "w": 996,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4625,
+    "w": 1022,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4653,
+    "w": 29,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4694,
+    "w": 828,
+    "h": 22
+   },
+   {
+    "x": 1036,
+    "y": 4694,
+    "w": 171,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4721,
+    "w": 36,
+    "h": 22
+   },
+   {
+    "x": 244,
+    "y": 4721,
+    "w": 47,
+    "h": 22
+   },
+   {
+    "x": 290,
+    "y": 4721,
+    "w": 132,
+    "h": 22
+   },
+   {
+    "x": 422,
+    "y": 4721,
+    "w": 242,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 4892,
+    "w": 581,
+    "h": 56
+   },
+   {
+    "x": 208,
+    "y": 4974,
+    "w": 772,
+    "h": 45
+   },
+   {
+    "x": 208,
+    "y": 5034,
+    "w": 1017,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5062,
+    "w": 662,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5115,
+    "w": 853,
+    "h": 45
+   },
+   {
+    "x": 208,
+    "y": 5174,
+    "w": 1019,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5202,
+    "w": 247,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5255,
+    "w": 717,
+    "h": 45
+   },
+   {
+    "x": 208,
+    "y": 5315,
+    "w": 999,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5342,
+    "w": 309,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5395,
+    "w": 856,
+    "h": 45
+   },
+   {
+    "x": 208,
+    "y": 5455,
+    "w": 977,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5483,
+    "w": 1010,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5510,
+    "w": 266,
+    "h": 22
+   },
+   {
+    "x": 208,
+    "y": 5884,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 5909,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 5933,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 208,
+    "y": 5997,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 477,
+    "y": 6039,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 610,
+    "y": 5841,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 610,
+    "y": 5874,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 610,
+    "y": 5906,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 610,
+    "y": 5938,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 610,
+    "y": 5971,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 610,
+    "y": 6003,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 830,
+    "y": 5841,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 830,
+    "y": 5874,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 830,
+    "y": 5906,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 830,
+    "y": 5938,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 830,
+    "y": 5971,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 1051,
+    "y": 5841,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 1051,
+    "y": 5874,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 1051,
+    "y": 5906,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 1051,
+    "y": 5938,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 1051,
+    "y": 5971,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 690,
+    "y": 6148,
+    "w": 542,
+    "h": 20
+   }
+  ]
+ }
+}

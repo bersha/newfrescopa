@@ -1,0 +1,11 @@
+[live-session] waiting to pace live navigations to new.frescopa.coffee (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 937 ms
+content-presence @ 360px (chrome) — origin https://new.frescopa.coffee/of1 (docH 2302, 32 items, HTTP 200) vs served https://main--7c29ab64--aemcoder.aem.page/of1 (docH 2302, 32 items, HTTP 200)
+scope: main vs main (header/footer left to the chrome crop gate; --chrome to include)
+| band | heading | links O/E (+hidden) | buttons O/E (+hidden) | text O/E | images O/E | findings |
+|---|---|---|---|---|---|---|
+| 0 | (top) | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 1 | what can we help you find? | 0/0 | 1/1 | 1/1 | 0/0 | - |
+Content: MISSING 0 (headings 0, links 0) / HIDDEN 0 (headings 0, links 0) / control-state 0 / buttons missing 0 hidden 0 / moved 0 extra 0 / count deltas 0
+Findings: none — every visible origin heading and link is visible on the served page
+Clipped (served side): 0 — origin side 0
+json → stardust/replica/gates/of1-360/content-presence-pub1.json

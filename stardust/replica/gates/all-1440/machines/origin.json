@@ -1,0 +1,9 @@
+{
+  "instrument": "stitch-live",
+  "url": "https://new.frescopa.coffee/machines",
+  "log": [
+    "stitched stardust/replica/gates/all-1440/machines/origin.png: 1440x4294 from 5 chunks"
+  ],
+  "fontsFailed": [],
+  "at": "2026-11-13T20:51:58.953Z"
+}

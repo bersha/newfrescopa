@@ -1,0 +1,1362 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-13T19:15:15.810Z",
+    "stardustVersion": "0.38.3",
+    "sources": [
+      "https://new.frescopa.coffee/styles/brand.css",
+      "stardust/current/_computed-styles.json"
+    ]
+  },
+  "name": "Fréscopa (current state)",
+  "colors": {
+    "burgundy": "oklch(34% 0.093 25deg)",
+    "burgundy-deep": "oklch(27.5% 0.082 26deg)",
+    "terracotta": "oklch(60.5% 0.116 44deg)",
+    "terracotta-deep": "oklch(51.5% 0.108 40deg)",
+    "terracotta-fill": "oklch(60.5% 0.116 44deg / 22%)",
+    "amber": "oklch(79% 0.128 74deg)",
+    "amber-soft": "oklch(86.5% 0.083 80deg)",
+    "teal": "oklch(55% 0.05 205deg)",
+    "paper": "oklch(97% 0.010 82deg)",
+    "paper-2": "oklch(94.8% 0.015 78deg)",
+    "paper-3": "oklch(91.8% 0.020 74deg)",
+    "sand": "oklch(88.4% 0.025 71deg)",
+    "line": "oklch(85.5% 0.018 68deg)",
+    "ink": "oklch(26.2% 0.021 52deg)",
+    "ink-soft": "oklch(43% 0.022 52deg)",
+    "charcoal": "oklch(22.2% 0.016 52deg)",
+    "charcoal-2": "oklch(28.2% 0.020 50deg)",
+    "line-dark": "oklch(40% 0.020 55deg)",
+    "cream": "oklch(94.5% 0.016 80deg)",
+    "cream-soft": "oklch(79.5% 0.021 78deg)"
+  },
+  "typography": {
+    "display": "\"Schibsted Grotesk\", system-ui, sans-serif",
+    "body": "\"Hanken Grotesk\", system-ui, sans-serif",
+    "sizes": {
+      "fs-eyebrow": "0.75rem",
+      "fs-sm": "0.9375rem",
+      "fs-body": "1.0625rem",
+      "fs-body-lg": "clamp(1.125rem, 0.98rem + 0.5vw, 1.3125rem)",
+      "fs-h4": "clamp(1.25rem, 1.08rem + 0.7vw, 1.6rem)",
+      "fs-h3": "clamp(1.6rem, 1.25rem + 1.4vw, 2.3rem)",
+      "fs-h2": "clamp(1.8rem, 1.3rem + 2vw, 2.8rem)",
+      "fs-h1": "clamp(2.9rem, 1.7rem + 4.6vw, 5.4rem)",
+      "fs-display": "clamp(3.4rem, 1.1rem + 8.4vw, 8rem)"
+    },
+    "lineHeights": {
+      "lh-tight": "1.03",
+      "lh-snug": "1.15",
+      "lh-body": "1.62"
+    },
+    "tracking": {
+      "tracking-eyebrow": "0.2em",
+      "tracking-tight": "-0.02em"
+    }
+  },
+  "rounded": {
+    "r-sm": "8px",
+    "r-md": "14px",
+    "r-lg": "22px",
+    "r-xl": "32px",
+    "r-pill": "999px"
+  },
+  "spacing": {
+    "space-3xs": "0.25rem",
+    "space-2xs": "0.5rem",
+    "space-xs": "0.75rem",
+    "space-sm": "1rem",
+    "space-md": "1.5rem",
+    "space-lg": "2.5rem",
+    "space-xl": "4rem",
+    "space-2xl": "6rem",
+    "section-y": "72px",
+    "section-padding": "72px",
+    "content": "1120px",
+    "content-wide": "1320px",
+    "content-narrow": "760px",
+    "gutter": "clamp(1.25rem, 0.4rem + 3vw, 3rem)",
+    "nav-height": "72px"
+  },
+  "components": {
+    "button": "pill (999px) terracotta fill / outline; see blocks + styles.css .button",
+    "card": "radius 22px, shadow-md, paper surface"
+  },
+  "extensions": {
+    "shadows": {
+      "shadow-sm": "0 1px 2px oklch(30% 0.03 50deg / 6%), 0 2px 8px oklch(30% 0.03 50deg / 5%)",
+      "shadow-md": "0 4px 14px oklch(30% 0.03 50deg / 7%), 0 14px 34px oklch(30% 0.03 50deg / 8%)",
+      "shadow-lg": "0 14px 34px oklch(26% 0.03 50deg / 10%), 0 34px 80px oklch(26% 0.03 50deg / 13%)"
+    },
+    "motion": {
+      "ease-quint": "cubic-bezier(0.22, 1, 0.36, 1)",
+      "ease-expo": "cubic-bezier(0.16, 1, 0.3, 1)",
+      "dur-1": "0.35s",
+      "dur-2": "0.6s",
+      "dur-3": "0.9s"
+    },
+    "platform": "Source is itself AEM Edge Delivery Services (aem.js, block-based .plain.html content).",
+    "fonts": [
+      {
+        "family": "Schibsted Grotesk",
+        "role": "display/headings",
+        "license": "OFL (Google Fonts)",
+        "files": "stardust/current/assets/fonts/"
+      },
+      {
+        "family": "Hanken Grotesk",
+        "role": "body",
+        "license": "OFL (Google Fonts)",
+        "files": "stardust/current/assets/fonts/"
+      }
+    ],
+    "sectionStyles": [
+      "alt",
+      "dark"
+    ],
+    "modules": [
+      {
+        "id": "hero",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".hero"
+          },
+          {
+            "slug": "beverages",
+            "selector": ".hero"
+          },
+          {
+            "slug": "cafe",
+            "selector": ".hero"
+          },
+          {
+            "slug": "proffee-jp",
+            "selector": ".hero"
+          },
+          {
+            "slug": "proffee",
+            "selector": ".hero"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "intro",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".intro"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "columns",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".columns"
+          },
+          {
+            "slug": "beverages",
+            "selector": ".columns"
+          },
+          {
+            "slug": "cafe",
+            "selector": ".columns"
+          },
+          {
+            "slug": "proffee-jp",
+            "selector": ".columns"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "learn",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".learn"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "taste-profile",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".taste-profile"
+          },
+          {
+            "slug": "machines-atelier",
+            "selector": ".taste-profile"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "mood",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".mood"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "mood-calendar",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".mood-calendar"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "feed",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".feed"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "cards-product",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".cards-product"
+          },
+          {
+            "slug": "machines-atelier",
+            "selector": ".cards-product"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "sustain",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".sustain"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "voices",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".voices"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "cards-quote",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "index",
+            "selector": ".cards-quote"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "cards-featured",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "blog",
+            "selector": ".cards-featured"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "cards-article",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "blog",
+            "selector": ".cards-article"
+          },
+          {
+            "slug": "blog-atelier-taste",
+            "selector": ".cards-article"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "cards-reasons",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "cafe",
+            "selector": ".cards-reasons"
+          },
+          {
+            "slug": "japan",
+            "selector": ".cards-reasons"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "cards-event",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "cafe",
+            "selector": ".cards-event"
+          },
+          {
+            "slug": "japan",
+            "selector": ".cards-event"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "stats-row",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "cafe",
+            "selector": ".stats-row"
+          },
+          {
+            "slug": "proffee-jp",
+            "selector": ".stats-row"
+          },
+          {
+            "slug": "proffee",
+            "selector": ".stats-row"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "store-locator",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "cafe",
+            "selector": ".store-locator"
+          },
+          {
+            "slug": "japan",
+            "selector": ".store-locator"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "booking-form",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "cafe",
+            "selector": ".booking-form"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "machine-filter",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "machines",
+            "selector": ".machine-filter"
+          },
+          {
+            "slug": "beverages-coffee",
+            "selector": ".machine-filter"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "cards-machine",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "machines",
+            "selector": ".cards-machine"
+          },
+          {
+            "slug": "proffee",
+            "selector": ".cards-machine"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "account-signin",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "myatelier",
+            "selector": ".account-signin"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "hero-media",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "japan",
+            "selector": ".hero-media"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "columns-editorial",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "japan",
+            "selector": ".columns-editorial"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "of1",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "of1",
+            "selector": ".of1"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "text",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "proffee",
+            "selector": ".text"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "cards-coffee",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "beverages-coffee",
+            "selector": ".cards-coffee"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "article-byline",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "blog-atelier-taste",
+            "selector": ".article-byline"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "article-share",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "blog-atelier-taste",
+            "selector": ".article-share"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "product-hero",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "machines-atelier",
+            "selector": ".product-hero"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "product-jumpnav",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "machines-atelier",
+            "selector": ".product-jumpnav"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "steps-tabs",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "machines-atelier",
+            "selector": ".steps-tabs"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "media-video",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "machines-atelier",
+            "selector": ".media-video"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "accordion",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "machines-atelier",
+            "selector": ".accordion"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "spec-table",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "machines-atelier",
+            "selector": ".spec-table"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "reviews",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "machines-atelier",
+            "selector": ".reviews"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      },
+      {
+        "id": "bundle-cards",
+        "slots": [],
+        "instances": [
+          {
+            "slug": "machines-atelier",
+            "selector": ".bundle-cards"
+          }
+        ],
+        "status": "candidate",
+        "signal": "EDS block class in source .plain.html (structured, highest confidence)"
+      }
+    ],
+    "componentStyle": [],
+    "motifs": [
+      "warm paper backgrounds",
+      "terracotta pill CTAs",
+      "eyebrow labels uppercase 0.2em tracking",
+      "rounded 22px cards with soft warm shadows"
+    ],
+    "voice": [],
+    "breakpoints": {
+      "containerMaxWidth": "1120px",
+      "probeWidth": 2560,
+      "shellMaxWidth": "1120px",
+      "caps": [
+        {
+          "kind": "shell",
+          "px": 1120,
+          "via": "max-width",
+          "selector": "body.appear > main > div.section > div.default-content-wrapper",
+          "pages": [
+            "https://new.frescopa.coffee/of1/knowledge/machines"
+          ]
+        },
+        {
+          "kind": "shell",
+          "px": 760,
+          "via": "max-width",
+          "selector": "div.of1-wrapper > div.of1.block > div.of1-search-ui > div.of1-search-content",
+          "pages": [
+            "https://new.frescopa.coffee/of1"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 1120,
+          "via": "max-width",
+          "selector": "div.section.hero-container > div.hero-wrapper > div.hero.block > div",
+          "pages": [
+            "https://new.frescopa.coffee/",
+            "https://new.frescopa.coffee/cafe",
+            "https://new.frescopa.coffee/machines",
+            "https://new.frescopa.coffee/blog/atelier-taste",
+            "https://new.frescopa.coffee/machines/atelier",
+            "https://new.frescopa.coffee/myatelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 960,
+          "via": "max-width",
+          "selector": "div.dark.section > div.media-video-wrapper > div.media-video.block > div.media-video-stage",
+          "pages": [
+            "https://new.frescopa.coffee/machines/atelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 900,
+          "via": "max-width",
+          "selector": "main > div.voices.section > div.default-content-wrapper > blockquote",
+          "pages": [
+            "https://new.frescopa.coffee/"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 849,
+          "via": "max-width",
+          "selector": "main > div.dark.section > div.default-content-wrapper > p",
+          "pages": [
+            "https://new.frescopa.coffee/",
+            "https://new.frescopa.coffee/machines/atelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 802,
+          "via": "fixed",
+          "selector": "div.cards-machine-companions > div.cards-machine-grid > article.cards-machine-card.cards-machine-companion > div.cards-machine-body",
+          "pages": [
+            "https://new.frescopa.coffee/machines"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 760,
+          "via": "max-width",
+          "selector": "div.hero-wrapper > div.hero.block > div > div",
+          "pages": [
+            "https://new.frescopa.coffee/cafe",
+            "https://new.frescopa.coffee/machines/atelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 680,
+          "via": "max-width",
+          "selector": "main > div.section.article-byline-container > div.article-header > div.default-content-wrapper",
+          "pages": [
+            "https://new.frescopa.coffee/blog/atelier-taste"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 620,
+          "via": "max-width",
+          "selector": "div.hero-wrapper > div.hero.block > div > div",
+          "pages": [
+            "https://new.frescopa.coffee/",
+            "https://new.frescopa.coffee/cafe",
+            "https://new.frescopa.coffee/of1"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 559,
+          "via": "fixed",
+          "selector": "div.section.article-byline-container > div.default-content-wrapper > blockquote > p",
+          "pages": [
+            "https://new.frescopa.coffee/blog/atelier-taste",
+            "https://new.frescopa.coffee/machines/atelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 494,
+          "via": "fixed",
+          "selector": "div.mood.section > div.mood-calendar-wrapper > div.mood-calendar.block > div.mood-calendar-copy",
+          "pages": [
+            "https://new.frescopa.coffee/",
+            "https://new.frescopa.coffee/cafe",
+            "https://new.frescopa.coffee/machines",
+            "https://new.frescopa.coffee/myatelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 472,
+          "via": "fixed",
+          "selector": "div.learn.section > div.taste-profile-wrapper > div.taste-profile.block > div.taste-profile-copy",
+          "pages": [
+            "https://new.frescopa.coffee/",
+            "https://new.frescopa.coffee/cafe",
+            "https://new.frescopa.coffee/machines",
+            "https://new.frescopa.coffee/machines/atelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 443,
+          "via": "fixed",
+          "selector": "div > div > h2 > em",
+          "pages": [
+            "https://new.frescopa.coffee/",
+            "https://new.frescopa.coffee/blog/atelier-taste",
+            "https://new.frescopa.coffee/machines/atelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 416,
+          "via": "max-width",
+          "selector": "div.section.account-signin-container > div.account-signin-wrapper > div.account-signin.block > form.account-signin-form",
+          "pages": [
+            "https://new.frescopa.coffee/myatelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 381,
+          "via": "max-width",
+          "selector": "div.hero.block > div > div > p",
+          "pages": [
+            "https://new.frescopa.coffee/",
+            "https://new.frescopa.coffee/cafe",
+            "https://new.frescopa.coffee/myatelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 352,
+          "via": "max-width",
+          "selector": "div.taste-profile-viz > div.taste-profile-frame > div.taste-profile-readout > p",
+          "pages": [
+            "https://new.frescopa.coffee/",
+            "https://new.frescopa.coffee/machines/atelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 322,
+          "via": "fixed",
+          "selector": "div.cards-product-wrapper > div.cards-product.block > ul > li",
+          "pages": [
+            "https://new.frescopa.coffee/",
+            "https://new.frescopa.coffee/cafe",
+            "https://new.frescopa.coffee/blog/atelier-taste",
+            "https://new.frescopa.coffee/machines/atelier"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 282,
+          "via": "fixed",
+          "selector": "div > ul > li > span",
+          "pages": [
+            "https://new.frescopa.coffee/cafe",
+            "https://new.frescopa.coffee/machines/atelier",
+            "https://new.frescopa.coffee/of1"
+          ]
+        },
+        {
+          "kind": "module",
+          "px": 254,
+          "via": "fixed",
+          "selector": "div.article-byline-wrapper > div.article-byline.block > div.article-byline-inner > div.article-byline-body",
+          "pages": [
+            "https://new.frescopa.coffee/blog/atelier-taste",
+            "https://new.frescopa.coffee/machines/atelier"
+          ]
+        }
+      ],
+      "modules": [
+        {
+          "url": "https://new.frescopa.coffee/",
+          "section": 0,
+          "selector": "body.appear > main > div.section.hero-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/",
+          "section": 1,
+          "selector": "body.appear > main > div.intro.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/",
+          "section": 2,
+          "selector": "body.appear > main > div.learn.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/",
+          "section": 3,
+          "selector": "body.appear > main > div.mood.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/",
+          "section": 4,
+          "selector": "body.appear > main > div.feed.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/",
+          "section": 5,
+          "selector": "body.appear > main > div.sustain.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/",
+          "section": 6,
+          "selector": "body.appear > main > div.voices.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/",
+          "section": 7,
+          "selector": "body.appear > main > div.section.hero-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/",
+          "section": 8,
+          "selector": "body.appear > main > div.dark.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/cafe",
+          "section": 0,
+          "selector": "body.appear > main > div.section.hero-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/cafe",
+          "section": 1,
+          "selector": "body.appear > main > div.section.cards-reasons-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/cafe",
+          "section": 2,
+          "selector": "body.appear > main > div.alt.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/cafe",
+          "section": 3,
+          "selector": "body.appear > main > div.section.cards-event-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/cafe",
+          "section": 4,
+          "selector": "body.appear > main > div.alt.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/cafe",
+          "section": 5,
+          "selector": "body.appear > main > div.section.booking-form-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/cafe",
+          "section": 6,
+          "selector": "body.appear > main > div.dark.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines",
+          "section": 0,
+          "selector": "body.appear > main > div.alt.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines",
+          "section": 1,
+          "selector": "body.appear > main > div.alt.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines",
+          "section": 2,
+          "selector": "body.appear > main > div.section.cards-machine-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines",
+          "section": 3,
+          "selector": "body.appear > main > div.alt.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines",
+          "section": 4,
+          "selector": "body.appear > main > div.section.cards-machine-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines",
+          "section": 5,
+          "selector": "body.appear > main > div.alt.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/blog/atelier-taste",
+          "section": 0,
+          "selector": "body.appear > main > div.section.article-byline-container > div.article-header",
+          "px": 680
+        },
+        {
+          "url": "https://new.frescopa.coffee/blog/atelier-taste",
+          "section": 1,
+          "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+          "px": 680
+        },
+        {
+          "url": "https://new.frescopa.coffee/blog/atelier-taste",
+          "section": 2,
+          "selector": "body.appear > main > div.section.article-byline-container > div.article-share-wrapper",
+          "px": 680
+        },
+        {
+          "url": "https://new.frescopa.coffee/blog/atelier-taste",
+          "section": 3,
+          "selector": "body.appear > main > div.section.article-byline-container > div.article-byline-wrapper",
+          "px": 680
+        },
+        {
+          "url": "https://new.frescopa.coffee/blog/atelier-taste",
+          "section": 4,
+          "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/blog/atelier-taste",
+          "section": 5,
+          "selector": "body.appear > main > div.section.article-byline-container > div.cards-article-wrapper",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/blog/atelier-taste",
+          "section": 6,
+          "selector": "body.appear > main > div.section.article-byline-container > div.default-content-wrapper",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 0,
+          "selector": "body.appear > main > div.section.product-hero-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 1,
+          "selector": "body.appear > main > div.section.product-jumpnav-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 2,
+          "selector": "body.appear > main > div.alt.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 3,
+          "selector": "body.appear > main > div.dark.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 4,
+          "selector": "body.appear > main > div.section.accordion-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 5,
+          "selector": "body.appear > main > div.alt.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 6,
+          "selector": "body.appear > main > div.section.taste-profile-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 7,
+          "selector": "body.appear > main > div.alt.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 8,
+          "selector": "body.appear > main > div.section.accordion-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 9,
+          "selector": "body.appear > main > div.alt.section",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 10,
+          "selector": "body.appear > main > div.section.cards-product-container",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/machines/atelier",
+          "section": 11,
+          "selector": "body.appear > main > div.section",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/myatelier",
+          "section": 0,
+          "selector": "body.appear > main > div.section.account-signin-container > div.default-content-wrapper",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/myatelier",
+          "section": 1,
+          "selector": "body.appear > main > div.section.account-signin-container > div.account-signin-wrapper",
+          "px": 1120
+        },
+        {
+          "url": "https://new.frescopa.coffee/myatelier",
+          "section": 2,
+          "selector": "body.appear > main > div.section.account-signin-container > div.default-content-wrapper",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1",
+          "section": 0,
+          "selector": "body.appear > main > div.section",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1",
+          "section": 1,
+          "selector": "body.appear > main > div.section.of1-container",
+          "px": 640
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 0,
+          "selector": "#made-in-the-workshop",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 1,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 2,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 3,
+          "selector": "#the-thinking-machines",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 4,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 5,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 6,
+          "selector": "#the-atelier",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 7,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 8,
+          "selector": "main > div.section > div.default-content-wrapper > ul",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 9,
+          "selector": "#the-atelier-mini",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 10,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 11,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 12,
+          "selector": "#for-the-hands-on-ritual",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 13,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 14,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 15,
+          "selector": "#the-barista",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 16,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 17,
+          "selector": "#the-everyday",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 18,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 19,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 20,
+          "selector": "#slow-and-even",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 21,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 22,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 23,
+          "selector": "#the-slow-pour",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 24,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 25,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 26,
+          "selector": "#ready-by-morning",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 27,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 28,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 29,
+          "selector": "#the-carafe",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 30,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 31,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 32,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 33,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        },
+        {
+          "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+          "section": 34,
+          "selector": "main > div.section > div.default-content-wrapper > p",
+          "px": null
+        }
+      ],
+      "capRegister": [
+        "contentMaxWidth differs between archetypes: 1120 (https://new.frescopa.coffee/), 1120 (https://new.frescopa.coffee/cafe), 1120 (https://new.frescopa.coffee/machines), 680 (https://new.frescopa.coffee/blog/atelier-taste), 1120 (https://new.frescopa.coffee/machines/atelier), 1120 (https://new.frescopa.coffee/myatelier), 760 (https://new.frescopa.coffee/of1), 1120 (https://new.frescopa.coffee/of1/knowledge/machines) — decide per template in the inconsistency register",
+        "shellMaxWidth differs between archetypes: fluid (https://new.frescopa.coffee/), fluid (https://new.frescopa.coffee/cafe), fluid (https://new.frescopa.coffee/machines), fluid (https://new.frescopa.coffee/blog/atelier-taste), fluid (https://new.frescopa.coffee/machines/atelier), fluid (https://new.frescopa.coffee/myatelier), 760 (https://new.frescopa.coffee/of1), 1120 (https://new.frescopa.coffee/of1/knowledge/machines)"
+      ],
+      "capProvenance": {
+        "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+        "writtenAt": "2026-11-13T19:15:19.670Z",
+        "baseWidth": 1440,
+        "urls": [
+          "https://new.frescopa.coffee/",
+          "https://new.frescopa.coffee/cafe",
+          "https://new.frescopa.coffee/machines",
+          "https://new.frescopa.coffee/blog/atelier-taste",
+          "https://new.frescopa.coffee/machines/atelier",
+          "https://new.frescopa.coffee/myatelier",
+          "https://new.frescopa.coffee/of1",
+          "https://new.frescopa.coffee/of1/knowledge/machines"
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,19 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://new.frescopa.coffee/
+  modules  9 sections: capped 1120 ×9 · full-bleed ×0
+  contentMaxWidth 1120px (module) · shellMaxWidth fluid · root body.appear > main
+build  http://localhost:8791/index-proposed.html
+  modules  9 sections: capped 1120 ×9 · full-bleed ×0
+  contentMaxWidth 1120px (module) · shellMaxWidth fluid · root body.appear > main
+rows
+  ✓ content cap: live 1120px = build 1120px (±20, shared module cap)
+  ✓ module 1/9: 1120px = 1120px
+  ✓ module 2/9: 1120px = 1120px
+  ✓ module 3/9: 1120px = 1120px
+  ✓ module 4/9: 1120px = 1120px
+  ✓ module 5/9: 1120px = 1120px
+  ✓ module 6/9: 1120px = 1120px
+  ✓ module 7/9: 1120px = 1120px
+  ✓ module 8/9: 1120px = 1120px
+  ✓ module 9/9: 1120px = 1120px
+cap-probe: PASS at 2560 — 0 of 10 rows failed (evidence stardust/replica/gates/index-2560/cap-iter.json)
