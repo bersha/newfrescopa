@@ -1,0 +1,306 @@
+
+Visual diff @ 360px (profile "generic") — screenshots in stardust/replica/gates/of1-knowledge-machines-360/vdiff-pub1/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 3331,
+  "textLen": 1689,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_18e8df603729e75d8225be80939b7a3c5e1f93487.webp?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x175",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14f330d68cc9d9ec5baea087afb571a09dd79f640.webp?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x175",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1fc5b492f3052a12fdc263738ecc4f8c4db1ba3fd.webp?width=750&format=webply&optimize=medium",
+    "natural": "750x604",
+    "rendered": "320x258",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1c3235d73c312705e3517da4953a9809920b86365.webp?width=750&format=webply&optimize=medium",
+    "natural": "750x604",
+    "rendered": "320x258",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Made in the workshop.",
+    "color": "oklch(0.262 0.021 52)",
+    "fontSize": "46.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The thinking machines",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Atelier",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Atelier Mini",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "For the hands-on ritual",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Barista",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Everyday",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Slow and even",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Slow Pour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ready by morning",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Carafe",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": []
+ },
+ "build": {
+  "viewport": 360,
+  "blankRender": false,
+  "mainHeight": 3331,
+  "textLen": 1689,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_18e8df603729e75d8225be80939b7a3c5e1f93487.webp?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x175",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14f330d68cc9d9ec5baea087afb571a09dd79f640.webp?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x175",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1fc5b492f3052a12fdc263738ecc4f8c4db1ba3fd.webp?width=750&format=webply&optimize=medium",
+    "natural": "750x604",
+    "rendered": "320x258",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1c3235d73c312705e3517da4953a9809920b86365.webp?width=750&format=webply&optimize=medium",
+    "natural": "750x604",
+    "rendered": "320x258",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=750&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Made in the workshop.",
+    "color": "oklch(0.262 0.021 52)",
+    "fontSize": "46.4px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "The thinking machines",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Atelier",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Atelier Mini",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "For the hands-on ritual",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Barista",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Everyday",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Slow and even",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Slow Pour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Ready by morning",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "28.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "The Carafe",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [],
+  "flushText": [],
+  "contentBoxes": []
+ }
+}

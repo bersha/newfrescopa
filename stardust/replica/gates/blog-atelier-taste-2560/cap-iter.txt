@@ -1,0 +1,17 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://new.frescopa.coffee/blog/atelier-taste
+  modules  7 sections: capped 680 ×4, 1120 ×3 · full-bleed ×0
+  contentMaxWidth 680px (module) · shellMaxWidth fluid · root body.appear > main
+build  http://localhost:8791/blog-atelier-taste-proposed.html
+  modules  7 sections: capped 680 ×4, 1120 ×3 · full-bleed ×0
+  contentMaxWidth 680px (module) · shellMaxWidth fluid · root body.appear > main
+rows
+  ✓ content cap: live 680px = build 680px (±20, shared module cap)
+  ✓ module 1/7: 680px = 680px
+  ✓ module 2/7: 680px = 680px
+  ✓ module 3/7: 680px = 680px
+  ✓ module 4/7: 680px = 680px
+  ✓ module 5/7: 1120px = 1120px
+  ✓ module 6/7: 1120px = 1120px
+  ✓ module 7/7: 1120px = 1120px
+cap-probe: PASS at 2560 — 0 of 8 rows failed (evidence stardust/replica/gates/blog-atelier-taste-2560/cap-iter.json)

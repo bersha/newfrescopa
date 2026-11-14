@@ -1,0 +1,15 @@
+{
+  "slug": "blog-atelier-taste",
+  "type": "article",
+  "iterations": { "1440": 1, "360": 1 },
+  "gates": {
+    "1440": { "label": "iter1", "full": true, "pixelPct": 0.00, "heightDelta": 0, "hotBands": [], "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "1 delta: header 'Journal' aria-current colour — header derives the current link from window.location (proto URL artefact, same as machines)", "clipped": 0, "overflow": "ok", "capProbe": "PASS at 2560 (0 of 8 rows failed, stardust/replica/gates/blog-atelier-taste-2560/cap-iter.json)" },
+    "360": { "label": "iter1", "full": true, "pixelPct": 0.00, "heightDelta": 0, "hotBands": [], "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "clipped": 0, "overflow": "ok" }
+  },
+  "residuals": [],
+  "motion": {
+    "observed": ["scroll reveal (foundation)", "hover: article-share-link colour/border 350ms, cards-article h3 colour 350ms"],
+    "implemented": ["all observed: motion-compare 7 parity, 0 missing, 0 extra, 0 out of tolerance", "cards-article category filter (blog listing only; not present on this page)"],
+    "dead": ["header scroll-morph", "article-breadcrumb hover"]
+  }
+}

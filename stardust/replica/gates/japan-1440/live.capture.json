@@ -1,0 +1,16 @@
+{
+  "writtenBy": "skills/replica/scripts/stitch-shot.mjs",
+  "url": "https://new.frescopa.coffee/japan",
+  "width": 1440,
+  "vh": 900,
+  "height": 6373,
+  "chunks": 8,
+  "denialCheck": "ok",
+  "fontsFailed": [],
+  "fixedLayers": {
+    "capture": "once",
+    "count": 1,
+    "late": 0
+  },
+  "at": "2026-11-13T20:02:32.265Z"
+}

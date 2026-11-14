@@ -1,0 +1,22 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://new.frescopa.coffee/machines/atelier
+  modules  12 sections: capped 1120 ×11 · full-bleed ×1
+  contentMaxWidth 1120px (module) · shellMaxWidth fluid · root body.appear > main
+build  http://localhost:8791/machines-atelier-proposed.html
+  modules  12 sections: capped 1120 ×11 · full-bleed ×1
+  contentMaxWidth 1120px (module) · shellMaxWidth fluid · root body.appear > main
+rows
+  ✓ content cap: live 1120px = build 1120px (±20, shared module cap)
+  ✓ module 1/12: 1120px = 1120px
+  ✓ module 2/12: 1120px = 1120px
+  ✓ module 3/12: 1120px = 1120px
+  ✓ module 4/12: 1120px = 1120px
+  ✓ module 5/12: 1120px = 1120px
+  ✓ module 6/12: 1120px = 1120px
+  ✓ module 7/12: 1120px = 1120px
+  ✓ module 8/12: 1120px = 1120px
+  ✓ module 9/12: 1120px = 1120px
+  ✓ module 10/12: 1120px = 1120px
+  ✓ module 11/12: 1120px = 1120px
+  ✓ module 12/12: full-bleed on both
+cap-probe: PASS at 2560 — 0 of 13 rows failed (evidence stardust/replica/gates/machines-atelier-2560/cap-iter.json)

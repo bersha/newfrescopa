@@ -1,0 +1,469 @@
+[live-session] waiting to pace live navigations to new.frescopa.coffee (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/beverages-coffee-1440/vdiff-iter1/
+
+build red flags (advisory): none
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 3608,
+  "textLen": 2495,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1b8a065c6fa700acfa77788efbc2f6400e3df42e3.png?width=2000&format=webply&optimize=medium",
+    "natural": "1024x1024",
+    "rendered": "320x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1e4e0e49dda2965360b82c4103b7f0a8c62d06f7f.png?width=2000&format=webply&optimize=medium",
+    "natural": "1024x1024",
+    "rendered": "320x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ff83085359f9a1695da1a48170dd7cb5e8089b21.png?width=2000&format=webply&optimize=medium",
+    "natural": "1024x1024",
+    "rendered": "320x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae86ef12e2f17ca61a758af698dd818ba8247568.png?width=2000&format=webply&optimize=medium",
+    "natural": "1024x1024",
+    "rendered": "320x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1eac418729690d6861478da8204c2a8d8ddaa15d0.png?width=2000&format=webply&optimize=medium",
+    "natural": "1024x1024",
+    "rendered": "320x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Coffee, the way you take it.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Everyday house roasts",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Morning Blend",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Dark Roast",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Breakfast Blend",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Decaf Reserve",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Espresso Blend",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "A taste of place",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Ethiopian",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Colombian",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Guatemalan",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Fast, still Fréscopa",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Instant Blend",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Instant Blend — Decaf",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "/",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "Coffee",
+    "color": "oklch(0.262 0.021 52)"
+   },
+   {
+    "text": "Blends & roasts",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Most loved",
+    "color": "oklch(0.515 0.108 40)"
+   },
+   {
+    "text": "Blends & roasts",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Blends & roasts",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Blends & roasts",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Blends & roasts",
+    "color": "oklch(0.605 0.116 44)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "cards-coffee-grid",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-coffee-grid",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-coffee-grid",
+    "width": 1024,
+    "left": 208
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 3608,
+  "textLen": 2519,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1b8a065c6fa700acfa77788efbc2f6400e3df42e3.png?width=2000&format=webply&optimize=medium",
+    "natural": "1024x1024",
+    "rendered": "320x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1e4e0e49dda2965360b82c4103b7f0a8c62d06f7f.png?width=2000&format=webply&optimize=medium",
+    "natural": "1024x1024",
+    "rendered": "320x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ff83085359f9a1695da1a48170dd7cb5e8089b21.png?width=2000&format=webply&optimize=medium",
+    "natural": "1024x1024",
+    "rendered": "320x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae86ef12e2f17ca61a758af698dd818ba8247568.png?width=2000&format=webply&optimize=medium",
+    "natural": "1024x1024",
+    "rendered": "320x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1eac418729690d6861478da8204c2a8d8ddaa15d0.png?width=2000&format=webply&optimize=medium",
+    "natural": "1024x1024",
+    "rendered": "320x320",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Coffee, the way you take it.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Everyday house roasts",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Morning Blend",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Dark Roast",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Breakfast Blend",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Decaf Reserve",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Espresso Blend",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "A taste of place",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Ethiopian",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Colombian",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Guatemalan",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "Fast, still Fréscopa",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Instant Blend",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Instant Blend — Decaf",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "25.6px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "/",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "Beverages Coffee Propose",
+    "color": "oklch(0.262 0.021 52)"
+   },
+   {
+    "text": "Blends & roasts",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Most loved",
+    "color": "oklch(0.515 0.108 40)"
+   },
+   {
+    "text": "Blends & roasts",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Blends & roasts",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Blends & roasts",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Blends & roasts",
+    "color": "oklch(0.605 0.116 44)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "cards-coffee-grid",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-coffee-grid",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-coffee-grid",
+    "width": 1024,
+    "left": 208
+   }
+  ]
+ }
+}

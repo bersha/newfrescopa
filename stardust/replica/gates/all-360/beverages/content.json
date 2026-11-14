@@ -1,0 +1,2730 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T21:17:41.438Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://new.frescopa.coffee/beverages",
+  "at": "2026-11-13T21:17:22.242Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4516,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 184,
+    "w": 320,
+    "h": 19,
+    "text": "Beverages"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > h1#three-ways-to-fill-a-cup",
+    "x": 20,
+    "y": 213,
+    "w": 320,
+    "h": 59,
+    "level": 1,
+    "text": "three ways to fill a cup."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 288,
+    "w": 320,
+    "h": 138,
+    "text": "Coffee, tea, and cold-pressed juice — each sourced carefully, made in small batc"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 20,
+    "y": 530,
+    "w": 320,
+    "h": 256,
+    "text": "",
+    "file": "media_132718180b6190179a138b13595a42c32f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 832,
+    "w": 59,
+    "h": 19,
+    "text": "Coffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#roasted-for-your-ritual",
+    "x": 20,
+    "y": 862,
+    "w": 320,
+    "h": 29,
+    "level": 2,
+    "text": "roasted for your ritual"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 908,
+    "w": 320,
+    "h": 146,
+    "text": "House blends built for consistency, traceable single origins for the days you wa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1070,
+    "w": 320,
+    "h": 29,
+    "text": "Worth starting with"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1115,
+    "w": 320,
+    "h": 58,
+    "text": "Morning Blend Single Origin Ethiopian Espresso Blend"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1189,
+    "w": 320,
+    "h": 33,
+    "text": "From $10 · 10 blends"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 1195,
+    "w": 130,
+    "h": 28,
+    "text": "shop all coffee→",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1669,
+    "w": 29,
+    "h": 19,
+    "text": "Tea"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#a-quieter-kind-of-cup",
+    "x": 20,
+    "y": 1699,
+    "w": 320,
+    "h": 29,
+    "level": 2,
+    "text": "a quieter kind of cup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1745,
+    "w": 320,
+    "h": 117,
+    "text": "Eight blends across black, green and herbal, plus a small reserve of rare leaf. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1878,
+    "w": 320,
+    "h": 29,
+    "text": "Worth starting with"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1923,
+    "w": 320,
+    "h": 58,
+    "text": "English Breakfast Green Sencha Darjeeling First Flush"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1997,
+    "w": 320,
+    "h": 33,
+    "text": "From $9 · 10 blends"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 2003,
+    "w": 108,
+    "h": 28,
+    "text": "shop all tea→",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 20,
+    "y": 1367,
+    "w": 320,
+    "h": 256,
+    "text": "",
+    "file": "media_126153dedaaab1e3fdd811716e201bae4b"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 20,
+    "y": 2175,
+    "w": 320,
+    "h": 256,
+    "text": "",
+    "file": "media_11963a4969e9d029a1613bfbdb474e2380"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2477,
+    "w": 144,
+    "h": 19,
+    "text": "Cold-press juice"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#bottled-bright",
+    "x": 20,
+    "y": 2507,
+    "w": 320,
+    "h": 29,
+    "level": 2,
+    "text": "bottled bright"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2553,
+    "w": 320,
+    "h": 146,
+    "text": "Cold-pressed singles and blends, plus concentrates to mix your own. No added sug"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2715,
+    "w": 320,
+    "h": 29,
+    "text": "Worth starting with"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2760,
+    "w": 320,
+    "h": 29,
+    "text": "Orange Green Revival Beetroot & Berry"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2805,
+    "w": 320,
+    "h": 63,
+    "text": "From $5.50 · 25 pressings"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 2811,
+    "w": 119,
+    "h": 28,
+    "text": "shop all juice→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p.eyebrow",
+    "x": 39,
+    "y": 3012,
+    "w": 282,
+    "h": 19,
+    "text": "Can't decide?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#taste-the-whole-range-at-a-café",
+    "x": 20,
+    "y": 3049,
+    "w": 320,
+    "h": 59,
+    "level": 2,
+    "text": "taste the whole range at a café."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 3129,
+    "w": 320,
+    "h": 83,
+    "text": "Sit at the bar and work through coffee, tea and juice with our team. It's the fa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 105,
+    "y": 3244,
+    "w": 136,
+    "h": 46,
+    "text": "find a café→",
+    "href": "/cafe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 3488,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 3601,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 3631,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 3719,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3750,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3782,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3814,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3847,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3879,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 3949,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3981,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4013,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4045,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4077,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 4148,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4179,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4211,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4244,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4276,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 4371,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/beverages"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 4371,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/beverages"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 4371,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/beverages"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 4427,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 48,
+    "controls": 26,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--7c29ab64--aemcoder.aem.page/beverages",
+  "at": "2026-11-13T21:17:41.225Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 4516,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 184,
+    "w": 320,
+    "h": 19,
+    "text": "Beverages"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > h1#three-ways-to-fill-a-cup",
+    "x": 20,
+    "y": 213,
+    "w": 320,
+    "h": 59,
+    "level": 1,
+    "text": "three ways to fill a cup."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.alt.section > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 288,
+    "w": 320,
+    "h": 138,
+    "text": "Coffee, tea, and cold-pressed juice — each sourced carefully, made in small batc"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 20,
+    "y": 530,
+    "w": 320,
+    "h": 256,
+    "text": "",
+    "file": "media_132718180b6190179a138b13595a42c32f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 832,
+    "w": 59,
+    "h": 19,
+    "text": "Coffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#roasted-for-your-ritual",
+    "x": 20,
+    "y": 862,
+    "w": 320,
+    "h": 29,
+    "level": 2,
+    "text": "roasted for your ritual"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 908,
+    "w": 320,
+    "h": 146,
+    "text": "House blends built for consistency, traceable single origins for the days you wa"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1070,
+    "w": 320,
+    "h": 29,
+    "text": "Worth starting with"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1115,
+    "w": 320,
+    "h": 58,
+    "text": "Morning Blend Single Origin Ethiopian Espresso Blend"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1189,
+    "w": 320,
+    "h": 33,
+    "text": "From $10 · 10 blends"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 1195,
+    "w": 130,
+    "h": 28,
+    "text": "shop all coffee→",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1669,
+    "w": 29,
+    "h": 19,
+    "text": "Tea"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#a-quieter-kind-of-cup",
+    "x": 20,
+    "y": 1699,
+    "w": 320,
+    "h": 29,
+    "level": 2,
+    "text": "a quieter kind of cup"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1745,
+    "w": 320,
+    "h": 117,
+    "text": "Eight blends across black, green and herbal, plus a small reserve of rare leaf. "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1878,
+    "w": 320,
+    "h": 29,
+    "text": "Worth starting with"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1923,
+    "w": 320,
+    "h": 58,
+    "text": "English Breakfast Green Sencha Darjeeling First Flush"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 1997,
+    "w": 320,
+    "h": 33,
+    "text": "From $9 · 10 blends"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 2003,
+    "w": 108,
+    "h": 28,
+    "text": "shop all tea→",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 20,
+    "y": 1367,
+    "w": 320,
+    "h": 256,
+    "text": "",
+    "file": "media_126153dedaaab1e3fdd811716e201bae4b"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.columns-img-col > picture > img",
+    "x": 20,
+    "y": 2175,
+    "w": 320,
+    "h": 256,
+    "text": "",
+    "file": "media_11963a4969e9d029a1613bfbdb474e2380"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2477,
+    "w": 144,
+    "h": 19,
+    "text": "Cold-press juice"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#bottled-bright",
+    "x": 20,
+    "y": 2507,
+    "w": 320,
+    "h": 29,
+    "level": 2,
+    "text": "bottled bright"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2553,
+    "w": 320,
+    "h": 146,
+    "text": "Cold-pressed singles and blends, plus concentrates to mix your own. No added sug"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2715,
+    "w": 320,
+    "h": 29,
+    "text": "Worth starting with"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2760,
+    "w": 320,
+    "h": 29,
+    "text": "Orange Green Revival Beetroot & Berry"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 2805,
+    "w": 320,
+    "h": 63,
+    "text": "From $5.50 · 25 pressings"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 20,
+    "y": 2811,
+    "w": 119,
+    "h": 28,
+    "text": "shop all juice→",
+    "href": "/"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p.eyebrow",
+    "x": 20,
+    "y": 3012,
+    "w": 320,
+    "h": 19,
+    "text": "Can't decide?"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > h2#taste-the-whole-range-at-a-café",
+    "x": 20,
+    "y": 3049,
+    "w": 320,
+    "h": 59,
+    "level": 2,
+    "text": "taste the whole range at a café."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > div > p",
+    "x": 20,
+    "y": 3129,
+    "w": 320,
+    "h": 83,
+    "text": "Sit at the bar and work through coffee, tea and juice with our team. It's the fa"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div > p > a",
+    "x": 105,
+    "y": 3244,
+    "w": 136,
+    "h": 46,
+    "text": "find a café→",
+    "href": "/cafe"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 3488,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 3601,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 3631,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 3719,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3750,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3782,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3814,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3847,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3879,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 3949,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 3981,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4013,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4045,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4077,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 4148,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4179,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4211,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4244,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 4276,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 4371,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/beverages"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 4371,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/beverages"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 4371,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/beverages"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 4427,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 48,
+    "controls": 26,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "three ways to fill a cup.",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "roasted for your ritual",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 5,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "a quieter kind of cup",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 5,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "bottled bright",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 5,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "taste the whole range at a café.",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 20,
+    "y": 185,
+    "w": 88,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 210,
+    "w": 257,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 239,
+    "w": 60,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 290,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 318,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 345,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 373,
+    "w": 298,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 400,
+    "w": 47,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 833,
+    "w": 59,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 860,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 911,
+    "w": 280,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 940,
+    "w": 287,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 969,
+    "w": 317,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 998,
+    "w": 269,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1027,
+    "w": 238,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1073,
+    "w": 154,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1118,
+    "w": 301,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1147,
+    "w": 124,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1197,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 150,
+    "y": 1196,
+    "w": 175,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1670,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 1697,
+    "w": 251,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 1748,
+    "w": 294,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1777,
+    "w": 319,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1806,
+    "w": 269,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1835,
+    "w": 286,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1881,
+    "w": 154,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1926,
+    "w": 256,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1955,
+    "w": 169,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2005,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 2004,
+    "w": 165,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2478,
+    "w": 144,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 2505,
+    "w": 169,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2556,
+    "w": 304,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2585,
+    "w": 271,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2614,
+    "w": 312,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2643,
+    "w": 308,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2672,
+    "w": 80,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2718,
+    "w": 154,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2763,
+    "w": 316,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2813,
+    "w": 119,
+    "h": 22
+   },
+   {
+    "x": 139,
+    "y": 2812,
+    "w": 131,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2842,
+    "w": 75,
+    "h": 23
+   },
+   {
+    "x": 122,
+    "y": 3013,
+    "w": 116,
+    "h": 16
+   },
+   {
+    "x": 28,
+    "y": 3046,
+    "w": 303,
+    "h": 35
+   },
+   {
+    "x": 118,
+    "y": 3076,
+    "w": 123,
+    "h": 35
+   },
+   {
+    "x": 34,
+    "y": 3131,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3159,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 63,
+    "y": 3186,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 3256,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3490,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3515,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3539,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3603,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 3645,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3718,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 3750,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3782,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3814,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3847,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3879,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3948,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 3981,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4013,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4045,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4077,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4147,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 4179,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4211,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4244,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4276,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4429,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4453,
+    "w": 228,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 20,
+    "y": 185,
+    "w": 88,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 210,
+    "w": 257,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 239,
+    "w": 60,
+    "h": 35
+   },
+   {
+    "x": 20,
+    "y": 290,
+    "w": 285,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 318,
+    "w": 286,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 345,
+    "w": 310,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 373,
+    "w": 298,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 400,
+    "w": 47,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 833,
+    "w": 59,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 860,
+    "w": 275,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 911,
+    "w": 280,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 940,
+    "w": 287,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 969,
+    "w": 317,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 998,
+    "w": 269,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1027,
+    "w": 238,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1073,
+    "w": 154,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1118,
+    "w": 301,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1147,
+    "w": 124,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1197,
+    "w": 130,
+    "h": 22
+   },
+   {
+    "x": 150,
+    "y": 1196,
+    "w": 175,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1670,
+    "w": 29,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 1697,
+    "w": 251,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 1748,
+    "w": 294,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1777,
+    "w": 319,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1806,
+    "w": 269,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1835,
+    "w": 286,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1881,
+    "w": 154,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1926,
+    "w": 256,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 1955,
+    "w": 169,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2005,
+    "w": 108,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 2004,
+    "w": 165,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2478,
+    "w": 144,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 2505,
+    "w": 169,
+    "h": 32
+   },
+   {
+    "x": 20,
+    "y": 2556,
+    "w": 304,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2585,
+    "w": 271,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2614,
+    "w": 312,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2643,
+    "w": 308,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2672,
+    "w": 80,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2718,
+    "w": 154,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2763,
+    "w": 316,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2813,
+    "w": 119,
+    "h": 22
+   },
+   {
+    "x": 139,
+    "y": 2812,
+    "w": 131,
+    "h": 23
+   },
+   {
+    "x": 20,
+    "y": 2842,
+    "w": 75,
+    "h": 23
+   },
+   {
+    "x": 122,
+    "y": 3013,
+    "w": 116,
+    "h": 16
+   },
+   {
+    "x": 28,
+    "y": 3046,
+    "w": 303,
+    "h": 35
+   },
+   {
+    "x": 118,
+    "y": 3076,
+    "w": 123,
+    "h": 35
+   },
+   {
+    "x": 34,
+    "y": 3131,
+    "w": 292,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3159,
+    "w": 320,
+    "h": 22
+   },
+   {
+    "x": 63,
+    "y": 3186,
+    "w": 233,
+    "h": 22
+   },
+   {
+    "x": 128,
+    "y": 3256,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3490,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3515,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3539,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3603,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 3645,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3718,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 3750,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3782,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3814,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3847,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3879,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 3948,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 3981,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4013,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4045,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4077,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4147,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 4179,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4211,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4244,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4276,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4429,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4453,
+    "w": 228,
+    "h": 20
+   }
+  ]
+ }
+}

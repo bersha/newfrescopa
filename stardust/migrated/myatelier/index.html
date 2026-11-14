@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html>
+  <head>
+<!-- stardust:migrate
+  writtenBy:        stardust:migrate
+  writtenAt:        2026-11-13T20:13:39Z
+  page:             Welcome back.
+  slug:             myatelier
+  pagePath:         migrated/myatelier/index.html
+  renderBranch:     A
+  sourceProposed:   stardust/prototypes/myatelier-proposed.html
+  sourceCurrent:    stardust/current/pages/myatelier.json
+  againstDirection: stardust/direction.md (Active)
+  designMd:         DESIGN.md (sha: 104fd13ba944)
+  designJson:       DESIGN.json (sha: 1449a990b92e)
+  canonShas:        header:534598da2521 footer:736a7ff44f02 css:4df8e3921e99
+  decisionTrace:    _meta.json
+  brokenInternalLinks: 0
+  stardustVersion:  local
+-->
+<style>
+:root {
+  /* brand palette */
+  --burgundy: oklch(34% 0.093 25deg);
+  --burgundy-deep: oklch(27.5% 0.082 26deg);
+  --terracotta: oklch(60.5% 0.116 44deg);
+  --terracotta-deep: oklch(51.5% 0.108 40deg);
+  --terracotta-fill: oklch(60.5% 0.116 44deg / 22%);
+  --amber: oklch(79% 0.128 74deg);
+  --amber-soft: oklch(86.5% 0.083 80deg);
+  --teal: oklch(55% 0.05 205deg);
+  --paper: oklch(97% 0.01 82deg);
+  --paper-2: oklch(94.8% 0.015 78deg);
+  --paper-3: oklch(91.8% 0.02 74deg);
+  --sand: oklch(88.4% 0.025 71deg);
+  --line: oklch(85.5% 0.018 68deg);
+  --ink: oklch(26.2% 0.021 52deg);
+  --ink-soft: oklch(43% 0.022 52deg);
+  --charcoal: oklch(22.2% 0.016 52deg);
+  --charcoal-2: oklch(28.2% 0.02 50deg);
+  --line-dark: oklch(40% 0.02 55deg);
+  --cream: oklch(94.5% 0.016 80deg);
+  --cream-soft: oklch(79.5% 0.021 78deg);
+  --bg: var(--paper);
+  --fg: var(--ink);
+  --accent: var(--terracotta);
+  --focus: var(--terracotta);
+
+  /* EDS-facing colour aliases */
+  --background-color: var(--paper);
+  --light-color: var(--paper-2);
+  --dark-color: var(--charcoal);
+  --text-color: var(--ink);
+  --link-color: var(--terracotta);
+  --link-hover-color: var(--terracotta-deep);
+
+  /* fonts */
+  --font-display: "Schibsted Grotesk", system-ui, sans-serif;
+  --font-body: "Hanken Grotesk", system-ui, sans-serif;
+  --heading-font-family: var(--font-display);
+  --body-font-family: var(--font-body);
+
+  /* type scale (fluid) */
+  --fs-eyebrow: 0.75rem;
+  --fs-sm: 0.9375rem;
+  --fs-body: 1.0625rem;
+  --fs-body-lg: clamp(1.125rem, 0.98rem + 0.5vw, 1.3125rem);
+  --fs-h4: clamp(1.25rem, 1.08rem + 0.7vw, 1.6rem);
+  --fs-h3: clamp(1.6rem, 1.25rem + 1.4vw, 2.3rem);
+  --fs-h2: clamp(1.8rem, 1.3rem + 2vw, 2.8rem);
+  --fs-h1: clamp(2.9rem, 1.7rem + 4.6vw, 5.4rem);
+  --fs-display: clamp(3.4rem, 1.1rem + 8.4vw, 8rem);
+  --lh-tight: 1.03;
+  --lh-snug: 1.15;
+  --lh-body: 1.62;
+  --tracking-eyebrow: 0.2em;
+  --tracking-tight: -0.02em;
+
+  /* body sizes */
+  --body-font-size-m: var(--fs-body);
+  --body-font-size-s: var(--fs-sm);
+  --body-font-size-xs: 0.8125rem;
+
+  /* heading sizes */
+  --heading-font-size-xxl: var(--fs-h1);
+  --heading-font-size-xl: var(--fs-h2);
+  --heading-font-size-l: var(--fs-h3);
+  --heading-font-size-m: var(--fs-h4);
+  --heading-font-size-s: var(--fs-body-lg);
+  --heading-font-size-xs: var(--fs-body);
+
+  /* spacing */
+  --space-3xs: 0.25rem;
+  --space-2xs: 0.5rem;
+  --space-xs: 0.75rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4rem;
+  --space-2xl: 6rem;
+  --section-y: 72px;
+  --section-padding: var(--section-y);
+
+  /* containers */
+  --content: 1120px;
+  --content-wide: 1320px;
+  --content-narrow: 760px;
+  --gutter: clamp(1.25rem, 0.4rem + 3vw, 3rem);
+  --nav-height: 72px;
+
+  /* radii */
+  --r-sm: 8px;
+  --r-md: 14px;
+  --r-lg: 22px;
+  --r-xl: 32px;
+  --r-pill: 999px;
+
+  /* shadows */
+  --shadow-sm: 0 1px 2px oklch(30% 0.03 50deg / 6%), 0 2px 8px oklch(30% 0.03 50deg / 5%);
+  --shadow-md: 0 4px 14px oklch(30% 0.03 50deg / 7%), 0 14px 34px oklch(30% 0.03 50deg / 8%);
+  --shadow-lg: 0 14px 34px oklch(26% 0.03 50deg / 10%), 0 34px 80px oklch(26% 0.03 50deg / 13%);
+
+  /* motion */
+  --ease-quint: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-1: 0.35s;
+  --dur-2: 0.6s;
+  --dur-3: 0.9s;
+}
+</style>
+<link rel="stylesheet" href="../assets/styles.css">
+<script type="application/ld+json">{"@context":"https://schema.org","@type":"WebPage","name":"Welcome back.","description":"Sign in to set up your Atelier, manage supplies, and keep an eye on the machine.","url":"https://new.frescopa.coffee/myatelier"}</script>
+    <title>Welcome back.</title>
+    <link rel="canonical" href="https://new.frescopa.coffee/myatelier">
+    <meta name="description" content="Sign in to set up your Atelier, manage supplies, and keep an eye on the machine.">
+    <meta property="og:title" content="Welcome back.">
+    <meta property="og:description" content="Sign in to set up your Atelier, manage supplies, and keep an eye on the machine.">
+    <meta property="og:url" content="https://new.frescopa.coffee/myatelier">
+    <meta property="og:image" content="https://new.frescopa.coffee/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta property="og:image:secure_url" content="https://new.frescopa.coffee/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="Welcome back.">
+    <meta name="twitter:description" content="Sign in to set up your Atelier, manage supplies, and keep an eye on the machine.">
+    <meta name="twitter:image" content="https://new.frescopa.coffee/default-meta-image.png?width=1200&#x26;format=pjpg&#x26;optimize=medium">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <script src="/scripts/aem.js" type="module"></script>
+    <script src="/scripts/scripts.js" type="module"></script>
+    <link rel="stylesheet" href="/styles/styles.css">
+  </head>
+  <body>
+    <header></header>
+    <main data-template="myatelier">
+      <div data-section="1">
+        <p>Your account</p>
+        <h1 id="welcome-back">Welcome back.</h1>
+        <p>Sign in to set up your Atelier, manage supplies, and keep an eye on the machine.</p>
+        <div class="account-signin">
+          <div>
+            <div>Email</div>
+            <div>you@example.com</div>
+          </div>
+          <div>
+            <div>Continue→</div>
+            <div></div>
+          </div>
+        </div>
+        <p>This is a demo — any email will do.</p>
+      </div>
+    </main>
+    <footer></footer>
+  </body>
+</html>

@@ -1,0 +1,15 @@
+{
+ "pages": 8,
+ "vendors": [
+  {
+   "host": "new.frescopa.coffee",
+   "pages": 8,
+   "firstParty": true,
+   "role": null,
+   "class": null,
+   "inCsp": false
+  }
+ ],
+ "inline": {},
+ "cspHosts": []
+}

@@ -1,0 +1,8 @@
+{
+  "index": {
+    "verdict": "PASS (capture-state)",
+    "reason": "mood-calendar auto-advances every 3 s on live and build; a day whose note wraps one more line at 360 grows the section +24–30 px and offsets every band below. At rest measure.mjs reads every main section and the footer Δx/Δy/Δw/Δh 0 at 360 (stardust/.work/replica/bg/idx-measure.log); gate.sh iter3 360: 4.62 % Δh 0, content 0/0. Timer-driven media is delivered as on live (captureState restoreAtDelivery).",
+    "by": "replica hands-off",
+    "at": "2026-11-13"
+  }
+}

@@ -1,0 +1,100 @@
+/* accordion: native details list; .accordion-checks = claims with check icons */
+.accordion .accordion-head {
+  max-width: var(--content-narrow);
+  margin-bottom: clamp(1.5rem, 1rem + 2vw, 2.5rem);
+}
+
+.accordion .accordion-items {
+  max-width: var(--content-narrow);
+}
+
+.accordion .accordion-item {
+  border-bottom: 1px solid var(--line);
+}
+
+.accordion .accordion-summary {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  padding: 1.2rem 0;
+  list-style: none;
+  font-family: var(--heading-font-family);
+  font-size: var(--fs-body-lg);
+  font-weight: 700;
+  color: var(--burgundy);
+  cursor: pointer;
+}
+
+.accordion .accordion-summary::-webkit-details-marker {
+  display: none;
+}
+
+.accordion .accordion-label {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.accordion .accordion-summary:hover .accordion-label {
+  color: var(--terracotta-deep);
+}
+
+.accordion .accordion-check {
+  display: inline-flex;
+  flex-shrink: 0;
+  line-height: 0;
+  color: var(--terracotta);
+}
+
+.accordion .accordion-chevron {
+  flex-shrink: 0;
+  color: var(--terracotta);
+  transition: transform 0.25s var(--ease-quint);
+}
+
+.accordion .accordion-item[open] .accordion-chevron {
+  transform: rotate(180deg);
+}
+
+.accordion .accordion-body {
+  padding: 0 0 1.4rem;
+}
+
+.accordion .accordion-body p {
+  max-width: 60ch;
+  margin: 0;
+  line-height: var(--lh-body);
+  color: var(--ink-soft);
+}
+
+.accordion .accordion-head p {
+  margin: 0 0 0.8rem;
+  line-height: var(--lh-body);
+  color: var(--ink-soft);
+}
+
+.accordion .accordion-head p:first-child {
+  margin-bottom: 0.6rem;
+  font-family: var(--font-mono, monospace);
+  font-size: 0.72rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--terracotta);
+}
+
+.accordion .accordion-head h2 {
+  margin: 0 0 0.8rem;
+  color: var(--burgundy);
+}
+
+.accordion .accordion-head a {
+  display: inline-block;
+  font-weight: 600;
+  color: var(--terracotta);
+  text-decoration: none;
+}
+
+.accordion .accordion-head a:hover {
+  color: var(--terracotta-deep);
+}

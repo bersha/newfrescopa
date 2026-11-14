@@ -1,0 +1,143 @@
+{
+ "_provenance": {
+  "writtenBy": "stardust:dynamics check",
+  "writtenAt": "2026-11-13T21:27:59.801Z",
+  "origin": "https://main--7c29ab64--aemcoder.aem.live",
+  "parity": "stardust/dynamics/parity.json",
+  "contract": "stardust/martech-contract.json"
+ },
+ "results": [
+  {
+   "feature": "main filled by block decoration",
+   "id": "cr-main-empty-at-load",
+   "class": "CR",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "8 × main .block (min 3)",
+   "thirdParty": "",
+   "ms": 2924,
+   "environmentLimit": null
+  },
+  {
+   "feature": "main filled by block decoration",
+   "id": "cr-main-empty-at-load",
+   "class": "CR",
+   "status": "done",
+   "type": "no-page-errors",
+   "pass": true,
+   "detail": "none on 8 page(s)",
+   "thirdParty": "",
+   "ms": 19088,
+   "environmentLimit": null
+  },
+  {
+   "feature": "footer newsletter sign-up",
+   "id": "f-footer-signup",
+   "class": "F",
+   "status": "interim",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × footer form (min 1)",
+   "thirdParty": "",
+   "ms": 2086,
+   "environmentLimit": null
+  },
+  {
+   "feature": "café booking form",
+   "id": "f-booking-form",
+   "class": "F",
+   "status": "interim",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "7 × main form input, main form select, main form textarea (min 7)",
+   "thirdParty": "a.tile.openstreetmap.org:200×8 c.tile.openstreetmap.org:200×9 b.tile.openstreetmap.org:200×8 nominatim.openstreetmap.org:200×2",
+   "ms": 2260,
+   "environmentLimit": null
+  },
+  {
+   "feature": "account sign-in",
+   "id": "f-account-signin",
+   "class": "F",
+   "status": "interim",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × main form input[type=email] (min 1)",
+   "thirdParty": "",
+   "ms": 1969,
+   "environmentLimit": null
+  },
+  {
+   "feature": "store locator (27 cafés, Nominatim geocode, OSM tiles)",
+   "id": "l-store-locator",
+   "class": "L",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "27 × .store-locator-card (min 27)",
+   "thirdParty": "a.tile.openstreetmap.org:200×8 c.tile.openstreetmap.org:200×9 b.tile.openstreetmap.org:200×8 nominatim.openstreetmap.org:200×2",
+   "ms": 2175,
+   "environmentLimit": null
+  },
+  {
+   "feature": "store locator (27 cafés, Nominatim geocode, OSM tiles)",
+   "id": "l-store-locator",
+   "class": "L",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × .leaflet-container (min 1)",
+   "thirdParty": "a.tile.openstreetmap.org:200×8 c.tile.openstreetmap.org:200×9 b.tile.openstreetmap.org:200×8 nominatim.openstreetmap.org:200×2",
+   "ms": 2188,
+   "environmentLimit": null
+  },
+  {
+   "feature": "header search panel",
+   "id": "m-header-search",
+   "class": "M",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × header [aria-haspopup] (min 1)",
+   "thirdParty": "",
+   "ms": 2095,
+   "environmentLimit": null
+  },
+  {
+   "feature": "Ask Anything assistant (of1 SDK)",
+   "id": "t-of1-assistant",
+   "class": "T",
+   "status": "done",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × main .of1 (min 1)",
+   "thirdParty": "of1-gen-web-service.franklin-prod.workers.dev:200×2",
+   "ms": 2003,
+   "environmentLimit": null
+  },
+  {
+   "feature": "machine price / add-to-cart UI",
+   "id": "x-commerce",
+   "class": "X",
+   "status": "interim",
+   "type": "dom-count",
+   "pass": true,
+   "detail": "1 × main .product-hero (min 1)",
+   "thirdParty": "",
+   "ms": 2120,
+   "environmentLimit": null
+  },
+  {
+   "feature": "martech: consent + tag routing",
+   "id": "martech",
+   "class": "T",
+   "status": "scaffolded-off",
+   "type": "martech",
+   "pass": true,
+   "detail": "no tag host requested (0 gated · 0 cross-site host(s) blocked)",
+   "thirdParty": "",
+   "ms": 6265,
+   "environmentLimit": null
+  }
+ ]
+}

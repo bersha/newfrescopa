@@ -1,0 +1,33 @@
+{
+  "_provenance": { "writtenBy": "stardust:dynamics", "writtenAt": "2026-11-13T21:27:13Z" },
+  "method": "replica: every feature delivered as the source authors it (source is EDS); the same block code and documents, replayed on the published origin",
+  "features": [
+    { "id": "cr-main-empty-at-load", "feature": "main filled by block decoration", "class": "CR", "pages": 21, "disposition": "static-snapshot", "reproducibility": "self", "status": "done",
+      "verifiedBy": "gate-all 21/21 content MISSING 0 / HIDDEN 0 at 1440 and 360",
+      "checks": [ { "type": "dom-count", "path": "/", "selector": "main .block", "min": 3 },
+                  { "type": "no-page-errors", "paths": ["/", "/cafe", "/machines", "/machines/atelier", "/myatelier", "/of1", "/blog/atelier-taste", "/of1/knowledge/machines"] } ] },
+    { "id": "f-footer-signup", "feature": "footer newsletter sign-up", "class": "F", "pages": 21, "disposition": "rebuild-native", "reproducibility": "needs-backend", "status": "interim",
+      "verifiedBy": "footer form 1, email field present; source client behaviour, no endpoint on the source either",
+      "owner": "production endpoint for sign-ups",
+      "checks": [ { "type": "dom-count", "path": "/", "selector": "footer form", "min": 1 } ] },
+    { "id": "f-booking-form", "feature": "café booking form", "class": "F", "pages": 1, "disposition": "rebuild-native", "reproducibility": "needs-backend", "status": "interim",
+      "verifiedBy": "7 fields in main form on /cafe (source: 7)", "owner": "booking backend",
+      "checks": [ { "type": "dom-count", "path": "/cafe", "selector": "main form input, main form select, main form textarea", "min": 7 } ] },
+    { "id": "f-account-signin", "feature": "account sign-in", "class": "F", "pages": 1, "disposition": "rebuild-native", "reproducibility": "needs-backend", "status": "interim",
+      "verifiedBy": "email field 1 + submit on /myatelier", "owner": "auth backend",
+      "checks": [ { "type": "dom-count", "path": "/myatelier", "selector": "main form input[type=email]", "min": 1 } ] },
+    { "id": "l-store-locator", "feature": "store locator (27 cafés, Nominatim geocode, OSM tiles)", "class": "L", "pages": 2, "disposition": "client-only", "reproducibility": "self", "status": "done",
+      "verifiedBy": "27 store cards + Leaflet map on /cafe",
+      "checks": [ { "type": "dom-count", "path": "/cafe", "selector": ".store-locator-card", "min": 27 },
+                  { "type": "dom-count", "path": "/cafe", "selector": ".leaflet-container", "min": 1 } ] },
+    { "id": "m-header-search", "feature": "header search panel", "class": "M", "pages": 21, "disposition": "rebuild-native", "reproducibility": "self", "status": "done",
+      "verifiedBy": "header contract chrome-compare --profile replica exit 0, controls 9/9 (foundation unit)",
+      "checks": [ { "type": "dom-count", "path": "/", "selector": "header [aria-haspopup]", "min": 1 } ] },
+    { "id": "t-of1-assistant", "feature": "Ask Anything assistant (of1 SDK)", "class": "T", "pages": 1, "disposition": "embed-passthrough", "reproducibility": "self", "status": "done",
+      "verifiedBy": "of1 block decorated on /of1, gate 0.00 % both widths",
+      "checks": [ { "type": "dom-count", "path": "/of1", "selector": "main .of1", "min": 1 } ] },
+    { "id": "x-commerce", "feature": "machine price / add-to-cart UI", "class": "X", "pages": 1, "disposition": "static-snapshot", "reproducibility": "needs-backend", "status": "interim",
+      "verifiedBy": "product hero + bundle cards rendered on /machines/atelier, gate 0.29/0.31 %", "owner": "commerce backend",
+      "checks": [ { "type": "dom-count", "path": "/machines/atelier", "selector": "main .product-hero", "min": 1 } ] }
+  ]
+}

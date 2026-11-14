@@ -1,0 +1,317 @@
+{
+ "url": "https://main--7c29ab64--aemcoder.aem.page/cafe",
+ "at": "2026-11-13T21:18:58.180Z",
+ "source": "content-presence",
+ "counts": {
+  "textClipped": 0,
+  "textHidden": 0,
+  "controlHidden": 0,
+  "controlClipped": 0,
+  "clamped": 0,
+  "collapsed": 0,
+  "scrollHidden": 198,
+  "horizontal": 0,
+  "offPage": 19,
+  "textNodes": 299,
+  "controls": 125,
+  "total": 0
+ },
+ "groups": [
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 99,
+   "clipper": "div.store-locator-cards",
+   "path": "article.store-locator-card > div.store-locator-card-body > div.store-locator-card-address > p",
+   "text": "221 newbury st, boston, ma",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 25,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-layout > div.store-locator-list > div.store-locator-cards > article.store-locator-card",
+   "text": "fréscopa back bay boston, ma221 newbury st, boston, macafémo",
+   "cutMin": 237,
+   "cutMax": 237
+  },
+  {
+   "kind": "CONTROL SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 25,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 25,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-actions > p > a",
+   "text": "directions→",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-rittenhouse",
+   "text": "fréscopa rittenhouse",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-georgetown",
+   "text": "fréscopa georgetown",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-ponce-city-market",
+   "text": "fréscopa ponce city market",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-west-loop",
+   "text": "fréscopa west loop",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-wicker-park",
+   "text": "fréscopa wicker park",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-north-loop",
+   "text": "fréscopa north loop",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-crossroads",
+   "text": "fréscopa crossroads",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-rino",
+   "text": "fréscopa rino",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-south-congress",
+   "text": "fréscopa south congress",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-the-domain",
+   "text": "fréscopa the domain",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-deep-ellum",
+   "text": "fréscopa deep ellum",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-the-heights",
+   "text": "fréscopa the heights",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-wynwood",
+   "text": "fréscopa wynwood",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-warehouse-district",
+   "text": "fréscopa warehouse district",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-ferry-building",
+   "text": "fréscopa ferry building",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-hayes-valley",
+   "text": "fréscopa hayes valley",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-capitol-hill",
+   "text": "fréscopa capitol hill",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-ballard",
+   "text": "fréscopa ballard",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-pearl-district",
+   "text": "fréscopa pearl district",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-arts-district",
+   "text": "fréscopa arts district",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-silver-lake",
+   "text": "fréscopa silver lake",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-little-italy",
+   "text": "fréscopa little italy",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-roosevelt-row",
+   "text": "fréscopa roosevelt row",
+   "cutMin": null,
+   "cutMax": null
+  },
+  {
+   "kind": "TEXT SCROLL-HIDDEN",
+   "advisory": true,
+   "n": 1,
+   "clipper": "div.store-locator-cards",
+   "path": "div.store-locator-card-body > div.store-locator-card-head > div.store-locator-card-name > h3#fréscopa-sydney",
+   "text": "fréscopa sydney",
+   "cutMin": null,
+   "cutMax": null
+  }
+ ],
+ "origin": {
+  "counts": {
+   "textClipped": 0,
+   "textHidden": 0,
+   "controlHidden": 0,
+   "controlClipped": 0,
+   "clamped": 0,
+   "collapsed": 0,
+   "scrollHidden": 198,
+   "horizontal": 0,
+   "offPage": 12,
+   "textNodes": 299,
+   "controls": 118,
+   "total": 0
+  }
+ }
+}

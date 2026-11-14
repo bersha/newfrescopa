@@ -1,0 +1,19 @@
+{
+  "slug": "machines-atelier",
+  "type": "program",
+  "iterations": { "1440": 2, "360": 1 },
+  "gates": {
+    "1440": { "label": "iter2", "full": false, "fullRound": "iter1 (0.29%, all gates green)", "pixelPct": 0.29, "heightDelta": 0, "hotBands": ["5000-5500 2.6% (explained: taste-profile auto-cycle)", "6000-6500 1.1% / 7000-7500 1.1% (explained: build-side reveal at chunk boundary)"], "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "clipped": 0, "overflow": "ok", "capProbe": "PASS at 2560 (0 of 13 rows failed, stardust/replica/gates/machines-atelier-2560/cap-iter.json)" },
+    "360": { "label": "iter1", "full": true, "pixelPct": 0.31, "heightDelta": 0, "hotBands": ["7000-7500 7.0% (explained: taste-profile auto-cycle)", "9500-10000 1.1% (explained: build-side reveal at chunk boundary)"], "contentDiff": { "red": 0, "nothingLostYellow": 0 }, "visualDiffFlags": 0, "chromeParity": "pass", "clipped": 0, "overflow": "ok" }
+  },
+  "residuals": [
+    "taste-profile band: auto-cycle (3s, fires on live) advances on the build mid-capture (Weekday vs Slow Sunday readout) — same capture-timing artefact as index; geometry identical, height Δ0.",
+    "reveal bands: the scroll reveal (foundation) on the build is caught mid-transition at a stitch-chunk boundary (accordion section h2/lede at 1440, bundle-cards first card at 1440/360); gate.sh settles only the live side. Deterministic across rounds; not block geometry.",
+    "product-hero renders the source block's default trust lines (delivery / guarantee / 30 mornings) because the authored document lost them — matches live; content owner should author them."
+  ],
+  "motion": {
+    "observed": ["scroll reveal opacity/transform 900ms (foundation)", "taste-profile auto-cycle", "hover: jumpnav pill colour/border 200ms, video play background+scale 200ms, bundle CTA colour 200ms, product-hero cart background 200ms", "box-shadow transitions 200ms (thumbs/swatches/tabs)"],
+    "implemented": ["all observed: motion-compare 15 parity, 0 missing, 0 extra, 0 out of tolerance", "per source JS (state change is class/text only): steps-tabs tab select, accordion single-open details (first open), gallery thumb swap, finish swatch + label, qty stepper; Add to cart is client-only (no backend), as on live"],
+    "dead": ["header scroll-morph", "media-video play click (no player on live)", "steps-tabs/accordion/thumb/swatch clicks: no frame-sampled box change", "steps-tabs-tab and accordion-summary hover: no measured diff"]
+  }
+}

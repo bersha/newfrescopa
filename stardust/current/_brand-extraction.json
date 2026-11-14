@@ -1,0 +1,128 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:extract",
+    "writtenAt": "2026-11-13T19:15:49.561Z",
+    "sources": [
+      "https://new.frescopa.coffee/styles/brand.css",
+      "stardust/current/_computed-styles.json"
+    ]
+  },
+  "origins": [
+    {
+      "origin": "https://new.frescopa.coffee",
+      "role": "primary",
+      "pages": 21
+    }
+  ],
+  "logo": {
+    "path": "stardust/current/assets/logo.svg",
+    "source": "nav fragment <img alt=\"Fréscopa\"> (/fragments/nav)"
+  },
+  "favicon": {
+    "path": "stardust/current/assets/favicon.ico"
+  },
+  "palette": {
+    "burgundy": "oklch(34% 0.093 25deg)",
+    "burgundy-deep": "oklch(27.5% 0.082 26deg)",
+    "terracotta": "oklch(60.5% 0.116 44deg)",
+    "terracotta-deep": "oklch(51.5% 0.108 40deg)",
+    "terracotta-fill": "oklch(60.5% 0.116 44deg / 22%)",
+    "amber": "oklch(79% 0.128 74deg)",
+    "amber-soft": "oklch(86.5% 0.083 80deg)",
+    "teal": "oklch(55% 0.05 205deg)",
+    "paper": "oklch(97% 0.010 82deg)",
+    "paper-2": "oklch(94.8% 0.015 78deg)",
+    "paper-3": "oklch(91.8% 0.020 74deg)",
+    "sand": "oklch(88.4% 0.025 71deg)",
+    "line": "oklch(85.5% 0.018 68deg)",
+    "ink": "oklch(26.2% 0.021 52deg)",
+    "ink-soft": "oklch(43% 0.022 52deg)",
+    "charcoal": "oklch(22.2% 0.016 52deg)",
+    "charcoal-2": "oklch(28.2% 0.020 50deg)",
+    "line-dark": "oklch(40% 0.020 55deg)",
+    "cream": "oklch(94.5% 0.016 80deg)",
+    "cream-soft": "oklch(79.5% 0.021 78deg)"
+  },
+  "type": {
+    "families": [
+      {
+        "family": "Hanken Grotesk",
+        "count": 348,
+        "headings": 69,
+        "text": 196,
+        "buttons": 83
+      },
+      {
+        "family": "Schibsted Grotesk",
+        "count": 276,
+        "headings": 275,
+        "text": 1,
+        "buttons": 0
+      },
+      {
+        "family": "monospace",
+        "count": 1,
+        "headings": 0,
+        "text": 1,
+        "buttons": 0
+      }
+    ],
+    "headingFamily": "Schibsted Grotesk",
+    "bodyFamily": "Hanken Grotesk",
+    "files": [
+      {
+        "file": "stardust/current/assets/fonts/Jqz55SSPQuCQF3t8uOwiUL-taUTtap9GayojdSFO.woff2",
+        "licence": "OFL"
+      },
+      {
+        "file": "stardust/current/assets/fonts/Jqz55SSPQuCQF3t8uOwiUL-taUTtap9IayojdSFOd1I.woff2",
+        "licence": "OFL"
+      },
+      {
+        "file": "stardust/current/assets/fonts/ieVn2YZDLWuGJpnzaiwFXS9tYtpQ59CxCis4UvI.woff2",
+        "licence": "OFL"
+      },
+      {
+        "file": "stardust/current/assets/fonts/ieVn2YZDLWuGJpnzaiwFXS9tYtpS59CxCis4UvI.woff2",
+        "licence": "OFL"
+      },
+      {
+        "file": "stardust/current/assets/fonts/ieVn2YZDLWuGJpnzaiwFXS9tYtpT59CxCis4UvI.woff2",
+        "licence": "OFL"
+      },
+      {
+        "file": "stardust/current/assets/fonts/ieVn2YZDLWuGJpnzaiwFXS9tYtpd59CxCis4.woff2",
+        "licence": "OFL"
+      }
+    ],
+    "scaleAudit": {
+      "kind": "ad-hoc",
+      "note": "fluid clamp ramp"
+    }
+  },
+  "motifs": {
+    "radius": "22px",
+    "shadows": {
+      "shadow-sm": "0 1px 2px oklch(30% 0.03 50deg / 6%), 0 2px 8px oklch(30% 0.03 50deg / 5%)",
+      "shadow-md": "0 4px 14px oklch(30% 0.03 50deg / 7%), 0 14px 34px oklch(30% 0.03 50deg / 8%)",
+      "shadow-lg": "0 14px 34px oklch(26% 0.03 50deg / 10%), 0 34px 80px oklch(26% 0.03 50deg / 13%)"
+    }
+  },
+  "iconFont": null,
+  "systemComponents": [
+    {
+      "id": "site-header",
+      "source": "/fragments/nav"
+    },
+    {
+      "id": "site-footer",
+      "source": "/fragments/footer"
+    }
+  ],
+  "voice": {
+    "heroHeadline": "Every morning, perfected.",
+    "ctas": [],
+    "heroImage": null,
+    "heroMedium": null
+  }
+}

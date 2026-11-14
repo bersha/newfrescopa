@@ -1,0 +1,919 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-13T20:14:30.779Z",
+    "readArtifacts": [
+      "stardust/migrated",
+      "stardust/state.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-13T21:29:47.420Z",
+  "pages": [
+    {
+      "slug": "beverages",
+      "path": "/beverages",
+      "title": "Three ways to fill a cup.",
+      "templateId": "landing",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a1d925f0f1a16cfc854fccfe0b0541168e0cc8bfa6b6c185f2ba6f5e0bfa2c16",
+        "currentStatePath": "stardust/current/pages/beverages.json",
+        "sourceUrl": "https://new.frescopa.coffee/beverages"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/beverages",
+        "deployedAt": "2026-11-13T21:13:28.436Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.01,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "beverages-coffee",
+      "path": "/beverages/coffee",
+      "title": "Coffee, the way you take it.",
+      "templateId": "listing",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:1cbb72e1fb2d73b677b251a3471c792f1db6109f332229924b6fdc1f85b98565",
+        "currentStatePath": "stardust/current/pages/beverages-coffee.json",
+        "sourceUrl": "https://new.frescopa.coffee/beverages/coffee"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/beverages/coffee",
+        "deployedAt": "2026-11-13T21:07:04.373Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 2.42,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "blog",
+      "path": "/blog",
+      "title": "Notes on the morning ritual.",
+      "templateId": "listing",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:a5be23d62169ffe8f4d484775d5e461ead77fc0eb1871f95be33ce0f3fbb2aca",
+        "currentStatePath": "stardust/current/pages/blog.json",
+        "sourceUrl": "https://new.frescopa.coffee/blog"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/blog",
+        "deployedAt": "2026-11-13T21:07:04.301Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.03,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "blog-atelier-taste",
+      "path": "/blog/atelier-taste",
+      "title": "How the Atelier learns your taste",
+      "templateId": "blog-atelier-taste",
+      "source": {
+        "migratedHtml": "content/blog/atelier-taste.html",
+        "metaJson": "stardust/migrated/blog/atelier-taste/_meta.json",
+        "sourceHash": "sha256:434c12236b81e37088bc1853b3573735bc8dc72e5814e7cb906e4868b37689d5",
+        "sourceUrl": "https://new.frescopa.coffee/blog/atelier-taste"
+      },
+      "blocks": [
+        "article-byline",
+        "article-share",
+        "cards-article"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/blog/atelier-taste",
+        "deployedAt": "2026-11-13T21:04:13.574Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "cafe",
+      "path": "/cafe",
+      "title": "Come taste the whole of Fréscopa.",
+      "templateId": "cafe",
+      "source": {
+        "migratedHtml": "content/cafe.html",
+        "metaJson": "stardust/migrated/cafe/_meta.json",
+        "sourceHash": "sha256:c5f9806490a37b07810ce75599c74d0375335c0925f41d123379499c62fbcbfc",
+        "sourceUrl": "https://new.frescopa.coffee/cafe"
+      },
+      "blocks": [
+        "hero",
+        "cards-reasons",
+        "columns",
+        "cards-event",
+        "stats-row",
+        "store-locator",
+        "booking-form"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/cafe",
+        "deployedAt": "2026-11-13T20:59:46.026Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "fragments-footer",
+      "path": "/fragments/footer",
+      "title": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the machines that make them sing.",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:f87de4f78f9e4322b246021cbb42f3d157b78518f5b62fe536e00d14a645d5ea",
+        "currentStatePath": "stardust/current/pages/fragments-footer.json",
+        "sourceUrl": "https://new.frescopa.coffee/fragments/footer"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/fragments/footer",
+        "deployedAt": "2026-11-13T20:35:10.946Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "fragments-nav",
+      "path": "/fragments/nav",
+      "title": "Fréscopa",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:60a3c4159d153ecf579921b3f5c0d534cb728180da8bc792848e82fc290e8648",
+        "currentStatePath": "stardust/current/pages/fragments-nav.json",
+        "sourceUrl": "https://new.frescopa.coffee/fragments/nav"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/fragments/nav",
+        "deployedAt": "2026-11-13T20:35:10.882Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "header",
+      "path": "/header",
+      "title": "header",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:18e9811eae36c1c49417c13ceff5c5c56ea05eb09075dab6a5d5df3e66644a09",
+        "currentStatePath": "stardust/current/pages/header.json",
+        "sourceUrl": "https://new.frescopa.coffee/header"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/header",
+        "deployedAt": "2026-11-13T21:02:52.579Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        },
+        "type": "fragment"
+      }
+    },
+    {
+      "slug": "index",
+      "path": "/",
+      "title": "Fréscopa Atelier - Every morning, perfected.",
+      "templateId": "index",
+      "source": {
+        "migratedHtml": "stardust/migrated/index.html",
+        "metaJson": "stardust/migrated/_meta.json",
+        "sourceHash": "sha256:d219089b8622ef875750b14a9054d0a8ef0be79d55ef53a18f66dc9a9706a737",
+        "sourceUrl": "https://new.frescopa.coffee/"
+      },
+      "blocks": [
+        "hero",
+        "columns",
+        "taste-profile",
+        "mood-calendar",
+        "cards-product",
+        "cards-quote"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/",
+        "deployedAt": "2026-11-13T20:46:42.858Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "japan",
+      "path": "/japan",
+      "title": "フレスコパ、東京にやってきます。",
+      "templateId": "landing",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:f74cb09360b132bcdc9b826e1a210532bdd6e477f0ca85e10cc88704069bd38b",
+        "currentStatePath": "stardust/current/pages/japan.json",
+        "sourceUrl": "https://new.frescopa.coffee/japan"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/japan",
+        "deployedAt": "2026-11-13T21:13:28.499Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "machines",
+      "path": "/machines",
+      "title": "Made in the workshop.",
+      "templateId": "machines",
+      "source": {
+        "migratedHtml": "content/machines.html",
+        "metaJson": "stardust/migrated/machines/_meta.json",
+        "sourceHash": "sha256:44b52864fd9d7d74ed4150e391f3a7a0c2f269791d7a7e99b9c8f37f7856d214",
+        "sourceUrl": "https://new.frescopa.coffee/machines"
+      },
+      "blocks": [
+        "machine-filter",
+        "cards-machine"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/machines",
+        "deployedAt": "2026-11-13T20:52:59.868Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "machines-atelier",
+      "path": "/machines/atelier",
+      "title": "The Atelier — Fréscopa",
+      "templateId": "machines-atelier",
+      "source": {
+        "migratedHtml": "content/machines/atelier.html",
+        "metaJson": "stardust/migrated/machines/atelier/_meta.json",
+        "sourceHash": "sha256:55711b36099ac659344a87c7de603ec78e77b3115ef9688d9c7415fc492d99d1",
+        "sourceUrl": "https://new.frescopa.coffee/machines/atelier"
+      },
+      "blocks": [
+        "product-hero",
+        "product-jumpnav",
+        "steps-tabs",
+        "media-video",
+        "accordion",
+        "spec-table",
+        "taste-profile",
+        "reviews",
+        "bundle-cards",
+        "cards-product"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/machines/atelier",
+        "deployedAt": "2026-11-13T21:08:42.646Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "myatelier",
+      "path": "/myatelier",
+      "title": "Welcome back.",
+      "templateId": "myatelier",
+      "source": {
+        "migratedHtml": "content/myatelier.html",
+        "metaJson": "stardust/migrated/myatelier/_meta.json",
+        "sourceHash": "sha256:0733ef4f8324a928f9b4aa6681b77e9fe4ec26d37701953076ec76c712813acf",
+        "sourceUrl": "https://new.frescopa.coffee/myatelier"
+      },
+      "blocks": [
+        "account-signin"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/myatelier",
+        "deployedAt": "2026-11-13T21:09:53.969Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0.01,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "of1",
+      "path": "/of1",
+      "title": "main--frescopa26--markszulc.aem.live — Ask Anything",
+      "templateId": "of1",
+      "source": {
+        "migratedHtml": "content/of1.html",
+        "metaJson": "stardust/migrated/of1/_meta.json",
+        "sourceHash": "sha256:033ecd7546ac8b4d013040231ec05d09d531b841aec79c6982003ad758a1eaca",
+        "sourceUrl": "https://new.frescopa.coffee/of1"
+      },
+      "blocks": [
+        "of1"
+      ],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/of1",
+        "deployedAt": "2026-11-13T21:11:19.654Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        },
+        "type": "app"
+      }
+    },
+    {
+      "slug": "of1-knowledge-atelier",
+      "path": "/of1/knowledge/atelier",
+      "title": "The Atelier",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:042be25ba5ef102fa7fdbe4b056cd3922b54f54df93084800d436e5f3e331fd4",
+        "currentStatePath": "stardust/current/pages/of1-knowledge-atelier.json",
+        "sourceUrl": "https://new.frescopa.coffee/of1/knowledge/atelier"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/of1/knowledge/atelier",
+        "deployedAt": "2026-11-13T21:02:52.648Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "of1-knowledge-beverages",
+      "path": "/of1/knowledge/beverages",
+      "title": "Three ways to fill a cup.",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:c9d2adbfeed2806efd391cbf5a10a65ae65fa49af3fbe78a23df1e731af0a0e6",
+        "currentStatePath": "stardust/current/pages/of1-knowledge-beverages.json",
+        "sourceUrl": "https://new.frescopa.coffee/of1/knowledge/beverages"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/of1/knowledge/beverages",
+        "deployedAt": "2026-11-13T21:02:52.834Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "of1-knowledge-cafe",
+      "path": "/of1/knowledge/cafe",
+      "title": "Come taste the whole of Fréscopa.",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:81b4f1903265559e3f128551c1123f4d84a0afb9fd7489ef29a3381019aaaa17",
+        "currentStatePath": "stardust/current/pages/of1-knowledge-cafe.json",
+        "sourceUrl": "https://new.frescopa.coffee/of1/knowledge/cafe"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/of1/knowledge/cafe",
+        "deployedAt": "2026-11-13T21:02:52.773Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "of1-knowledge-japan",
+      "path": "/of1/knowledge/japan",
+      "title": "フレスコパ、東京にやってきます。",
+      "templateId": "static",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:82fecc28c2a4814aa2848e9b86897fe0f8dc51b2eedf521b47da840eae1486a0",
+        "currentStatePath": "stardust/current/pages/of1-knowledge-japan.json",
+        "sourceUrl": "https://new.frescopa.coffee/of1/knowledge/japan"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/of1/knowledge/japan",
+        "deployedAt": "2026-11-13T21:02:52.711Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "of1-knowledge-machines",
+      "path": "/of1/knowledge/machines",
+      "title": "Made in the workshop.",
+      "templateId": "of1-knowledge-machines",
+      "source": {
+        "migratedHtml": "content/of1/knowledge/machines.html",
+        "metaJson": "stardust/migrated/of1/knowledge/machines/_meta.json",
+        "sourceHash": "sha256:f55d1a005b3faf0925e18f836c3d547bfa9c30b0b5860606009e99992c040c3d",
+        "sourceUrl": "https://new.frescopa.coffee/of1/knowledge/machines"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/of1/knowledge/machines",
+        "deployedAt": "2026-11-13T20:42:01.286Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "proffee",
+      "path": "/proffee",
+      "title": "The rise of proffee — protein coffee, the Fréscopa way",
+      "templateId": "landing",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:febacec15fba1fc9960756c752c847f2695328259266ab43c6133bcab822c59c",
+        "currentStatePath": "stardust/current/pages/proffee.json",
+        "sourceUrl": "https://new.frescopa.coffee/proffee"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.page/proffee",
+        "deployedAt": "2026-11-13T21:16:15.397Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    },
+    {
+      "slug": "proffee-jp",
+      "path": "/proffee-jp",
+      "title": "プロフィーの広がり — プロテインコーヒーを、フレスコパらしく",
+      "templateId": "landing",
+      "representative": null,
+      "source": {
+        "migratedHtml": null,
+        "metaJson": null,
+        "sourceHash": "sha256:d160ab9aea23049d0e3f1b2e9ed5b608d704df7ca3d3d3d07e35312a7622b31a",
+        "currentStatePath": "stardust/current/pages/proffee-jp.json",
+        "sourceUrl": "https://new.frescopa.coffee/proffee-jp"
+      },
+      "blocks": [],
+      "widgets": [],
+      "delivery": {
+        "status": "verified",
+        "deployedUrl": "https://main--7c29ab64--aemcoder.aem.live/proffee-jp",
+        "deployedAt": "2026-11-13T21:13:28.566Z",
+        "verifiedAt": "2026-11-13T21:29:47.420Z",
+        "error": null,
+        "gate": {
+          "pass": true,
+          "pct": 0,
+          "heightDelta": 0,
+          "clipped": 0,
+          "content": {
+            "missing": 0,
+            "hidden": 0,
+            "controlState": 0,
+            "missingButtons": 0,
+            "hiddenButtons": 0,
+            "findings": 0,
+            "variable": []
+          },
+          "reasons": [],
+          "override": null,
+          "table": "stardust/replica/gates/all-360/summary.json",
+          "at": "2026-11-13T21:25:06.724Z"
+        }
+      }
+    }
+  ]
+}

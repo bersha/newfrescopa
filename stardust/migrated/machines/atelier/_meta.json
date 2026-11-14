@@ -1,0 +1,72 @@
+{
+  "slug": "machines-atelier",
+  "type": "program",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "product-hero",
+    "product-jumpnav",
+    "steps-tabs",
+    "media-video",
+    "accordion",
+    "spec-table",
+    "taste-profile",
+    "reviews",
+    "bundle-cards",
+    "cards-product"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "div",
+    "div",
+    "alt",
+    "dark",
+    "div",
+    "alt",
+    "div",
+    "alt",
+    "div",
+    "alt",
+    "div",
+    "div"
+  ],
+  "canonShas": {
+    "header": "534598da2521",
+    "footer": "736a7ff44f02",
+    "css": "4df8e3921e99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "The Atelier — Fréscopa",
+    "description": "The first Fréscopa machine with a feel for your mornings. It learns what you love, reads the shape of your day, and quietly takes care ...",
+    "canonical": "https://new.frescopa.coffee/machines/atelier",
+    "lang": null
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "The Atelier — Fréscopa",
+    "description": "The first Fréscopa machine with a feel for your mornings. It learns what you love, reads the shape of your day, and quietly takes care ...",
+    "url": "https://new.frescopa.coffee/machines/atelier"
+  },
+  "migratedAt": "2026-11-13T20:13:39Z",
+  "designMdSha": "104fd13ba944",
+  "designJsonSha": "1449a990b92e",
+  "sourceCurrentSha": "9852ea09a509",
+  "sourceProposedSha": "8feee74a7bd9",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [],
+  "outputPath": "machines/atelier/index.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "machines/atelier/_meta.json",
+  "driverVersion": "1"
+}

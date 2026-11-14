@@ -1,0 +1,38 @@
+[live-session] waiting to pace live navigations to new.frescopa.coffee (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+content-presence @ 1440px (chrome) — origin https://new.frescopa.coffee/cafe (docH 7116, 238 items, HTTP 200) vs served https://main--7c29ab64--aemcoder.aem.page/cafe (docH 7116, 238 items, HTTP 200)
+scope: main vs main (header/footer left to the chrome crop gate; --chrome to include)
+| band | heading | links O/E (+hidden) | buttons O/E (+hidden) | text O/E | images O/E | findings |
+|---|---|---|---|---|---|---|
+| 0 | (top) | 0/0 | 0/0 | 1/1 | 1/1 | - |
+| 1 | come taste the whole of fréscopa. | 2/2 | 0/0 | 2/2 | 0/0 | - |
+| 2 | reasons to make the trip. | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 3 | taste before you commit | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 4 | meet the machines | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 5 | learn from the team | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 6 | somewhere to linger | 0/0 | 0/0 | 5/5 | 0/0 | - |
+| 7 | three rooms, one long morning. | 0/0 | 0/0 | 1/1 | 1/1 | - |
+| 8 | every drink we make, poured to order. | 1/1 | 0/0 | 2/2 | 1/1 | - |
+| 9 | get your hands on the whole line. | 1/1 | 0/0 | 2/2 | 1/1 | - |
+| 10 | learn something, meet someone. | 1/1 | 0/0 | 2/2 | 0/0 | - |
+| 11 | this week at the table. | 0/0 | 0/0 | 4/4 | 0/0 | - |
+| 12 | origins cupping | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 13 | latte-art lab | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 14 | home brewing 101 | 0/0 | 0/0 | 10/10 | 0/0 | - |
+| 15 | slow morning cupping | 0/0 | 0/0 | 4/4 | 0/0 | - |
+| 16 | there's a fréscopa in your town. | 0/0 | 0/0 | 8/8 | 0/0 | - |
+| 17 | the fréscopa flagship | 3/3 | 6/6 | 5/5 | 1/1 | COUNT IMAGES |
+| 18 | fréscopa williamsburg | 1/1 | 2/2 | 0/0 | 4/4 | - |
+| 19 | fréscopa seaport | 1/1 | 1/1 | 0/0 | 0/0 | COUNT IMAGES |
+| 20 | fréscopa back bay | 2/2 | 0/0 | 2/2 | 0/0 | - |
+| 21 | a guided hour with the machine that lear | 1/1 | 1/1 | 1/1 | 0/0 | - |
+| 22 | fréscopa rittenhouse | 1/1 | 1/1 | 10/10 | 0/0 | - |
+| 23 | fréscopa georgetown | 1/1 | 6/6 | 2/2 | 0/0 | - |
+| 24 | fréscopa ponce city market | 1/1 | 0/0 | 1/1 | 0/0 | - |
+| 25 | the kettle's on. the door's open. | 0/0 | 1/1 | 0/0 | 0/0 | - |
+| 26 | fréscopa west loop | 2/2 | 0/0 | 1/1 | 0/0 | - |
+  🟡 COUNT IMAGES: band "the fréscopa flagship": 1 origin → 1 served visible (+3 clipped away)
+  🟡 COUNT IMAGES: band "fréscopa seaport": 0 origin → 0 served visible (+3 clipped away)
+Content: MISSING 0 (headings 0, links 0) / HIDDEN 0 (headings 0, links 0) / control-state 0 / buttons missing 0 hidden 0 / moved 0 extra 0 / count deltas 2
+Findings: 2 (0 structural 🔴)
+Clipped (served side): 0 — origin side 0
+json → stardust/replica/gates/cafe-1440/content-presence-pub1.json

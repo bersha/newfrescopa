@@ -1,0 +1,47 @@
+cap-probe  base 1440 → probe 2560 (from DESIGN.json)
+live   https://new.frescopa.coffee/of1/knowledge/machines
+  shell     1120px  max-width body.appear > main > div.section > div.default-content-wrapper  (tier 2, holds 100% of the text)
+  modules  35 sections: none capped · full-bleed ×35
+  contentMaxWidth 1120px (shell) · shellMaxWidth 1120px · root body.appear > main
+build  http://localhost:8791/of1-knowledge-machines-proposed.html
+  shell     1120px  max-width body.appear > main > div.section > div.default-content-wrapper  (tier 2, holds 100% of the text)
+  modules  35 sections: none capped · full-bleed ×35
+  contentMaxWidth 1120px (shell) · shellMaxWidth 1120px · root body.appear > main
+rows
+  ✓ wrapper cap: live 1120px = build 1120px (±20)
+  ✓ module 1/35: full-bleed on both
+  ✓ module 2/35: full-bleed on both
+  ✓ module 3/35: full-bleed on both
+  ✓ module 4/35: full-bleed on both
+  ✓ module 5/35: full-bleed on both
+  ✓ module 6/35: full-bleed on both
+  ✓ module 7/35: full-bleed on both
+  ✓ module 8/35: full-bleed on both
+  ✓ module 9/35: full-bleed on both
+  ✓ module 10/35: full-bleed on both
+  ✓ module 11/35: full-bleed on both
+  ✓ module 12/35: full-bleed on both
+  ✓ module 13/35: full-bleed on both
+  ✓ module 14/35: full-bleed on both
+  ✓ module 15/35: full-bleed on both
+  ✓ module 16/35: full-bleed on both
+  ✓ module 17/35: full-bleed on both
+  ✓ module 18/35: full-bleed on both
+  ✓ module 19/35: full-bleed on both
+  ✓ module 20/35: full-bleed on both
+  ✓ module 21/35: full-bleed on both
+  ✓ module 22/35: full-bleed on both
+  ✓ module 23/35: full-bleed on both
+  ✓ module 24/35: full-bleed on both
+  ✓ module 25/35: full-bleed on both
+  ✓ module 26/35: full-bleed on both
+  ✓ module 27/35: full-bleed on both
+  ✓ module 28/35: full-bleed on both
+  ✓ module 29/35: full-bleed on both
+  ✓ module 30/35: full-bleed on both
+  ✓ module 31/35: full-bleed on both
+  ✓ module 32/35: full-bleed on both
+  ✓ module 33/35: full-bleed on both
+  ✓ module 34/35: full-bleed on both
+  ✓ module 35/35: full-bleed on both
+cap-probe: PASS at 2560 — 0 of 36 rows failed (evidence stardust/replica/gates/of1-knowledge-machines-2560/cap-iter.json)

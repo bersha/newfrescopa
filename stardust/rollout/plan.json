@@ -1,0 +1,359 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/plan",
+    "writtenAt": "2026-11-13T20:14:37.753Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-13T20:14:37.753Z",
+  "fragments": [],
+  "deliveryOrder": [
+    "fragments-footer",
+    "fragments-nav",
+    "header",
+    "of1-knowledge-atelier",
+    "of1-knowledge-beverages",
+    "of1-knowledge-cafe",
+    "of1-knowledge-japan",
+    "beverages",
+    "japan",
+    "proffee",
+    "proffee-jp",
+    "beverages-coffee",
+    "blog",
+    "blog-atelier-taste",
+    "cafe",
+    "index",
+    "machines",
+    "machines-atelier",
+    "myatelier",
+    "of1",
+    "of1-knowledge-machines"
+  ],
+  "steps": [
+    {
+      "slug": "fragments-footer",
+      "path": "/fragments/footer",
+      "templateId": "static",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "fragments-nav",
+      "path": "/fragments/nav",
+      "templateId": "static",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "header",
+      "path": "/header",
+      "templateId": "static",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "of1-knowledge-atelier",
+      "path": "/of1/knowledge/atelier",
+      "templateId": "static",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "of1-knowledge-beverages",
+      "path": "/of1/knowledge/beverages",
+      "templateId": "static",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "of1-knowledge-cafe",
+      "path": "/of1/knowledge/cafe",
+      "templateId": "static",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "of1-knowledge-japan",
+      "path": "/of1/knowledge/japan",
+      "templateId": "static",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "beverages",
+      "path": "/beverages",
+      "templateId": "landing",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "japan",
+      "path": "/japan",
+      "templateId": "landing",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "proffee",
+      "path": "/proffee",
+      "templateId": "landing",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "proffee-jp",
+      "path": "/proffee-jp",
+      "templateId": "landing",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "beverages-coffee",
+      "path": "/beverages/coffee",
+      "templateId": "listing",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "blog",
+      "path": "/blog",
+      "templateId": "listing",
+      "status": "content-pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    },
+    {
+      "slug": "blog-atelier-taste",
+      "path": "/blog/atelier-taste",
+      "templateId": "blog-atelier-taste",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "article-byline",
+          "edsBlockName": "article-byline"
+        },
+        {
+          "id": "article-share",
+          "edsBlockName": "article-share"
+        },
+        {
+          "id": "cards-article",
+          "edsBlockName": "cards-article"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "cafe",
+      "path": "/cafe",
+      "templateId": "cafe",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero"
+        },
+        {
+          "id": "cards-reasons",
+          "edsBlockName": "cards-reasons"
+        },
+        {
+          "id": "columns",
+          "edsBlockName": "columns"
+        },
+        {
+          "id": "cards-event",
+          "edsBlockName": "cards-event"
+        },
+        {
+          "id": "stats-row",
+          "edsBlockName": "stats-row"
+        },
+        {
+          "id": "store-locator",
+          "edsBlockName": "store-locator"
+        },
+        {
+          "id": "booking-form",
+          "edsBlockName": "booking-form"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "index",
+      "path": "/",
+      "templateId": "index",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "taste-profile",
+          "edsBlockName": "taste-profile"
+        },
+        {
+          "id": "mood-calendar",
+          "edsBlockName": "mood-calendar"
+        },
+        {
+          "id": "cards-product",
+          "edsBlockName": "cards-product"
+        },
+        {
+          "id": "cards-quote",
+          "edsBlockName": "cards-quote"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "hero",
+          "edsBlockName": "hero",
+          "convertedBy": "cafe"
+        },
+        {
+          "id": "columns",
+          "edsBlockName": "columns",
+          "convertedBy": "cafe"
+        }
+      ]
+    },
+    {
+      "slug": "machines",
+      "path": "/machines",
+      "templateId": "machines",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "machine-filter",
+          "edsBlockName": "machine-filter"
+        },
+        {
+          "id": "cards-machine",
+          "edsBlockName": "cards-machine"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "machines-atelier",
+      "path": "/machines/atelier",
+      "templateId": "machines-atelier",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "product-hero",
+          "edsBlockName": "product-hero"
+        },
+        {
+          "id": "product-jumpnav",
+          "edsBlockName": "product-jumpnav"
+        },
+        {
+          "id": "steps-tabs",
+          "edsBlockName": "steps-tabs"
+        },
+        {
+          "id": "media-video",
+          "edsBlockName": "media-video"
+        },
+        {
+          "id": "accordion",
+          "edsBlockName": "accordion"
+        },
+        {
+          "id": "spec-table",
+          "edsBlockName": "spec-table"
+        },
+        {
+          "id": "reviews",
+          "edsBlockName": "reviews"
+        },
+        {
+          "id": "bundle-cards",
+          "edsBlockName": "bundle-cards"
+        }
+      ],
+      "reuse": [
+        {
+          "id": "taste-profile",
+          "edsBlockName": "taste-profile",
+          "convertedBy": "index"
+        },
+        {
+          "id": "cards-product",
+          "edsBlockName": "cards-product",
+          "convertedBy": "index"
+        }
+      ]
+    },
+    {
+      "slug": "myatelier",
+      "path": "/myatelier",
+      "templateId": "myatelier",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "account-signin",
+          "edsBlockName": "account-signin"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "of1",
+      "path": "/of1",
+      "templateId": "of1",
+      "status": "pending",
+      "isRepresentative": true,
+      "convert": [
+        {
+          "id": "of1",
+          "edsBlockName": "of1"
+        }
+      ],
+      "reuse": []
+    },
+    {
+      "slug": "of1-knowledge-machines",
+      "path": "/of1/knowledge/machines",
+      "templateId": "of1-knowledge-machines",
+      "status": "pending",
+      "isRepresentative": false,
+      "convert": [],
+      "reuse": []
+    }
+  ]
+}

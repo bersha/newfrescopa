@@ -1,0 +1,551 @@
+{
+  "_provenance": {
+    "renderedBy": "playwright",
+    "fetchedAt": "2026-11-13T19:09:16.133Z",
+    "waitMode": "medium",
+    "waitMs": 2500,
+    "httpStatus": 200
+  },
+  "slug": "beverages-coffee",
+  "url": "https://new.frescopa.coffee/beverages/coffee",
+  "renderedBy": "playwright",
+  "fetchedAt": "2026-11-13T19:09:16.133Z",
+  "finalUrl": "https://new.frescopa.coffee/beverages/coffee",
+  "title": "Coffee, the way you take it.",
+  "description": "Roasted in small batches and ground to order. Not sure where to start? Reach for a house blend if you want the same lovely cup ...",
+  "og": {
+    "title": "Coffee, the way you take it.",
+    "description": "Roasted in small batches and ground to order. Not sure where to start? Reach for a house blend if you want the same lovely cup ...",
+    "image": "https://new.frescopa.coffee/beverages/media_1b8a065c6fa700acfa77788efbc2f6400e3df42e3.png?width=1200&format=pjpg&optimize=medium",
+    "type": null
+  },
+  "headings": [
+    {
+      "tag": "h1",
+      "text": "Coffee, the way you take it."
+    },
+    {
+      "tag": "h2",
+      "text": "Everyday house roasts"
+    },
+    {
+      "tag": "h3",
+      "text": "Morning Blend"
+    },
+    {
+      "tag": "h3",
+      "text": "Dark Roast"
+    },
+    {
+      "tag": "h3",
+      "text": "Breakfast Blend"
+    },
+    {
+      "tag": "h3",
+      "text": "Decaf Reserve"
+    },
+    {
+      "tag": "h3",
+      "text": "Espresso Blend"
+    },
+    {
+      "tag": "h2",
+      "text": "A taste of place"
+    },
+    {
+      "tag": "h3",
+      "text": "Ethiopian"
+    },
+    {
+      "tag": "h3",
+      "text": "Colombian"
+    },
+    {
+      "tag": "h3",
+      "text": "Guatemalan"
+    },
+    {
+      "tag": "h2",
+      "text": "Fast, still Fréscopa"
+    },
+    {
+      "tag": "h3",
+      "text": "Instant Blend"
+    },
+    {
+      "tag": "h3",
+      "text": "Instant Blend — Decaf"
+    },
+    {
+      "tag": "h3",
+      "text": "Shop"
+    },
+    {
+      "tag": "h3",
+      "text": "Company"
+    },
+    {
+      "tag": "h3",
+      "text": "Support"
+    }
+  ],
+  "body": [
+    "Roasted in small batches and ground to order. Not sure where to start? Reach for a house blend if you want the same lovely cup every day, a single origin when you want to taste somewhere specific, or instant for the mornings in a hurry.",
+    "Blends & roasts",
+    "Multi-origin blends built for consistency — the cup that tastes the same, morning after morning. Each comes ground, as whole beans, or in pods.",
+    "A smooth, full-bodied blend to ease you into the day. Naturally balanced with a long, satisfying finish.",
+    "Ground",
+    "Whole bean",
+    "Pods",
+    "from $10",
+    "Deep and warming — perfect for the moments that call for something bold.",
+    "Ground",
+    "Whole bean",
+    "Pods",
+    "from $10",
+    "Bright, clean and energising. The one you reach for before anything else.",
+    "Ground",
+    "Whole bean",
+    "Pods",
+    "from $10",
+    "All the warmth, none of the buzz. Swiss water process, naturally decaffeinated.",
+    "Ground",
+    "Whole bean",
+    "Pods",
+    "from $10",
+    "Crafted for machines. Consistent, crema-rich, and deeply satisfying.",
+    "Ground",
+    "Whole bean",
+    "Pods",
+    "from $10",
+    "Single origin",
+    "Traceable, single-farm beans with a clear sense of where they grew. For the mornings you want to slow down and taste the difference — green beans too, if you roast your own.",
+    "Traceable to a single farm in Yirgacheffe. A tribute to the art of careful growing.",
+    "Ground",
+    "Whole bean",
+    "Raw bean",
+    "Pods",
+    "from $10",
+    "Sun-dried on raised beds in Huila. Rich, round, and endlessly drinkable.",
+    "Ground",
+    "Whole bean",
+    "Raw bean",
+    "Pods",
+    "from $10",
+    "Highland-grown with remarkable depth. Best enjoyed as a slow morning cup.",
+    "Ground",
+    "Whole bean",
+    "Raw bean",
+    "Pods",
+    "from $10",
+    "Instant",
+    "Premium freeze-dried coffee that doesn't taste instant. For travel, the office, or a good cup with no equipment at all.",
+    "Premium instant that doesn't taste like it.",
+    "Regular",
+    "from $13",
+    "All the warmth, none of the buzz. Freeze-dried, naturally decaffeinated.",
+    "Decaf",
+    "from $13"
+  ],
+  "codeBlocks": [],
+  "ctas": [
+    {
+      "label": "The Atelier",
+      "href": "/machines/atelier"
+    },
+    {
+      "label": "Machines",
+      "href": "/machines"
+    },
+    {
+      "label": "Beverages",
+      "href": "/beverages"
+    },
+    {
+      "label": "Café",
+      "href": "/cafe"
+    },
+    {
+      "label": "Journal",
+      "href": "/blog"
+    },
+    {
+      "label": "Home",
+      "href": "/beverages/"
+    },
+    {
+      "label": "All coffee",
+      "href": null
+    },
+    {
+      "label": "Blends & roasts",
+      "href": null
+    },
+    {
+      "label": "Single origin",
+      "href": null
+    },
+    {
+      "label": "Instant",
+      "href": null
+    },
+    {
+      "label": "Morning Blend",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Choose options→",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Dark Roast",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Choose options→",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Breakfast Blend",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Choose options→",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Decaf Reserve",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Choose options→",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Espresso Blend",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Choose options→",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Ethiopian",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Choose options→",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Colombian",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Choose options→",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Guatemalan",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Choose options→",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Instant Blend",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Choose options→",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Instant Blend — Decaf",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Choose options→",
+      "href": "/coffee-pdp"
+    },
+    {
+      "label": "Sign up",
+      "href": null
+    },
+    {
+      "label": "Coffee",
+      "href": "/beverages/coffee"
+    },
+    {
+      "label": "Tea",
+      "href": "/"
+    },
+    {
+      "label": "Cold-pressed juice",
+      "href": "/"
+    },
+    {
+      "label": "Machines",
+      "href": "/machines"
+    },
+    {
+      "label": "Accessories",
+      "href": "/"
+    },
+    {
+      "label": "Our story",
+      "href": "/"
+    },
+    {
+      "label": "Sustainability",
+      "href": "/"
+    },
+    {
+      "label": "Fréscopa Café",
+      "href": "/"
+    },
+    {
+      "label": "Careers",
+      "href": "/"
+    },
+    {
+      "label": "Contact us",
+      "href": "/"
+    },
+    {
+      "label": "Delivery & returns",
+      "href": "/"
+    },
+    {
+      "label": "Register your Atelier",
+      "href": "/"
+    },
+    {
+      "label": "Help centre",
+      "href": "/"
+    }
+  ],
+  "links": [
+    "https://new.frescopa.coffee/",
+    "https://new.frescopa.coffee/machines/atelier",
+    "https://new.frescopa.coffee/machines",
+    "https://new.frescopa.coffee/beverages",
+    "https://new.frescopa.coffee/cafe",
+    "https://new.frescopa.coffee/blog",
+    "https://new.frescopa.coffee/beverages/",
+    "https://new.frescopa.coffee/coffee-pdp",
+    "https://new.frescopa.coffee/beverages/coffee",
+    "https://new.frescopa.coffee/beverages/coffee#"
+  ],
+  "media": {
+    "imgs": [
+      {
+        "src": "https://new.frescopa.coffee/fragments/media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+        "alt": "Fréscopa",
+        "w": 1391,
+        "h": 378
+      },
+      {
+        "src": "https://new.frescopa.coffee/beverages/media_1e4e0e49dda2965360b82c4103b7f0a8c62d06f7f.png?width=2000&format=webply&optimize=medium",
+        "alt": "",
+        "w": 1024,
+        "h": 1024
+      },
+      {
+        "src": "https://new.frescopa.coffee/beverages/media_1eac418729690d6861478da8204c2a8d8ddaa15d0.png?width=2000&format=webply&optimize=medium",
+        "alt": "",
+        "w": 1024,
+        "h": 1024
+      },
+      {
+        "src": "https://new.frescopa.coffee/fragments/media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+        "alt": "Fréscopa",
+        "w": 1391,
+        "h": 378
+      }
+    ],
+    "allImgCount": 7,
+    "cssBackgrounds": [],
+    "modals": [],
+    "videos": [],
+    "iframes": []
+  },
+  "customProps": {
+    "--burgundy": "oklch(34% 0.093 25deg)",
+    "--burgundy-deep": "oklch(27.5% 0.082 26deg)",
+    "--terracotta": "oklch(60.5% 0.116 44deg)",
+    "--terracotta-deep": "oklch(51.5% 0.108 40deg)",
+    "--terracotta-fill": "oklch(60.5% 0.116 44deg / 22%)",
+    "--amber": "oklch(79% 0.128 74deg)",
+    "--amber-soft": "oklch(86.5% 0.083 80deg)",
+    "--teal": "oklch(55% 0.05 205deg)",
+    "--paper": "oklch(97% 0.010 82deg)",
+    "--paper-2": "oklch(94.8% 0.015 78deg)",
+    "--paper-3": "oklch(91.8% 0.020 74deg)",
+    "--sand": "oklch(88.4% 0.025 71deg)",
+    "--line": "oklch(85.5% 0.018 68deg)",
+    "--ink": "oklch(26.2% 0.021 52deg)",
+    "--ink-soft": "oklch(43% 0.022 52deg)",
+    "--charcoal": "oklch(22.2% 0.016 52deg)",
+    "--charcoal-2": "oklch(28.2% 0.020 50deg)",
+    "--line-dark": "oklch(40% 0.020 55deg)",
+    "--cream": "oklch(94.5% 0.016 80deg)",
+    "--cream-soft": "oklch(79.5% 0.021 78deg)",
+    "--bg": "oklch(97% 0.010 82deg)",
+    "--fg": "oklch(26.2% 0.021 52deg)",
+    "--accent": "oklch(60.5% 0.116 44deg)",
+    "--focus": "oklch(60.5% 0.116 44deg)",
+    "--background-color": "oklch(97% 0.010 82deg)",
+    "--text-color": "oklch(26.2% 0.021 52deg)",
+    "--link-color": "oklch(60.5% 0.116 44deg)",
+    "--link-hover-color": "oklch(51.5% 0.108 40deg)",
+    "--font-display": "\"Schibsted Grotesk\", system-ui, sans-serif",
+    "--font-body": "\"Hanken Grotesk\", system-ui, sans-serif",
+    "--heading-font-family": "\"Schibsted Grotesk\", system-ui, sans-serif",
+    "--body-font-family": "\"Hanken Grotesk\", system-ui, sans-serif",
+    "--fs-eyebrow": "0.75rem",
+    "--fs-sm": "0.9375rem",
+    "--fs-body": "1.0625rem",
+    "--fs-body-lg": "clamp(1.125rem, 0.98rem + 0.5vw, 1.3125rem)",
+    "--fs-h4": "clamp(1.25rem, 1.08rem + 0.7vw, 1.6rem)",
+    "--fs-h3": "clamp(1.6rem, 1.25rem + 1.4vw, 2.3rem)",
+    "--fs-h2": "clamp(1.8rem, 1.3rem + 2vw, 2.8rem)",
+    "--fs-h1": "clamp(2.9rem, 1.7rem + 4.6vw, 5.4rem)",
+    "--fs-display": "clamp(3.4rem, 1.1rem + 8.4vw, 8rem)",
+    "--heading-size-xxl": "clamp(2.9rem, 1.7rem + 4.6vw, 5.4rem)",
+    "--heading-size-xl": "clamp(1.8rem, 1.3rem + 2vw, 2.8rem)",
+    "--heading-size-l": "clamp(1.6rem, 1.25rem + 1.4vw, 2.3rem)",
+    "--heading-size-m": "clamp(1.25rem, 1.08rem + 0.7vw, 1.6rem)",
+    "--heading-size-s": "1.0625rem",
+    "--heading-size-xs": "0.9375rem",
+    "--lh-tight": "1.03",
+    "--lh-snug": "1.15",
+    "--lh-body": "1.62",
+    "--tracking-eyebrow": "0.2em",
+    "--tracking-tight": "-0.02em",
+    "--space-3xs": "0.25rem",
+    "--space-2xs": "0.5rem",
+    "--space-xs": "0.75rem",
+    "--space-sm": "1rem",
+    "--space-md": "1.5rem",
+    "--space-lg": "2.5rem",
+    "--space-xl": "4rem",
+    "--space-2xl": "6rem",
+    "--section-y": "72px",
+    "--section-padding": "72px",
+    "--content": "1120px",
+    "--content-wide": "1320px",
+    "--content-narrow": "760px",
+    "--gutter": "clamp(1.25rem, 0.4rem + 3vw, 3rem)",
+    "--nav-height": "72px",
+    "--r-sm": "8px",
+    "--r-md": "14px",
+    "--r-lg": "22px",
+    "--r-xl": "32px",
+    "--r-pill": "999px",
+    "--shadow-sm": "0 1px 2px oklch(30% 0.03 50deg / 6%), 0 2px 8px oklch(30% 0.03 50deg / 5%)",
+    "--shadow-md": "0 4px 14px oklch(30% 0.03 50deg / 7%), 0 14px 34px oklch(30% 0.03 50deg / 8%)",
+    "--shadow-lg": "0 14px 34px oklch(26% 0.03 50deg / 10%), 0 34px 80px oklch(26% 0.03 50deg / 13%)",
+    "--ease-quint": "cubic-bezier(0.22, 1, 0.36, 1)",
+    "--ease-expo": "cubic-bezier(0.16, 1, 0.3, 1)",
+    "--dur-1": "0.35s",
+    "--dur-2": "0.6s",
+    "--dur-3": "0.9s",
+    "--light-color": "oklch(94.8% 0.015 78deg)",
+    "--dark-color": "oklch(22.2% 0.016 52deg)",
+    "--body-font-size-m": "1.0625rem",
+    "--body-font-size-s": "0.9375rem",
+    "--body-font-size-xs": "0.8125rem",
+    "--heading-font-size-xxl": "clamp(2.9rem, 1.7rem + 4.6vw, 5.4rem)",
+    "--heading-font-size-xl": "clamp(1.8rem, 1.3rem + 2vw, 2.8rem)",
+    "--heading-font-size-l": "clamp(1.6rem, 1.25rem + 1.4vw, 2.3rem)",
+    "--heading-font-size-m": "clamp(1.25rem, 1.08rem + 0.7vw, 1.6rem)",
+    "--heading-font-size-s": "clamp(1.125rem, 0.98rem + 0.5vw, 1.3125rem)",
+    "--heading-font-size-xs": "1.0625rem"
+  },
+  "_signals": {
+    "filteredInterstitials": 0,
+    "distinctHeadings": 17,
+    "mainTextLen": 2387,
+    "realImageCount": 4,
+    "trackingOnlyMedia": false,
+    "spaShellSuspect": false,
+    "screenshotMode": "fullPage"
+  },
+  "dynamic": {
+    "endpoints": [
+      {
+        "method": "GET",
+        "host": "new.frescopa.coffee",
+        "path": "/fragments/nav.plain.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 200,
+        "bytes": 406,
+        "hits": 1,
+        "example": "https://new.frescopa.coffee/fragments/nav.plain.html",
+        "sameSite": true
+      },
+      {
+        "method": "GET",
+        "host": "new.frescopa.coffee",
+        "path": "/fragments/footer.plain.html",
+        "query": [],
+        "resourceType": "fetch",
+        "contentType": "text/html",
+        "status": 200,
+        "bytes": 605,
+        "hits": 1,
+        "example": "https://new.frescopa.coffee/fragments/footer.plain.html",
+        "sameSite": true
+      }
+    ],
+    "thirdPartyScriptHosts": [],
+    "truncated": false,
+    "inlineData": [],
+    "globalState": [],
+    "frameworkHints": [],
+    "forms": [
+      {
+        "action": "https://new.frescopa.coffee/beverages/coffee",
+        "hasAction": false,
+        "method": "get",
+        "sameOrigin": true,
+        "fieldCount": 1,
+        "fieldNames": [
+          "footer-email"
+        ],
+        "search": false
+      }
+    ],
+    "ariaLiveRegions": 0,
+    "triggers": [
+      {
+        "marker": "aria-haspopup",
+        "href": "/"
+      }
+    ],
+    "mediaIds": [],
+    "summary": {
+      "sameSiteEndpoints": 2,
+      "thirdPartyEndpoints": 0,
+      "thirdPartyScriptHosts": 0,
+      "inlineDataBlobs": 0,
+      "forms": 1,
+      "searchForms": 0,
+      "hydrated": false
+    }
+  },
+  "screenshot": "assets/screenshots/beverages-coffee.png",
+  "renderedHtml": "pages/beverages-coffee.html",
+  "slots": {
+    "headline": "Coffee, the way you take it.",
+    "blocks": [
+      "alt",
+      "machine-filter",
+      "cards-coffee"
+    ]
+  }
+}

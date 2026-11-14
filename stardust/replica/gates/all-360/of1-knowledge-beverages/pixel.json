@@ -1,0 +1,66 @@
+{
+  "a": "stardust/replica/gates/all-360/of1-knowledge-beverages/origin.png",
+  "b": "stardust/replica/gates/all-360/of1-knowledge-beverages/eds.png",
+  "compared": {
+    "width": 360,
+    "height": 3597,
+    "mode": "overlap"
+  },
+  "heightDelta": 0,
+  "differingPixels": 0,
+  "pct": 0,
+  "threshold": 10,
+  "pass": true,
+  "diff": "stardust/replica/gates/all-360/of1-knowledge-beverages/diff.png",
+  "masks": [],
+  "maskedRows": 0,
+  "textPct": 0,
+  "textBoxes": 68,
+  "textPixels": 313857,
+  "bands": [
+    {
+      "y0": 0,
+      "y1": 500,
+      "pct": 0
+    },
+    {
+      "y0": 500,
+      "y1": 1000,
+      "pct": 0
+    },
+    {
+      "y0": 1000,
+      "y1": 1500,
+      "pct": 0
+    },
+    {
+      "y0": 1500,
+      "y1": 2000,
+      "pct": 0
+    },
+    {
+      "y0": 2000,
+      "y1": 2500,
+      "pct": 0
+    },
+    {
+      "y0": 2500,
+      "y1": 3000,
+      "pct": 0
+    },
+    {
+      "y0": 3000,
+      "y1": 3500,
+      "pct": 0
+    },
+    {
+      "y0": 3500,
+      "y1": 3597,
+      "pct": 0
+    }
+  ],
+  "capturesDropped": {
+    "masks": [],
+    "edsUrl": "https://main--7c29ab64--aemcoder.aem.page/of1/knowledge/beverages"
+  }
+}

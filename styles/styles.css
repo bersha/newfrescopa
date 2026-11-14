@@ -1,73 +1,116 @@
 /*
- * Copyright 2020 Adobe. All rights reserved.
- * This file is licensed to you under the Apache License, Version 2.0 (the "License");
- * you may not use this file except in compliance with the License. You may obtain a copy
- * of the License at http://www.apache.org/licenses/LICENSE-2.0
- *
- * Unless required by applicable law or agreed to in writing, software distributed under
- * the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR REPRESENTATIONS
- * OF ANY KIND, either express or implied. See the License for the specific language
- * governing permissions and limitations under the License.
+ * Fréscopa global styles.
+ * Tokens, default-content typography, buttons, sections and the section
+ * styles the site applies globally. Values are lifted from the source site.
  */
 
 :root {
-  /* colors */
-  --background-color: white;
-  --light-color: #f8f8f8;
-  --dark-color: #505050;
-  --text-color: #131313;
-  --link-color: #3b63fb;
-  --link-hover-color: #1d3ecf;
+  /* brand palette */
+  --burgundy: oklch(34% 0.093 25deg);
+  --burgundy-deep: oklch(27.5% 0.082 26deg);
+  --terracotta: oklch(60.5% 0.116 44deg);
+  --terracotta-deep: oklch(51.5% 0.108 40deg);
+  --terracotta-fill: oklch(60.5% 0.116 44deg / 22%);
+  --amber: oklch(79% 0.128 74deg);
+  --amber-soft: oklch(86.5% 0.083 80deg);
+  --teal: oklch(55% 0.05 205deg);
+  --paper: oklch(97% 0.01 82deg);
+  --paper-2: oklch(94.8% 0.015 78deg);
+  --paper-3: oklch(91.8% 0.02 74deg);
+  --sand: oklch(88.4% 0.025 71deg);
+  --line: oklch(85.5% 0.018 68deg);
+  --ink: oklch(26.2% 0.021 52deg);
+  --ink-soft: oklch(43% 0.022 52deg);
+  --charcoal: oklch(22.2% 0.016 52deg);
+  --charcoal-2: oklch(28.2% 0.02 50deg);
+  --line-dark: oklch(40% 0.02 55deg);
+  --cream: oklch(94.5% 0.016 80deg);
+  --cream-soft: oklch(79.5% 0.021 78deg);
+  --bg: var(--paper);
+  --fg: var(--ink);
+  --accent: var(--terracotta);
+  --focus: var(--terracotta);
+
+  /* EDS-facing colour aliases */
+  --background-color: var(--paper);
+  --light-color: var(--paper-2);
+  --dark-color: var(--charcoal);
+  --text-color: var(--ink);
+  --link-color: var(--terracotta);
+  --link-hover-color: var(--terracotta-deep);
 
   /* fonts */
-  --body-font-family: roboto, roboto-fallback, sans-serif;
-  --heading-font-family: roboto-condensed, roboto-condensed-fallback, sans-serif;
+  --font-display: "Schibsted Grotesk", system-ui, sans-serif;
+  --font-body: "Hanken Grotesk", system-ui, sans-serif;
+  --heading-font-family: var(--font-display);
+  --body-font-family: var(--font-body);
+
+  /* type scale (fluid) */
+  --fs-eyebrow: 0.75rem;
+  --fs-sm: 0.9375rem;
+  --fs-body: 1.0625rem;
+  --fs-body-lg: clamp(1.125rem, 0.98rem + 0.5vw, 1.3125rem);
+  --fs-h4: clamp(1.25rem, 1.08rem + 0.7vw, 1.6rem);
+  --fs-h3: clamp(1.6rem, 1.25rem + 1.4vw, 2.3rem);
+  --fs-h2: clamp(1.8rem, 1.3rem + 2vw, 2.8rem);
+  --fs-h1: clamp(2.9rem, 1.7rem + 4.6vw, 5.4rem);
+  --fs-display: clamp(3.4rem, 1.1rem + 8.4vw, 8rem);
+  --lh-tight: 1.03;
+  --lh-snug: 1.15;
+  --lh-body: 1.62;
+  --tracking-eyebrow: 0.2em;
+  --tracking-tight: -0.02em;
 
   /* body sizes */
-  --body-font-size-m: 22px;
-  --body-font-size-s: 19px;
-  --body-font-size-xs: 17px;
+  --body-font-size-m: var(--fs-body);
+  --body-font-size-s: var(--fs-sm);
+  --body-font-size-xs: 0.8125rem;
 
   /* heading sizes */
-  --heading-font-size-xxl: 55px;
-  --heading-font-size-xl: 44px;
-  --heading-font-size-l: 34px;
-  --heading-font-size-m: 27px;
-  --heading-font-size-s: 24px;
-  --heading-font-size-xs: 22px;
+  --heading-font-size-xxl: var(--fs-h1);
+  --heading-font-size-xl: var(--fs-h2);
+  --heading-font-size-l: var(--fs-h3);
+  --heading-font-size-m: var(--fs-h4);
+  --heading-font-size-s: var(--fs-body-lg);
+  --heading-font-size-xs: var(--fs-body);
 
-  /* nav height */
-  --nav-height: 64px;
-}
+  /* spacing */
+  --space-3xs: 0.25rem;
+  --space-2xs: 0.5rem;
+  --space-xs: 0.75rem;
+  --space-sm: 1rem;
+  --space-md: 1.5rem;
+  --space-lg: 2.5rem;
+  --space-xl: 4rem;
+  --space-2xl: 6rem;
+  --section-y: 72px;
+  --section-padding: var(--section-y);
 
-/* fallback fonts */
-@font-face {
-  font-family: roboto-condensed-fallback;
-  size-adjust: 88.82%;
-  src: local('Arial');
-}
+  /* containers */
+  --content: 1120px;
+  --content-wide: 1320px;
+  --content-narrow: 760px;
+  --gutter: clamp(1.25rem, 0.4rem + 3vw, 3rem);
+  --nav-height: 72px;
 
-@font-face {
-  font-family: roboto-fallback;
-  size-adjust: 99.529%;
-  src: local('Arial');
-}
+  /* radii */
+  --r-sm: 8px;
+  --r-md: 14px;
+  --r-lg: 22px;
+  --r-xl: 32px;
+  --r-pill: 999px;
 
-@media (width >= 900px) {
-  :root {
-    /* body sizes */
-    --body-font-size-m: 18px;
-    --body-font-size-s: 16px;
-    --body-font-size-xs: 14px;
+  /* shadows */
+  --shadow-sm: 0 1px 2px oklch(30% 0.03 50deg / 6%), 0 2px 8px oklch(30% 0.03 50deg / 5%);
+  --shadow-md: 0 4px 14px oklch(30% 0.03 50deg / 7%), 0 14px 34px oklch(30% 0.03 50deg / 8%);
+  --shadow-lg: 0 14px 34px oklch(26% 0.03 50deg / 10%), 0 34px 80px oklch(26% 0.03 50deg / 13%);
 
-    /* heading sizes */
-    --heading-font-size-xxl: 45px;
-    --heading-font-size-xl: 36px;
-    --heading-font-size-l: 28px;
-    --heading-font-size-m: 22px;
-    --heading-font-size-s: 20px;
-    --heading-font-size-xs: 18px;
-  }
+  /* motion */
+  --ease-quint: cubic-bezier(0.22, 1, 0.36, 1);
+  --ease-expo: cubic-bezier(0.16, 1, 0.3, 1);
+  --dur-1: 0.35s;
+  --dur-2: 0.6s;
+  --dur-3: 0.9s;
 }
 
 body {
@@ -77,7 +120,7 @@ body {
   color: var(--text-color);
   font-family: var(--body-font-family);
   font-size: var(--body-font-size-m);
-  line-height: 1.6;
+  line-height: var(--lh-body);
 }
 
 body.appear {
@@ -86,6 +129,11 @@ body.appear {
 
 header {
   height: var(--nav-height);
+}
+
+/* the footer reserves its charcoal ground before the block decorates */
+footer {
+  background-color: var(--charcoal);
 }
 
 header .header,
@@ -98,6 +146,7 @@ footer .footer[data-block-status="loaded"] {
   visibility: visible;
 }
 
+/* default content */
 h1,
 h2,
 h3,
@@ -107,13 +156,25 @@ h6 {
   margin-top: 0.8em;
   margin-bottom: 0.25em;
   font-family: var(--heading-font-family);
-  font-weight: 600;
-  line-height: 1.25;
+  font-weight: 700;
+  line-height: var(--lh-snug);
+  letter-spacing: var(--tracking-tight);
+  color: var(--burgundy);
   scroll-margin: 40px;
 }
 
-h1 { font-size: var(--heading-font-size-xxl); }
-h2 { font-size: var(--heading-font-size-xl); }
+h1 {
+  font-size: var(--heading-font-size-xxl);
+  font-weight: 800;
+  line-height: var(--lh-tight);
+  color: var(--ink);
+}
+
+h2 {
+  margin-top: 0;
+  font-size: var(--heading-font-size-xl);
+}
+
 h3 { font-size: var(--heading-font-size-l); }
 h4 { font-size: var(--heading-font-size-m); }
 h5 { font-size: var(--heading-font-size-s); }
@@ -129,6 +190,11 @@ blockquote {
   margin-bottom: 0.25em;
 }
 
+main p {
+  color: var(--ink-soft);
+  line-height: var(--lh-body);
+}
+
 code,
 pre {
   font-size: var(--body-font-size-s);
@@ -142,15 +208,35 @@ pre {
   white-space: pre;
 }
 
-main > div {
-  margin: 40px 16px;
-}
-
 input,
 textarea,
 select,
 button {
   font: inherit;
+}
+
+main img {
+  max-width: 100%;
+  width: auto;
+  height: auto;
+}
+
+/* default-content images reserve their authored box before they load (same
+   rendered size once loaded; browsers without typed attr() keep width: auto) */
+main .default-content-wrapper img[width][height] {
+  /* stylelint-disable-next-line declaration-property-value-no-unknown */
+  width: attr(width px, auto);
+}
+
+.icon {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+}
+
+.icon img {
+  width: 100%;
+  height: 100%;
 }
 
 /* links */
@@ -165,7 +251,7 @@ a:hover {
   text-decoration: underline;
 }
 
-/* buttons */
+/* buttons: **link** = primary, _link_ = secondary, **_link_** = accent */
 p.button-wrapper {
   margin: 12px 0;
 }
@@ -176,25 +262,41 @@ button.button {
   display: inline-flex;
   align-items: center;
   justify-content: center;
+  gap: 0.5em;
   max-width: 100%;
   margin: 0;
-  border: 2px solid transparent;
-  border-radius: 2.4em;
-  padding: 0.5em 1.2em;
+  border: 1px solid var(--terracotta);
+  border-radius: var(--r-pill);
+  padding: 0.85em 1.6em;
   font: inherit;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.25;
+  letter-spacing: 0.01em;
+  background-color: var(--terracotta);
+  color: var(--cream);
   text-decoration: none;
-  cursor: pointer;
+  white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  white-space: nowrap;
+  cursor: pointer;
+  transition:
+    background-color var(--dur-1) var(--ease-quint),
+    border-color var(--dur-1) var(--ease-quint),
+    color var(--dur-1) var(--ease-quint);
+}
+
+a.button:any-link:hover,
+button.button:hover {
+  border-color: var(--terracotta-deep);
+  background-color: var(--terracotta-deep);
+  color: var(--cream);
+  text-decoration: none;
 }
 
 a.button[aria-disabled="true"],
 button.button:disabled {
-  cursor: not-allowed;
   pointer-events: none;
+  cursor: not-allowed;
 }
 
 a.button.primary,
@@ -213,17 +315,6 @@ button.button.primary:focus-visible {
   color: var(--light-color);
 }
 
-a.button.primary[aria-disabled="true"],
-a.button.primary[aria-disabled="true"]:hover,
-a.button.primary[aria-disabled="true"]:focus-visible,
-button.button.primary:disabled,
-button.button.primary:disabled:hover,
-button.button.primary:disabled:focus-visible {
-  background-color: var(--light-color);
-  border-color: var(--light-color);
-  color: var(--dark-color);
-}
-
 a.button.secondary,
 button.button.secondary {
   border-color: var(--text-color);
@@ -240,18 +331,6 @@ button.button.secondary:focus-visible {
   color: var(--dark-color);
 }
 
-a.button.secondary[aria-disabled="true"],
-a.button.secondary[aria-disabled="true"]:hover,
-a.button.secondary[aria-disabled="true"]:focus-visible,
-button.button.secondary:disabled,
-button.button.secondary:disabled:hover,
-button.button.secondary:disabled:focus-visible {
-  background-color: var(--light-color);
-  border-color: var(--light-color);
-  color: var(--dark-color);
-}
-
-/* high-impact call-to-action */
 a.button.accent,
 button.button.accent {
   border-color: var(--link-color);
@@ -267,59 +346,730 @@ button.button.accent:focus-visible {
   background-color: var(--link-hover-color);
 }
 
-a.button.accent[aria-disabled="true"],
-a.button.accent[aria-disabled="true"]:hover,
-a.button.accent[aria-disabled="true"]:focus-visible,
-button.button.accent:disabled,
-button.button.accent:disabled:hover,
-button.button.accent:disabled:focus-visible {
-  background-color: var(--light-color);
+a.button:is(.primary, .secondary, .accent)[aria-disabled="true"],
+button.button:is(.primary, .secondary, .accent):disabled {
   border-color: var(--light-color);
+  background-color: var(--light-color);
   color: var(--dark-color);
 }
 
-main img {
-  max-width: 100%;
-  width: auto;
-  height: auto;
-}
-
-.icon {
-  display: inline-block;
-  height: 24px;
-  width: 24px;
-}
-
-.icon img {
-  height: 100%;
-  width: 100%;
+/* eyebrow: small uppercase terracotta label (also applied automatically to
+   the first paragraph of a standalone default-content wrapper, see below) */
+.eyebrow {
+  font-family: var(--font-body);
+  font-size: var(--fs-eyebrow);
+  font-weight: 500;
+  letter-spacing: var(--tracking-eyebrow);
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: var(--terracotta);
 }
 
 /* sections */
+main > div {
+  margin: 40px 16px;
+}
+
 main > .section {
-  margin: 40px 0;
+  margin: 0;
+  padding: var(--section-y) 0;
 }
 
 main > .section > div {
-  max-width: 1200px;
+  box-sizing: border-box;
+  max-width: var(--content);
   margin: auto;
-  padding: 0 24px;
+  padding: 0 var(--gutter);
 }
 
-main > .section:first-of-type {
-  margin-top: 0;
+/* section styles (section-metadata "style") */
+main > .section:is(.intro, .mood, .sustain) {
+  background-color: var(--paper);
 }
 
-@media (width >= 900px) {
-  main > .section > div {
-    padding: 0 32px;
+main > .section:is(.light, .highlight, .feed, .voices, .learn, .alt) {
+  background-color: var(--paper-2);
+}
+
+main > .section.dark {
+  position: relative;
+  overflow: hidden;
+  background-color: var(--charcoal);
+  color: var(--cream);
+}
+
+/* amber glow rising from the bottom centre */
+main > .section.dark::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: radial-gradient(60% 80% at 50% 120%, oklch(79% 0.128 74deg / 20%), transparent 70%);
+  pointer-events: none;
+}
+
+main .section.dark :is(h1, h2, h3, h4, h5, h6, p) {
+  color: var(--cream);
+}
+
+main .section.dark a.button:any-link {
+  color: var(--amber);
+}
+
+/* scroll reveal (classes added by scripts.js; never hides content without JS) */
+main .reveal {
+  opacity: 0;
+  transform: translateY(22px);
+  transition:
+    opacity var(--dur-3) var(--ease-expo),
+    transform var(--dur-3) var(--ease-expo);
+  transition-delay: var(--reveal-delay, 0s);
+}
+
+main .reveal.is-in {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  main .reveal {
+    opacity: 1;
+    transform: none;
+    transition: none;
   }
 }
 
-/* section metadata */
-main .section.light,
-main .section.highlight {
-  background-color: var(--light-color);
-  margin: 0;
-  padding: 40px 0;
+/* stylelint-disable no-descending-specificity */
+
+/* generic eyebrow: first paragraph of a standalone default-content wrapper
+   (sections with their own head treatment are excluded) */
+main .section:not(.dark, .feed, .voices, :has(.cards-coffee), :has(.article-byline))
+  .default-content-wrapper > p:first-child {
+  margin: 0 0 0.6rem;
+  font-family: var(--font-body);
+  font-size: var(--fs-eyebrow);
+  font-weight: 500;
+  letter-spacing: var(--tracking-eyebrow);
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: var(--terracotta);
 }
+
+/* dark CTA band: centred promise, sub-line and two pill links */
+main .section.dark .default-content-wrapper {
+  position: relative;
+  max-width: var(--content);
+  margin-inline: auto;
+  padding: 0 var(--gutter);
+  text-align: center;
+}
+
+main .section.dark .default-content-wrapper p:not(
+  .default-content-wrapper :is(p, :has(p)) ~ p,
+  .default-content-wrapper :is(p, :has(p)) ~ * p
+) {
+  margin: 0 auto;
+  max-width: 20ch;
+  font-family: var(--font-display);
+  font-size: clamp(2.2rem, 5.4vw, 4.2rem);
+  font-weight: 700;
+  line-height: 1.08;
+  letter-spacing: var(--tracking-tight);
+  color: var(--cream);
+}
+
+main .section.dark .default-content-wrapper p:not(
+  .default-content-wrapper :is(p, :has(p)) ~ p,
+  .default-content-wrapper :is(p, :has(p)) ~ * p
+) em {
+  font-style: normal;
+  font-weight: 800;
+  color: var(--amber);
+}
+
+main .section.dark .default-content-wrapper :is(p, :has(p)) ~ p:not(:has(a)),
+main .section.dark .default-content-wrapper :is(p, :has(p)) ~ * p:not(:has(a)) {
+  margin: 1.4rem auto 0;
+  max-width: 34ch;
+  font-family: var(--font-body);
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  color: var(--cream-soft);
+}
+
+main .section.dark .default-content-wrapper p:has(a) {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 0.9rem;
+  margin: 2.3rem 0 0;
+}
+
+main .section.dark .default-content-wrapper p:has(a) a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  border: 1px solid transparent;
+  border-radius: var(--r-pill);
+  padding: 0.85em 1.5em;
+  font-family: var(--font-body);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  line-height: 1.25;
+  text-decoration: none;
+  background-color: var(--terracotta);
+  color: var(--cream);
+  transition:
+    background-color var(--dur-1) var(--ease-quint),
+    border-color var(--dur-1) var(--ease-quint),
+    color var(--dur-1) var(--ease-quint);
+}
+
+main .section.dark .default-content-wrapper p:has(a) a:hover {
+  border-color: var(--terracotta-deep);
+  background-color: var(--terracotta-deep);
+  color: var(--cream);
+}
+
+main .section.dark .default-content-wrapper p:has(a) a:last-child {
+  border-color: oklch(94.5% 0.016 80deg / 34%);
+  background-color: transparent;
+  color: var(--cream);
+}
+
+main .section.dark .default-content-wrapper p:has(a) a:last-child:hover {
+  border-color: var(--cream);
+  background-color: oklch(94.5% 0.016 80deg / 12%);
+  color: var(--cream);
+}
+
+/* feed head: eyebrow, heading and intro (two columns at desktop) */
+main .section.feed .default-content-wrapper {
+  margin-bottom: 3.2rem;
+}
+
+main .section.feed .default-content-wrapper > p:first-child {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: var(--fs-eyebrow);
+  font-weight: 500;
+  letter-spacing: var(--tracking-eyebrow);
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: var(--terracotta);
+}
+
+main .section.feed .default-content-wrapper > h2 {
+  margin: 1rem 0 0;
+  font-size: var(--fs-h2);
+  font-weight: 800;
+  line-height: var(--lh-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--burgundy);
+}
+
+main .section.feed .default-content-wrapper > p:last-child {
+  margin: 1.2rem 0 0;
+  font-size: var(--fs-body-lg);
+  line-height: var(--lh-body);
+  color: var(--ink-soft);
+}
+
+@media (width >= 900px) {
+  main .section.feed .default-content-wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 2rem;
+    align-items: end;
+  }
+
+  main .section.feed .default-content-wrapper > p:first-child,
+  main .section.feed .default-content-wrapper > h2 {
+    grid-column: 1;
+  }
+
+  main .section.feed .default-content-wrapper > p:last-child {
+    grid-column: 2;
+    grid-row: 1 / span 2;
+    align-self: end;
+    margin-top: 0;
+    max-width: 34ch;
+  }
+}
+
+/* voices head: eyebrow and lead testimonial */
+main .section.voices .default-content-wrapper {
+  border-bottom: 1px solid rgb(99 77 66 / 22%);
+  padding-bottom: 2.1rem;
+}
+
+main .section.voices .default-content-wrapper > p:first-child {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: var(--fs-eyebrow);
+  font-weight: 500;
+  letter-spacing: var(--tracking-eyebrow);
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: var(--terracotta);
+}
+
+main .section.voices .default-content-wrapper > blockquote {
+  margin: 1.4rem 0 0;
+  padding: 0;
+  border: 0;
+  max-width: 900px;
+}
+
+main .section.voices .default-content-wrapper > blockquote > p:first-child {
+  margin: 0;
+  font-family: var(--font-display);
+  font-size: clamp(1.85rem, 4.2vw, 3.1rem);
+  font-weight: 600;
+  line-height: 1.18;
+  letter-spacing: var(--tracking-tight);
+  color: var(--burgundy);
+}
+
+main .section.voices .default-content-wrapper > blockquote > p:first-child em {
+  font-style: normal;
+  font-weight: 800;
+  color: var(--terracotta);
+}
+
+main .section.voices .default-content-wrapper > blockquote > p:last-child {
+  margin: 1.1rem 0 0;
+  font-family: var(--font-body);
+  font-size: 0.76rem;
+  font-weight: 400;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--terracotta);
+}
+
+main .section.voices .cards-quote-wrapper {
+  margin-top: 2.7rem;
+}
+
+/* page-header intro (catalogue + account pages): eyebrow, heading, lede */
+main .section.alt:has(.default-content-wrapper h1) {
+  padding-top: calc(var(--nav-height) + clamp(2.5rem, 1.5rem + 3vw, 4.5rem));
+  padding-bottom: clamp(2rem, 1.5rem + 2vw, 3rem);
+}
+
+@media (width >= 900px) {
+  main .section.alt:has(.default-content-wrapper h1) {
+    padding-top: clamp(2.5rem, 1.5rem + 3vw, 4.5rem);
+  }
+}
+
+main .section.alt > .default-content-wrapper:first-child > p:first-child {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: var(--fs-eyebrow);
+  font-weight: 500;
+  letter-spacing: var(--tracking-eyebrow);
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: var(--terracotta);
+}
+
+main .section.alt > .default-content-wrapper:first-child > h1,
+main .section:has(.account-signin) .default-content-wrapper > h1 {
+  margin: 0.6rem 0 0;
+  font-family: var(--font-display);
+  font-size: var(--fs-h2);
+  font-weight: 800;
+  line-height: var(--lh-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--burgundy);
+}
+
+main .section:has(.account-signin) .default-content-wrapper > h1 {
+  max-width: 14ch;
+}
+
+main .section.alt > .default-content-wrapper:first-child > h1 + p,
+main .section:has(.account-signin) .default-content-wrapper > h1 + p {
+  margin: 1rem 0 0;
+  max-width: 52ch;
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  color: var(--ink-soft);
+}
+
+/* breadcrumbs built by scripts.js (catalogue + article pages) */
+main :is(.page-breadcrumb, .article-breadcrumb) {
+  display: flex;
+  gap: 0.5rem;
+  align-items: center;
+  font-family: var(--font-body);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+main .page-breadcrumb {
+  color: var(--ink-soft);
+}
+
+main :is(.page-breadcrumb, .article-breadcrumb) a {
+  color: var(--ink-soft);
+  text-decoration: none;
+  transition: color var(--dur-1) var(--ease-quint);
+}
+
+main :is(.page-breadcrumb, .article-breadcrumb) a:hover {
+  color: var(--terracotta);
+}
+
+main .page-breadcrumb [aria-current="page"] {
+  color: var(--ink);
+}
+
+main .article-breadcrumb [aria-current="page"] {
+  color: var(--terracotta);
+}
+
+/* sticky category filter bar (catalogue pages) */
+main .section.machine-filter-container {
+  position: sticky;
+  top: var(--nav-height);
+  z-index: 20;
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--line);
+  background-color: var(--paper);
+  backdrop-filter: blur(10px);
+}
+
+@media (width >= 900px) {
+  main .section.machine-filter-container {
+    top: 0;
+  }
+}
+
+/* journal rhythm */
+main .section.cards-featured-container {
+  padding: clamp(2.5rem, 2rem + 2vw, 4rem) 0 clamp(1.5rem, 1rem + 2vw, 2.5rem);
+}
+
+main .section.cards-article-container:not(:has(.article-byline)) {
+  padding: clamp(1.5rem, 1rem + 2vw, 2.5rem) 0 var(--section-y);
+}
+
+/* product-family heads (machine + coffee catalogues) */
+main .section:has(.cards-machine) .section-head-copy > p:first-child,
+main .section:has(.cards-coffee) .default-content-wrapper > p:first-child {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: var(--fs-eyebrow);
+  font-weight: 500;
+  letter-spacing: var(--tracking-eyebrow);
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: var(--terracotta);
+}
+
+main .section:has(.cards-machine) .section-head-copy > h2,
+main .section:has(.cards-coffee) .default-content-wrapper > h2 {
+  margin: 0.6rem 0 0;
+  font-family: var(--font-display);
+  font-size: var(--fs-h3);
+  font-weight: 800;
+  line-height: var(--lh-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--burgundy);
+}
+
+main .section:has(.cards-machine) .section-head-copy > h2 + p,
+main .section:has(.cards-coffee) .default-content-wrapper > h2 + p {
+  margin: 1rem 0 0;
+  max-width: 46ch;
+  font-size: var(--fs-body-lg);
+  line-height: var(--lh-body);
+  color: var(--ink-soft);
+}
+
+main .section:has(.cards-coffee) .default-content-wrapper > p:last-child:not(:first-child) {
+  margin: 1rem 0 0;
+  max-width: 46ch;
+  font-size: var(--fs-sm);
+  line-height: var(--lh-body);
+  color: var(--ink-soft);
+}
+
+main .section:has(.cards-machine) .default-content-wrapper,
+main .section:has(.cards-coffee) .default-content-wrapper {
+  margin-bottom: 2.5rem;
+}
+
+main .section:has(.cards-machine) .default-content-wrapper.section-head-split {
+  padding-bottom: 1.6rem;
+  border-bottom: 1px solid var(--line);
+}
+
+main .section-head-note {
+  padding-left: 1.1rem;
+  border-left: 2px solid var(--amber);
+}
+
+main .section-head-note-label {
+  display: block;
+  font-family: var(--font-body);
+  font-size: 0.68rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+main .section-head-note > p {
+  margin: 0.5rem 0 0;
+  font-size: var(--fs-body);
+  line-height: 1.55;
+  color: var(--ink);
+}
+
+@media (width >= 900px) {
+  main .default-content-wrapper.section-head-split {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 3rem;
+    align-items: end;
+  }
+}
+
+/* journal article (long-form editorial) */
+main .section:has(.article-byline) {
+  --article-read: 680px;
+}
+
+main .section:has(.article-header) {
+  padding-top: 0;
+}
+
+/* banded header: spans the viewport on the alt tone, above the hero image */
+main .section > .article-header {
+  max-width: none;
+  margin-bottom: clamp(2rem, 1.5rem + 2vw, 3rem);
+  padding:
+    calc(var(--nav-height) + clamp(2.5rem, 1.5rem + 3vw, 4.5rem)) var(--gutter)
+    clamp(2rem, 1.5rem + 2vw, 3rem);
+  background-color: var(--paper-2);
+}
+
+@media (width >= 900px) {
+  main .section > .article-header {
+    padding-top: clamp(2.5rem, 1.5rem + 3vw, 4.5rem);
+  }
+}
+
+main .article-header :is(.default-content-wrapper, .article-byline-wrapper) {
+  max-width: var(--article-read);
+  margin-inline: auto;
+  padding-inline: 0;
+}
+
+main .article-header .article-byline-wrapper {
+  margin-top: 1.8rem;
+}
+
+main .section:has(.article-byline) :is(.default-content-wrapper, .article-byline-wrapper, .article-share-wrapper) {
+  max-width: var(--article-read);
+  margin-inline: auto;
+}
+
+/* "More from the Journal" head and "Back to the Journal" align with the grid */
+main .section:has(.article-byline) .default-content-wrapper:has(+ .cards-article-wrapper),
+main .section:has(.article-byline) .cards-article-wrapper ~ .default-content-wrapper {
+  max-width: var(--content);
+}
+
+main .section:has(.article-byline) .default-content-wrapper > p:first-child {
+  margin: 0;
+  font-family: var(--font-body);
+  font-size: var(--fs-eyebrow);
+  font-weight: 500;
+  letter-spacing: var(--tracking-eyebrow);
+  line-height: 1.6;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+main .section:has(.article-byline) .default-content-wrapper:has(+ .cards-article-wrapper) > p:first-child {
+  color: var(--terracotta);
+}
+
+main .section:has(.article-byline) .default-content-wrapper > h1 {
+  margin: 1rem 0 0;
+  font-family: var(--font-display);
+  font-size: clamp(2.4rem, 1.6rem + 3.2vw, 3.8rem);
+  font-weight: 800;
+  line-height: 1.04;
+  letter-spacing: var(--tracking-tight);
+  color: var(--burgundy);
+}
+
+main .section:has(.article-byline) .default-content-wrapper > h1 + p {
+  margin: 1.1rem 0 0;
+  font-size: clamp(1.2rem, 1rem + 0.6vw, 1.4rem);
+  line-height: 1.5;
+  color: var(--ink);
+}
+
+main .section:has(.article-byline) .default-content-wrapper > h2 {
+  margin: 2.4rem 0 0.7rem;
+  font-family: var(--font-display);
+  font-size: 2rem;
+  font-weight: 800;
+  line-height: 1.2;
+  letter-spacing: var(--tracking-tight);
+  color: var(--burgundy);
+}
+
+main .section:has(.article-byline) .default-content-wrapper:has(+ .cards-article-wrapper) > h2 {
+  margin-top: 0.5rem;
+  font-size: 2.3rem;
+  line-height: 1.15;
+}
+
+main .section:has(.article-byline) .default-content-wrapper > p {
+  margin: 1.1rem 0 0;
+  font-size: 1.14rem;
+  line-height: 1.75;
+  color: var(--ink-soft);
+}
+
+main .section:has(.article-byline) .default-content-wrapper > h2 + p {
+  margin-top: 0;
+}
+
+/* figure caption: an em on its own line under an image */
+main .section:has(.article-byline) .default-content-wrapper > p > em:only-child {
+  display: block;
+  margin-top: 0.7rem;
+  font-family: var(--font-body);
+  font-size: 0.64rem;
+  font-style: normal;
+  font-weight: 500;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+}
+
+main .section:has(.article-byline) .default-content-wrapper > p:has(> picture) {
+  margin: 2rem 0 0;
+}
+
+/* hero figure breaks out of the reading column to the content width */
+main .section:has(.article-byline) .default-content-wrapper > p:has(> picture):first-child {
+  width: min(var(--content) - 2 * var(--gutter), 100vw - 2 * var(--gutter));
+  margin-top: 0;
+  margin-inline: calc((100% - min(var(--content) - 2 * var(--gutter), 100vw - 2 * var(--gutter))) / 2);
+}
+
+main .section:has(.article-byline) .default-content-wrapper picture img {
+  width: 100%;
+  height: auto;
+  border-radius: var(--r-lg);
+}
+
+/* opening paragraph: clear of the hero caption, with a drop cap */
+main .section:has(.article-byline) .default-content-wrapper > p:has(> picture):first-child + p + p {
+  margin-top: 3.4rem;
+}
+
+main .section:has(.article-byline) .default-content-wrapper > p:has(> picture):first-child + p + p::first-letter {
+  float: left;
+  margin: 0.02em 0.08em 0 0;
+  font-family: var(--font-display);
+  font-size: 3.6rem;
+  font-weight: 800;
+  line-height: 0.82;
+  color: var(--burgundy);
+}
+
+main .section:has(.article-byline) .default-content-wrapper > blockquote {
+  margin: 2rem 0 0;
+  padding: 0 0 0 1.4rem;
+  border-left: 3px solid var(--amber);
+  font-family: var(--font-display);
+  font-size: var(--fs-h4);
+  font-weight: 600;
+  line-height: var(--lh-snug);
+  color: var(--burgundy);
+}
+
+/* "The short version" key points: label paragraph + list as one card */
+main .section:has(.article-byline) .default-content-wrapper > p:has(+ ul) {
+  margin: 2.4rem 0 0;
+  padding: 1.6rem 1.8rem 0.9rem;
+  border: 1px solid var(--line);
+  border-bottom: 0;
+  border-radius: var(--r-lg) var(--r-lg) 0 0;
+  background-color: var(--paper-2);
+  font-family: var(--font-body);
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--terracotta);
+}
+
+main .section:has(.article-byline) .default-content-wrapper > ul {
+  display: grid;
+  gap: 0.55rem;
+  margin: 0;
+  padding: 0 1.8rem 1.6rem 3.2rem;
+  border: 1px solid var(--line);
+  border-top: 0;
+  border-radius: 0 0 var(--r-lg) var(--r-lg);
+  background-color: var(--paper-2);
+  list-style: decimal;
+  font-size: var(--fs-body);
+  line-height: var(--lh-body);
+  color: var(--ink);
+}
+
+main .section:has(.article-byline) .default-content-wrapper > ul li::marker {
+  color: var(--ink-soft);
+}
+
+main .section:has(.article-byline) .default-content-wrapper > ul strong {
+  font-weight: 700;
+  color: var(--burgundy);
+}
+
+main .section:has(.article-byline) .cards-article-wrapper {
+  margin-top: 2rem;
+}
+
+/* "Back to the Journal" pill */
+main .section:has(.article-byline) .cards-article-wrapper ~ .default-content-wrapper a {
+  display: inline-flex;
+  align-items: center;
+  padding: 0.75rem 1.5rem;
+  border: 1px solid color-mix(in oklch, var(--ink) 32%, transparent);
+  border-radius: var(--r-pill);
+  font-family: var(--font-body);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  letter-spacing: normal;
+  text-transform: none;
+  color: var(--ink);
+  text-decoration: none;
+  transition:
+    border-color var(--dur-1) var(--ease-quint),
+    color var(--dur-1) var(--ease-quint);
+}
+
+main .section:has(.article-byline) .cards-article-wrapper ~ .default-content-wrapper a:hover {
+  border-color: var(--burgundy);
+  color: var(--burgundy);
+}
+
+/* stylelint-enable no-descending-specificity */

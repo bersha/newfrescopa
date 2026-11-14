@@ -1,0 +1,10 @@
+chrome-parity @ 1440px, tolerance 1px
+  live:  https://new.frescopa.coffee/machines (live side from cache stardust/replica/gates/machines-1440/chrome-live.json, probed 2026-11-13T19:44:00.289Z — delete the file to re-probe)
+  build: http://localhost:8791/machines-proposed.html
+
+■ header: 1 delta(s) — 5 paired of 5/5 texts, 4/4 icons
+  PAIR         "Machines"  color oklch(0.605 0.116 44) → oklch(0.262 0.021 52)
+
+■ footer: ✓ parity — 20 paired of 20/20 texts, 4/4 icons
+
+✗ 1 delta(s) — fix these before any pixel iteration on chrome; re-run until quiet, then crop-compare confirms.

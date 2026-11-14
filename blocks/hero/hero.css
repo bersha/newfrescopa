@@ -1,37 +1,232 @@
-.hero-container .hero-wrapper {
-  max-width: unset;
+/* hero: full-bleed photo band with scrim, or image-less dark CTA band */
+
+main > .section.hero-container {
+  padding: 0;
+  margin: 0;
+}
+
+main > .section.hero-container > .hero-wrapper {
+  max-width: none;
   padding: 0;
 }
 
 .hero {
   position: relative;
-  padding: 40px 24px;
-  min-height: 300px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  overflow: hidden;
+  min-height: 520px;
+  margin: 0;
+  padding: calc(var(--nav-height) + 2.5rem) 0 3rem;
+  background-color: var(--charcoal);
+  color: var(--cream);
 }
 
-.hero h1 {
-  max-width: 1200px;
-  margin-left: auto;
-  margin-right: auto;
-  color: var(--background-color);
+.hero.short {
+  min-height: 0;
+  padding: 64px 0;
+}
+
+/* row 1: absolute media layer + scrim */
+.hero:not(.no-image) > div:first-child {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.hero:not(.no-image) > div:first-child::after {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background:
+    linear-gradient(92deg, oklch(18% 0.02 45deg / 82%) 0%, oklch(18% 0.02 45deg / 50%) 34%, transparent 64%),
+    linear-gradient(0deg, oklch(16% 0.02 45deg / 60%) 0%, transparent 42%),
+    linear-gradient(oklch(16% 0.02 45deg / 40%) 0%, transparent 18%);
+}
+
+.hero.tint:not(.no-image) > div:first-child::after {
+  background: rgb(0 0 0 / 70%);
 }
 
 .hero picture {
   position: absolute;
-  z-index: -1;
   inset: 0;
-  object-fit: cover;
-  box-sizing: border-box;
+  display: block;
 }
 
-.hero img {
-  object-fit: cover;
+.hero picture img {
   width: 100%;
   height: 100%;
+  object-fit: cover;
+}
+
+/* row 2: copy, aligned with the content column */
+/* stylelint-disable-next-line no-descending-specificity */
+.hero > div:last-child {
+  box-sizing: border-box;
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  max-width: var(--content);
+  margin: 0 auto;
+  padding: 0 var(--gutter);
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.hero > div:last-child > div {
+  max-width: 620px;
+}
+
+.hero p {
+  margin: 1.3rem 0 0;
+  max-width: 40ch;
+  line-height: var(--lh-body);
+  color: var(--cream);
+}
+
+.hero p.eyebrow {
+  margin: 0;
+  max-width: none;
+  font-family: var(--font-body);
+  font-size: var(--fs-eyebrow);
+  font-weight: 500;
+  line-height: 1.62;
+  letter-spacing: var(--tracking-eyebrow);
+  text-transform: uppercase;
+  color: var(--amber);
+}
+
+.hero :is(h1, h2) {
+  margin: 1.1rem 0 0;
+  font-family: var(--font-display);
+  font-weight: 800;
+  line-height: var(--lh-tight);
+  letter-spacing: var(--tracking-tight);
+  color: var(--cream);
+}
+
+.hero h1 {
+  font-size: var(--fs-h1);
+}
+
+.hero h2 {
+  font-size: var(--fs-h2);
+}
+
+/* a paragraph holding only a link renders as a pill button */
+.hero p:has(> a:only-child) {
+  display: inline-flex;
+  max-width: none;
+  margin: 2rem 0.9rem 0 0;
+}
+
+.hero p:has(> a:only-child) a {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5em;
+  border: 1px solid transparent;
+  border-radius: var(--r-pill);
+  padding: 0.85em 1.5em;
+  background-color: var(--terracotta);
+  color: var(--cream);
+  font-family: var(--font-body);
+  font-size: var(--fs-sm);
+  font-weight: 600;
+  line-height: 1.25;
+  text-decoration: none;
+  transition:
+    background-color var(--dur-1) var(--ease-quint),
+    border-color var(--dur-1) var(--ease-quint),
+    color var(--dur-1) var(--ease-quint);
+}
+
+.hero p:has(> a:only-child) a:hover {
+  border-color: var(--terracotta-deep);
+  background-color: var(--terracotta-deep);
+  color: var(--cream);
+}
+
+/* later CTAs: ghost outline */
+.hero p:has(> a:only-child) ~ p:has(> a:only-child) a {
+  border-color: oklch(94.5% 0.016 80deg / 42%);
+  background-color: transparent;
+  color: var(--cream);
+}
+
+.hero p:has(> a:only-child) ~ p:has(> a:only-child) a:hover {
+  border-color: var(--cream);
+  background-color: oklch(94.5% 0.016 80deg / 12%);
+}
+
+/* image-less variant: centred dark CTA band */
+.hero.no-image {
+  min-height: 0;
+  padding: var(--section-y) 0;
+  text-align: center;
+}
+
+.hero.no-image > div:last-child > div {
+  max-width: var(--content-narrow);
+  margin-inline: auto;
+}
+
+.hero.no-image :is(p, h1, h2) {
+  max-width: none;
+  margin-inline: auto;
+}
+
+.hero.no-image p:not(:has(> a:only-child), .eyebrow) {
+  max-width: 42ch;
+}
+
+.hero.no-image p:has(> a:only-child) {
+  justify-content: center;
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.hero.no-image p:has(> a:only-child) a {
+  background-color: var(--cream);
+  color: var(--burgundy);
+}
+
+/* stylelint-disable-next-line no-descending-specificity */
+.hero.no-image p:has(> a:only-child) a:hover {
+  border-color: var(--paper-2);
+  background-color: var(--paper-2);
+  color: var(--burgundy);
+}
+
+.hero.no-image p:has(> a:only-child) ~ p:has(> a:only-child) a {
+  border-color: oklch(94.5% 0.016 80deg / 42%);
+  background-color: transparent;
+  color: var(--cream);
+}
+
+.hero.no-image p:has(> a:only-child) ~ p:has(> a:only-child) a:hover {
+  border-color: var(--cream);
+  background-color: oklch(94.5% 0.016 80deg / 12%);
+  color: var(--cream);
 }
 
 @media (width >= 900px) {
   .hero {
-    padding: 40px 32px;
+    min-height: 828px;
+    padding: calc(var(--nav-height) + 6rem) 0 3.4rem;
+  }
+
+  .hero.short {
+    min-height: 0;
+    padding: 64px 0;
+  }
+
+  .hero.no-image {
+    min-height: 0;
+    padding: var(--section-y) 0;
+  }
+
+  .hero > div:last-child {
+    padding: 0 48px;
   }
 }

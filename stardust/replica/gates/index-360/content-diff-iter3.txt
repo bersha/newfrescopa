@@ -1,0 +1,21 @@
+[live-session] waiting to pace live navigations to new.frescopa.coffee (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 245 ms
+
+Content diff @ 360px (profile "generic", roots: main, header, footer)
+root "main"
+  source: 87 text nodes — 12 headings, 36 eyebrows, 8 CTAs, 31 body; 6 img
+  build: 87 text nodes — 12 headings, 36 eyebrows, 8 CTAs, 31 body; 6 img
+  editable texts (outermost h*/p/ul/ol): source 37 / build 37
+  attributes (placeholder/aria-label/title): source 6 / build 6; icons: source 1 / build 1
+root "header"
+  source: 5 text nodes — 0 headings, 0 eyebrows, 5 CTAs, 0 body; 1 img
+  build: 5 text nodes — 0 headings, 0 eyebrows, 5 CTAs, 0 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 1 / build 1
+  attributes (placeholder/aria-label/title): source 9 / build 9; icons: source 4 / build 4
+root "footer"
+  source: 20 text nodes — 3 headings, 0 eyebrows, 13 CTAs, 4 body; 1 img
+  build: 20 text nodes — 3 headings, 0 eyebrows, 13 CTAs, 4 body; 1 img
+  editable texts (outermost h*/p/ul/ol): source 8 / build 8
+  attributes (placeholder/aria-label/title): source 4 / build 4; icons: source 3 / build 3
+
+Findings: none — content + roles match
+Tiers: looks-same 🔴 0 · nothing-lost 🟡 0 · accepted 🟢 0 (owner 0, auto 0) · advisory 0

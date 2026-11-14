@@ -1,0 +1,754 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:migrate",
+    "writtenAt": "2026-11-13T21:25:22Z",
+    "stardustVersion": "0.38.3"
+  },
+  "site": {
+    "originUrl": "https://new.frescopa.coffee",
+    "deployUrl": null,
+    "extractedAt": "2026-11-13T19:11:52.555Z",
+    "pageCap": null,
+    "totalDiscovered": 21,
+    "crawled": 21,
+    "captureGaps": []
+  },
+  "direction": null,
+  "handsOff": true,
+  "flow": "replica",
+  "flowChosenAt": "2026-11-13T19:11:52.555Z",
+  "flowSource": "user-phrase",
+  "pages": [
+    {
+      "slug": "index",
+      "url": "https://new.frescopa.coffee/",
+      "title": "Fréscopa Atelier - Every morning, perfected.",
+      "type": "home",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:08:48.974Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T19:54:27Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T19:54:27Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/index.json",
+      "prototypePath": "stardust/prototypes/index-proposed.html",
+      "migratedPath": "content/index.html"
+    },
+    {
+      "slug": "header",
+      "url": "https://new.frescopa.coffee/header",
+      "title": "",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:08:49.152Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/header.json",
+      "prototypePath": null,
+      "migratedPath": "content/header.html"
+    },
+    {
+      "slug": "beverages",
+      "url": "https://new.frescopa.coffee/beverages",
+      "title": "Three ways to fill a cup.",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:08:50.495Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/beverages.json",
+      "prototypePath": null,
+      "migratedPath": "content/beverages.html"
+    },
+    {
+      "slug": "blog",
+      "url": "https://new.frescopa.coffee/blog",
+      "title": "Notes on the morning ritual.",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:08:54.676Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog.json",
+      "prototypePath": null,
+      "migratedPath": "content/blog.html"
+    },
+    {
+      "slug": "cafe",
+      "url": "https://new.frescopa.coffee/cafe",
+      "title": "Come taste the whole of Fréscopa.",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:08:57.106Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T20:06:36Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T20:06:36Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/cafe.json",
+      "prototypePath": "stardust/prototypes/cafe-proposed.html",
+      "migratedPath": "content/cafe.html"
+    },
+    {
+      "slug": "machines",
+      "url": "https://new.frescopa.coffee/machines",
+      "title": "Made in the workshop.",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:08:58.389Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T19:58:42Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T19:58:42Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/machines.json",
+      "prototypePath": "stardust/prototypes/machines-proposed.html",
+      "migratedPath": "content/machines.html"
+    },
+    {
+      "slug": "myatelier",
+      "url": "https://new.frescopa.coffee/myatelier",
+      "title": "Welcome back.",
+      "type": "form",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:00.529Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T19:58:01Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T19:58:02Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/myatelier.json",
+      "prototypePath": "stardust/prototypes/myatelier-proposed.html",
+      "migratedPath": "content/myatelier.html"
+    },
+    {
+      "slug": "japan",
+      "url": "https://new.frescopa.coffee/japan",
+      "title": "フレスコパ、東京にやってきます。",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:03.541Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/japan.json",
+      "prototypePath": null,
+      "migratedPath": "content/japan.html"
+    },
+    {
+      "slug": "of1",
+      "url": "https://new.frescopa.coffee/of1",
+      "title": "main--frescopa26--markszulc.aem.live — Ask Anything",
+      "type": "unique",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:04.632Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T19:58:02Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T19:58:02Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/of1.json",
+      "prototypePath": "stardust/prototypes/of1-proposed.html",
+      "migratedPath": "content/of1.html"
+    },
+    {
+      "slug": "proffee-jp",
+      "url": "https://new.frescopa.coffee/proffee-jp",
+      "title": "プロフィーの広がり — プロテインコーヒーを、フレスコパらしく",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:07.238Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/proffee-jp.json",
+      "prototypePath": null,
+      "migratedPath": "content/proffee-jp.html"
+    },
+    {
+      "slug": "proffee",
+      "url": "https://new.frescopa.coffee/proffee",
+      "title": "The rise of proffee — protein coffee, the Fréscopa way",
+      "type": "landing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:10.148Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/proffee.json",
+      "prototypePath": null,
+      "migratedPath": "content/proffee.html"
+    },
+    {
+      "slug": "fragments-nav",
+      "url": "https://new.frescopa.coffee/fragments/nav",
+      "title": "Fréscopa",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:10.412Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/fragments-nav.json",
+      "prototypePath": null,
+      "migratedPath": "content/fragments/nav.html"
+    },
+    {
+      "slug": "fragments-footer",
+      "url": "https://new.frescopa.coffee/fragments/footer",
+      "title": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the machines that make them sing.",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:12.844Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/fragments-footer.json",
+      "prototypePath": null,
+      "migratedPath": "content/fragments/footer.html"
+    },
+    {
+      "slug": "beverages-coffee",
+      "url": "https://new.frescopa.coffee/beverages/coffee",
+      "title": "Coffee, the way you take it.",
+      "type": "listing",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:16.133Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/beverages-coffee.json",
+      "prototypePath": null,
+      "migratedPath": "content/beverages/coffee.html"
+    },
+    {
+      "slug": "blog-atelier-taste",
+      "url": "https://new.frescopa.coffee/blog/atelier-taste",
+      "title": "How the Atelier learns your taste",
+      "type": "article",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:17.180Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T20:05:29Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T20:05:29Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/blog-atelier-taste.json",
+      "prototypePath": "stardust/prototypes/blog-atelier-taste-proposed.html",
+      "migratedPath": "content/blog/atelier-taste.html"
+    },
+    {
+      "slug": "machines-atelier",
+      "url": "https://new.frescopa.coffee/machines/atelier",
+      "title": "The Atelier — Fréscopa",
+      "type": "program",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:19.221Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T20:05:29Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T20:05:29Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/machines-atelier.json",
+      "prototypePath": "stardust/prototypes/machines-atelier-proposed.html",
+      "migratedPath": "content/machines/atelier.html"
+    },
+    {
+      "slug": "of1-knowledge-machines",
+      "url": "https://new.frescopa.coffee/of1/knowledge/machines",
+      "title": "Made in the workshop.",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:22.637Z"
+        },
+        {
+          "status": "prototyped",
+          "at": "2026-11-13T19:40:34Z"
+        },
+        {
+          "status": "approved",
+          "at": "2026-11-13T19:40:34Z",
+          "approvedBy": "hands-off"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/of1-knowledge-machines.json",
+      "prototypePath": "stardust/prototypes/of1-knowledge-machines-proposed.html",
+      "migratedPath": "content/of1/knowledge/machines.html"
+    },
+    {
+      "slug": "of1-knowledge-atelier",
+      "url": "https://new.frescopa.coffee/of1/knowledge/atelier",
+      "title": "The Atelier",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:23.593Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/of1-knowledge-atelier.json",
+      "prototypePath": null,
+      "migratedPath": "content/of1/knowledge/atelier.html"
+    },
+    {
+      "slug": "of1-knowledge-japan",
+      "url": "https://new.frescopa.coffee/of1/knowledge/japan",
+      "title": "フレスコパ、東京にやってきます。",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:25.742Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/of1-knowledge-japan.json",
+      "prototypePath": null,
+      "migratedPath": "content/of1/knowledge/japan.html"
+    },
+    {
+      "slug": "of1-knowledge-cafe",
+      "url": "https://new.frescopa.coffee/of1/knowledge/cafe",
+      "title": "Come taste the whole of Fréscopa.",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:29.696Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/of1-knowledge-cafe.json",
+      "prototypePath": null,
+      "migratedPath": "content/of1/knowledge/cafe.html"
+    },
+    {
+      "slug": "of1-knowledge-beverages",
+      "url": "https://new.frescopa.coffee/of1/knowledge/beverages",
+      "title": "Three ways to fill a cup.",
+      "type": "static",
+      "status": "migrated",
+      "history": [
+        {
+          "status": "extracted",
+          "at": "2026-11-13T19:09:30.380Z"
+        },
+        {
+          "status": "migrated",
+          "at": "2026-11-13T21:25:22Z"
+        }
+      ],
+      "stale": false,
+      "staleReason": null,
+      "currentStatePath": "stardust/current/pages/of1-knowledge-beverages.json",
+      "prototypePath": null,
+      "migratedPath": "content/of1/knowledge/beverages.html"
+    }
+  ],
+  "migrate": {
+    "at": "2026-11-13T20:13:39Z",
+    "outputDir": "stardust/migrated/",
+    "selfContained": true,
+    "pageMap": [
+      {
+        "sourceUrl": "/",
+        "outputPath": "index.html",
+        "slug": "index",
+        "outputPathDefault": null
+      },
+      {
+        "sourceUrl": "/header",
+        "outputPath": "header/index.html",
+        "slug": "header",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/beverages",
+        "outputPath": "beverages/index.html",
+        "slug": "beverages",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/blog",
+        "outputPath": "blog/index.html",
+        "slug": "blog",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/cafe",
+        "outputPath": "cafe/index.html",
+        "slug": "cafe",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/machines",
+        "outputPath": "machines/index.html",
+        "slug": "machines",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/myatelier",
+        "outputPath": "myatelier/index.html",
+        "slug": "myatelier",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/japan",
+        "outputPath": "japan/index.html",
+        "slug": "japan",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/of1",
+        "outputPath": "of1/index.html",
+        "slug": "of1",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/proffee-jp",
+        "outputPath": "proffee-jp/index.html",
+        "slug": "proffee-jp",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/proffee",
+        "outputPath": "proffee/index.html",
+        "slug": "proffee",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/fragments/nav",
+        "outputPath": "fragments/nav/index.html",
+        "slug": "fragments-nav",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/fragments/footer",
+        "outputPath": "fragments/footer/index.html",
+        "slug": "fragments-footer",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/beverages/coffee",
+        "outputPath": "beverages/coffee/index.html",
+        "slug": "beverages-coffee",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/blog/atelier-taste",
+        "outputPath": "blog/atelier-taste/index.html",
+        "slug": "blog-atelier-taste",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/machines/atelier",
+        "outputPath": "machines/atelier/index.html",
+        "slug": "machines-atelier",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/of1/knowledge/machines",
+        "outputPath": "of1/knowledge/machines/index.html",
+        "slug": "of1-knowledge-machines",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/of1/knowledge/atelier",
+        "outputPath": "of1/knowledge/atelier/index.html",
+        "slug": "of1-knowledge-atelier",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/of1/knowledge/japan",
+        "outputPath": "of1/knowledge/japan/index.html",
+        "slug": "of1-knowledge-japan",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/of1/knowledge/cafe",
+        "outputPath": "of1/knowledge/cafe/index.html",
+        "slug": "of1-knowledge-cafe",
+        "outputPathDefault": "trailing-slash"
+      },
+      {
+        "sourceUrl": "/of1/knowledge/beverages",
+        "outputPath": "of1/knowledge/beverages/index.html",
+        "slug": "of1-knowledge-beverages",
+        "outputPathDefault": "trailing-slash"
+      }
+    ],
+    "totalAssetsBundled": 1,
+    "bundledAssets": [
+      "styles.css"
+    ],
+    "pages": [
+      {
+        "slug": "index",
+        "file": "stardust/migrated/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "cafe",
+        "file": "stardust/migrated/cafe/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "machines",
+        "file": "stardust/migrated/machines/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "myatelier",
+        "file": "stardust/migrated/myatelier/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "of1",
+        "file": "stardust/migrated/of1/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "blog-atelier-taste",
+        "file": "stardust/migrated/blog/atelier-taste/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "machines-atelier",
+        "file": "stardust/migrated/machines/atelier/index.html",
+        "assetsBundled": 1
+      },
+      {
+        "slug": "of1-knowledge-machines",
+        "file": "stardust/migrated/of1/knowledge/machines/index.html",
+        "assetsBundled": 1
+      }
+    ],
+    "missingAssets": [],
+    "cleanedAssets": [],
+    "lastRun": {
+      "at": "2026-11-13T20:13:39Z",
+      "rendered": [
+        "index",
+        "cafe",
+        "machines",
+        "myatelier",
+        "of1",
+        "blog-atelier-taste",
+        "machines-atelier",
+        "of1-knowledge-machines"
+      ],
+      "unchanged": [],
+      "refused": [],
+      "passthrough": []
+    }
+  }
+}

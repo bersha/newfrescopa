@@ -1,0 +1,34 @@
+[live-session] waiting to pace live navigations to new.frescopa.coffee (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 100 ms
+content-presence @ 1440px (chrome) — origin https://new.frescopa.coffee/machines/atelier (docH 8820, 226 items, HTTP 200) vs served https://main--7c29ab64--aemcoder.aem.page/machines/atelier (docH 8820, 226 items, HTTP 200)
+scope: main vs main (header/footer left to the chrome crop gate; --chrome to include)
+| band | heading | links O/E (+hidden) | buttons O/E (+hidden) | text O/E | images O/E | findings |
+|---|---|---|---|---|---|---|
+| 0 | (top) | 2/2 | 0/0 | 2/2 | 1/1 | - |
+| 1 | the atelier | 6/6 | 10/10 | 10/10 | 4/4 | - |
+| 2 | it learns your taste. here's how. | 0/0 | 4/4 | 2/2 | 1/1 | - |
+| 3 | it tastes every cup | 0/0 | 0/0 | 3/3 | 0/0 | - |
+| 4 | two minutes in a real kitchen. | 0/0 | 1/1 | 2/2 | 1/1 | - |
+| 5 | every promise, backed up. | 0/0 | 0/0 | 7/7 | 0/0 | - |
+| 6 | the full specification. | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 7 | design and build | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 8 | brewing | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 9 | intelligence and connectivity | 0/0 | 0/0 | 24/24 | 0/0 | - |
+| 10 | power and sound | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 11 | sustainability | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 12 | delivery and returns | 0/0 | 0/0 | 24/24 | 0/0 | - |
+| 13 | in the box | 0/0 | 0/0 | 7/7 | 0/0 | - |
+| 14 | your taste, drawn one cup at a time. | 0/0 | 3/3 | 4/4 | 0/0 | - |
+| 15 | the verdict, three months in. | 0/0 | 0/0 | 8/8 | 0/0 | - |
+| 16 | every last hesitation, handled. | 1/1 | 0/0 | 8/8 | 0/0 | - |
+| 17 | start with the machine, or the whole rit | 0/0 | 0/0 | 1/1 | 0/0 | - |
+| 18 | the atelier | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 19 | the atelier + a year of beans | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 20 | the atelier + barista kit | 3/3 | 0/0 | 9/9 | 0/0 | - |
+| 21 | stock the shelf beside it. | 0/0 | 0/0 | 3/3 | 3/3 | - |
+| 22 | the house pour | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 23 | honeybush and orange peel | 0/0 | 0/0 | 0/0 | 0/0 | - |
+| 24 | cold-pressed citrus | 3/3 | 0/0 | 6/6 | 0/0 | - |
+Content: MISSING 0 (headings 0, links 0) / HIDDEN 0 (headings 0, links 0) / control-state 0 / buttons missing 0 hidden 0 / moved 0 extra 0 / count deltas 0
+Findings: none — every visible origin heading and link is visible on the served page
+Clipped (served side): 0 — origin side 0
+json → stardust/replica/gates/machines-atelier-1440/content-presence-pub1.json

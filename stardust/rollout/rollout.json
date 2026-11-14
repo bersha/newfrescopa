@@ -1,0 +1,41 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/inventory",
+    "writtenAt": "2026-11-13T20:14:30.779Z",
+    "stardustVersion": "0.0.0"
+  },
+  "target": "aem-eds",
+  "site": {
+    "sourceUrl": "https://new.frescopa.coffee",
+    "da": {
+      "org": "aemcoder",
+      "site": "7c29ab64",
+      "ref": "main"
+    },
+    "liveHost": "main--7c29ab64--aemcoder.aem.live"
+  },
+  "scope": {
+    "pages": 21,
+    "discovered": 21,
+    "capped": false,
+    "pageCap": null
+  },
+  "lastRun": {
+    "at": "2026-11-13T21:30:41.299Z",
+    "pages": {
+      "total": 21,
+      "verified": 21,
+      "deployed": 0,
+      "pending": 0,
+      "contentPending": 0,
+      "stale": 0,
+      "failed": 0
+    },
+    "blocks": {
+      "total": 26,
+      "converted": 26,
+      "pending": 0
+    },
+    "verifyFailures": 0
+  }
+}

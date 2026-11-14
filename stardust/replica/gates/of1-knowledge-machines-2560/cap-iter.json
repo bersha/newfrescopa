@@ -1,0 +1,727 @@
+{
+  "_provenance": {
+    "writtenBy": "skills/replica/scripts/cap-probe.mjs",
+    "writtenAt": "2026-11-13T19:38:38.812Z",
+    "baseWidth": 1440,
+    "urls": [
+      "https://new.frescopa.coffee/of1/knowledge/machines",
+      "http://localhost:8791/of1-knowledge-machines-proposed.html"
+    ],
+    "probeWidth": 2560,
+    "probeNote": "from DESIGN.json",
+    "tolerance": 20
+  },
+  "urls": [
+    "https://new.frescopa.coffee/of1/knowledge/machines",
+    "http://localhost:8791/of1-knowledge-machines-proposed.html"
+  ],
+  "probeNote": "from DESIGN.json",
+  "live": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 33,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section > div.default-content-wrapper",
+        "tier": 2,
+        "share": 1,
+        "section": -1,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#made-in-the-workshop",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "#the-thinking-machines",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 5,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 6,
+        "selector": "#the-atelier",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 7,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 8,
+        "selector": "main > div.section > div.default-content-wrapper > ul",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 9,
+        "selector": "#the-atelier-mini",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 10,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 11,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 12,
+        "selector": "#for-the-hands-on-ritual",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 13,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 14,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 15,
+        "selector": "#the-barista",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 16,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 17,
+        "selector": "#the-everyday",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 18,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 19,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 20,
+        "selector": "#slow-and-even",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 21,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 22,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 23,
+        "selector": "#the-slow-pour",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 24,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 25,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 26,
+        "selector": "#ready-by-morning",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 27,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 28,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 29,
+        "selector": "#the-carafe",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 30,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 31,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 32,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 33,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 34,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1120,
+    "contentMaxWidth": 1120,
+    "contentFrom": "shell",
+    "maxCap": 1120,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 62
+  },
+  "build": {
+    "baseWidth": 1440,
+    "probeWidth": 2560,
+    "root": {
+      "selector": "body.appear > main",
+      "isBody": false,
+      "leaves": 33,
+      "w2": 2560
+    },
+    "origins": [
+      {
+        "kind": "shell",
+        "px": 1120,
+        "via": "max-width",
+        "selector": "body.appear > main > div.section > div.default-content-wrapper",
+        "tier": 2,
+        "share": 1,
+        "section": -1,
+        "w1": 1120,
+        "maxWidth": "1120px"
+      }
+    ],
+    "modules": [
+      {
+        "index": 0,
+        "selector": "#made-in-the-workshop",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 1,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 2,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 3,
+        "selector": "#the-thinking-machines",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 4,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 5,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 6,
+        "selector": "#the-atelier",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 7,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 8,
+        "selector": "main > div.section > div.default-content-wrapper > ul",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 9,
+        "selector": "#the-atelier-mini",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 10,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 11,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 12,
+        "selector": "#for-the-hands-on-ritual",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 13,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 14,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 15,
+        "selector": "#the-barista",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 16,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 17,
+        "selector": "#the-everyday",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 18,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 19,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 20,
+        "selector": "#slow-and-even",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 21,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 22,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 23,
+        "selector": "#the-slow-pour",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 24,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 25,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 26,
+        "selector": "#ready-by-morning",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 27,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 28,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 29,
+        "selector": "#the-carafe",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 30,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 31,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 32,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 33,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      },
+      {
+        "index": 34,
+        "selector": "main > div.section > div.default-content-wrapper > p",
+        "px": null,
+        "capSelector": null
+      }
+    ],
+    "shellMaxWidth": 1120,
+    "contentMaxWidth": 1120,
+    "contentFrom": "shell",
+    "maxCap": 1120,
+    "fluid": false,
+    "probeNote": "pinned",
+    "candidates": 62
+  },
+  "compare": {
+    "probeWidth": 2560,
+    "rows": [
+      {
+        "ok": true,
+        "label": "wrapper cap",
+        "detail": "live 1120px = build 1120px (±20)",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 1/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 2/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 3/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 4/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 5/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 6/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 7/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 8/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 9/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 10/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 11/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 12/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 13/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 14/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 15/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 16/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 17/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 18/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 19/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 20/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 21/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 22/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 23/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 24/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 25/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 26/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 27/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 28/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 29/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 30/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 31/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 32/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 33/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 34/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      },
+      {
+        "ok": true,
+        "label": "module 35/35",
+        "detail": "full-bleed on both",
+        "advisory": false
+      }
+    ],
+    "fails": 0,
+    "pass": true
+  },
+  "evidence": "stardust/replica/gates/of1-knowledge-machines-2560/cap-iter.json"
+}

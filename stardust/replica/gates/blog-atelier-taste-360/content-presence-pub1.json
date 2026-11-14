@@ -1,0 +1,4110 @@
+{
+ "_provenance": {
+  "writtenBy": "content-presence.mjs",
+  "at": "2026-11-13T21:01:52.290Z",
+  "width": 360,
+  "variable": [],
+  "tier": "chrome"
+ },
+ "origin": {
+  "url": "https://new.frescopa.coffee/blog/atelier-taste",
+  "at": "2026-11-13T21:01:30.657Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6414,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.article-breadcrumb > a",
+    "x": 20,
+    "y": 184,
+    "w": 90,
+    "h": 19,
+    "text": "the journal",
+    "href": "/blog/blog"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.article-breadcrumb > span",
+    "x": 132,
+    "y": 184,
+    "w": 82,
+    "h": 19,
+    "label": "current",
+    "value": "the atelier",
+    "via": "aria-current"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.article-breadcrumb > span",
+    "x": 132,
+    "y": 184,
+    "w": 82,
+    "h": 19,
+    "text": "The Atelier"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-header > div.default-content-wrapper > h1#how-the-atelier-learns-your-taste",
+    "x": 20,
+    "y": 219,
+    "w": 320,
+    "h": 80,
+    "level": 1,
+    "text": "how the atelier learns your taste"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-header > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 316,
+    "w": 320,
+    "h": 144,
+    "text": "It doesn't guess, and it doesn't hand you a questionnaire. Here's what actually "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-byline-inner > div.article-byline-body > span.article-byline-name",
+    "x": 80,
+    "y": 491,
+    "w": 254,
+    "h": 24,
+    "text": "Maya Ellison"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-byline-inner > div.article-byline-body > p.article-byline-meta",
+    "x": 80,
+    "y": 515,
+    "w": 254,
+    "h": 17,
+    "text": "Head of Coffee · June 2026 · 6 min read"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 599,
+    "w": 320,
+    "h": 175,
+    "text": "",
+    "file": "media_1a775c161149ea61e50ce787b6c0adb646"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > em",
+    "x": 20,
+    "y": 797,
+    "w": 320,
+    "h": 18,
+    "text": "The Atelier, two weeks in — quietly learning."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 869,
+    "w": 320,
+    "h": 351,
+    "text": "There's a moment, usually around day ten, when people email us to say the coffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > h2#it-starts-with-the-senses",
+    "x": 20,
+    "y": 1259,
+    "w": 320,
+    "h": 77,
+    "level": 2,
+    "text": "it starts with the senses"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 1347,
+    "w": 320,
+    "h": 319,
+    "text": "Every shot the Atelier pulls is measured — not just poured. Flow rate, temperatu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 1683,
+    "w": 320,
+    "h": 160,
+    "text": "This is why it never asks you to \"dial in.\" It's reading conditions you'd otherw"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 1875,
+    "w": 320,
+    "h": 175,
+    "text": "",
+    "file": "media_132718180b6190179a138b13595a42c32f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > em",
+    "x": 20,
+    "y": 2078,
+    "w": 320,
+    "h": 36,
+    "text": "A good extraction has a shape. The Atelier watches for it every time."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > h2#then-it-builds-a-taste-profile",
+    "x": 20,
+    "y": 2152,
+    "w": 320,
+    "h": 77,
+    "level": 2,
+    "text": "then it builds a taste profile"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 2240,
+    "w": 320,
+    "h": 223,
+    "text": "Every time you tweak — a little stronger, a touch less bitter, more milk — the A"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > blockquote > p",
+    "x": 45,
+    "y": 2496,
+    "w": 295,
+    "h": 130,
+    "text": "The best machine isn't the one with the most buttons. It's the one you stop need"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > h2#and-it-reads-the-room",
+    "x": 20,
+    "y": 2663,
+    "w": 320,
+    "h": 77,
+    "level": 2,
+    "text": "and it reads the room"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 2751,
+    "w": 320,
+    "h": 255,
+    "text": "With your permission, the Atelier looks at the day ahead — an early start, a pac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 3045,
+    "w": 320,
+    "h": 61,
+    "text": "The short version"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 72,
+    "y": 3106,
+    "w": 238,
+    "h": 55,
+    "text": "— it measures every shot, not just pours it."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 72,
+    "y": 3170,
+    "w": 238,
+    "h": 55,
+    "text": "— your tweaks become a Flavour DNA."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 72,
+    "y": 3233,
+    "w": 238,
+    "h": 55,
+    "text": "— calendar and time of day shape the cup."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 72,
+    "y": 3297,
+    "w": 238,
+    "h": 55,
+    "text": "— it adjusts before the next cup, not after."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 3396,
+    "w": 320,
+    "h": 191,
+    "text": "None of this replaces the pleasure of making coffee by hand — plenty of us still"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 3606,
+    "w": 320,
+    "h": 96,
+    "text": "Curious to feel it in person? at a showroom café, or ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 20,
+    "y": 3609,
+    "w": 295,
+    "h": 56,
+    "text": "book an atelier tour",
+    "href": "/cafe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 20,
+    "y": 3672,
+    "w": 142,
+    "h": 24,
+    "text": "read the full spec",
+    "href": "/atelier"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-share.block > div.article-share-inner > span.article-share-label",
+    "x": 20,
+    "y": 3753,
+    "w": 39,
+    "h": 17,
+    "text": "Share"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-share-inner > div.article-share-links > a.article-share-link",
+    "x": 75,
+    "y": 3741,
+    "w": 40,
+    "h": 40,
+    "text": "share on x",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-share-inner > div.article-share-links > a.article-share-link",
+    "x": 124,
+    "y": 3741,
+    "w": 40,
+    "h": 40,
+    "text": "share by email",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-share-inner > div.article-share-links > a.article-share-link",
+    "x": 174,
+    "y": 3741,
+    "w": 40,
+    "h": 40,
+    "text": "copy link",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-byline-inner > div.article-byline-body > span.article-byline-label",
+    "x": 126,
+    "y": 3845,
+    "w": 187,
+    "h": 17,
+    "text": "About the author"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-byline-inner > div.article-byline-body > span.article-byline-name",
+    "x": 126,
+    "y": 3867,
+    "w": 187,
+    "h": 31,
+    "text": "Maya Ellison"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-byline-inner > div.article-byline-body > p.article-byline-bio",
+    "x": 126,
+    "y": 3904,
+    "w": 187,
+    "h": 146,
+    "text": "Maya leads coffee at Fréscopa — sourcing, roasting, and the taste standard behin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 4073,
+    "w": 320,
+    "h": 19,
+    "text": "Keep reading"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > h2#more-from-the-journal",
+    "x": 20,
+    "y": 4100,
+    "w": 320,
+    "h": 85,
+    "level": 2,
+    "text": "more from the journal"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-image > picture > img",
+    "x": 21,
+    "y": 4218,
+    "w": 318,
+    "h": 212,
+    "text": "",
+    "file": "media_132718180b6190179a138b13595a42c32f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > p.cards-article-card-category",
+    "x": 20,
+    "y": 4445,
+    "w": 320,
+    "h": 12,
+    "text": "Brewing"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > h3#in-praise-of-the-slow-pour",
+    "x": 20,
+    "y": 4472,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "in praise of the slow pour"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-body > h3#in-praise-of-the-slow-pour > a",
+    "x": 20,
+    "y": 4471,
+    "w": 237,
+    "h": 25,
+    "text": "in praise of the slow pour",
+    "href": "/blog"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-image > picture > img",
+    "x": 21,
+    "y": 4528,
+    "w": 318,
+    "h": 212,
+    "text": "",
+    "file": "media_14dda38183367f1ef5f700eaf66d1a13a5"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > p.cards-article-card-category",
+    "x": 20,
+    "y": 4755,
+    "w": 320,
+    "h": 12,
+    "text": "Sustainability"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > h3#nothing-wasted-right-down-to-the-grounds",
+    "x": 20,
+    "y": 4782,
+    "w": 320,
+    "h": 46,
+    "level": 3,
+    "text": "nothing wasted, right down to the grounds"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-body > h3#nothing-wasted-right-down-to-the-grounds > a",
+    "x": 20,
+    "y": 4781,
+    "w": 314,
+    "h": 48,
+    "text": "nothing wasted, right down to the grounds",
+    "href": "/blog"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-image > picture > img",
+    "x": 21,
+    "y": 4861,
+    "w": 318,
+    "h": 212,
+    "text": "",
+    "file": "media_11963a4969e9d029a1613bfbdb474e2380"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > p.cards-article-card-category",
+    "x": 20,
+    "y": 5089,
+    "w": 320,
+    "h": 12,
+    "text": "Origins"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > h3#single-origin-explained",
+    "x": 20,
+    "y": 5115,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "single origin, explained"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-body > h3#single-origin-explained > a",
+    "x": 20,
+    "y": 5114,
+    "w": 218,
+    "h": 25,
+    "text": "single origin, explained",
+    "href": "/blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 20,
+    "y": 5139,
+    "w": 183,
+    "h": 50,
+    "text": "back to the journal",
+    "href": "/blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 5387,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 5500,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 5530,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 5617,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5648,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5681,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5713,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5745,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5778,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 5848,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5879,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5911,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5944,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5976,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 6046,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6078,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6110,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6142,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6174,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 6270,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 6270,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 6270,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 6326,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 68,
+    "controls": 32,
+    "total": 0
+   },
+   "groups": []
+  }
+ },
+ "eds": {
+  "url": "https://main--7c29ab64--aemcoder.aem.page/blog/atelier-taste",
+  "at": "2026-11-13T21:01:52.166Z",
+  "status": 200,
+  "settlePasses": 2,
+  "docH": 6414,
+  "root": "main",
+  "items": [
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "nav#nav > div.nav-hamburger > button",
+    "x": 20,
+    "y": 25,
+    "w": 20,
+    "h": 22,
+    "text": "open navigation"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 64,
+    "y": 20,
+    "w": 144,
+    "h": 32,
+    "text": "fréscopa",
+    "href": "/"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "a > picture > img",
+    "x": 64,
+    "y": 20,
+    "w": 118,
+    "h": 32,
+    "text": "fréscopa",
+    "file": "media_1edd2a689a1bf64571235eec46bc97c020"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 232,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "search",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 276,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "account",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 320,
+    "y": 26,
+    "w": 20,
+    "h": 20,
+    "text": "cart",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.article-breadcrumb > a",
+    "x": 20,
+    "y": 184,
+    "w": 90,
+    "h": 19,
+    "text": "the journal",
+    "href": "/blog/blog"
+   },
+   {
+    "kind": "control",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.article-breadcrumb > span",
+    "x": 132,
+    "y": 184,
+    "w": 82,
+    "h": 19,
+    "label": "current",
+    "value": "the atelier",
+    "via": "aria-current"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > nav.article-breadcrumb > span",
+    "x": 132,
+    "y": 184,
+    "w": 82,
+    "h": 19,
+    "text": "The Atelier"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-header > div.default-content-wrapper > h1#how-the-atelier-learns-your-taste",
+    "x": 20,
+    "y": 219,
+    "w": 320,
+    "h": 80,
+    "level": 1,
+    "text": "how the atelier learns your taste"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-header > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 316,
+    "w": 320,
+    "h": 144,
+    "text": "It doesn't guess, and it doesn't hand you a questionnaire. Here's what actually "
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-byline-inner > div.article-byline-body > span.article-byline-name",
+    "x": 80,
+    "y": 491,
+    "w": 254,
+    "h": 24,
+    "text": "Maya Ellison"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-byline-inner > div.article-byline-body > p.article-byline-meta",
+    "x": 80,
+    "y": 515,
+    "w": 254,
+    "h": 17,
+    "text": "Head of Coffee · June 2026 · 6 min read"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 599,
+    "w": 320,
+    "h": 175,
+    "text": "",
+    "file": "media_1a775c161149ea61e50ce787b6c0adb646"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > em",
+    "x": 20,
+    "y": 797,
+    "w": 320,
+    "h": 18,
+    "text": "The Atelier, two weeks in — quietly learning."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 869,
+    "w": 320,
+    "h": 351,
+    "text": "There's a moment, usually around day ten, when people email us to say the coffee"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > h2#it-starts-with-the-senses",
+    "x": 20,
+    "y": 1259,
+    "w": 320,
+    "h": 77,
+    "level": 2,
+    "text": "it starts with the senses"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 1347,
+    "w": 320,
+    "h": 319,
+    "text": "Every shot the Atelier pulls is measured — not just poured. Flow rate, temperatu"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 1683,
+    "w": 320,
+    "h": 160,
+    "text": "This is why it never asks you to \"dial in.\" It's reading conditions you'd otherw"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "p > picture > img",
+    "x": 20,
+    "y": 1875,
+    "w": 320,
+    "h": 175,
+    "text": "",
+    "file": "media_132718180b6190179a138b13595a42c32f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > em",
+    "x": 20,
+    "y": 2078,
+    "w": 320,
+    "h": 36,
+    "text": "A good extraction has a shape. The Atelier watches for it every time."
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > h2#then-it-builds-a-taste-profile",
+    "x": 20,
+    "y": 2152,
+    "w": 320,
+    "h": 77,
+    "level": 2,
+    "text": "then it builds a taste profile"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 2240,
+    "w": 320,
+    "h": 223,
+    "text": "Every time you tweak — a little stronger, a touch less bitter, more milk — the A"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > blockquote > p",
+    "x": 45,
+    "y": 2496,
+    "w": 295,
+    "h": 130,
+    "text": "The best machine isn't the one with the most buttons. It's the one you stop need"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > h2#and-it-reads-the-room",
+    "x": 20,
+    "y": 2663,
+    "w": 320,
+    "h": 77,
+    "level": 2,
+    "text": "and it reads the room"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 2751,
+    "w": 320,
+    "h": 255,
+    "text": "With your permission, the Atelier looks at the day ahead — an early start, a pac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 3045,
+    "w": 320,
+    "h": 61,
+    "text": "The short version"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 72,
+    "y": 3106,
+    "w": 238,
+    "h": 55,
+    "text": "— it measures every shot, not just pours it."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 72,
+    "y": 3170,
+    "w": 238,
+    "h": 55,
+    "text": "— your tweaks become a Flavour DNA."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 72,
+    "y": 3233,
+    "w": 238,
+    "h": 55,
+    "text": "— calendar and time of day shape the cup."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > ul > li",
+    "x": 72,
+    "y": 3297,
+    "w": 238,
+    "h": 55,
+    "text": "— it adjusts before the next cup, not after."
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 3396,
+    "w": 320,
+    "h": 191,
+    "text": "None of this replaces the pleasure of making coffee by hand — plenty of us still"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 3606,
+    "w": 320,
+    "h": 96,
+    "text": "Curious to feel it in person? at a showroom café, or ."
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 20,
+    "y": 3609,
+    "w": 295,
+    "h": 56,
+    "text": "book an atelier tour",
+    "href": "/cafe"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 20,
+    "y": 3672,
+    "w": 142,
+    "h": 24,
+    "text": "read the full spec",
+    "href": "/atelier"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-share.block > div.article-share-inner > span.article-share-label",
+    "x": 20,
+    "y": 3753,
+    "w": 39,
+    "h": 17,
+    "text": "Share"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-share-inner > div.article-share-links > a.article-share-link",
+    "x": 75,
+    "y": 3741,
+    "w": 40,
+    "h": 40,
+    "text": "share on x",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-share-inner > div.article-share-links > a.article-share-link",
+    "x": 124,
+    "y": 3741,
+    "w": 40,
+    "h": 40,
+    "text": "share by email",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-share-inner > div.article-share-links > a.article-share-link",
+    "x": 174,
+    "y": 3741,
+    "w": 40,
+    "h": 40,
+    "text": "copy link",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-byline-inner > div.article-byline-body > span.article-byline-label",
+    "x": 126,
+    "y": 3845,
+    "w": 187,
+    "h": 17,
+    "text": "About the author"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-byline-inner > div.article-byline-body > span.article-byline-name",
+    "x": 126,
+    "y": 3867,
+    "w": 187,
+    "h": 31,
+    "text": "Maya Ellison"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.article-byline-inner > div.article-byline-body > p.article-byline-bio",
+    "x": 126,
+    "y": 3904,
+    "w": 187,
+    "h": 146,
+    "text": "Maya leads coffee at Fréscopa — sourcing, roasting, and the taste standard behin"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 4073,
+    "w": 320,
+    "h": 19,
+    "text": "Keep reading"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.section.article-byline-container > div.default-content-wrapper > h2#more-from-the-journal",
+    "x": 20,
+    "y": 4100,
+    "w": 320,
+    "h": 85,
+    "level": 2,
+    "text": "more from the journal"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-image > picture > img",
+    "x": 21,
+    "y": 4218,
+    "w": 318,
+    "h": 212,
+    "text": "",
+    "file": "media_132718180b6190179a138b13595a42c32f"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > p.cards-article-card-category",
+    "x": 20,
+    "y": 4445,
+    "w": 320,
+    "h": 12,
+    "text": "Brewing"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > h3#in-praise-of-the-slow-pour",
+    "x": 20,
+    "y": 4472,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "in praise of the slow pour"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-body > h3#in-praise-of-the-slow-pour > a",
+    "x": 20,
+    "y": 4471,
+    "w": 237,
+    "h": 25,
+    "text": "in praise of the slow pour",
+    "href": "/blog"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-image > picture > img",
+    "x": 21,
+    "y": 4528,
+    "w": 318,
+    "h": 212,
+    "text": "",
+    "file": "media_14dda38183367f1ef5f700eaf66d1a13a5"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > p.cards-article-card-category",
+    "x": 20,
+    "y": 4755,
+    "w": 320,
+    "h": 12,
+    "text": "Sustainability"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > h3#nothing-wasted-right-down-to-the-grounds",
+    "x": 20,
+    "y": 4782,
+    "w": 320,
+    "h": 46,
+    "level": 3,
+    "text": "nothing wasted, right down to the grounds"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-body > h3#nothing-wasted-right-down-to-the-grounds > a",
+    "x": 20,
+    "y": 4781,
+    "w": 314,
+    "h": 48,
+    "text": "nothing wasted, right down to the grounds",
+    "href": "/blog"
+   },
+   {
+    "kind": "image",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-image > picture > img",
+    "x": 21,
+    "y": 4861,
+    "w": 318,
+    "h": 212,
+    "text": "",
+    "file": "media_11963a4969e9d029a1613bfbdb474e2380"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > p.cards-article-card-category",
+    "x": 20,
+    "y": 5089,
+    "w": 320,
+    "h": 12,
+    "text": "Origins"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "li > div.cards-article-card-body > h3#single-origin-explained",
+    "x": 20,
+    "y": 5115,
+    "w": 320,
+    "h": 23,
+    "level": 3,
+    "text": "single origin, explained"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.cards-article-card-body > h3#single-origin-explained > a",
+    "x": 20,
+    "y": 5114,
+    "w": 218,
+    "h": 25,
+    "text": "single origin, explained",
+    "href": "/blog"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": true,
+    "inChrome": false,
+    "path": "div.default-content-wrapper > p > a",
+    "x": 20,
+    "y": 5139,
+    "w": 183,
+    "h": 50,
+    "text": "back to the journal",
+    "href": "/blog"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 5387,
+    "w": 286,
+    "h": 73,
+    "text": "Warm mornings, made effortless. Coffee, tea, and cold-pressed juice, and the mac"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-brand > form.footer-signup > label",
+    "x": 20,
+    "y": 5500,
+    "w": 320,
+    "h": 22,
+    "text": "A little warmth in your inbox."
+   },
+   {
+    "kind": "button",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "form.footer-signup > div.footer-signup-row > button.button",
+    "x": 249,
+    "y": 5530,
+    "w": 91,
+    "h": 47,
+    "text": "sign up"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#shop",
+    "x": 20,
+    "y": 5617,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "shop"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5648,
+    "w": 44,
+    "h": 20,
+    "text": "coffee",
+    "href": "/beverages/coffee"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5681,
+    "w": 24,
+    "h": 20,
+    "text": "tea",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5713,
+    "w": 125,
+    "h": 20,
+    "text": "cold-pressed juice",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5745,
+    "w": 63,
+    "h": 20,
+    "text": "machines",
+    "href": "/machines"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5778,
+    "w": 81,
+    "h": 20,
+    "text": "accessories",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#company",
+    "x": 20,
+    "y": 5848,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "company"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5879,
+    "w": 64,
+    "h": 20,
+    "text": "our story",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5911,
+    "w": 89,
+    "h": 20,
+    "text": "sustainability",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5944,
+    "w": 97,
+    "h": 20,
+    "text": "fréscopa café",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 5976,
+    "w": 53,
+    "h": 20,
+    "text": "careers",
+    "href": "/"
+   },
+   {
+    "kind": "heading",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-column > div.default-content-wrapper > h3#support",
+    "x": 20,
+    "y": 6046,
+    "w": 320,
+    "h": 13,
+    "level": 3,
+    "text": "support"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6078,
+    "w": 73,
+    "h": 20,
+    "text": "contact us",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6110,
+    "w": 122,
+    "h": 20,
+    "text": "delivery & returns",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6142,
+    "w": 136,
+    "h": 20,
+    "text": "register your atelier",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul > li > a",
+    "x": 20,
+    "y": 6174,
+    "w": 78,
+    "h": 20,
+    "text": "help centre",
+    "href": "/"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 20,
+    "y": 6270,
+    "w": 40,
+    "h": 40,
+    "text": "instagram",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 84,
+    "y": 6270,
+    "w": 40,
+    "h": 40,
+    "text": "pinterest",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "link",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "ul.footer-social > li > a",
+    "x": 148,
+    "y": 6270,
+    "w": 40,
+    "h": 40,
+    "text": "youtube",
+    "href": "/blog/atelier-taste"
+   },
+   {
+    "kind": "text",
+    "state": "visible",
+    "variable": false,
+    "inRoot": false,
+    "inChrome": true,
+    "path": "div.section.footer-legal > div.default-content-wrapper > p",
+    "x": 20,
+    "y": 6326,
+    "w": 320,
+    "h": 49,
+    "text": "© 2026 Fréscopa · Privacy · Terms · A fictional brand, created for demonstration"
+   }
+  ],
+  "clip": {
+   "counts": {
+    "textClipped": 0,
+    "textHidden": 0,
+    "controlHidden": 0,
+    "controlClipped": 0,
+    "clamped": 0,
+    "collapsed": 0,
+    "scrollHidden": 0,
+    "horizontal": 0,
+    "offPage": 0,
+    "textNodes": 68,
+    "controls": 32,
+    "total": 0
+   },
+   "groups": [],
+   "findings": []
+  }
+ },
+ "bands": [
+  {
+   "index": 0,
+   "heading": "(top)",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 1,
+   "heading": "how the atelier learns your taste",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 5,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 5,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 2,
+   "heading": "it starts with the senses",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 3,
+    "image": 1
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 3,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 3,
+   "heading": "then it builds a taste profile",
+   "variable": false,
+   "origin": {
+    "link": 0,
+    "button": 0,
+    "text": 2,
+    "image": 0
+   },
+   "eds": {
+    "link": 0,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 2,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 4,
+   "heading": "and it reads the room",
+   "variable": false,
+   "origin": {
+    "link": 5,
+    "button": 0,
+    "text": 13,
+    "image": 0
+   },
+   "eds": {
+    "link": 5,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 13,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 5,
+   "heading": "more from the journal",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 6,
+   "heading": "in praise of the slow pour",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 7,
+   "heading": "nothing wasted, right down to the grounds",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 1,
+    "image": 1
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 1,
+    "textHidden": 0,
+    "image": 1,
+    "imageHidden": 0
+   },
+   "findings": []
+  },
+  {
+   "index": 8,
+   "heading": "single origin, explained",
+   "variable": false,
+   "origin": {
+    "link": 1,
+    "button": 0,
+    "text": 0,
+    "image": 0
+   },
+   "eds": {
+    "link": 1,
+    "linkHidden": 0,
+    "button": 0,
+    "buttonHidden": 0,
+    "text": 0,
+    "textHidden": 0,
+    "image": 0,
+    "imageHidden": 0
+   },
+   "findings": []
+  }
+ ],
+ "findings": [],
+ "totals": {
+  "missingHeadings": 0,
+  "hiddenHeadings": 0,
+  "extraHeadings": 0,
+  "missingLinks": 0,
+  "hiddenLinks": 0,
+  "movedLinks": 0,
+  "extraLinks": 0,
+  "missingButtons": 0,
+  "hiddenButtons": 0,
+  "controlState": 0,
+  "countDeltas": 0,
+  "findings": 0,
+  "structural": 0,
+  "missing": 0,
+  "hidden": 0
+ },
+ "textBoxes": {
+  "origin": [
+   {
+    "x": 20,
+    "y": 185,
+    "w": 90,
+    "h": 15
+   },
+   {
+    "x": 118,
+    "y": 185,
+    "w": 6,
+    "h": 15
+   },
+   {
+    "x": 132,
+    "y": 185,
+    "w": 82,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 214,
+    "w": 284,
+    "h": 48
+   },
+   {
+    "x": 20,
+    "y": 254,
+    "w": 312,
+    "h": 48
+   },
+   {
+    "x": 20,
+    "y": 317,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 346,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 375,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 404,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 432,
+    "w": 243,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 502,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 80,
+    "y": 493,
+    "w": 85,
+    "h": 20
+   },
+   {
+    "x": 80,
+    "y": 516,
+    "w": 254,
+    "h": 14
+   },
+   {
+    "x": 20,
+    "y": 799,
+    "w": 291,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 859,
+    "w": 41,
+    "h": 71
+   },
+   {
+    "x": 65,
+    "y": 872,
+    "w": 264,
+    "h": 24
+   },
+   {
+    "x": 65,
+    "y": 904,
+    "w": 267,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 936,
+    "w": 307,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 968,
+    "w": 319,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1000,
+    "w": 277,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1032,
+    "w": 299,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1064,
+    "w": 273,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1096,
+    "w": 300,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1128,
+    "w": 312,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1160,
+    "w": 299,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1192,
+    "w": 43,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1258,
+    "w": 254,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 1296,
+    "w": 109,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 1350,
+    "w": 236,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1382,
+    "w": 282,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1414,
+    "w": 297,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1446,
+    "w": 289,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1477,
+    "w": 301,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1509,
+    "w": 273,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1541,
+    "w": 297,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1573,
+    "w": 303,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1605,
+    "w": 292,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1637,
+    "w": 192,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1686,
+    "w": 292,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1718,
+    "w": 255,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1750,
+    "w": 256,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1782,
+    "w": 292,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1814,
+    "w": 191,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2080,
+    "w": 276,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 2098,
+    "w": 168,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 2151,
+    "w": 315,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 2190,
+    "w": 101,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 2243,
+    "w": 255,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2275,
+    "w": 313,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2307,
+    "w": 298,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2339,
+    "w": 301,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2371,
+    "w": 262,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2403,
+    "w": 296,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2435,
+    "w": 297,
+    "h": 24
+   },
+   {
+    "x": 45,
+    "y": 2499,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 2531,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 2563,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 2596,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 2662,
+    "w": 240,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 2701,
+    "w": 81,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 2754,
+    "w": 315,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2786,
+    "w": 293,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2818,
+    "w": 286,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2850,
+    "w": 248,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2882,
+    "w": 315,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2914,
+    "w": 281,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2946,
+    "w": 318,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2978,
+    "w": 310,
+    "h": 24
+   },
+   {
+    "x": 50,
+    "y": 3074,
+    "w": 134,
+    "h": 14
+   },
+   {
+    "x": 72,
+    "y": 3108,
+    "w": 54,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 3108,
+    "w": 161,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3135,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3172,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 187,
+    "y": 3172,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3199,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3235,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 182,
+    "y": 3235,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3263,
+    "w": 200,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3299,
+    "w": 35,
+    "h": 22
+   },
+   {
+    "x": 107,
+    "y": 3299,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3327,
+    "w": 142,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3399,
+    "w": 300,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3431,
+    "w": 307,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3463,
+    "w": 309,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3495,
+    "w": 290,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3527,
+    "w": 303,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3559,
+    "w": 308,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3609,
+    "w": 229,
+    "h": 24
+   },
+   {
+    "x": 249,
+    "y": 3609,
+    "w": 66,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3640,
+    "w": 92,
+    "h": 24
+   },
+   {
+    "x": 112,
+    "y": 3640,
+    "w": 192,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3672,
+    "w": 142,
+    "h": 24
+   },
+   {
+    "x": 162,
+    "y": 3672,
+    "w": 4,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3754,
+    "w": 39,
+    "h": 14
+   },
+   {
+    "x": 66,
+    "y": 3865,
+    "w": 24,
+    "h": 21
+   },
+   {
+    "x": 126,
+    "y": 3846,
+    "w": 117,
+    "h": 14
+   },
+   {
+    "x": 126,
+    "y": 3870,
+    "w": 118,
+    "h": 24
+   },
+   {
+    "x": 126,
+    "y": 3906,
+    "w": 138,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 3930,
+    "w": 146,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 3954,
+    "w": 149,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 3979,
+    "w": 151,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 4003,
+    "w": 178,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 4027,
+    "w": 149,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4074,
+    "w": 110,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 4098,
+    "w": 248,
+    "h": 45
+   },
+   {
+    "x": 20,
+    "y": 4140,
+    "w": 137,
+    "h": 45
+   },
+   {
+    "x": 20,
+    "y": 4444,
+    "w": 54,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 4471,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 4754,
+    "w": 92,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 4781,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 4804,
+    "w": 78,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 5088,
+    "w": 48,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 5114,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 5154,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5389,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5413,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5438,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5502,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 5543,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5616,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 5648,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5681,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5713,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5745,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5778,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5847,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 5879,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5911,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5944,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5976,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6045,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6078,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6110,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6142,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6174,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6328,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6352,
+    "w": 228,
+    "h": 20
+   }
+  ],
+  "eds": [
+   {
+    "x": 20,
+    "y": 185,
+    "w": 90,
+    "h": 15
+   },
+   {
+    "x": 118,
+    "y": 185,
+    "w": 6,
+    "h": 15
+   },
+   {
+    "x": 132,
+    "y": 185,
+    "w": 82,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 214,
+    "w": 284,
+    "h": 48
+   },
+   {
+    "x": 20,
+    "y": 254,
+    "w": 312,
+    "h": 48
+   },
+   {
+    "x": 20,
+    "y": 317,
+    "w": 305,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 346,
+    "w": 278,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 375,
+    "w": 274,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 404,
+    "w": 299,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 432,
+    "w": 243,
+    "h": 25
+   },
+   {
+    "x": 32,
+    "y": 502,
+    "w": 22,
+    "h": 18
+   },
+   {
+    "x": 80,
+    "y": 493,
+    "w": 85,
+    "h": 20
+   },
+   {
+    "x": 80,
+    "y": 516,
+    "w": 254,
+    "h": 14
+   },
+   {
+    "x": 20,
+    "y": 799,
+    "w": 291,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 859,
+    "w": 41,
+    "h": 71
+   },
+   {
+    "x": 65,
+    "y": 872,
+    "w": 264,
+    "h": 24
+   },
+   {
+    "x": 65,
+    "y": 904,
+    "w": 267,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 936,
+    "w": 307,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 968,
+    "w": 319,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1000,
+    "w": 277,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1032,
+    "w": 299,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1064,
+    "w": 273,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1096,
+    "w": 300,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1128,
+    "w": 312,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1160,
+    "w": 299,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1192,
+    "w": 43,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1258,
+    "w": 254,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 1296,
+    "w": 109,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 1350,
+    "w": 236,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1382,
+    "w": 282,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1414,
+    "w": 297,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1446,
+    "w": 289,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1477,
+    "w": 301,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1509,
+    "w": 273,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1541,
+    "w": 297,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1573,
+    "w": 303,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1605,
+    "w": 292,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1637,
+    "w": 192,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1686,
+    "w": 292,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1718,
+    "w": 255,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1750,
+    "w": 256,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1782,
+    "w": 292,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 1814,
+    "w": 191,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2080,
+    "w": 276,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 2098,
+    "w": 168,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 2151,
+    "w": 315,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 2190,
+    "w": 101,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 2243,
+    "w": 255,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2275,
+    "w": 313,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2307,
+    "w": 298,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2339,
+    "w": 301,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2371,
+    "w": 262,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2403,
+    "w": 296,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2435,
+    "w": 297,
+    "h": 24
+   },
+   {
+    "x": 45,
+    "y": 2499,
+    "w": 289,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 2531,
+    "w": 282,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 2563,
+    "w": 281,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 2596,
+    "w": 61,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 2662,
+    "w": 240,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 2701,
+    "w": 81,
+    "h": 39
+   },
+   {
+    "x": 20,
+    "y": 2754,
+    "w": 315,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2786,
+    "w": 293,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2818,
+    "w": 286,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2850,
+    "w": 248,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2882,
+    "w": 315,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2914,
+    "w": 281,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2946,
+    "w": 318,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 2978,
+    "w": 310,
+    "h": 24
+   },
+   {
+    "x": 50,
+    "y": 3074,
+    "w": 134,
+    "h": 14
+   },
+   {
+    "x": 72,
+    "y": 3108,
+    "w": 54,
+    "h": 22
+   },
+   {
+    "x": 126,
+    "y": 3108,
+    "w": 161,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3135,
+    "w": 164,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3172,
+    "w": 114,
+    "h": 22
+   },
+   {
+    "x": 187,
+    "y": 3172,
+    "w": 120,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3199,
+    "w": 179,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3235,
+    "w": 109,
+    "h": 22
+   },
+   {
+    "x": 182,
+    "y": 3235,
+    "w": 127,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3263,
+    "w": 200,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3299,
+    "w": 35,
+    "h": 22
+   },
+   {
+    "x": 107,
+    "y": 3299,
+    "w": 178,
+    "h": 22
+   },
+   {
+    "x": 72,
+    "y": 3327,
+    "w": 142,
+    "h": 22
+   },
+   {
+    "x": 20,
+    "y": 3399,
+    "w": 300,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3431,
+    "w": 307,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3463,
+    "w": 309,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3495,
+    "w": 290,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3527,
+    "w": 303,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3559,
+    "w": 308,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3609,
+    "w": 229,
+    "h": 24
+   },
+   {
+    "x": 249,
+    "y": 3609,
+    "w": 66,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3640,
+    "w": 92,
+    "h": 24
+   },
+   {
+    "x": 112,
+    "y": 3640,
+    "w": 192,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3672,
+    "w": 142,
+    "h": 24
+   },
+   {
+    "x": 162,
+    "y": 3672,
+    "w": 4,
+    "h": 24
+   },
+   {
+    "x": 20,
+    "y": 3754,
+    "w": 39,
+    "h": 14
+   },
+   {
+    "x": 66,
+    "y": 3865,
+    "w": 24,
+    "h": 21
+   },
+   {
+    "x": 126,
+    "y": 3846,
+    "w": 117,
+    "h": 14
+   },
+   {
+    "x": 126,
+    "y": 3870,
+    "w": 118,
+    "h": 24
+   },
+   {
+    "x": 126,
+    "y": 3906,
+    "w": 138,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 3930,
+    "w": 146,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 3954,
+    "w": 149,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 3979,
+    "w": 151,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 4003,
+    "w": 178,
+    "h": 20
+   },
+   {
+    "x": 126,
+    "y": 4027,
+    "w": 149,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 4074,
+    "w": 110,
+    "h": 16
+   },
+   {
+    "x": 20,
+    "y": 4098,
+    "w": 248,
+    "h": 45
+   },
+   {
+    "x": 20,
+    "y": 4140,
+    "w": 137,
+    "h": 45
+   },
+   {
+    "x": 20,
+    "y": 4444,
+    "w": 54,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 4471,
+    "w": 237,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 4754,
+    "w": 92,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 4781,
+    "w": 314,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 4804,
+    "w": 78,
+    "h": 25
+   },
+   {
+    "x": 20,
+    "y": 5088,
+    "w": 48,
+    "h": 13
+   },
+   {
+    "x": 20,
+    "y": 5114,
+    "w": 218,
+    "h": 25
+   },
+   {
+    "x": 45,
+    "y": 5154,
+    "w": 133,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5389,
+    "w": 272,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5413,
+    "w": 238,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5438,
+    "w": 206,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5502,
+    "w": 174,
+    "h": 18
+   },
+   {
+    "x": 269,
+    "y": 5543,
+    "w": 50,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5616,
+    "w": 36,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 5648,
+    "w": 44,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5681,
+    "w": 24,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5713,
+    "w": 125,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5745,
+    "w": 63,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5778,
+    "w": 81,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5847,
+    "w": 66,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 5879,
+    "w": 64,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5911,
+    "w": 89,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5944,
+    "w": 97,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 5976,
+    "w": 53,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6045,
+    "w": 60,
+    "h": 15
+   },
+   {
+    "x": 20,
+    "y": 6078,
+    "w": 73,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6110,
+    "w": 122,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6142,
+    "w": 136,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6174,
+    "w": 78,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6328,
+    "w": 311,
+    "h": 20
+   },
+   {
+    "x": 20,
+    "y": 6352,
+    "w": 228,
+    "h": 20
+   }
+  ]
+ }
+}

@@ -1,0 +1,20 @@
+{
+  "/beverages/coffee": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T21:05:11.671Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  },
+  "/blog": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T21:05:11.672Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

@@ -1,0 +1,629 @@
+{
+  "units": {
+    "foundation": {
+      "status": "done",
+      "kind": "foundation",
+      "templates": [
+        "shell"
+      ],
+      "pages": 2,
+      "blocks": 2,
+      "gates": {
+        "360": {
+          "shell": "fragments-nav",
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "cropHeader": "0.00%",
+          "cropFooter": "0.00%"
+        },
+        "1440": {
+          "shell": "fragments-nav",
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "cropHeader": "0.00%",
+          "cropFooter": "0.00%"
+        },
+        "crop": "header 0.00% / footer 0.00% at 1440 and 360",
+        "chrome": "chrome-parity 0 deltas (header 5/5 texts, footer 20/20); chrome-compare replica exit 0 — 0 errors, 1 warn (link-missing@1440 nameless logo link, controls identical 9/9)"
+      },
+      "startedAt": "2026-11-13T20:17:08.040Z",
+      "endedAt": "2026-11-13T20:35:23.477Z",
+      "verdict": "foundation: chrome docs 2/2 live (/fragments/nav, /fragments/footer), blocks 2 (header, footer), gate 1440 0.00% / 360 0.00%, crop 0.00%, header-contract exit 0, frozen 23 files"
+    },
+    "archetype:static": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "static"
+      ],
+      "pages": 1,
+      "blocks": 0,
+      "startedAt": "2026-11-13T20:37:13.000Z",
+      "archetype": "of1-knowledge-machines",
+      "path": "/of1/knowledge/machines",
+      "gates": {
+        "360": {
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "1440": {
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "round": "pub1",
+        "fixRounds": 0
+      },
+      "endedAt": "2026-11-13T20:42:10.000Z",
+      "verdict": "archetype:static: of1-knowledge-machines live (/of1/knowledge/machines), 4 images rehosted, gate 1440 0.00% Δh0 / 360 0.00% Δh0, content 0/0, clip 0, gate-all PASS both widths, fix rounds 0"
+    },
+    "archetype:home": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "home"
+      ],
+      "pages": 1,
+      "blocks": 7,
+      "startedAt": "2026-11-13T20:42:16.000Z",
+      "archetype": "index",
+      "path": "/",
+      "gates": {
+        "360": {
+          "pixelPct": 4.63,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)",
+          "residual": "hot bands y 6500–7500 = mood-calendar 3 s auto-cycle caught on a different day (capture-state, same as stardust/replica/gates/prototypes-360/overrides.json index); measure.mjs at rest: 10/10 main sections + footer Δx/Δy/Δw/Δh 0 (stardust/replica/gates/index-360/measure-pub1-at-rest.txt)"
+        },
+        "1440": {
+          "pixelPct": 0.23,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "round": "pub1",
+        "fixRounds": 0
+      },
+      "endedAt": "2026-11-13T20:46:42.000Z",
+      "verdict": "archetype:home: index live (/), 6 images + og png rehosted, metadata Title/Description/Image as source, gate 1440 0.23% Δh0 / 360 4.63% Δh0 (mood-calendar timer residual, at rest all sections Δ0), content 0/0, clip 0, gate-all PASS both widths (0.00%), fix rounds 0"
+    },
+    "archetype:listing": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "listing"
+      ],
+      "pages": 1,
+      "blocks": 2,
+      "startedAt": "2026-11-13T20:46:49.000Z",
+      "archetype": "machines",
+      "path": "/machines",
+      "gates": {
+        "360": {
+          "pixelPct": 0.28,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "1440": {
+          "pixelPct": 1.12,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "round": "pub2",
+        "fixRounds": 1,
+        "note": "pub1 (1440 3.97% / 360 2.96%) hot band = The Barista card image blank in the build capture right after the --force re-publish; rendition verified intact (same sha256 as source original), pub2 re-capture clean"
+      },
+      "endedAt": "2026-11-13T20:52:59.000Z",
+      "verdict": "archetype:listing: machines live (/machines), 6 images rehosted, section-metadata family keys carried, gate 1440 1.12% Δh0 / 360 0.28% Δh0, content 0/0, clip 0, gate-all PASS both widths (0.00%), fix rounds 1 (encoder: data-family section metadata; pub1 3.97%/2.96% = card image not yet rendered after re-publish, re-captured)"
+    },
+    "cluster:static": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "static"
+      ],
+      "startedAt": "2026-11-13T20:56:19.000Z",
+      "archetype": "of1-knowledge-machines",
+      "pages": 5,
+      "blocks": 0,
+      "pageList": [
+        "/header",
+        "/of1/knowledge/atelier",
+        "/of1/knowledge/japan",
+        "/of1/knowledge/cafe",
+        "/of1/knowledge/beverages"
+      ],
+      "deliveredByFoundation": [
+        "/fragments/nav",
+        "/fragments/footer"
+      ],
+      "variance": {
+        "exit": 2,
+        "file": "stardust/.work/rollout/cluster-static/variance.json",
+        "note": "content-driven only (counts, section heights, text wrap, image intrinsic size); same fonts/colours; default content, no blocks -> no variant classes"
+      },
+      "gates": {
+        "360": {
+          "header": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "of1-knowledge-atelier": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "of1-knowledge-japan": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "of1-knowledge-cafe": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "of1-knowledge-beverages": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "clipped": 0,
+          "content": "MISSING 0 / HIDDEN 0",
+          "table": "stardust/replica/gates/all-360/runs/2026-11-13T21-02-39-474Z-header.json"
+        },
+        "1440": {
+          "header": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "of1-knowledge-atelier": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "of1-knowledge-japan": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "of1-knowledge-cafe": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "of1-knowledge-beverages": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "clipped": 0,
+          "content": "MISSING 0 / HIDDEN 0",
+          "table": "stardust/replica/gates/all-1440/runs/2026-11-13T21-01-30-714Z-header.json"
+        },
+        "fixRounds": 0
+      },
+      "endedAt": "2026-11-13T21:03:08.000Z",
+      "verdict": "cluster:static: pages 5/5 live (+2 delivered by foundation: /fragments/nav, /fragments/footer), blocks 0, gate 1440 0.00% / 360 0.00% (Δh 0, clip 0, content 0/0 all pages), requests 0"
+    },
+    "archetype:landing": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "landing"
+      ],
+      "pages": 1,
+      "blocks": 7,
+      "startedAt": "2026-11-13T20:56:09Z",
+      "archetype": "cafe",
+      "path": "/cafe",
+      "gates": {
+        "360": {
+          "pixelPct": 0.85,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "1440": {
+          "pixelPct": 0.02,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "round": "pub1",
+        "fixRounds": 0,
+        "note": "numbers equal the prototype gate (1440 0.02% / 360 0.85%); 360 hot band 1500-2000 15.3% = the documented prototype residual (scroll reveal captured unsettled at a stitch-chunk edge); content-presence 1440 count deltas 2 = carousel images clipped away symmetrically (advisory)"
+      },
+      "endedAt": "2026-11-13T20:59:46Z",
+      "verdict": "archetype:landing: cafe live (/cafe), 4 images rehosted, no source page metadata (head derived as source), gate 1440 0.02% Δh0 / 360 0.85% Δh0 (hot band 1500-2000 = documented prototype capture-timing residual), content 0/0, clip 0, gate-all PASS both widths (0.00%), fix rounds 0"
+    },
+    "cluster:listing": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "listing"
+      ],
+      "archetype": "machines",
+      "startedAt": "2026-11-13T21:03:32.000Z",
+      "pages": 2,
+      "blocks": 3,
+      "pageList": [
+        "/blog",
+        "/beverages/coffee"
+      ],
+      "variance": {
+        "exit": 2,
+        "file": "stardust/.work/rollout/cluster-listing/variance.json",
+        "note": "siblings author different card blocks (blog: cards-featured + cards-article; beverages-coffee: cards-coffee + machine-filter with family section keys) — the source's own block choice, blocks already in blocks/; no variant classes, no forks"
+      },
+      "gates": {
+        "360": {
+          "blog": {
+            "pixelPct": 0.03,
+            "heightDelta": 0
+          },
+          "beverages-coffee": {
+            "pixelPct": 2.42,
+            "heightDelta": 0
+          },
+          "clipped": 0,
+          "content": "MISSING 0 / HIDDEN 0",
+          "table": "stardust/replica/gates/all-360/runs/2026-11-13T21-06-57-774Z-blog.json"
+        },
+        "1440": {
+          "blog": {
+            "pixelPct": 0.01,
+            "heightDelta": 0
+          },
+          "beverages-coffee": {
+            "pixelPct": 1.56,
+            "heightDelta": 0
+          },
+          "clipped": 0,
+          "content": "MISSING 0 / HIDDEN 0",
+          "table": "stardust/replica/gates/all-1440/runs/2026-11-13T21-06-46-266Z-blog.json"
+        },
+        "fixRounds": 0
+      },
+      "endedAt": "2026-11-13T21:07:14.000Z",
+      "verdict": "cluster:listing: pages 2/2 live, blocks 3 (cards-featured, cards-article, cards-coffee; reused), gate 1440 0.01%/1.56% / 360 0.03%/2.42% (Δh 0, clip 0, content 0/0), requests 0"
+    },
+    "archetype:article": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "article"
+      ],
+      "pages": 1,
+      "blocks": 4,
+      "startedAt": "2026-11-13T20:58:05Z",
+      "archetype": "blog-atelier-taste",
+      "path": "/blog/atelier-taste",
+      "gates": {
+        "360": {
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "1440": {
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "round": "pub1",
+        "fixRounds": 0,
+        "note": "pixel-identical at both widths; the prototype-stage header aria-current delta (proto URL artefact) is gone on the published origin (chrome parity 0 deltas)"
+      },
+      "endedAt": "2026-11-13T21:04:13Z",
+      "verdict": "archetype:article: blog-atelier-taste live (/blog/atelier-taste), 4 images rehosted to media/blog, head metadata as source, gate 1440 0.00% Δh0 / 360 0.00% Δh0, content 0/0, clip 0, chrome parity ok, gate-all PASS both widths (0.00%), fix rounds 0"
+    },
+    "archetype:program": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "program"
+      ],
+      "pages": 1,
+      "blocks": 12,
+      "startedAt": "2026-11-13T21:02:01Z",
+      "archetype": "machines-atelier",
+      "path": "/machines/atelier",
+      "gates": {
+        "360": {
+          "pixelPct": 0.31,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "1440": {
+          "pixelPct": 0.29,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "round": "pub1",
+        "fixRounds": 0,
+        "note": "numbers equal the prototype gate; hot bands 1440 5000-5500 2.6% / 360 7000-7500 7.0% = taste-profile auto-cycle, 1440 6000-7500 1.1% / 360 9500-10000 1.1% = build-side reveal at a stitch-chunk edge (documented prototype residuals)"
+      },
+      "endedAt": "2026-11-13T21:08:42Z",
+      "verdict": "archetype:program: machines-atelier live (/machines/atelier), 6 images rehosted to media/machines, source page Title metadata carried, gate 1440 0.29% Δh0 / 360 0.31% Δh0 (taste-profile auto-cycle + reveal-at-chunk-edge = documented prototype residuals), content 0/0, clip 0, gate-all PASS both widths (0.00%), fix rounds 0"
+    },
+    "archetype:form": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "form"
+      ],
+      "pages": 1,
+      "blocks": 1,
+      "startedAt": "2026-11-13T21:02:30Z",
+      "archetype": "myatelier",
+      "path": "/myatelier",
+      "gates": {
+        "360": {
+          "pixelPct": 0.01,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0.01, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "1440": {
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "round": "pub1",
+        "fixRounds": 0,
+        "note": "numbers equal the prototype gate; 360 0.01% = the documented source-defect fix (live email input content-box overflows 360 by 19px; build border-box below 600px)"
+      },
+      "endedAt": "2026-11-13T21:09:53Z",
+      "verdict": "archetype:form: myatelier live (/myatelier), no images, no source page metadata (head as source), gate 1440 0.00% Δh0 / 360 0.01% Δh0 (registered email-input box-sizing fix, as prototype), content 0/0, clip 0, gate-all PASS both widths, fix rounds 0"
+    },
+    "archetype:unique": {
+      "status": "done",
+      "kind": "archetype",
+      "templates": [
+        "unique"
+      ],
+      "pages": 1,
+      "blocks": 1,
+      "startedAt": "2026-11-13T21:04:20Z",
+      "archetype": "of1",
+      "path": "/of1",
+      "gates": {
+        "360": {
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "1440": {
+          "pixelPct": 0,
+          "heightDelta": 0,
+          "contentDiff": "0/0",
+          "clipped": 0,
+          "overflow": "ok",
+          "chromeParity": "ok",
+          "gateAll": "PASS (pixel 0, Δh 0, clip 0, MISSING 0/HIDDEN 0)"
+        },
+        "round": "pub1",
+        "fixRounds": 1,
+        "note": "pre-gate content fix: plain-to-da --meta appended the metadata block to the last section, leaving the source's leading section empty (delivered .plain.html differed by one empty section); metadata moved to the leading section, re-PUT --force, .plain.html identical. delivery-lint P0 h1 (0 found) = source parity: the source page has no h1, the UI is rendered by the third-party of1 SDK"
+      },
+      "endedAt": "2026-11-13T21:11:19Z",
+      "verdict": "archetype:unique: of1 live (/of1), source page metadata (Title, Description) in the source's own metadata-only first section, of1 block config verbatim (SDK passthrough), gate 1440 0.00% Δh0 / 360 0.00% Δh0, content 0/0, clip 0, gate-all PASS both widths (0.00%), fix rounds 1 (encoder: metadata placed in the of1 section; moved to the leading section so the delivered .plain.html matches the source)"
+    },
+    "cluster:home": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "home"
+      ],
+      "pages": 0,
+      "startedAt": "2026-11-13T21:11:43Z",
+      "endedAt": "2026-11-13T21:11:43Z",
+      "verdict": "cluster:home: no siblings in the roster — the archetype is the template's only page (delivered in archetype:home)"
+    },
+    "cluster:article": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "article"
+      ],
+      "pages": 0,
+      "startedAt": "2026-11-13T21:11:43Z",
+      "endedAt": "2026-11-13T21:11:43Z",
+      "verdict": "cluster:article: no siblings in the roster — the archetype is the template's only page (delivered in archetype:article)"
+    },
+    "cluster:program": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "program"
+      ],
+      "pages": 0,
+      "startedAt": "2026-11-13T21:11:43Z",
+      "endedAt": "2026-11-13T21:11:43Z",
+      "verdict": "cluster:program: no siblings in the roster — the archetype is the template's only page (delivered in archetype:program)"
+    },
+    "cluster:form": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "form"
+      ],
+      "pages": 0,
+      "startedAt": "2026-11-13T21:11:43Z",
+      "endedAt": "2026-11-13T21:11:43Z",
+      "verdict": "cluster:form: no siblings in the roster — the archetype is the template's only page (delivered in archetype:form)"
+    },
+    "cluster:unique": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "unique"
+      ],
+      "pages": 0,
+      "startedAt": "2026-11-13T21:11:43Z",
+      "endedAt": "2026-11-13T21:11:43Z",
+      "verdict": "cluster:unique: no siblings in the roster — the archetype is the template's only page (delivered in archetype:unique)"
+    },
+    "cluster:landing": {
+      "status": "done",
+      "kind": "cluster",
+      "templates": [
+        "landing"
+      ],
+      "archetype": "cafe",
+      "startedAt": "2026-11-13T21:08:32.000Z",
+      "pages": 4,
+      "blocks": 0,
+      "pageList": [
+        "/beverages",
+        "/japan",
+        "/proffee-jp",
+        "/proffee"
+      ],
+      "variance": {
+        "exit": 2,
+        "file": "stardust/.work/rollout/cluster-landing/variance.json",
+        "note": "content-driven: siblings author other blocks than cafe (beverages: hero + columns; japan: hero-media + columns-editorial + cards-event/reasons + store-locator; proffee-jp: hero, hero short, columns, stats-row; proffee: hero, text, cards-machine, stats-row) — the source's own block choice, all blocks already in blocks/; no new blocks, variants or forks"
+      },
+      "gates": {
+        "360": {
+          "beverages": {
+            "pixelPct": 0.01,
+            "heightDelta": 0
+          },
+          "japan": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "proffee-jp": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "clipped": 0,
+          "content": "MISSING 0 / HIDDEN 0",
+          "table": "stardust/replica/gates/all-360/runs/2026-11-13T21-13-18-792Z-beverages.json",
+          "proffee": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          }
+        },
+        "1440": {
+          "beverages": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "japan": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "proffee-jp": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          },
+          "clipped": 0,
+          "content": "MISSING 0 / HIDDEN 0",
+          "table": "stardust/replica/gates/all-1440/runs/2026-11-13T21-12-56-203Z-beverages.json",
+          "proffee": {
+            "pixelPct": 0,
+            "heightDelta": 0
+          }
+        },
+        "fixRounds": 0
+      },
+      "endedAt": "2026-11-13T21:16:15Z",
+      "verdict": "cluster:landing: pages 4/4 live (/proffee with documented davids-model D1 override — source-authored Text blocks kept verbatim), blocks 0 new (reused), gate 1440 0.00% all / 360 ≤0.01% (Δh 0, clip 0, content 0/0), requests 0",
+      "override": {
+        "path": "/proffee",
+        "reason": "davids-model-lint FAIL 7 🔴 D1: the source authors 7 `Text` blocks wrapping bare default content (blocks/text is a no-op). Contract: a page with any 🔴 must not be written. Unwrapping to default content is not design-neutral (the Atelier section has cards-machine → section-head-split CSS/JS on .default-content-wrapper) and breaks .plain.html = source. Owner decision: ship source authoring verbatim with a documented davids-model override, or re-author as default content and re-gate.",
+        "decision": "hands-off: ship source authoring verbatim (replica), documented in stardust/eds-conversion-log.md"
+      }
+    },
+    "gate-all": {
+      "status": "done",
+      "kind": "final",
+      "templates": [
+        "home",
+        "landing",
+        "listing",
+        "article",
+        "program",
+        "form",
+        "unique",
+        "static"
+      ],
+      "pages": 21,
+      "startedAt": "2026-11-13T21:16:34Z",
+      "endedAt": "2026-11-13T21:25:11Z",
+      "gates": {
+        "360": "21 PASS / 0 FAIL",
+        "1440": "21 PASS / 0 FAIL",
+        "tables": "stardust/replica/gates/all-{1440,360}/summary.json"
+      },
+      "verdict": "gate-all: 21/21 PASS at 1440 and 360 (pixel, height, clip 0, content 0 missing/hidden), coverage gate rows written, 0 flips"
+    },
+    "final": {
+      "status": "done",
+      "kind": "final",
+      "templates": [],
+      "pages": 21,
+      "startedAt": "2026-11-13T21:25:31Z",
+      "endedAt": "2026-11-13T21:25:31Z",
+      "verdict": "final: foundation-freeze check unchanged (23 files), foundation-requests 0 (nothing to apply, no archetype re-gate), state 21/21 migrated, coverage 21/21 deployed with gate rows PASS both widths"
+    }
+  }
+}

@@ -1,0 +1,385 @@
+[live-session] waiting to pace live navigations to new.frescopa.coffee (1000 ms apart, 2 max parallel; STARDUST_LIVE_PACE_MS / STARDUST_LIVE_MAX_PARALLEL; 0 disables either) — first wait 187 ms
+
+Visual diff @ 1440px (profile "generic") — screenshots in stardust/replica/gates/blog-1440/vdiff-iter1/
+
+build red flags (advisory): 
+  • HEADING FACE: <h3> "In praise of the slow pour" is 36.8px Schibsted Grotesk in build vs 20px Schibsted Grotesk in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+  • HEADING FACE: <h3> "A morning in our SoHo café" is 36.8px Schibsted Grotesk in build vs 20px Schibsted Grotesk in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+  • HEADING FACE: <h3> "Single origin, explained" is 36.8px Schibsted Grotesk in build vs 20px Schibsted Grotesk in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+  • HEADING FACE: <h3> "Tea, and the quiet hour" is 36.8px Schibsted Grotesk in build vs 20px Schibsted Grotesk in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+  • HEADING FACE: <h3> "Nothing wasted, right down to th" is 36.8px Schibsted Grotesk in build vs 20px Schibsted Grotesk in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+  • HEADING FACE: <h3> "Dialling in your first espresso" is 36.8px Schibsted Grotesk in build vs 20px Schibsted Grotesk in source. A matched heading at another size or family — match the source; a deliberate font substitution is one ×N line, justify it once.
+
+Full metrics JSON (compare source vs build: heading colors, eyebrow colors, image dims, full-bleed):
+{
+ "source": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 1821,
+  "textLen": 1330,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "511x387",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x213",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x213",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14dda38183367f1ef5f700eaf66d1a13a59bdd756.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x213",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_126153dedaaab1e3fdd811716e201bae4bcfcf30f.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x213",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14dda38183367f1ef5f700eaf66d1a13a59bdd756.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x213",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "320x213",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Notes on the morning ritual.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "How the Atelier learns your tast",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "43.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "In praise of the slow pour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "A morning in our SoHo café",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Single origin, explained",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Tea, and the quiet hour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Nothing wasted, right down to th",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Dialling in your first espresso",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "20px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "The Journal",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Featured",
+    "color": "oklch(0.515 0.108 40)"
+   },
+   {
+    "text": "The Atelier",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "June 2026 · 6 min read",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "Brewing",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "May 2026 · 4 min",
+    "color": "oklch(0.43 0.022 52)"
+   },
+   {
+    "text": "Café life",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "May 2026 · 3 min",
+    "color": "oklch(0.43 0.022 52)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "cards-featured-card",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-article",
+    "width": 1024,
+    "left": 208
+   }
+  ]
+ },
+ "build": {
+  "viewport": 1440,
+  "blankRender": false,
+  "mainHeight": 5518,
+  "textLen": 1331,
+  "images": [
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "118x32",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1a775c161149ea61e50ce787b6c0adb646148c6ca.jpg?width=750&format=webply&optimize=medium",
+    "natural": "750x409",
+    "rendered": "511x387",
+    "fit": "cover",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1ae7b300835f4da72460fc57fdcfd83341890a158.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14dda38183367f1ef5f700eaf66d1a13a59bdd756.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_126153dedaaab1e3fdd811716e201bae4bcfcf30f.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_14dda38183367f1ef5f700eaf66d1a13a59bdd756.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_132718180b6190179a138b13595a42c32f51665ed.jpg?width=2000&format=webply&optimize=medium",
+    "natural": "1408x768",
+    "rendered": "1024x559",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   },
+   {
+    "src": "media_1edd2a689a1bf64571235eec46bc97c0200c9bff3.svg?width=2000&format=webply&optimize=medium",
+    "natural": "1391x378",
+    "rendered": "147x40",
+    "fit": "fill",
+    "stretched": false,
+    "failedToLoad": false
+   }
+  ],
+  "headings": [
+   {
+    "tag": "h1",
+    "text": "Notes on the morning ritual.",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "44.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h2",
+    "text": "How the Atelier learns your tast",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "43.2px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "In praise of the slow pour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "A morning in our SoHo café",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Single origin, explained",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Tea, and the quiet hour",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Nothing wasted, right down to th",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   },
+   {
+    "tag": "h3",
+    "text": "Dialling in your first espresso",
+    "color": "oklch(0.34 0.093 25)",
+    "fontSize": "36.8px",
+    "family": "Schibsted Grotesk",
+    "fontLoaded": true
+   }
+  ],
+  "eyebrows": [
+   {
+    "text": "The Journal",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "Featured",
+    "color": "oklch(0.515 0.108 40)"
+   },
+   {
+    "text": "The Atelier",
+    "color": "oklch(0.605 0.116 44)"
+   },
+   {
+    "text": "June 2026 · 6 min read",
+    "color": "oklch(0.43 0.022 52)"
+   }
+  ],
+  "flushText": [],
+  "contentBoxes": [
+   {
+    "sel": "cards-featured-card",
+    "width": 1024,
+    "left": 208
+   },
+   {
+    "sel": "cards-article",
+    "width": 1024,
+    "left": 208
+   }
+  ]
+ }
+}

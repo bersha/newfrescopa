@@ -1,0 +1,11 @@
+{
+  "/myatelier": {
+    "status": "live",
+    "attempts": 1,
+    "ts": "2026-11-13T21:02:30.121Z",
+    "put": 201,
+    "preview": 200,
+    "live": 200,
+    "verify": "ok"
+  }
+}

@@ -1,0 +1,8 @@
+measure  https://main--7c29ab64--aemcoder.aem.page/machines
+  widths 360 · 1 selector(s) · 1 props · first match
+
+@ 360px
+  root  scrollWidth   360  viewport 360  scrollHeight   6879
+  html
+       x     0  y      0  w   360  h  6879  vis  "HOME / MACHINES Made in the workshop. F…"
+      display: block

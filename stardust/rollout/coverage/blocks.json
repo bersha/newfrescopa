@@ -1,0 +1,541 @@
+{
+  "_provenance": {
+    "writtenBy": "stardust:rollout/blocks",
+    "writtenAt": "2026-11-13T20:14:37.682Z",
+    "readArtifacts": [
+      "stardust/rollout/coverage/pages.json"
+    ],
+    "stardustVersion": "0.0.0"
+  },
+  "generatedAt": "2026-11-13T21:30:41.299Z",
+  "blocks": [
+    {
+      "id": "accordion",
+      "label": "accordion",
+      "kind": "module",
+      "signature": "module:accordion",
+      "source": null,
+      "usedByTemplates": [
+        "machines-atelier"
+      ],
+      "usedByPages": [
+        "machines-atelier"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "accordion",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "account-signin",
+      "label": "account-signin",
+      "kind": "module",
+      "signature": "module:account-signin",
+      "source": null,
+      "usedByTemplates": [
+        "myatelier"
+      ],
+      "usedByPages": [
+        "myatelier"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "account-signin",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "article-byline",
+      "label": "article-byline",
+      "kind": "module",
+      "signature": "module:article-byline",
+      "source": null,
+      "usedByTemplates": [
+        "blog-atelier-taste"
+      ],
+      "usedByPages": [
+        "blog-atelier-taste"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "article-byline",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "article-share",
+      "label": "article-share",
+      "kind": "module",
+      "signature": "module:article-share",
+      "source": null,
+      "usedByTemplates": [
+        "blog-atelier-taste"
+      ],
+      "usedByPages": [
+        "blog-atelier-taste"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "article-share",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "booking-form",
+      "label": "booking-form",
+      "kind": "module",
+      "signature": "module:booking-form",
+      "source": null,
+      "usedByTemplates": [
+        "cafe"
+      ],
+      "usedByPages": [
+        "cafe"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "booking-form",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "bundle-cards",
+      "label": "bundle-cards",
+      "kind": "module",
+      "signature": "module:bundle-cards",
+      "source": null,
+      "usedByTemplates": [
+        "machines-atelier"
+      ],
+      "usedByPages": [
+        "machines-atelier"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "bundle-cards",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "cards-article",
+      "label": "cards-article",
+      "kind": "module",
+      "signature": "module:cards-article",
+      "source": null,
+      "usedByTemplates": [
+        "blog-atelier-taste"
+      ],
+      "usedByPages": [
+        "blog-atelier-taste"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "cards-article",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "cards-event",
+      "label": "cards-event",
+      "kind": "module",
+      "signature": "module:cards-event",
+      "source": null,
+      "usedByTemplates": [
+        "cafe"
+      ],
+      "usedByPages": [
+        "cafe"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "cards-event",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "cards-machine",
+      "label": "cards-machine",
+      "kind": "module",
+      "signature": "module:cards-machine",
+      "source": null,
+      "usedByTemplates": [
+        "machines"
+      ],
+      "usedByPages": [
+        "machines"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "cards-machine",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "cards-product",
+      "label": "cards-product",
+      "kind": "module",
+      "signature": "module:cards-product",
+      "source": null,
+      "usedByTemplates": [
+        "index",
+        "machines-atelier"
+      ],
+      "usedByPages": [
+        "index",
+        "machines-atelier"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "cards-product",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "cards-quote",
+      "label": "cards-quote",
+      "kind": "module",
+      "signature": "module:cards-quote",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "cards-quote",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "cards-reasons",
+      "label": "cards-reasons",
+      "kind": "module",
+      "signature": "module:cards-reasons",
+      "source": null,
+      "usedByTemplates": [
+        "cafe"
+      ],
+      "usedByPages": [
+        "cafe"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "cards-reasons",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "columns",
+      "label": "columns",
+      "kind": "module",
+      "signature": "module:columns",
+      "source": null,
+      "usedByTemplates": [
+        "cafe",
+        "index"
+      ],
+      "usedByPages": [
+        "cafe",
+        "index"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "columns",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "hero",
+      "label": "hero",
+      "kind": "module",
+      "signature": "module:hero",
+      "source": null,
+      "usedByTemplates": [
+        "cafe",
+        "index"
+      ],
+      "usedByPages": [
+        "cafe",
+        "index"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "hero",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "machine-filter",
+      "label": "machine-filter",
+      "kind": "module",
+      "signature": "module:machine-filter",
+      "source": null,
+      "usedByTemplates": [
+        "machines"
+      ],
+      "usedByPages": [
+        "machines"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "machine-filter",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "media-video",
+      "label": "media-video",
+      "kind": "module",
+      "signature": "module:media-video",
+      "source": null,
+      "usedByTemplates": [
+        "machines-atelier"
+      ],
+      "usedByPages": [
+        "machines-atelier"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "media-video",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "mood-calendar",
+      "label": "mood-calendar",
+      "kind": "module",
+      "signature": "module:mood-calendar",
+      "source": null,
+      "usedByTemplates": [
+        "index"
+      ],
+      "usedByPages": [
+        "index"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "mood-calendar",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "of1",
+      "label": "of1",
+      "kind": "module",
+      "signature": "module:of1",
+      "source": null,
+      "usedByTemplates": [
+        "of1"
+      ],
+      "usedByPages": [
+        "of1"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "of1",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "product-hero",
+      "label": "product-hero",
+      "kind": "module",
+      "signature": "module:product-hero",
+      "source": null,
+      "usedByTemplates": [
+        "machines-atelier"
+      ],
+      "usedByPages": [
+        "machines-atelier"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "product-hero",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "product-jumpnav",
+      "label": "product-jumpnav",
+      "kind": "module",
+      "signature": "module:product-jumpnav",
+      "source": null,
+      "usedByTemplates": [
+        "machines-atelier"
+      ],
+      "usedByPages": [
+        "machines-atelier"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "product-jumpnav",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "reviews",
+      "label": "reviews",
+      "kind": "module",
+      "signature": "module:reviews",
+      "source": null,
+      "usedByTemplates": [
+        "machines-atelier"
+      ],
+      "usedByPages": [
+        "machines-atelier"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "reviews",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "spec-table",
+      "label": "spec-table",
+      "kind": "module",
+      "signature": "module:spec-table",
+      "source": null,
+      "usedByTemplates": [
+        "machines-atelier"
+      ],
+      "usedByPages": [
+        "machines-atelier"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "spec-table",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "stats-row",
+      "label": "stats-row",
+      "kind": "module",
+      "signature": "module:stats-row",
+      "source": null,
+      "usedByTemplates": [
+        "cafe"
+      ],
+      "usedByPages": [
+        "cafe"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "stats-row",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "steps-tabs",
+      "label": "steps-tabs",
+      "kind": "module",
+      "signature": "module:steps-tabs",
+      "source": null,
+      "usedByTemplates": [
+        "machines-atelier"
+      ],
+      "usedByPages": [
+        "machines-atelier"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "steps-tabs",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "store-locator",
+      "label": "store-locator",
+      "kind": "module",
+      "signature": "module:store-locator",
+      "source": null,
+      "usedByTemplates": [
+        "cafe"
+      ],
+      "usedByPages": [
+        "cafe"
+      ],
+      "instanceCount": 1,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "store-locator",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    },
+    {
+      "id": "taste-profile",
+      "label": "taste-profile",
+      "kind": "module",
+      "signature": "module:taste-profile",
+      "source": null,
+      "usedByTemplates": [
+        "index",
+        "machines-atelier"
+      ],
+      "usedByPages": [
+        "index",
+        "machines-atelier"
+      ],
+      "instanceCount": 2,
+      "delivery": {
+        "status": "deployed",
+        "edsBlockName": "taste-profile",
+        "blockPath": null,
+        "convertedAt": null
+      }
+    }
+  ]
+}

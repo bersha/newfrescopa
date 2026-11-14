@@ -1,0 +1,53 @@
+{
+  "slug": "of1",
+  "type": "unique",
+  "renderBranch": "A",
+  "template": null,
+  "modules": [
+    "of1"
+  ],
+  "widgets": [],
+  "slotsFilled": [
+    "div",
+    "div"
+  ],
+  "canonShas": {
+    "header": "534598da2521",
+    "footer": "736a7ff44f02",
+    "css": "4df8e3921e99"
+  },
+  "deviations": [],
+  "migrationDecisions": [],
+  "metadata": {
+    "title": "main--frescopa26--markszulc.aem.live — Ask Anything",
+    "description": "Search and get personalized results.",
+    "canonical": "https://new.frescopa.coffee/of1",
+    "lang": null
+  },
+  "jsonLd": {
+    "@context": "https://schema.org",
+    "@type": "WebPage",
+    "name": "main--frescopa26--markszulc.aem.live — Ask Anything",
+    "description": "Search and get personalized results.",
+    "url": "https://new.frescopa.coffee/of1"
+  },
+  "migratedAt": "2026-11-13T20:13:39Z",
+  "designMdSha": "104fd13ba944",
+  "designJsonSha": "1449a990b92e",
+  "sourceCurrentSha": "4bba010ac9aa",
+  "sourceProposedSha": "1ba6ec44e917",
+  "fidelityTier": "archetype",
+  "archetypeSource": null,
+  "archetypeSha": null,
+  "variants": [],
+  "gatesPassed": [],
+  "gateEvidence": {},
+  "contentDeviations": [],
+  "assetsBundled": 1,
+  "missingAssets": [],
+  "brokenInternalLinks": [],
+  "outputPath": "of1/index.html",
+  "outputPathDefault": "trailing-slash",
+  "sidecar": "of1/_meta.json",
+  "driverVersion": "1"
+}
